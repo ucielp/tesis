@@ -2,7 +2,7 @@
 %*********************************** First Chapter *****************************
 %*******************************************************************************
 
-\chapter{Aplicaciones bioinformáticas para el estudio de interacciones miARN-gen blanco en plantas} 
+\chapter{Aplicaciones bioinformáticas para el estudio de interacciones miARN-gen blanco} 
 
 \ifpdf
     \graphicspath{{Chapter1/Figs/Raster/}{Chapter1/Figs/PDF/}{Chapter1/Figs/}}
@@ -22,43 +22,37 @@
 
 Enfocamos nuestro análisis en 22 miARNs que están conservados en Angiospermas (\citep{citeulike:8816489}, \citep{10.1371/journal.pgen.1002419}).  En general estos miARNs están codificados por pequeñas familias hasta 32 miembros. En los genomas completos de Arabidopsis, poplar y arroz es común encontrar variaciones en la secuencia de los miARNs pertenecientes a una misma familia, especialmente en el primer nucleótido y los nucleótidos 20 y 21 (\citep{10.1371/journal.pgen.1002419}).
 
-Sin embargo, observamos que la región entre la posición 2 y 19 está bastante conservada y pudimos encontrar una secuencia consenso presente en la mayoría de los miembros de cada familia de miARNs en esas tres especies. (tabla \ref{table:table_consensus} y  tabla \ref{table:nice_table}).
+Sin embargo, observamos que la región entre la posición 2 y 19 está bastante conservada y pudimos encontrar una secuencia consenso presente en la mayoría de los miembros de cada familia de miARNs en esas tres especies. (tabla \ref{table:table_consensus}).
 Curiosamente, las bases variables fuera de esta región conservada son propensas a tener mismatches con genes blanco conocidos, lo que indica que podría existir una correlación entre la interacción miARN-gen blanco y la conservación de la secuencia del miARN.
 
-Diseñamos una estrategia para identificar nuevos pares miARN-gen blanco principalmente basada en la conservación evolutiva de la secuencia del gen blanco (Figura \ref{fig:NAR_strategy}).
+Diseñamos una estrategia para identificar nuevos pares miARN-gen blanco principalmente basada en la conservación evolutiva de la secuencia del gen blanco (Figura \ref{fig:NAR_fig1}).
 Las secuencias consenso de 18 nt de cada familia de miARN fueron usadas inicialmente para realizar la búsqueda de genes blanco en contigs de ESTs, de 41 especies de plantas, obtenidos de “Gene Index Project”\footnote{http://compbio.dfci.harvard.edu/tgi/} un proyecto mantenido y administrado por la universidad de Harvard que contiene un catálogo completo de genes en una amplia gama de organismos incluyendo plantas.
 Además se utilizaron ARNm completos para \textit{A. thaliana}\footnote{http://arabidopsis.org} y \textit{Oryza Sativa}\footnote{http://rice.plantbiology.msu.edu} (para ver la lista completa de especies, ver tabla \ref{table:NAR_table_S2}).
-Utilizando las secuencias consenso de 18nt y permitiendo 3 mismatches (errores), la búsqueda de genes blanco arrojó como resultado 38.597 genes distribuídos en las 43 especies (Figura \ref{fig:NAR_strategy}, bin 1).
+Utilizando las secuencias consenso de 18nt y permitiendo 3 mismatches (errores), la búsqueda de genes blanco arrojó como resultado 38.597 genes distribuídos en las 43 especies (Figura \ref{fig:NAR_fig1}, bin 1).
 Las interacciones G-U y los bulges fueron considerados como mismatches en esta primera búsqueda. Todos los genes blanco de  \textit{A. thaliana} conocidos hasta ese momento fueron identificados usando esta estrategia con la excepción de CSD2, un gen blanco del miR398 que contiene 4 mismatches ( tabla \ref{table:NAR_table_S2}).
 
 Teniendo en cuenta que la mayoría de los genes blanco arrojados presentan una escasa descripción del tipo genómica funcional, realizamos un BLASTx  contra el proteoma de \textit{A. thaliana}.
-El “locus ID” obtenido como “best hit” se utilizó como tag (etiqueta) para identificar al candidato en distintas especies (Figura \ref{fig:NAR_strategy}).
+El “locus ID” obtenido como “best hit” se utilizó como tag (etiqueta) para identificar al candidato en distintas especies (Figura \ref{fig:NAR_fig1}).
 A pesar que esta estrategia no necesariamente identifica el gen ortólogo de Arabidopsis, sirve como propósito de clasificación de cada potencial gen blanco de miARN.
 Aunque la mayoría de los potenciales genes blanco pudieron ser fácilmente asignados con una etiqueta, algunos pocos casos, que incluye a los genes que representan ARNs no codificantes fueron perdidos en este paso.
 
-La estrategia permite la selección de los mejores candidatos basándose en la presencia de los genes blanco en un número distinto de especies.
-Utilizando 4 especies como el mínimo de especies requeridas (ya que tiene una buena especificidad), dio como resultado 3.781 genes que corresponden a 533 tags diferentes (Figura \ref{fig:NAR_strategy}, bin 2).
+Este enfoque permite la selección de los mejores candidatos basándose en la presencia de los genes blanco en un número distinto de especies.
+Utilizando 4 especies como el mínimo de especies requeridas (ya que tiene una buena especificidad), dio como resultado 3.781 genes que corresponden a 533 tags diferentes (Figura \ref{fig:NAR_fig1}, bin 2).
 
 La búsqueda también se puede hacer en combinación con filtros empíricos de interacción par miARN-gen blanco que tienen en cuenta la energía de interacción y la posición de los mismatches (ver Materiales y métodos).
-De los 38.597 candidatos iniciales, 9.375 pasan estos filtros (Figura \ref{fig:NAR_strategy}, bin 4).
-Combinando filtros de energía y filtro de conservación evolutiva, la búsqueda arrojó como resultado 563 candidatos correspondientes a 146 tags (Figura \ref{fig:NAR_strategy}, bin 5).
+De los 38.597 candidatos iniciales, 9.375 pasan estos filtros (Figura \ref{fig:NAR_fig1}, bin 4).
+Combinando filtros de energía y filtro de conservación evolutiva, la búsqueda arrojó como resultado 563 candidatos correspondientes a 146 tags (Figura \ref{fig:NAR_fig1}, bin 5).
 
 
 \begin{figure}[htbp!] 
     \centering    
-    \includegraphics[width=0.7\textwidth]{strategy.png}
-    \caption[Strategy]{Scheme of the strategy to identify new miRNA targets. The
-number of detected target genes is indicated for each step of the
-analysis. After applying the conservation analysis, all genes with
-the same hit in the Arabidopsis proteome were considered as one
-target. Note that different genes with the same ID tag give only one
-hit, so that the total numbers of hits are reduced by this filter. Green
-squares refer to the target search using empirical filters: bins 5 and 6
-include target genes selected by both evolutionary and empirical filters,
-while bins 2 and 3 have potential targets selected only by evolutionary
-filters.
-}
-    \label{fig:NAR_strategy}
+    \includegraphics[width=0.7\textwidth]{NAR_fig1.png}
+    \caption[Estrategia]{Esquema de la estrategia para la identificación de nuevos genes blanco. 
+    El número de genes blanco está identificado en cada paso. 
+    Luego de aplicar el análisis de conservación, todos los genes que tienen el mismo hit en Arabidopsis, fueron considerados como un solo gen blanco. 
+    El lado derecho muestra la búsqueda hecha con filtros empíricos: bin 5 y 6 incluyen genes blanco seleccionados con ambos filtros, empíricos y de conservación.
+    Mientras que el bin 2 y 3 muestra los potenciales genes blanco seleccionados sólo con el filtro de conservación.}
+    \label{fig:NAR_fig1}
 \end{figure}
 
 
@@ -109,7 +103,7 @@ Los datos para todos los miARNs y sus potenciales genes blancos conservados en a
 
 Luego estudiamos la selección de candidatos teniendo en cuenta los filtros empíricos.
 Para esto aplicamos una versión modificada de los filtros descritos anteriormente y requiriendo (i) una energía mínima de hibridación (MFE) de al menos 72\% del apareamiento perfecto de cada secuencia consenso y (ii) que sólo un mismatch pudiera estar presente entre la posición 1 y la 11 de la secuencia consenso (2-12 del miARN).
-De la búsqueda inicial 9.375 genes pasaron estos filtros conteniendo el 97\% de los genes validados anteriormente de Arabidopsis. (Figura \ref{fig:NAR_strategy}, bin 4). 
+De la búsqueda inicial 9.375 genes pasaron estos filtros conteniendo el 97\% de los genes validados anteriormente de Arabidopsis. (Figura \ref{fig:NAR_fig1}, bin 4). 
 
 Al aplicar solamente este filtro empírico, dio como resultado una relación señal/ruido de 1,7, al agrupar todos los miARNs juntos (Figura \ref{fig:NAR_fig2} A).
 Observamos que aplicar simultáneamente los filtros empíricos y de conservación aumentaron significativamente la relación señal/ruido para todos los miARNs juntos (Figura \ref{fig:NAR_fig2} A recuadro) y también de cada miARN individualmente (Figura \ref{fig:NAR_fig2} B-E, recuadros y tabla \ref{table:NAR_table_2}).
@@ -134,19 +128,26 @@ Estos resultados muestran que una alta conservación podría no ser necesariamen
 
 \begin{figure}[htbp!] 
     \centering    
-    \includegraphics[width=0.7\textwidth]{NAR_fig2.png}
-    \caption[]{Conservación de potenciales genes blanco en distintas especies. Todos los miARNs (A), miR396 (B), miR408 (C), miR398 (D), miR162 (E), miR158 (F). Puntos naranja representan los genes blanco de miARNs usando filtro evolutivo. Puntos amarillos representan los genes blanco de las secuencias al azar usando filtro evolutivo. El cuadrado azul muestra los genes blanco de miARNs luego de aplicar filtros empíricos y evolutivos, mientras que el cuadrado celeste representa los genes blanco de las secuencias al azar en las mismas condiciones. Los recuadros muestran la relación señal/ruido.}
+    \includegraphics[width=0.9\textwidth]{NAR_fig2.png}
+    \caption[]{Conservación de potenciales genes blanco en distintas especies. Todos los miARNs 
+    \textbf{(A)}, miR396 \textbf{(B)}, miR408 \textbf{(C)}, miR398 \textbf{(D)}, miR162 \textbf{(E)}, miR158 \textbf{(F)}.
+    Puntos naranja representan los genes blanco de miARNs usando filtro evolutivo.
+    Puntos amarillos representan los genes blanco de las secuencias al azar usando filtro evolutivo.
+    El cuadrado azul muestra los genes blanco de miARNs luego de aplicar filtros empíricos y evolutivos, mientras que el cuadrado celeste representa los genes blanco de las secuencias al azar en las mismas condiciones.
+    Los recuadros muestran la relación señal/ruido.}
     \label{fig:NAR_fig2}
 \end{figure}
 
 \begin{figure}[htbp!] 
     \centering    
-    \includegraphics[width=0.7\textwidth]{NAR_fig3.png}
-    \caption[]{Selección de genes blanco por conservación evolutiva de la secuencia. (A) Relación entre MFE y el número de especies en donde cada gen blanco fue detectado. (B) Sensibilidad de la estrategia, analizado de dos modos distinto. Verde clarito: evaluando la presencia de genes validados en Arabidopsis y en verde oscuro teniendo en cuenta la presencia de por lo menos un gen blanco de cada familia regulada por miARNs. (C) Clasificación de los potenciales genes blanco presentes en al menos 4 especies.}
+    \includegraphics[width=0.6\textwidth]{NAR_fig3.png}
+    \caption[]{Selección de genes blanco por conservación evolutiva de la secuencia.
+    \textbf{(A)} Relación entre MFE y el número de especies en donde cada gen blanco fue detectado.
+    \textbf{(B)} Sensibilidad de la estrategia, analizado de dos modos distinto. 
+    Verde clarito: evaluando la presencia de genes validados en Arabidopsis y en verde oscuro teniendo en cuenta la presencia de por lo menos un gen blanco de cada familia regulada por miARNs.
+    \textbf{(C)} Clasificación de los potenciales genes blanco presentes en al menos 4 especies.}
     \label{fig:NAR_fig3}
 \end{figure}
-
-
 
 
 
@@ -196,10 +197,110 @@ Estos resultados muestran que una alta conservación podría no ser necesariamen
 \end{landscape}
 
 \subsubsection{Identificación de nuevos genes blanco en \textit{A. thaliana} por conservación de la secuencia del gen blanco.}
+
+
+Para encontrar nuevos genes blanco nos enfocamos en los genes potenciales que fueron seleccionados de nuestra estrategia utilizando solamente conservación evolutiva, debido a que los parámetros empíricos ya fueron utilizados extensamente en trabajos anteriores. [e.g.,(\citep{Allen2005207},\citep{JonesRhoades2004787},\citep{Schwab2005517})].
+En primer lugar, analizamos la detección de genes blanco validados previamente en \textit{A. thaliana} [basado en (\citep{Fahlgren2010})] usando nuestra estrategia y encontramos que el 84\% de ellos estaban presentes en al menos 4 especies (Figura \ref{fig:NAR_fig3} B).
+Consideramos esto como un buen resultado ya puede ser que no todos los genes blanco de Arabidopsis estén conservados evolutivamente.
+
+Generalmente los miARNs en plantas regulan genes que codifican para proteínas de la misma familia, es por esto que evaluamos si por lo menos un miembro de cada familia era detectado en nuestro enfoque.
+Encontramos genes blanco pertenecientes a casi todas las familias de genes codificantes para proteínas presentes en cuatro especies (Figura \ref{fig:NAR_fig3} B), con la excepción de TAS3, que es regulado por el miR390, al ser un ARN no codificante no es detectado por Blastx. 
+
+Para encontrar nuevos genes blanco regulados por miARNs, nos enfocamos únicamente  en los potenciales genes blanco conservados en 4 especies, donde una de ellas es \textit{A. thaliana} (Figura 1, bin 1). 
+Genes blanco de miARNs que no están presentes en \textit{A. thaliana} podrían incluir genes que perdieron su regulación durante la evolución o genes que hayan adquirido control por un miARN conservado más reciente en otras especies.
+La conservación en cuatro especies fue elegida como un filtro evolutivo porque provee buena sensibilidad para genes blanco conocidos.
+
+Identificamos 114 potenciales genes que satisfacen este criterio. Donde 76 de ellos son genes validados anteriormente o genes muy relacionados (Figura \ref{fig:NAR_fig3} C).
+Curiosamente encontramos 38 genes que no tienen relación con genes blanco conocidos de miARNs y decidimos estudiar este grupo con mayor detalle.
+Nos enfocamos primero en los genes que estaban presentes en un gran número de especies para tener mejor especificidad (Figura \ref{fig:NAR_fig2}) e intentamos validarlos utilizando 5' RACE PCR modificada (\citep{Llave2002},\citep{Kasschau2003}).
+
+Un potencial gen blanco del MiR408 era At5g21930 que codifica para P-TYPE ATPase OF ARABIDOPSIS 2 (PAA2) y estaba presente en 22 especies distintas incluido monocotiledóneas y dicotiledóneas.
+MiR408 es inusual debido a que tiene un 5'-A, sin embargo >30\% de las secuencias maduro del miR408 corresponden a una variante corrida 1 nt que empieza con 5'-U (\citep{Maunoury2011}) (Figura \ref{fig:NAR_fig4} A).
+La validación experimental reveló fragmentos de ARNm compatible con este último sitio de corte (Figura \ref{fig:NAR_fig4} A). 
+PAA2 es necesaria para el transporte de iones de cobre a plastocianina (\citep{Niyogi2005}), y su regulación por el miR408 está relacionada con el rol de este miARN en la homeostasis de cobre (\citep{Yamasaki2007}).
+
+Otro potencial candidato del miR408 era At3g22110 que codifica para PROTEASOME ALPHA SUBUNIT C1 (PAC1) y estaba presente en 20 especies. Por medio de 5' RACE PCR demostramos que este gen es gen blanco del miR408 (Figura \ref{fig:NAR_fig4} A). 
+Curiosamente la interacción del par miARN-gen blanco tiene 3 mismatches en la región 5', y se hubiera perdido como potencial gen blanco si se aplicaban solamente los filtros empíricos.
+
+Luego estudiamos los genes blanco del miR396, donde los genes SVP y SUI1 estaban presentes en 29 y 19 especies respectivamente.
+Pero en ambos casos fallamos al obtener producto de la PCR utilizando 5' RACE PCR modificada.
+La falta de regulación de este gen por el miR396 podría estar relacionado a la débil energía de hibridación del par miARN-gen blanco, aunque no podemos descartar que el miR396 esté controlando su traducción.
+
+Otros dos potenciales genes blanco del miR396 eran At5g43060 y At3g14110 que codifican para la proteasa MMG4.7 y FLUORESCENT IN BLUE LIGTH (FLU), respectivamente.
+Y en ambos casos pudimos detectar el corte (Figura \ref{fig:NAR_fig4} C y D).
+%~ Ver
+%~ Determination of MMG4.7 and FLU transcript levels in 35S:miR396 plants revealed a significant decrease of FLU and a minor effect on MMG4.7
+
+
+En contraste con el miR408 y miR396, donde tienen varios potenciales genes blanco, obtuvimos un solo potencial gen blanco para el miR159, un factor de transcripción MYB que regula desarrollo del estambre y polen. (\citep{Millar2005})
+El otro potencial gen blanco era At4g27330, conocido como NOZZLE/SPOROCYTLESS.
+Este factor de trascripción, que participa en desarrollo del estambre y óvulo \citep{Biology1999,Yang1999}, fue también validado por 5' RACE PCR (Figura \ref{fig:NAR_fig4} E).
+%~ Ver
+%~ In good agreement, 35S:miR159 caused a reduction of both MYB and NOZZLE transcript levels (Supplementary Figure S2). A miR159 target with a NOZZLE-like domain has been also recently validated in tomato (51), which together with our results point toward a general role of miR159 in the regulation of NOZZLE-like genes. 
+Es interesante notar que al menos las funciones de NOZZLE y PAA2 pueden estar directamente relacionadas con el rol de genes blanco, ya descritos anteriormente, del miR159 y miR408 respectivamente.
+
+PAA2, FLU y NOZZLE fueron detectados en mono y dicotiledóneas mientras que PAC1 y MMG4.7 fueron detectadas solamente en dicotiledóneas (Figura \ref{fig:NAR_fig4} A-E).
+Las posiciones del sitio de unión del miARN-gen blanco están altamente conservadas y muchas de las posiciones variables corresponden a mismatches con el miARN o variaciones del tipo G-C/G-U.
+Además este método no requiere que el sitio del gen blanco esté conservada, sino más bien que haya una interacción predicha con el miARN en distintas especies.
+De esta manera el sitio de NOZZLE, donde la secuencia cambia en diferentes especies (Figura \ref{fig:NAR_fig4} E), pudo ser detectado por este enfoque.
+
+\begin{figure}[htbp!] 
+    \centering    
+    \includegraphics[width=0.7\textwidth]{NAR_fig4.png}
+    \caption[]{Nuevos genes blanco validados en \textit{A. thaliana}. 
+    El alineamiento entre el miARN y los nuevos genes blanco identificados se muestran en la izquierda.
+    La conservación evolutiva de la secuencia del sitio reconocido por el miARN en las especies seleccionadas se muestra a la derecha. La figura muestra las interacciones del miR408 con PAA2
+    \textbf{(A)}, miR408 con PAC1 \textbf{(B)}, miR396 con MMG4.7 \textbf{(C)}, miR396 con FLU \textbf{(D)}, miR159 con NOZZLE \textbf{(E)}.
+    Las flechas marcan el sitio de corte determinado por 5’RACE-PCR y los números indican la frecuencia de clonadao de cada fragmento.}
+    \label{fig:NAR_fig4}
+\end{figure}
+
+
 \subsubsection{Identificación de nuevos genes blanco permitiendo interacciones G-U.}
+
+Los genes blanco identificados utilizando la estrategia descrita anteriormente, tienen varios mismatches y bulges con sus miARNs, lo que puede ayudar a explicar por que se perdieron en trabajos anteriores. 
+También notamos que muchas de estas nuevas interacciones miARN-gen blanco contenían posiciones que variaban alternadamente entre G-C y G-U en distintas especies.
+Como consideramos G-U como mismatch en nuestra búsqueda inicial, decidimos realizar nuevamente la búsqueda con los miARNs consenso de 18nt pero permitiendo ahora 4 mismatches, donde al menos uno de ellos tiene que ser del tipo G-U.
+Esta búsqueda permitiría interacciones miARN-gen blanco con sólo 14 bases apareadas perfectamente.
+
+Para compensar el uso de estos parámetros relajados en términos de mismatches, requerimos que el gen blanco aparezca en al menos 10 especies distintas para aumentar la especificidad (Figura \ref{fig:NAR_fig5} A).
+Encontramos 125 potenciales genes blanco en \textit{A. thaliana} teniendo en cuenta este criterio (Figura \ref{fig:NAR_fig5} A) y 34 de ellos no aparecían en las búsquedas anteriores.
+El gen blanco CSD2 regulado por el miR398, que no apareció anteriormente, fue detectado con estos parámetros. 
+
+Luego examinamos el último grupo de potenciales genes regulados por miARNs que estaban realizando funciones auxiliares a los genes blanco ya descritos para cada miARN. 
+Y encontramos que el miR167 que regula factores de respuesta a auxina (ARFs), también regulaba potencialmente a un gen denominado IAA-ALANINE RESISTANT 3 (IAR3) (Figura \ref{fig:NAR_fig5} B y C), que está involucrado en el control de niveles libre de auxina (\citep{Davies1999,Rampey2004}).
+
+IAR3 en Arabidopsis tiene 3 mismatches con respecto al miR167, pero en la posición 12 de la interacción miARN-gen blanco, hay una interacción G-U en varias especies (Figura \ref{fig:NAR_fig5} B y C).
+La técnica de 5’ RACE PCR confirmó que el gen realmente era gen blanco del miR167 (Figura \ref{fig:NAR_fig5} C).
+
+\begin{figure}[htbp!] 
+    \centering    
+    \includegraphics[width=0.7\textwidth]{NAR_fig5.png}
+    \caption[]{Identificación de un nuevo gen blanco de miARN, relajando los parámetros de interacción pero incrementando el parámetro de conservación evolutiva.
+    \textbf{(A)} Esquema de la estrategia modificada para identificar genes blanco de miARNs.
+    \textbf{(B)} Conservación del sitio blanco reconocido por el miARN en distintas especies.
+    La flecha indica una variación de G-C o G-U con el miARN dependiendo de la especie.
+    \textbf{(C)} Alineamiento en Arabidopsis thaliana del gen blanco IAR3 con el miR167. La flecha indica la posición del corte indicada por 5’RACE-PCR y el número indica la frecuencia de clonado de cada fragmento.}
+    \label{fig:NAR_fig5}
+\end{figure}
+
+
 \subsubsection{Identificación de genes blanco específicos de \textit{Solanaceae}.}
 
+
+\begin{figure}[htbp!] 
+    \centering    
+    \includegraphics[width=0.7\textwidth]{NAR_fig6.png}
+    \caption[]{Identificación de genes blanco de miARN, específicos de \textit{Solanaceae}.
+    \textbf{(A)} Predicción de genes blanco de miARN en cinco especies de \textit{Solanaceae}.
+    El número de genes blanco de todos los miARNs conservados juntos se muestra luego de aplicar distintos filtros.
+    También se muestran los genes blanco obtenidos a partir de las secuencias al azar.
+    \textbf{(B)} Esquema que muestra la estrategia para identificar genes blanco específicos de \textit{Solanaceae}.
+    \textbf{(C)} Conservación del sitio reconocido por el mir398 con MT2A específico de \textit{Solanaceae}.
+    \textbf{(D)} Esquema que muestra el sitio de unión entre el miR398 y MT2A y MT2B.
+    \textbf{(E)} Niveles de transcriptos de CSD2, MT2A y MT2B en plantas salvajes y plantas transgénicas de tabaco (cv Petit havana) que sobreexpresan el miR398.  }
+    \label{fig:NAR_fig6}
+\end{figure}
+
+
 \subsection{comTAR: una herramienta para la predicción de genes blanco regulados por microARNs en plantas.} 
-
-\subsection{Where does it come from?}  
-
