@@ -1,10 +1,22 @@
 \begin{thebibliography}{}
 
+\bibitem[Addo-quaye et~al., 2009]{Addo-quaye2009a}
+Addo-quaye, C., Eshoo, T.~W., Bartel, D.~P., and Axtell, M.~J. (2009).
+\newblock {Endogenous siRNA and microRNA targets identified by sequencing of
+  the Arabidopsis degradome}.
+\newblock {\em NIH Public Access}, 18(10):758--762.
+
 \bibitem[Allen et~al., 2005]{Allen2005207}
 Allen, E., Xie, Z., Gustafson, A.~M., and Carrington, J.~C. (2005).
 \newblock microrna-directed phasing during trans-acting sirna biogenesis in
   plants.
 \newblock {\em Cell}, 121(2):207 -- 221.
+
+\bibitem[Chorostecki and Palatnik, 2014]{Chorostecki2014}
+Chorostecki, U. and Palatnik, J.~F. (2014).
+\newblock {comTAR: a web tool for the prediction and characterization of
+  conserved microRNA targets in plants.}
+\newblock {\em Bioinformatics (Oxford, England)}, 30(14):2066--7.
 
 \bibitem[Cuperus et~al., 2011]{citeulike:8816489}
 Cuperus, J.~T., Fahlgren, N., and Carrington, J.~C. (2011).
@@ -24,6 +36,12 @@ Debernardi, J.~M., Rodriguez, R.~E., Mecchia, M.~A., and Palatnik, J.~F.
   through Distinct MicroRNA–Target Interactions}.
 \newblock {\em PLoS Genet}, 8(1):e1002419.
 
+\bibitem[Fahlgren and Carrington, 2010]{Fahlgren_chapter}
+Fahlgren, N. and Carrington, J. (2010).
+\newblock mirna target prediction in plants.
+\newblock In Meyers, B.~C. and Green, P.~J., editors, {\em Plant MicroRNAs},
+  volume 592 of {\em Methods in Molecular Biology}, pages 51--57. Humana Press.
+
 \bibitem[Fahlgren et~al., 2010]{Fahlgren2010}
 Fahlgren, N., Jogdeo, S., Kasschau, K.~D., Sullivan, C.~M., Chapman, E.~J.,
   Laubinger, S., Smith, L.~M., Dasenko, M., Givan, S.~a., Weigel, D., and
@@ -31,6 +49,14 @@ Fahlgren, N., Jogdeo, S., Kasschau, K.~D., Sullivan, C.~M., Chapman, E.~J.,
 \newblock {MicroRNA gene evolution in Arabidopsis lyrata and Arabidopsis
   thaliana.}
 \newblock {\em The Plant cell}, 22(4):1074--89.
+
+\bibitem[German et~al., 2008]{German2008}
+German, M.~a., Pillay, M., Jeong, D.-H., Hetawal, A., Luo, S., Janardhanan, P.,
+  Kannan, V., Rymarquis, L.~a., Nobuta, K., German, R., {De Paoli}, E., Lu, C.,
+  Schroth, G., Meyers, B.~C., and Green, P.~J. (2008).
+\newblock {Global identification of microRNA-target RNA pairs by parallel
+  analysis of RNA ends.}
+\newblock {\em Nature biotechnology}, 26(8):941--6.
 
 \bibitem[Jones-Rhoades and Bartel, 2004]{JonesRhoades2004787}
 Jones-Rhoades, M.~W. and Bartel, D.~P. (2004).
@@ -68,6 +94,12 @@ Niyogi, K.~K., Pilon, M., Shikanai, T., Abdel-ghany, S.~E., and Mu, P. (2005).
 \newblock {Two P-Type ATPases Are Required for Copper Delivery in Arabidopsis
   thaliana Chloroplasts}.
 \newblock 17(April):1233--1251.
+
+\bibitem[Rajagopalan et~al., 2006]{Rajagopalan2006}
+Rajagopalan, R., Vaucheret, H., Trejo, J., and Bartel, D.~P. (2006).
+\newblock {A diverse and evolutionarily fluid set of microRNAs in Arabidopsis
+  thaliana.}
+\newblock {\em Genes \& development}, 20(24):3407--25.
 
 \bibitem[Rampey et~al., 2004]{Rampey2004}
 Rampey, R.~A., Leclere, S., Kowalczyk, M., Ljung, K., Bartel, B., Biology, C.,

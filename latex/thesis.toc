@@ -1,17 +1,32 @@
 \thispagestyle {empty}
-\contentsline {chapter}{\IeC {\'I}ndice de figuras}{ix}{section*.4}
-\contentsline {chapter}{\IeC {\'I}ndice de tablas}{xi}{section*.6}
-\contentsline {chapter}{\numberline {1}Aplicaciones bioinform\IeC {\'a}ticas para el estudio de interacciones miARN-gen blanco}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}Introducci\IeC {\'o}n}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2}Resultados}{1}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Predicci\IeC {\'o}n de genes regulados por microARNs.}{1}{subsection.1.2.1}
-\contentsline {subsubsection}{Dise\IeC {\~n}o de una estrategia para la identificaci\IeC {\'o}n de genes blanco regulados por microARNs basado en la conservaci\IeC {\'o}n evolutiva del par microARN-gen blanco.}{1}{section*.8}
-\contentsline {subsubsection}{Par\IeC {\'a}metros emp\IeC {\'\i }ricos y de conservaci\IeC {\'o}n evolutiva pueden actuar de manera sin\IeC {\'e}rgica para identificar genes blanco regulados por miARNs.}{4}{section*.11}
-\contentsline {subsubsection}{Identificaci\IeC {\'o}n de nuevos genes blanco en \textit {A. thaliana} por conservaci\IeC {\'o}n de la secuencia del gen blanco.}{9}{section*.15}
-\contentsline {subsubsection}{Identificaci\IeC {\'o}n de nuevos genes blanco permitiendo interacciones G-U.}{10}{section*.17}
-\contentsline {subsubsection}{Identificaci\IeC {\'o}n de genes blanco espec\IeC {\'\i }ficos de \textit {Solanaceae}.}{12}{section*.19}
-\contentsline {subsection}{\numberline {1.2.2}comTAR: una herramienta para la predicci\IeC {\'o}n de genes blanco regulados por microARNs en plantas.}{12}{subsection.1.2.2}
-\contentsline {chapter}{\numberline {2}My second chapter}{15}{chapter.2}
-\contentsline {section}{\numberline {2.1}Short title}{15}{section.2.1}
-\contentsline {chapter}{References}{17}{section*.22}
-\contentsline {chapter}{Appendix \numberline {A}Anexo}{19}{Appendix.a.A}
+\contentsline {chapter}{\IeC {\'I}ndice de figuras}{vii}{section*.4}
+\contentsline {chapter}{\IeC {\'I}ndice de tablas}{ix}{section*.6}
+\contentsline {chapter}{\numberline {1}M\IeC {\'e}todos}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Aplicaciones bioinform\IeC {\'a}ticas para el estudio de interacciones miARN-gen blanco}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}MiARN consensos}{1}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}MiRNA target prediction}{1}{subsection.1.1.2}
+\contentsline {subsubsection}{Plant datasets}{1}{section*.8}
+\contentsline {subsubsection}{Filtros}{2}{section*.9}
+\contentsline {subsubsection}{Controles}{2}{section*.10}
+\contentsline {subsubsection}{Plant material}{2}{section*.11}
+\contentsline {subsubsection}{Cleavage site mapping of target mRNA and expression analysis}{3}{section*.12}
+\contentsline {section}{\numberline {1.2}comTAR: una herramienta para la predicci\IeC {\'o}n de genes blanco regulados por microARNs en plantas}{3}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}MiARN y transcriptos}{3}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}B\IeC {\'u}squeda de genes blanco}{3}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Herramienta web y almacenamiento de datos}{4}{subsection.1.2.3}
+\contentsline {chapter}{\numberline {2}Aplicaciones bioinform\IeC {\'a}ticas para el estudio de interacciones miARN-gen blanco}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introducci\IeC {\'o}n}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Resultados}{5}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Predicci\IeC {\'o}n de genes regulados por microARNs.}{5}{subsection.2.2.1}
+\contentsline {subsubsection}{Dise\IeC {\~n}o de una estrategia para la identificaci\IeC {\'o}n de genes blanco regulados por microARNs basado en la conservaci\IeC {\'o}n evolutiva del par microARN-gen blanco.}{5}{section*.13}
+\contentsline {subsubsection}{Par\IeC {\'a}metros emp\IeC {\'\i }ricos y de conservaci\IeC {\'o}n evolutiva pueden actuar de manera sin\IeC {\'e}rgica para identificar genes blanco regulados por miARNs.}{8}{section*.16}
+\contentsline {subsubsection}{Identificaci\IeC {\'o}n de nuevos genes blanco en \textit {A. thaliana} por conservaci\IeC {\'o}n de la secuencia del gen blanco.}{13}{section*.20}
+\contentsline {subsubsection}{Identificaci\IeC {\'o}n de nuevos genes blanco permitiendo interacciones G-U.}{14}{section*.22}
+\contentsline {subsubsection}{Identificaci\IeC {\'o}n de genes blanco espec\IeC {\'\i }ficos de \textit {Solanaceae}.}{16}{section*.24}
+\contentsline {subsection}{\numberline {2.2.2}comTAR: una herramienta para la predicci\IeC {\'o}n de genes blanco regulados por microARNs en plantas.}{18}{subsection.2.2.2}
+\contentsline {chapter}{\numberline {3}My second chapter}{21}{chapter.3}
+\contentsline {section}{\numberline {3.1}Short title}{21}{section.3.1}
+\contentsline {chapter}{\numberline {4}Conclusiones}{23}{chapter.4}
+\contentsline {section}{\numberline {4.1}Short title}{23}{section.4.1}
+\contentsline {chapter}{References}{25}{section*.29}
+\contentsline {chapter}{Appendix \numberline {A}Anexo}{27}{Appendix.a.A}

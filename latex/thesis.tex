@@ -4,6 +4,7 @@
 %~ \usepackage[spanish]{babel}
 \usepackage[utf8]{inputenc}
 
+\setcounter{page}{3}
 
 
 % Preamble: Contains packages and user-defined commands and settings
@@ -70,12 +71,16 @@
 % ******************************** Main Matter *********************************
 \mainmatter
 
+
+\include{Materials/materials1}
+
 \renewcommand{\chaptername}{Capítulo}
-%~ \renewcommand{\figurename}{Figura}
-
-
+\renewcommand{\figurename}{Figura}
 \include{Chapter1/chapter1}
 \include{Chapter2/chapter2}
+
+\renewcommand{\chaptername}{Conclusiones}
+\include{Chapter3/chapter3}
 
 
 
@@ -92,7 +97,7 @@
 
 \bibliographystyle{apalike}
 %\bibliographystyle{plainnat} % use this to have URLs listed in References
-\cleardoublepage
+%~ \cleardoublepage
 \bibliography{References/references} % Path to your References.bib file
 
 

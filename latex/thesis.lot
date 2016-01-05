@@ -1,7 +1,9 @@
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {1.1}{\ignorespaces miARNs y sus genes blancos en plantas\relax }}{4}{table.caption.10}
-\contentsline {table}{\numberline {1.2}{\ignorespaces Detection of miRNA targets using different filters\relax }}{8}{table.caption.14}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces miARNs y sus genes blanco en plantas\relax }}{8}{table.caption.15}
+\contentsline {table}{\numberline {2.2}{\ignorespaces Detection of miRNA targets using different filters\relax }}{12}{table.caption.19}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {A.1}{\ignorespaces Especies y base de datos utilizadas para la b\IeC {\'u}squedas de genes blanco de miARNs conservados\relax }}{20}{table.caption.25}
-\contentsline {table}{\numberline {A.2}{\ignorespaces My caption\relax }}{21}{table.caption.26}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {A.1}{\ignorespaces Especies y base de datos utilizadas para la b\IeC {\'u}squedas de genes blanco de miARNs conservados\relax }}{28}{table.caption.32}
+\contentsline {table}{\numberline {A.2}{\ignorespaces My caption\relax }}{29}{table.caption.33}

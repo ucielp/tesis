@@ -2,3 +2,7 @@ pdflatex thesis.tex
 bibtex thesis
 pdflatex thesis.tex
 pdflatex thesis.tex
+
+
+# Con esto elimino la doble pagina
+cleardoublepage

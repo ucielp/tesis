@@ -1006,7 +1006,7 @@ wish to left align your text}
 
 \newenvironment{dedication}
 {
-\cleardoublepage
+% \cleardoublepage
 \setsinglecolumn
 \vspace*{0.2\textheight}
 \thispagestyle{empty}
@@ -1032,7 +1032,7 @@ wish to left align your text}
 % "Acknowledgements" label at the top of the page.
 
 \newenvironment{acknowledgements}{
-\cleardoublepage
+% \cleardoublepage
 \setsinglecolumn
 \chapter*{\centering \Large Acknowledgements}
 \thispagestyle{empty}
@@ -1075,7 +1075,7 @@ wish to left align your text}
     \RequirePackage{makeidx}
     \makeindex
     \newcommand{\printthesisindex}{
-        \cleardoublepage
+%         \cleardoublepage
         \phantomsection
         \printindex}
 \else
@@ -1134,13 +1134,21 @@ wish to left align your text}
 
 \else
 % Normal abstract in the thesis
-	\cleardoublepage
+% 	\cleardoublepage
 	\setsinglecolumn
 	\chapter*{\centering \Large Resumen}
 	\thispagestyle{empty}
 \fi
 }
 
+
+
+% ******************************** Materials ************************************
+
+\def\materials{}
+
+
+% ******************************************************************************
 
 % ******************** To compute empty space in title page ********************
 % Boxes below are used to space different contents on the title page

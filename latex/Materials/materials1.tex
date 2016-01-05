@@ -1,0 +1,92 @@
+\chapter{Métodos} 
+
+%~ Las referencias son del NAR
+\section{Aplicaciones bioinformáticas para el estudio de interacciones miARN-gen blanco}
+
+\subsection{MiARN consensos}
+Las 22 familias de miARNs conservadas en angiospermas fueron consideradas para esta parte del trabajo \citep{14,30}.
+MiR319 y miR159 que codifican para miARNs similares, fueron considerados como familias diferentes ya que regulan a genes blanco distintos \citep{33}.
+Consideramos todos los miembros de esta familia, obtenidos de miRNBASE\footnote{http://mirbase.org}, de \textit{A. thaliana}, \textit{Populus trichocarpa} y \textit{Oryza Sativa}.
+Variaciones en las posiciones 1, 20 y 21 son muy comunes en las familias de miARNs \citep{32}.
+Definimos como secuencia consenso, a las secuencias más comunes (posiciones 2-19) de distintos miembros de cada familia.
+
+\subsection{MiRNA target prediction}
+\subsubsection{Plant datasets}
+Los datos de las secuencias pertenecen a librerías extraidas de “Gene Index Project”\footnote{http://compbio.dfci.harvard.edu/tgi/}, que consiste de ESTs ensamblados.
+Seleccionamos un conjunto de datos pertenecientes a Angiospermas (ver tabla \ref{table:NAR_table_S2})
+Además utilizamos secuencias de ARNm completos de \textit{A. thaliana}\footnote{http://arabidopsis.org} y \textit{Oryza Sativa}\footnote{http://rice.plantbiology.msu.edu}.
+La búsqueda la realizamos utilizando PatMatch \citep{34}, que permite realizar la búsqueda con caracteres ambiguos, mismatches, inserciones y deleciones.
+Realizamos la búsqueda de potenciales genes blanco permitiendo tres mismatches con las secuencias consensos, mientras que las interacciones G:U y los bulges fueron considerados mismatches.
+Para realizar el alineamiento del par miARN-gen blanco, desarrollamos una implementación del algoritmo de programación dinámica Needleman-Wunsch\citep{35}, utilizando el lenguaje Perl\footnote{http://perl.org}
+Además, integramos los módulos de Blastx\citep{36} contra el proteoma de Arabidopsis y el RNA hybrid\citep{37}, por medio de scripts desarrollados por nosotros.
+
+\subsubsection{Filtros}
+Las secuencias candidatas fueron etiquetas, con el identificador del locus con mejor puntuación (best hit) en \textit{A. thaliana}, utilizando el módulo de Blastx (Corte del evalue de 10e$^{-5})$.
+Genes de distintas especies que tenían la misma etiqueta fueron agrupados juntos, ya que tienen el mismo homólogo en \textit{A. thaliana}.
+El filtro de conservación evolutiva hace referencia al número mínimo de especies donde la misma etiqueta estaba presente para un miARN particular.
+El filtro empírico está basado en trabajos previos\citep{38} y hace referencia a la intergía de interacción MFE (mínima energía libre de al menos 74\% del apareamiento perfecto) y solamente un mismatch está permitido entre la posición 2 y la 12 del miARN (1-11 de nuestra búsqueda modificada con las secuencias consenso)
+
+\subsubsection{Controles}
+As a control, we performed the same search using shuffled
+miRNA sequences. For each miRNA, we generated 20
+random sequences shuffling the dinucleotide composition
+as described previously (13). From these 20 random se-
+quences, we chose 10 with the most similar number of
+total targets to the real miRNA. The signal-to-noise
+ratio was calculated as the relation between the number
+of targets for the miRNAs and the average number
+obtained for the shuffled sequences. As another source
+of control, we selected two miRNAs not conserved
+during evolution, miR158 and miR173.
+
+
+
+\subsubsection{Plant material}
+Arabidopsis ecotype Col-0 was used for all experiments.
+Plants were grown in long days (16 h light/8 h dark) at
+23C. Nicotiana tabacum (cv Petit Havana) plants were
+grown in long days during 8 weeks and the second leaf
+was used for RNA analysis.
+
+\subsubsection{Cleavage site mapping of target mRNA and expression analysis}
+
+Poly(A)+ RNA was extracted from 50 mg of total RNA of
+Col-0 seedlings using PolyAT trackt kit (Promega).
+Ligation of an RNA adaptor, reverse transcription and
+50 RACE were performed as described before (33). Two
+nested gene-specific reverse oligonucleotides were used for
+50 RACE. The PCR products were resolved on 2%
+agarose gels and detected by ethidium bromide staining.
+Real-Time quantitative PCR (RT–qPCR) for miR396 and
+miR159 targets was performed as described before (33,39).
+Lists of primers used for these assays are described in
+Supplementary Tables S7 and S8. Plants overexpressing
+miR396 and miR159 have been described previously
+(33,39).
+
+
+
+%~ Las referencias son del informe de avance II
+\section{comTAR: una herramienta para la predicción de genes blanco regulados por microARNs en plantas}
+
+\subsection{MiARN y transcriptos}
+Como las secuencias del maduro del miARN puede variar en distintas especies, especialmente en la posición 1, 20 y 21 (Chorostecki et al., 2012), utilizamos secuencias del 2-19 (18nt) para realizar las búsquedas.
+Como además existen variaciones en las secuencias en los distintos miARNs de las mismas familias, utilizamos la más representativa teniendo en cuenta los genomas de Arabidopsis, álamo y arroz (secuencias consenso de miARN).
+El usuario además puede realizar las búsqueda de nuevos ARNs pequeños teniendo en cuenta esta consideración.
+Los datos correspondiente a secuencias de transcriptos de plantas fueron obtenidos de bibliotecas del proyecto Phytozome1 formados por archivos de nucleótidos en formato FASTA de transcriptos de ARNm (UTR, exones) con variantes de splicing.
+
+\subsection{Búsqueda de genes blanco}
+Para la búsqueda de secuencias utilizamos una herramienta libre llamada Patmatch (15) e integramos otras herramientas y scrpits hechos por nosotros para potenciar la herramienta y hacerla más específica para la búsqueda de genes blanco de microARNs conservados en plantas.
+
+Brevemente, 
+\begin{itemize}
+    \item Para el alineamiento del miARN y el gen blanco, implementamos en Perl una versión modificada del algoritmo de  Needleman-Wunsch (16).
+    \item Integramos la herramienta RNAHybrid (17), mediante scripts para encontrar la menor energía de hibridación del duplex miARN-gen blanco para cada candidato.
+    \item Las secuencias candidatas fueron etiquetadas con el mejor hit del locus ID del  Arabidosis TAIR10, utilizando los archivos de anotación de Phytozome, y lo utilizamos como “TAG” (etiqueta). De esta manera agrupamos genes de diferente especies que tienen el mismo TAG.
+    \item Cada TAG de Arabidopsis fue indexado con una breve descripción funcional y computacional obtenida del TAIR10. Además los genes blanco candidatos fueron ordenados por familias teniendo en cuanta la clasificación de familias del TAIR10.
+\end{itemize}
+
+\subsection{Herramienta web y almacenamiento de datos}
+	ComTAR fue diseñado como una aplicación web con un framework open-source en PHP denominado Codeigniter para la interfaz gráfica, pero el análisis está basado en un back-end escrito en Perl y los datos que surgen de ese análisis fueron almacenados en una base de datos en MySQL1. El back-end es el encargado de realizar la búsqueda de secuencias, además ahí es donde se integraron las herramientas y scripts para aumentar la especificidad y sensibilidad de la herramienta y es el encargado de generar los resultados finales. Mientras el front-end es el responsible de mostrar los resultados (Figura 1A). 
+	El TAG del mejor hit en Arabidopsis es el que determina el número de especies donde un hit está presente, y el mínimo número de especie es un parámetro que es definido por el usuario. El usuario puede realizar la búsqueda de genes blanco de nuevos microARNs y además tiene acceso por pantalla del alineamiento del miARN-gen blanco, la energía de hibridación y los filtros empíricos de interacciones conocidas del par miARN-gen blanco (Figura 1B). Debido a que los miARNs en plantas en general regulan genes que codifican a proteínas de las misma familias, la herramienta tiene otra funcionalidad donde permite la búsqueda de genes agrupados por familias en vez de agruparlos por TAG. Además los usuarios pueden poner un locus TAG en particular (tanto de Arabidopsis como el 'gene ID' del Phytozome) y comTAR identifica las especies donde este gen en particular puede ser un potencial gen blanco de algun miARN.
+ 
