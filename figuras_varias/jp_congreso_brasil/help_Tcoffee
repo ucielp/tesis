@@ -1,0 +1,2 @@
+t_coffee -in=GRF1.txt -mode=regular -method=slow_pair -output=score_html score_pdf fasta_aln -run_name=GRF1_tcoffee
+t_coffee -other_pg seq_reformat -in GRF1_tcoffee.fasta_aln -in3 GRF1_tcoffee.fasta_aln -action +3evaluate idmat -output=score_html -out=GRF1_tcoffee_conservation.html

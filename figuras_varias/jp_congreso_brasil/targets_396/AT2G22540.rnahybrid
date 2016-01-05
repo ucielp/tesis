@@ -1,0 +1,30 @@
+target: AT2G22540.1
+length: 1557
+miRNA : miR396
+length: 21
+
+mfe: -25.6 kcal/mol
+p-value: 0.632121
+
+position  627
+target 5'   U             AA   C 3'
+             UUCAAGAAAGCUG  GAA    
+             AAGUUCUUUCGAC  CUU    
+miRNA  3' GUC             AC     5'
+
+
+target: AT2G22540.2
+length: 1533
+miRNA : miR396
+length: 21
+
+mfe: -25.6 kcal/mol
+p-value: 0.632121
+
+position  627
+target 5'   U             AA   C 3'
+             UUCAAGAAAGCUG  GAA    
+             AAGUUCUUUCGAC  CUU    
+miRNA  3' GUC             AC     5'
+
+

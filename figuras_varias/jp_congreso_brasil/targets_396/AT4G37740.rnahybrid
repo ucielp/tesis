@@ -1,0 +1,15 @@
+target: AT4G37740.1
+length: 1924
+miRNA : miR396
+length: 21
+
+mfe: -33.9 kcal/mol
+p-value: 0.000000
+
+position  911
+target 5'  C            C       G 3'
+            GUUCAAGAAAGC UGUGGAA    
+            CAAGUUCUUUCG ACACCUU    
+miRNA  3' GU                      5'
+
+

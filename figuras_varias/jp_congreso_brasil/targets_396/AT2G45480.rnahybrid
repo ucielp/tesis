@@ -1,0 +1,15 @@
+target: AT2G45480.1
+length: 1564
+miRNA : miR396
+length: 21
+
+mfe: -33.7 kcal/mol
+p-value: 0.000000
+
+position  515
+target 5'  C             U      U 3'
+            GUUCAAGAAAGCU GUGGAA    
+            CAAGUUCUUUCGA CACCUU    
+miRNA  3' GU                      5'
+
+

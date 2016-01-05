@@ -1,0 +1,15 @@
+target: AT1G07380.1
+length: 2338
+miRNA : miR396
+length: 21
+
+mfe: -25.1 kcal/mol
+p-value: 1.000000
+
+position  1196
+target 5' A  A       U    U     C 3'
+           CA UUCAAGA GGCU UGGAA    
+           GU AAGUUCU UCGA ACCUU    
+miRNA  3'    C       U    C       5'
+
+

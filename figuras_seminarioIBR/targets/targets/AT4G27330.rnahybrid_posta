@@ -1,0 +1,15 @@
+target: AT4G27330.1
+length: 1272
+miRNA : miR159
+length: 21
+
+mfe: -33.1 kcal/mol
+p-value: 0.000000
+
+position  538
+target 5'  U               U    U 3'
+            GAGCUCUCUUCAAUC CAAA    
+            CUCGAGGGAAGUUAG GUUU    
+miRNA  3' AU                      5'
+
+

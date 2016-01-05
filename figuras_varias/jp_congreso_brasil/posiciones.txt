@@ -1,0 +1,65 @@
+AT1G07380 1311/2345*100
+AT1G10120 1439/2135*100
+AT2G22540 769/1561*100
+AT2G22840 891/1843*100
+AT2G36400 858/1620*100
+AT2G45480 626/1570*100
+AT3G13960 -----------
+AT3G14110 990/1247*100
+AT3G52910 854/1485*100
+AT4G24150 949/1487*100
+AT4G37740 1022/1930*100
+AT5G43060 630/1721*100
+AT5G53660 641/1320*100
+
+AT1G07380	55.9061833689 m
+AT1G10120	67.4004683841
+AT2G22540	49.2632927611 m
+AT2G22840	48.3450895279 m
+AT2G36400	52.962962963 m
+AT2G45480	39.872611465
+AT3G13960	
+AT3G14110	79.3905372895
+AT3G52910	57.5084175084
+AT4G24150	63.8197713517
+AT4G37740	52.9533678756 m
+AT5G43060	36.6066240558
+AT5G53660	48.5606060606 m
+
+
+grep -A 1 -m 1 AT1G07380 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -bo ATTCAAGATGGCTTTGGA 
+grep -A 1 -m 1 AT1G07380 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -b ATTCAAGATGGCTTTGGA | wc -c
+
+grep -A 1 -m 1 AT1G10120 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -bo GAACAAGAAAGCTGTGGA 
+grep -A 1 -m 1 AT1G10120 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -b GAACAAGAAAGCTGTGGA   | wc -c
+
+grep -A 1 -m 1 AT2G22540 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -bo TTTCAAGAAAGCTGAAGA 
+grep -A 1 -m 1 AT2G22540 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -b TTTCAAGAAAGCTGAAGA | wc -c
+
+grep -A 1 -m 1 AT2G22840 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -bo GTTCAAGAAAGCCTGTGGA 
+grep -A 1 -m 1 AT2G22840 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -b GTTCAAGAAAGCCTGTGGA | wc -c
+
+grep -A 1 -m 1 AT2G36400 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -bo GTTCAAGAAAGCCTGTGGA 
+grep -A 1 -m 1 AT2G36400 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -b GTTCAAGAAAGCCTGTGGA | wc -c
+
+grep -A 1 -m 1 AT2G45480 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -bo GTTCAAGAAAGCTTGTGGA 
+grep -A 1 -m 1 AT2G45480 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -b GTTCAAGAAAGCTTGTGGA | wc -c
+
+
+grep -A 1 -m 1 AT3G14110 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -bo GTTCAAGATAGCTTTGGA 
+grep -A 1 -m 1 AT3G14110 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -b GTTCAAGATAGCTTTGGA | wc -c
+
+grep -A 1 -m 1 AT3G52910 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -bo GTTCAAGAAAGCCTGTGGA 
+grep -A 1 -m 1 AT3G52910 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -b GTTCAAGAAAGCCTGTGGA | wc -c
+
+grep -A 1 -m 1 AT4G24150 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -bo GTTCAAGAAAGCATGTGGA 
+grep -A 1 -m 1 AT4G24150 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -b GTTCAAGAAAGCATGTGGA | wc -c
+
+grep -A 1 -m 1 AT4G37740 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -bo GTTCAAGAAAGCCTGTGGA 
+grep -A 1 -m 1 AT4G37740 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -b GTTCAAGAAAGCCTGTGGA | wc -c
+
+grep -A 1 -m 1 AT5G43060 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -bo GATCAAGGAAGCTGTGGG 
+grep -A 1 -m 1 AT5G43060 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -b GATCAAGGAAGCTGTGGG | wc -c
+
+grep -A 1 -m 1 AT5G53660 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -bo GTTCAAGAAAGCATGTGGA 
+grep -A 1 -m 1 AT5G53660 /home/uciel/lab/programas/patmatch_2013/databases/TAIR/TAIR10_cdna_20101214_updated | grep -b GTTCAAGAAAGCATGTGGA | wc -c

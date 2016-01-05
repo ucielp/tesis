@@ -1,0 +1,15 @@
+target: AT3G09390.1
+length: 538
+miRNA : miR398
+length: 21
+
+mfe: -25.5 kcal/mol
+p-value: 1.000000
+
+position  208
+target 5' C     A  GUAACAA G         A  3'
+           AGGGG GA       C CUGAGAACG     
+           UCCCC CU       G GACUCUUGU     
+miRNA  3' U     A                    GU 5'
+
+

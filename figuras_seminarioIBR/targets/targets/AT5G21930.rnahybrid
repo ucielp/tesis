@@ -1,0 +1,45 @@
+target: AT5G21930.1
+length: 2826
+miRNA : miR398
+length: 21
+
+mfe: -24.9 kcal/mol
+p-value: 1.000000
+
+position  455
+target 5'  U   A     G       G   3'
+            GGG GUGGC  GAGAAU      
+            CCC CACUG  CUCUUG      
+miRNA  3' UU         GA      UGU 5'
+
+
+target: AT5G21930.2
+length: 3040
+miRNA : miR398
+length: 21
+
+mfe: -24.9 kcal/mol
+p-value: 1.000000
+
+position  546
+target 5'  U   A     G       G   3'
+            GGG GUGGC  GAGAAU      
+            CCC CACUG  CUCUUG      
+miRNA  3' UU         GA      UGU 5'
+
+
+target: AT5G21930.3
+length: 2878
+miRNA : miR398
+length: 21
+
+mfe: -24.9 kcal/mol
+p-value: 1.000000
+
+position  582
+target 5'  U   A     G       G   3'
+            GGG GUGGC  GAGAAU      
+            CCC CACUG  CUCUUG      
+miRNA  3' UU         GA      UGU 5'
+
+

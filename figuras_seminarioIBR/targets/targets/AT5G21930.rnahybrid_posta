@@ -1,0 +1,45 @@
+target: AT5G21930.1
+length: 2826
+miRNA : miR408
+length: 21
+
+mfe: -39.6 kcal/mol
+p-value: 0.000000
+
+position  2142
+target 5'  A                G  A 3'
+            CAGGGAAGGGGCAGUG CA    
+            GUCCCUUCUCCGUCAC GU    
+miRNA  3' CG                   A 5'
+
+
+target: AT5G21930.2
+length: 3040
+miRNA : miR408
+length: 21
+
+mfe: -39.6 kcal/mol
+p-value: 0.000000
+
+position  2233
+target 5'  A                G  A 3'
+            CAGGGAAGGGGCAGUG CA    
+            GUCCCUUCUCCGUCAC GU    
+miRNA  3' CG                   A 5'
+
+
+target: AT5G21930.3
+length: 2878
+miRNA : miR408
+length: 21
+
+mfe: -39.6 kcal/mol
+p-value: 0.000000
+
+position  2200
+target 5'  A                G  A 3'
+            CAGGGAAGGGGCAGUG CA    
+            GUCCCUUCUCCGUCAC GU    
+miRNA  3' CG                   A 5'
+
+

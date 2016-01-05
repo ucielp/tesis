@@ -1,0 +1,91 @@
+SELECT fasta,target,gen,deltaG,mm
+FROM  `` miR
+JOIN plants p ON p.specie = miR.file
+WHERE  `similar_ath` = ''
+AND ((mm<4) OR (mm=4 AND  gu>0))
+GROUP BY file,deltaG
+ORDER BY file,deltaG
+INTO OUTFILE '/tmp/.csv'
+FIELDS TERMINATED BY '\t'
+ENCLOSED BY ''
+LINES TERMINATED BY '\n';
+
+# PAA2 AT5G21930
+SELECT fasta,target,gen,deltaG,mm
+FROM  `miR408_TGCACTGCCTCTTCCCTG` miR
+JOIN plants p ON p.specie = miR.file
+WHERE  `similar_ath` = 'AT5G21930'
+AND ((mm<4) OR (mm=4 AND  gu>0))
+GROUP BY file,deltaG
+ORDER BY file,deltaG
+INTO OUTFILE '/tmp/AT5G21930.csv'
+FIELDS TERMINATED BY '\t'
+ENCLOSED BY ''
+LINES TERMINATED BY '\n';
+
+#PAC1 AT3G22110
+SELECT fasta,target,gen,deltaG,mm
+FROM  `miR408_TGCACTGCCTCTTCCCTG` miR
+JOIN plants p ON p.specie = miR.file
+WHERE  `similar_ath` = 'AT3G22110'
+AND ((mm<4) OR (mm=4 AND  gu>0))
+GROUP BY file,deltaG
+ORDER BY file,deltaG
+INTO OUTFILE '/tmp/AT3G22110.csv'
+FIELDS TERMINATED BY '\t'
+ENCLOSED BY ''
+LINES TERMINATED BY '\n';
+
+
+#NOZZLE AT4G27330
+SELECT fasta,target,gen,deltaG,mm
+FROM  `miR159_TTGGATTGAAGGGAGCTC` miR
+JOIN plants p ON p.specie = miR.file
+WHERE  `similar_ath` = 'AT4G27330'
+AND ((mm<4) OR (mm=4 AND  gu>0))
+GROUP BY file,deltaG
+ORDER BY file,deltaG
+INTO OUTFILE '/tmp/AT4G27330.csv'
+FIELDS TERMINATED BY '\t'
+ENCLOSED BY ''
+LINES TERMINATED BY '\n';
+
+# IAR3 AT1G51760
+SELECT fasta,target,gen,deltaG,mm
+FROM  `miR167_GAAGCTGCCAGCATGATC` miR
+JOIN plants p ON p.specie = miR.file
+WHERE  `similar_ath` = 'AT1G51760'
+AND ((mm<4) OR (mm=4 AND  gu>0))
+GROUP BY file,deltaG
+ORDER BY file,deltaG
+INTO OUTFILE '/tmp/AT1G51760.csv'
+FIELDS TERMINATED BY '\t'
+ENCLOSED BY ''
+LINES TERMINATED BY '\n';
+
+
+# AT3G09390
+SELECT fasta,target,gen,deltaG,mm
+FROM  `miR398_GTGTTCTCAGGTCACCCC` miR
+JOIN plants p ON p.specie = miR.file
+WHERE  `similar_ath` = 'AT3G09390'
+AND ((mm<4) OR (mm=4 AND  gu>0))
+GROUP BY file,deltaG
+ORDER BY file,deltaG
+INTO OUTFILE '/tmp/AT3G09390.csv'
+FIELDS TERMINATED BY '\t'
+ENCLOSED BY ''
+LINES TERMINATED BY '\n';
+
+# AT5G02380
+SELECT fasta,target,gen,deltaG,mm
+FROM  `miR398_GTGTTCTCAGGTCACCCC` miR
+JOIN plants p ON p.specie = miR.file
+WHERE  `similar_ath` = 'AT5G02380'
+AND ((mm<4) OR (mm=4 AND  gu>0))
+GROUP BY file,deltaG
+ORDER BY file,deltaG
+INTO OUTFILE '/tmp/AT5G02380.csv'
+FIELDS TERMINATED BY '\t'
+ENCLOSED BY ''
+LINES TERMINATED BY '\n';

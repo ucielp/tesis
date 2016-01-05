@@ -1,0 +1,15 @@
+target: AT5G43060.1
+length: 1715
+miRNA : miR398
+length: 21
+
+mfe: -23.4 kcal/mol
+p-value: 1.000000
+
+position  1189
+target 5'      U  C          A  C 3'
+                UG CCUGAGAGCA CA    
+                AC GGACUCUUGU GU    
+miRNA  3' UUCCCC  U               5'
+
+

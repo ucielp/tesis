@@ -1,0 +1,15 @@
+target: AT3G22110.1
+length: 1038
+miRNA : miR408
+length: 21
+
+mfe: -32.9 kcal/mol
+p-value: 0.000000
+
+position  655
+target 5' A          A     CGA  U  3'
+           CCAGGGAAGA GCAGU   GC     
+           GGUCCCUUCU CGUCA   CG     
+miRNA  3' C          C          UA 5'
+
+

@@ -1,0 +1,45 @@
+target: AT3G14110.2
+length: 1243
+miRNA : miR398
+length: 21
+
+mfe: -25.0 kcal/mol
+p-value: 1.000000
+
+position  535
+target 5' U   AUAU    G         UC  U 3'
+           GAG    GUGA CCUGAGAGC  CA    
+           UUC    CACU GGACUCUUG  GU    
+miRNA  3'     CC                U     5'
+
+
+target: AT3G14110.1
+length: 1112
+miRNA : miR398
+length: 21
+
+mfe: -25.0 kcal/mol
+p-value: 1.000000
+
+position  404
+target 5' U   AUAU    G         UC  U 3'
+           GAG    GUGA CCUGAGAGC  CA    
+           UUC    CACU GGACUCUUG  GU    
+miRNA  3'     CC                U     5'
+
+
+target: AT3G14110.3
+length: 1087
+miRNA : miR398
+length: 21
+
+mfe: -25.0 kcal/mol
+p-value: 1.000000
+
+position  438
+target 5' U   AUAU    G         UC  U 3'
+           GAG    GUGA CCUGAGAGC  CA    
+           UUC    CACU GGACUCUUG  GU    
+miRNA  3'     CC                U     5'
+
+

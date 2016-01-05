@@ -1,0 +1,194 @@
+% ******************************* Thesis Appendix A ****************************
+\chapter{Anexo} 
+
+\section*{Predicción de genes regulados por microARNs.}
+
+\subsubsection*{For 64bit OS}
+\begin{verbatim}
+edit $~/.bashrc file and add following lines
+PATH=/usr/local/texlive/2011/bin/x86_64-linux:$PATH;
+export PATH 
+MANPATH=/usr/local/texlive/2011/texmf/doc/man:$MANPATH;
+export MANPATH 
+INFOPATH=/usr/local/texlive/2011/texmf/doc/info:$INFOPATH;
+export INFOPATH
+
+\end{verbatim}
+
+
+\begin{table}
+\caption{A nice looking table}
+\centering
+\label{table:nice_table}
+\begin{tabular}{l c c c c}
+\hline 
+\multirow{2}{*}{Dental measurement} & \multicolumn{2}{c}{Species I} & \multicolumn{2}{c}{Species II} \\ 
+\cline{2-5}
+  & mean & SD  & mean & SD  \\ 
+\hline
+I1MD & 6.23 & 0.91 & 5.2  & 0.7  \\
+
+I1LL & 7.48 & 0.56 & 8.7  & 0.71 \\
+
+I2MD & 3.99 & 0.63 & 4.22 & 0.54 \\
+
+I2LL & 6.81 & 0.02 & 6.66 & 0.01 \\
+
+CMD & 13.47 & 0.09 & 10.55 & 0.05 \\
+
+CBL & 11.88 & 0.05 & 13.11 & 0.04\\ 
+\hline 
+\end{tabular}
+\end{table}
+
+
+
+
+\begin{table}
+\small
+\centering
+\caption{Especies y base de datos utilizadas para la búsquedas de genes blanco de miARNs conservados}
+\label{table:NAR_table_S2}
+\begin{tabular}{lc}
+Specie                         & \multicolumn{1}{c}{Database}         \\
+\hline 
+Allium\_cepa                   & http://compbio.dfci.harvard.edu/tgi/ \\
+Aquilegia                      & http://compbio.dfci.harvard.edu/tgi/ \\
+Arabidopsis\_thaliana          & http://arabidopsis.org/              \\
+Beta\_vulgaris                 & http://compbio.dfci.harvard.edu/tgi/ \\
+Brassica napus                 & http://compbio.dfci.harvard.edu/tgi/ \\
+Capsicum\_annuum               & http://compbio.dfci.harvard.edu/tgi/ \\
+Citrus\_clementina             & http://compbio.dfci.harvard.edu/tgi/ \\
+Citrus\_sinensis               & http://compbio.dfci.harvard.edu/tgi/ \\
+Coffea\_canephora              & http://compbio.dfci.harvard.edu/tgi/ \\
+Euphorbia\_esula               & http://compbio.dfci.harvard.edu/tgi/ \\
+Festuca\_arundinacea           & http://compbio.dfci.harvard.edu/tgi/ \\
+Glycine\_max                   & http://compbio.dfci.harvard.edu/tgi/ \\
+Gossypium                      & http://compbio.dfci.harvard.edu/tgi/ \\
+Gossypium\_raimondii           & http://compbio.dfci.harvard.edu/tgi/ \\
+Haseolus\_vulgaris             & http://compbio.dfci.harvard.edu/tgi/ \\
+Helianthus\_annuus             & http://compbio.dfci.harvard.edu/tgi/ \\
+Hordeum\_vulgare               & http://compbio.dfci.harvard.edu/tgi/ \\
+Ipomoea\_nil                   & http://compbio.dfci.harvard.edu/tgi/ \\
+Lactuca\_sativa                & http://compbio.dfci.harvard.edu/tgi/ \\
+Lactuca\_serriola              & http://compbio.dfci.harvard.edu/tgi/ \\
+Lotus\_japonicus               & http://compbio.dfci.harvard.edu/tgi/ \\
+Malus\_x\_domestica            & http://compbio.dfci.harvard.edu/tgi/ \\
+Medicago\_truncatula           & http://compbio.dfci.harvard.edu/tgi/ \\
+Mesembryanthemum\_crystallinum & http://compbio.dfci.harvard.edu/tgi/ \\
+Nicotiana\_benthamiana         & http://compbio.dfci.harvard.edu/tgi/ \\
+Nicotiana\_tabacum             & http://compbio.dfci.harvard.edu/tgi/ \\
+Oryza\_sativa                  & http://www.jcvi.org/                 \\
+Panicum\_virgatum              & http://compbio.dfci.harvard.edu/tgi/ \\
+Petunia\_hybrida               & http://compbio.dfci.harvard.edu/tgi/ \\
+Phaseolus\_coccineus           & http://compbio.dfci.harvard.edu/tgi/ \\
+Populus                        & http://compbio.dfci.harvard.edu/tgi/ \\
+Prunus\_persica                & http://compbio.dfci.harvard.edu/tgi/ \\
+Saccharum\_officinarum         & http://compbio.dfci.harvard.edu/tgi/ \\
+Secale\_cereale                & http://compbio.dfci.harvard.edu/tgi/ \\
+Solanum\_lycopersicum          & http://compbio.dfci.harvard.edu/tgi/ \\
+Solanum\_tuberosum             & http://compbio.dfci.harvard.edu/tgi/ \\
+Sorghum\_bicolor               & http://compbio.dfci.harvard.edu/tgi/ \\
+Theobroma\_cacao               & http://compbio.dfci.harvard.edu/tgi/ \\
+triphysaria                    & http://compbio.dfci.harvard.edu/tgi/ \\
+Triphysaria\_versicolor        & http://compbio.dfci.harvard.edu/tgi/ \\
+Triticum\_aestivum             & http://compbio.dfci.harvard.edu/tgi/ \\
+Vitis\_vinifera                & http://compbio.dfci.harvard.edu/tgi/ \\
+Zea\_mays                      & http://compbio.dfci.harvard.edu/tgi/
+\end{tabular}
+\end{table}
+
+
+\begin{table}
+\tiny
+\centering
+\caption{My caption}
+\label{table:NAR_table_S3}
+\begin{tabular}{lll}
+microRNA      & Target       & ID        \\
+miR156/miR157 & SPL          & At1g27370 \\
+miR156/miR157 & SPL          & At1g53160 \\
+miR156/miR157 & SPL          & At2g33810 \\
+miR156/miR157 & SPL          & At3g15270 \\
+miR156/miR157 & SPL          & At5g43270 \\
+miR156/miR157 & SPL          & At1g69170 \\
+miR156/miR157 & SPL          & At2g42200 \\
+miR156/miR157 & SPL          & At3g57920 \\
+miR156/miR157 & SPL          & At5g50670 \\
+miR159/miR319 & TCP          & At1g30210 \\
+miR159/miR319 & TCP          & At1g53230 \\
+miR159/miR319 & TCP          & At2g31070 \\
+miR159/miR319 & MYB          & At3g11440 \\
+miR159/miR319 & TCP          & At3g15030 \\
+miR159/miR319 & TCP          & At4g18390 \\
+miR159/miR319 & MYB          & At5g06100 \\
+miR159/miR319 & MYB          & At2g26950 \\
+miR159/miR319 & MYB          & At2g32460 \\
+miR159/miR319 & MYB          & At5g55020 \\
+miR160        & ARF          & At1g77850 \\
+miR160        & ARF          & At2g28350 \\
+miR160        & ARF          & At4g30080 \\
+miR162        & DCL          & At1g01040 \\
+miR164        & NAC          & At1g56010 \\
+miR164        & NAC          & At3g15170 \\
+miR164        & NAC          & At5g07680 \\
+miR164        & NAC          & At5g53950 \\
+miR164        & NAC          & At5g61430 \\
+miR164        & NAC          & At3g12977 \\
+miR164        & NAC          & At5g39610 \\
+miR166/miR165 & HD-ZIPIII    & At1g30490 \\
+miR166/miR165 & HD-ZIPIII    & At1g52150 \\
+miR166/miR165 & HD-ZIPIII    & At2g34710 \\
+miR166/miR165 & HD-ZIPIII    & At5g60690 \\
+miR166/miR165 & HD-ZIPIII    & At4g32880 \\
+miR167        & ARF          & At1g30330 \\
+miR167        & ARF          & At5g37020 \\
+miR168        & AGO          & At1g48410 \\
+miR169        & HAP2         & At1g17590 \\
+miR169        & HAP2         & At1g54160 \\
+miR169        & HAP2         & At1g72830 \\
+miR169        & HAP2         & At3g05690 \\
+miR169        & HAP2         & At3g20910 \\
+miR169        & HAP2         & At5g06510 \\
+miR170/miR171 & SCL          & At2g45160 \\
+miR170/miR171 & SCL          & At3g60630 \\
+miR170/miR171 & SCL          & At4g00150 \\
+miR172        & AP2          & At2g28550 \\
+miR172        & AP2          & At4g36920 \\
+miR172        & AP2          & At5g60120 \\
+miR172        & AP2          & At5g67180 \\
+miR172        & AP2          & At2g39250 \\
+miR172        & AP2          & At3g54990 \\
+miR390/miR391 & TAS3         & At3g17185 \\
+miR390/miR391 & TAS3         & At5g49615 \\
+miR390/miR391 & TAS3         & At5g57735 \\
+miR393        & TIR1/AFB     & At1g12820 \\
+miR393        & bHLH         & At3g23690 \\
+miR393        & TIR1/AFB     & At3g26810 \\
+miR393        & TIR1/AFB     & At3g62980 \\
+miR393        & TIR1/AFB     & At4g03190 \\
+miR394        & F-Box        & At1g27340 \\
+miR395        & APS          & At3g22890 \\
+miR395        & AST          & At5g10180 \\
+miR395        & APS          & At5g43780 \\
+miR395        & APS          & At4g14680 \\
+miR396        & GRF          & At2g22840 \\
+miR396        & GRF          & At2g36400 \\
+miR396        & GRF          & At2g45480 \\
+miR396        & GRF          & At4g24150 \\
+miR396        & GRF          & At4g37740 \\
+miR396        & GRF          & At5g53660 \\
+miR396        & GRF          & At3g52910 \\
+miR397        & LAC          & At2g29130 \\
+miR397        & LAC          & At2g38080 \\
+miR397        & LAC          & At5g60020 \\
+miR398        & CSD          & At1g08830 \\
+miR398        & CSD          & At2g28190 \\
+miR398        & CytC oxidase & At3g15640 \\
+miR399        & E2-UBC       & At2g33770 \\
+miR399        & E2-UBC       & At2g33770 \\
+miR408        & LAC          & At2g30210 \\
+mir408        & PLC          & At2g02850 \\
+miR827        & SPX          & At1g02860
+\end{tabular}
+\end{table}
