@@ -3,6 +3,7 @@ The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: Declaration/declaration.aux
 A level-1 auxiliary file: Dedication/dedication.aux
 A level-1 auxiliary file: Abstract/abstract.aux
+A level-1 auxiliary file: Materials/materials1.aux
 A level-1 auxiliary file: Chapter1/chapter1.aux
 A level-1 auxiliary file: Chapter2/chapter2.aux
 A level-1 auxiliary file: Chapter3/chapter3.aux
@@ -13,51 +14,56 @@ Repeated entry---line 479 of file References/references.bib
  : @article{Allen2005207
  :                      ,
 I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "13"
+Warning--empty journal in Altschup1990
 Warning--empty journal in Davies1999
+Warning--empty journal in Giegerich2004
+Warning--there's a number but no volume in Giegerich2004
 Warning--empty journal in Llave2002
 Warning--empty journal in Maunoury2011
 Warning--empty journal in Niyogi2005
 Warning--empty journal in Rampey2004
+Warning--empty journal in Rodriguez2010
 Warning--empty journal in Yang1999
-You've used 23 entries,
+You've used 32 entries,
             1935 wiz_defined-function locations,
-            644 strings with 9322 characters,
-and the built_in function-call counts, 11446 in all, are:
-= -- 1085
-> -- 631
-< -- 8
-+ -- 224
-- -- 224
-* -- 1113
-:= -- 1979
-add.period$ -- 70
-call.type$ -- 23
-change.case$ -- 226
-chr.to.int$ -- 23
-cite$ -- 29
-duplicate$ -- 344
-empty$ -- 714
-format.name$ -- 255
-if$ -- 2182
+            705 strings with 11480 characters,
+and the built_in function-call counts, 16200 in all, are:
+= -- 1531
+> -- 913
+< -- 12
++ -- 328
+- -- 326
+* -- 1578
+:= -- 2797
+add.period$ -- 97
+call.type$ -- 32
+change.case$ -- 322
+chr.to.int$ -- 32
+cite$ -- 42
+duplicate$ -- 479
+empty$ -- 996
+format.name$ -- 372
+if$ -- 3087
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 23
-newline$ -- 118
-num.names$ -- 71
-pop$ -- 193
+missing$ -- 32
+newline$ -- 163
+num.names$ -- 98
+pop$ -- 277
 preamble$ -- 1
-purify$ -- 226
+purify$ -- 322
 quote$ -- 0
-skip$ -- 261
+skip$ -- 364
 stack$ -- 0
-substring$ -- 853
-swap$ -- 37
-text.length$ -- 3
+substring$ -- 1207
+swap$ -- 52
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 138
-warning$ -- 6
-while$ -- 88
+type$ -- 192
+warning$ -- 10
+while$ -- 122
 width$ -- 0
-write$ -- 297
+write$ -- 411
 (There was 1 error message)

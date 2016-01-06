@@ -12,6 +12,16 @@ Allen, E., Xie, Z., Gustafson, A.~M., and Carrington, J.~C. (2005).
   plants.
 \newblock {\em Cell}, 121(2):207 -- 221.
 
+\bibitem[Altschup et~al., 1990]{Altschup1990}
+Altschup, S.~F., Gish, W., Pennsylvania, T., and Park, U. (1990).
+\newblock {Basic Local Alignment Search Tool 2Department of Computer Science}.
+\newblock pages 403--410.
+
+\bibitem[Axtell and Bowman, 2008]{Axtell2008343}
+Axtell, M.~J. and Bowman, J.~L. (2008).
+\newblock {Evolution of plant microRNAs and their targets}.
+\newblock {\em Trends in Plant Science}, 13(7):343--349.
+
 \bibitem[Chorostecki and Palatnik, 2014]{Chorostecki2014}
 Chorostecki, U. and Palatnik, J.~F. (2014).
 \newblock {comTAR: a web tool for the prediction and characterization of
@@ -58,6 +68,17 @@ German, M.~a., Pillay, M., Jeong, D.-H., Hetawal, A., Luo, S., Janardhanan, P.,
   analysis of RNA ends.}
 \newblock {\em Nature biotechnology}, 26(8):941--6.
 
+\bibitem[Giegerich et~al., 2004]{Giegerich2004}
+Giegerich, R., Rehmsmeier, M., Steffen, P., and Ho, M. (2004).
+\newblock {Fast and effective prediction of microRNA / target duplexes}.
+\newblock (2003):1507--1517.
+
+\bibitem[Goodstein et~al., 2012]{Goodstein2012}
+Goodstein, D.~M., Shu, S., Howson, R., Neupane, R., Hayes, R.~D., Fazo, J.,
+  Mitros, T., Dirks, W., Hellsten, U., Putnam, N., and Rokhsar, D.~S. (2012).
+\newblock {Phytozome: a comparative platform for green plant genomics.}
+\newblock {\em Nucleic acids research}, 40(Database issue):D1178--86.
+
 \bibitem[Jones-Rhoades and Bartel, 2004]{JonesRhoades2004787}
 Jones-Rhoades, M.~W. and Bartel, D.~P. (2004).
 \newblock Computational identification of plant micrornas and their targets,
@@ -70,6 +91,11 @@ Kasschau, K.~D., Xie, Z., Allen, E., Llave, C., Chapman, E.~J., Krizan, K.~a.,
 \newblock {P1/HC-Pro, a Viral Suppressor of RNA Silencing, Interferes with
   Arabidopsis Development and miRNA Function}.
 \newblock {\em Developmental Cell}, 4(2):205--217.
+
+\bibitem[Kr\"uger and Rehmsmeier, 2006]{Kruger01072006}
+Kr\"uger, J. and Rehmsmeier, M. (2006).
+\newblock Rnahybrid: microrna target prediction easy, fast and flexible.
+\newblock {\em Nucleic Acids Research}, 34(suppl 2):W451--W454.
 
 \bibitem[Llave et~al., 2002]{Llave2002}
 Llave, C., Xie, Z., Kasschau, K.~D., and Carrington, J.~C. (2002).
@@ -89,11 +115,25 @@ Millar, A.~a. and Gubler, F. (2005).
   microRNA-regulated genes that redundantly facilitate anther development.}
 \newblock {\em The Plant cell}, 17(3):705--21.
 
+\bibitem[Needleman and Wunsch, 1970]{Needleman1970443}
+Needleman, S.~B. and Wunsch, C.~D. (1970).
+\newblock A general method applicable to the search for similarities in the
+  amino acid sequence of two proteins.
+\newblock {\em Journal of Molecular Biology}, 48(3):443 -- 453.
+
 \bibitem[Niyogi et~al., 2005]{Niyogi2005}
 Niyogi, K.~K., Pilon, M., Shikanai, T., Abdel-ghany, S.~E., and Mu, P. (2005).
 \newblock {Two P-Type ATPases Are Required for Copper Delivery in Arabidopsis
   thaliana Chloroplasts}.
 \newblock 17(April):1233--1251.
+
+\bibitem[Palatnik et~al., 2007]{Palatnik2007}
+Palatnik, J.~F., Wollmann, H., Schommer, C., Schwab, R., Boisbouvier, J.,
+  Rodriguez, R., Warthmann, N., Allen, E., Dezulian, T., Huson, D., Carrington,
+  J.~C., and Weigel, D. (2007).
+\newblock {Sequence and expression differences underlie functional
+  specialization of Arabidopsis microRNAs miR159 and miR319.}
+\newblock {\em Developmental cell}, 13(1):115--25.
 
 \bibitem[Rajagopalan et~al., 2006]{Rajagopalan2006}
 Rajagopalan, R., Vaucheret, H., Trejo, J., and Bartel, D.~P. (2006).
@@ -107,6 +147,13 @@ Rampey, R.~A., Leclere, S., Kowalczyk, M., Ljung, K., Bartel, B., Biology, C.,
 \newblock {A Family of Auxin-Conjugate Hydrolases That Contributes to Free
   Indole-3-Acetic Acid Levels during Arabidopsis Germination 1}.
 \newblock 135(June):978--988.
+
+\bibitem[Rodriguez et~al., 2010]{Rodriguez2010}
+Rodriguez, R.~E., Mecchia, M.~A., Debernardi, J.~M., Schommer, C., Weigel, D.,
+  and Palatnik, J.~F. (2010).
+\newblock {Control of cell proliferation in Arabidopsis thaliana by microRNA
+  miR396}.
+\newblock 112:103--112.
 
 \bibitem[Schiefthaler et~al., 1999]{Biology1999}
 Schiefthaler, Balasubramanian, Sieber, Chevalier, Wisman, and Schneitz (1999).
@@ -138,6 +185,13 @@ Yamasaki, H., Abdel-Ghany, S.~E., Cohu, C.~M., Kobayashi, Y., Shikanai, T., and
   Pilon, M. (2007).
 \newblock {Regulation of copper homeostasis by micro-RNA in Arabidopsis.}
 \newblock {\em The Journal of biological chemistry}, 282(22):16369--78.
+
+\bibitem[Yan et~al., 2005]{Yan01072005}
+Yan, T., Yoo, D., Berardini, T.~Z., Mueller, L.~A., Weems, D.~C., Weng, S.,
+  Cherry, J.~M., and Rhee, S.~Y. (2005).
+\newblock Patmatch: a program for finding patterns in peptide and nucleotide
+  sequences.
+\newblock {\em Nucleic Acids Research}, 33(suppl 2):W262--W266.
 
 \bibitem[Yang et~al., 1999]{Yang1999}
 Yang, W.-c., Ye, D., Xu, J., and Sundaresan, V. (1999).
