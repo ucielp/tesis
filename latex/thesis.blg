@@ -3,6 +3,8 @@ The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: Declaration/declaration.aux
 A level-1 auxiliary file: Dedication/dedication.aux
 A level-1 auxiliary file: Abstract/abstract.aux
+A level-1 auxiliary file: Introduccion/introduccion.aux
+A level-1 auxiliary file: Objetivos/objetivos.aux
 A level-1 auxiliary file: Materials/materials1.aux
 A level-1 auxiliary file: Chapter1/chapter1.aux
 A level-1 auxiliary file: Chapter2/chapter2.aux
@@ -10,60 +12,68 @@ A level-1 auxiliary file: Chapter3/chapter3.aux
 The style file: apalike.bst
 A level-1 auxiliary file: Appendix1/appendix1.aux
 Database file #1: References/references.bib
-Repeated entry---line 479 of file References/references.bib
+Repeated entry---line 565 of file References/references.bib
  : @article{Allen2005207
  :                      ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "13"
+Warning--I didn't find a database entry for ""
 Warning--empty journal in Altschup1990
+Warning--empty journal in Bartel2004
+Warning--empty journal in Cellulaire2008
+Warning--there's a number but no volume in Cellulaire2008
 Warning--empty journal in Davies1999
 Warning--empty journal in Giegerich2004
 Warning--there's a number but no volume in Giegerich2004
 Warning--empty journal in Llave2002
 Warning--empty journal in Maunoury2011
+Warning--empty journal in Montgomery2008
 Warning--empty journal in Niyogi2005
 Warning--empty journal in Rampey2004
+Warning--empty journal in Reinhart2002
 Warning--empty journal in Rodriguez2010
+Warning--empty journal in Takeda2008
+Warning--empty journal in Vazquez2004a
+Warning--empty journal in Xie2005a
 Warning--empty journal in Yang1999
-You've used 32 entries,
+You've used 52 entries,
             1935 wiz_defined-function locations,
-            705 strings with 11480 characters,
-and the built_in function-call counts, 16200 in all, are:
-= -- 1531
-> -- 913
-< -- 12
-+ -- 328
-- -- 326
-* -- 1578
-:= -- 2797
-add.period$ -- 97
-call.type$ -- 32
-change.case$ -- 322
-chr.to.int$ -- 32
-cite$ -- 42
-duplicate$ -- 479
-empty$ -- 996
-format.name$ -- 372
-if$ -- 3087
-int.to.chr$ -- 1
+            823 strings with 15487 characters,
+and the built_in function-call counts, 25659 in all, are:
+= -- 2446
+> -- 1410
+< -- 20
++ -- 505
+- -- 502
+* -- 2450
+:= -- 4427
+add.period$ -- 157
+call.type$ -- 52
+change.case$ -- 510
+chr.to.int$ -- 51
+cite$ -- 70
+duplicate$ -- 787
+empty$ -- 1579
+format.name$ -- 572
+if$ -- 4894
+int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 32
-newline$ -- 163
-num.names$ -- 98
-pop$ -- 277
+missing$ -- 52
+newline$ -- 263
+num.names$ -- 158
+pop$ -- 445
 preamble$ -- 1
-purify$ -- 322
+purify$ -- 510
 quote$ -- 0
-skip$ -- 364
+skip$ -- 609
 stack$ -- 0
-substring$ -- 1207
-swap$ -- 52
-text.length$ -- 4
+substring$ -- 1892
+swap$ -- 96
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 192
-warning$ -- 10
-while$ -- 122
+type$ -- 312
+warning$ -- 18
+while$ -- 200
 width$ -- 0
-write$ -- 411
+write$ -- 662
 (There was 1 error message)

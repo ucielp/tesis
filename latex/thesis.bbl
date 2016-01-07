@@ -17,10 +17,51 @@ Altschup, S.~F., Gish, W., Pennsylvania, T., and Park, U. (1990).
 \newblock {Basic Local Alignment Search Tool 2Department of Computer Science}.
 \newblock pages 403--410.
 
+\bibitem[Arazi et~al., 2005]{Arazi2005}
+Arazi, T., Talmor-Neiman, M., Stav, R., Riese, M., Huijser, P., and Baulcombe,
+  D.~C. (2005).
+\newblock {Cloning and characterization of micro-RNAs from moss.}
+\newblock {\em The Plant journal : for cell and molecular biology},
+  43(6):837--48.
+
+\bibitem[Axtell, 2008]{Axtell2008}
+Axtell, M.~J. (2008).
+\newblock {Evolution of microRNAs and their targets: are all microRNAs
+  biologically relevant?}
+\newblock {\em Biochimica et biophysica acta}, 1779(11):725--34.
+
 \bibitem[Axtell and Bowman, 2008]{Axtell2008343}
 Axtell, M.~J. and Bowman, J.~L. (2008).
 \newblock {Evolution of plant microRNAs and their targets}.
 \newblock {\em Trends in Plant Science}, 13(7):343--349.
+
+\bibitem[Bartel et~al., 2004]{Bartel2004}
+Bartel, D.~P., Lee, R., and Feinbaum, R. (2004).
+\newblock {MicroRNAs: Genomics , Biogenesis , Mechanism , and Function Genomics
+  : The miRNA Genes}.
+\newblock 116:281--297.
+
+\bibitem[Bologna et~al., 2012]{Bologna11112012}
+Bologna, N.~G., Schapire, A.~L., and Palatnik, J.~F. (2012).
+\newblock Processing of plant microrna precursors.
+\newblock {\em Briefings in Functional Genomics}.
+
+\bibitem[Carrington and Ambros, 2003]{pmid12869753}
+Carrington, J.~C. and Ambros, V. (2003).
+\newblock {{R}ole of micro{R}{N}{A}s in plant and animal development}.
+\newblock {\em Science}, 301(5631):336--338.
+
+\bibitem[Cellulaire, 2008]{Cellulaire2008}
+Cellulaire, L. D.~B. (2008).
+\newblock {Plant ARGONAUTES ´}.
+\newblock (May).
+
+\bibitem[Chorostecki et~al., 2012]{Chorostecki05072012}
+Chorostecki, U., Crosa, V.~A., Lodeyro, A.~F., Bologna, N.~G., Martin, A.~P.,
+  Carrillo, N., Schommer, C., and Palatnik, J.~F. (2012).
+\newblock Identification of new microrna-regulated genes by conserved targeting
+  in plant species.
+\newblock {\em Nucleic Acids Research}.
 
 \bibitem[Chorostecki and Palatnik, 2014]{Chorostecki2014}
 Chorostecki, U. and Palatnik, J.~F. (2014).
@@ -79,11 +120,23 @@ Goodstein, D.~M., Shu, S., Howson, R., Neupane, R., Hayes, R.~D., Fazo, J.,
 \newblock {Phytozome: a comparative platform for green plant genomics.}
 \newblock {\em Nucleic acids research}, 40(Database issue):D1178--86.
 
+\bibitem[Han et~al., 2004]{Han2004}
+Han, M.-H., Goud, S., Song, L., and Fedoroff, N. (2004).
+\newblock {The Arabidopsis double-stranded RNA-binding protein HYL1 plays a
+  role in microRNA-mediated gene regulation.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 101(4):1093--8.
+
 \bibitem[Jones-Rhoades and Bartel, 2004]{JonesRhoades2004787}
 Jones-Rhoades, M.~W. and Bartel, D.~P. (2004).
 \newblock Computational identification of plant micrornas and their targets,
   including a stress-induced mirna.
 \newblock {\em Molecular Cell}, 14(6):787 -- 799.
+
+\bibitem[Jones-Rhoades et~al., 2006]{Jones-Rhoades2006}
+Jones-Rhoades, M.~W., Bartel, D.~P., and Bartel, B. (2006).
+\newblock {MicroRNAS and their regulatory roles in plants.}
+\newblock {\em Annual review of plant biology}, 57:19--53.
 
 \bibitem[Kasschau et~al., 2003]{Kasschau2003}
 Kasschau, K.~D., Xie, Z., Allen, E., Llave, C., Chapman, E.~J., Krizan, K.~a.,
@@ -92,10 +145,11 @@ Kasschau, K.~D., Xie, Z., Allen, E., Llave, C., Chapman, E.~J., Krizan, K.~a.,
   Arabidopsis Development and miRNA Function}.
 \newblock {\em Developmental Cell}, 4(2):205--217.
 
-\bibitem[Kr\"uger and Rehmsmeier, 2006]{Kruger01072006}
-Kr\"uger, J. and Rehmsmeier, M. (2006).
-\newblock Rnahybrid: microrna target prediction easy, fast and flexible.
-\newblock {\em Nucleic Acids Research}, 34(suppl 2):W451--W454.
+\bibitem[Kozomara and Griffiths-Jones, 2014]{Kozomara2014}
+Kozomara, A. and Griffiths-Jones, S. (2014).
+\newblock {miRBase: annotating high confidence microRNAs using deep sequencing
+  data.}
+\newblock {\em Nucleic acids research}, 42(Database issue):D68--73.
 
 \bibitem[Llave et~al., 2002]{Llave2002}
 Llave, C., Xie, Z., Kasschau, K.~D., and Carrington, J.~C. (2002).
@@ -103,17 +157,37 @@ Llave, C., Xie, Z., Kasschau, K.~D., and Carrington, J.~C. (2002).
   Arabidopsis miRNA}.
 \newblock 297(September):2053--2056.
 
+\bibitem[Lobbes et~al., 2006]{Lobbes2006}
+Lobbes, D., Rallapalli, G., Schmidt, D.~D., Martin, C., and Clarke, J. (2006).
+\newblock {SERRATE: a new player on the plant microRNA scene.}
+\newblock {\em EMBO reports}, 7(10):1052--8.
+
 \bibitem[Maunoury, 2011]{Maunoury2011}
 Maunoury, N. (2011).
 \newblock {AGO1 and AGO2 Act Redundantly in miR408-Mediated Plantacyanin
   Regulation}.
 \newblock 6(12).
 
+\bibitem[Mi et~al., 2008]{pmid18342361}
+Mi, S., Cai, T., Hu, Y., Chen, Y., Hodges, E., Ni, F., Wu, L., Li, S., Zhou,
+  H., Long, C., Chen, S., Hannon, G.~J., and Qi, Y. (2008).
+\newblock {{S}orting of small {R}{N}{A}s into {A}rabidopsis argonaute complexes
+  is directed by the 5' terminal nucleotide}.
+\newblock {\em Cell}, 133(1):116--127.
+
 \bibitem[Millar and Gubler, 2005]{Millar2005}
 Millar, A.~a. and Gubler, F. (2005).
 \newblock {The Arabidopsis GAMYB-like genes, MYB33 and MYB65, are
   microRNA-regulated genes that redundantly facilitate anther development.}
 \newblock {\em The Plant cell}, 17(3):705--21.
+
+\bibitem[Montgomery et~al., 2008]{Montgomery2008}
+Montgomery, T.~A., Howell, M.~D., Cuperus, J.~T., Li, D., Hansen, J.~E.,
+  Alexander, A.~L., Chapman, E.~J., Fahlgren, N., Allen, E., and Carrington,
+  J.~C. (2008).
+\newblock {Specificity of ARGONAUTE7-miR390 Interaction and Dual Functionality
+  in TAS3 Trans -Acting siRNA Formation}.
+\newblock pages 128--141.
 
 \bibitem[Needleman and Wunsch, 1970]{Needleman1970443}
 Needleman, S.~B. and Wunsch, C.~D. (1970).
@@ -148,12 +222,24 @@ Rampey, R.~A., Leclere, S., Kowalczyk, M., Ljung, K., Bartel, B., Biology, C.,
   Indole-3-Acetic Acid Levels during Arabidopsis Germination 1}.
 \newblock 135(June):978--988.
 
+\bibitem[Reinhart et~al., 2002]{Reinhart2002}
+Reinhart, B.~J., Weinstein, E.~G., Rhoades, M.~W., Bartel, B., and Bartel,
+  D.~P. (2002).
+\newblock {MicroRNAs in plants}.
+\newblock pages 1616--1626.
+
 \bibitem[Rodriguez et~al., 2010]{Rodriguez2010}
 Rodriguez, R.~E., Mecchia, M.~A., Debernardi, J.~M., Schommer, C., Weigel, D.,
   and Palatnik, J.~F. (2010).
 \newblock {Control of cell proliferation in Arabidopsis thaliana by microRNA
   miR396}.
 \newblock 112:103--112.
+
+\bibitem[Schauer et~al., 2002]{pmid12417148}
+Schauer, S.~E., Jacobsen, S.~E., Meinke, D.~W., and Ray, A. (2002).
+\newblock {{D}{I}{C}{E}{R}-{L}{I}{K}{E}1: blind men and elephants in
+  {A}rabidopsis development}.
+\newblock {\em Trends Plant Sci.}, 7(11):487--491.
 
 \bibitem[Schiefthaler et~al., 1999]{Biology1999}
 Schiefthaler, Balasubramanian, Sieber, Chevalier, Wisman, and Schneitz (1999).
@@ -167,12 +253,41 @@ Schwab, R., Palatnik, J.~F., Riester, M., Schommer, C., Schmid, M., and Weigel,
 \newblock Specific effects of micrornas on the plant transcriptome.
 \newblock {\em Developmental Cell}, 8(4):517 -- 527.
 
-\bibitem[Vazquez et~al., 2004]{Vazquez2004}
-Vazquez, F., Gasciolli, V., Cr\'{e}t\'{e}, P., and Vaucheret, H. (2004).
+\bibitem[Shenoy and Blelloch, 2014]{pmid25118717}
+Shenoy, A. and Blelloch, R.~H. (2014).
+\newblock {{R}egulation of micro{R}{N}{A} function in somatic stem cell
+  proliferation and differentiation}.
+\newblock {\em Nat. Rev. Mol. Cell Biol.}, 15(9):565--576.
+
+\bibitem[Takeda et~al., 2008]{Takeda2008}
+Takeda, A., Iwasaki, S., and Watanabe, T. (2008).
+\newblock {The Mechanism Selecting the Guide Strand from Small RNA Duplexes is
+  Different Among Argonaute Proteins}.
+\newblock 49(4):493--500.
+
+\bibitem[Vazquez et~al., 2004a]{Vazquez2004a}
+Vazquez, F., Cre, P., and Bartel, D.~P. (2004a).
+\newblock {The action of ARGONAUTE1 in the miRNA pathway and its regulation by
+  the miRNA pathway are crucial for plant development}.
+\newblock pages 1187--1197.
+
+\bibitem[Vazquez et~al., 2004b]{Vazquez2004}
+Vazquez, F., Gasciolli, V., Cr\'{e}t\'{e}, P., and Vaucheret, H. (2004b).
 \newblock {The nuclear dsRNA binding protein HYL1 is required for microRNA
   accumulation and plant development, but not posttranscriptional transgene
   silencing.}
 \newblock {\em Current biology : CB}, 14(4):346--51.
+
+\bibitem[Voinnet, 2009]{Voinnet2009669}
+Voinnet, O. (2009).
+\newblock {Origin, Biogenesis, and Activity of Plant MicroRNAs}.
+\newblock {\em Cell}, 136(4):669--687.
+
+\bibitem[Xie et~al., 2005]{Xie2005a}
+Xie, Z., Allen, E., Fahlgren, N., Calamar, A., Givan, S.~A., and Carrington,
+  J.~C. (2005).
+\newblock {Expression of Arabidopsis MIRNA Genes 1 [ w ]}.
+\newblock 138(August):2145--2154.
 
 \bibitem[Xie et~al., 2003]{Xie2003}
 Xie, Z., Kasschau, K.~D., and Carrington, J.~C. (2003).
@@ -198,5 +313,10 @@ Yang, W.-c., Ye, D., Xu, J., and Sundaresan, V. (1999).
 \newblock {The SPOROCYTELESS gene of Arabidopsis is required for initiation of
   sporogenesis and encodes a novel nuclear protein}.
 \newblock pages 2108--2117.
+
+\bibitem[Zhang et~al., 2006]{pmid16623887}
+Zhang, B., Pan, X., Cannon, C.~H., Cobb, G.~P., and Anderson, T.~A. (2006).
+\newblock {{C}onservation and divergence of plant micro{R}{N}{A} genes}.
+\newblock {\em Plant J.}, 46(2):243--259.
 
 \end{thebibliography}
