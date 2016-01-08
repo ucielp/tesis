@@ -20,17 +20,17 @@ Por esto, definimos como secuencia consenso, a las secuencias más comunes (posi
 Los datos de las secuencias pertenecen a librerías extraídas de “Gene Index Project”\footnote{http://compbio.dfci.harvard.edu/tgi/}, que consiste en una base de datos de ESTs ensamblados.
 Seleccionamos un conjunto de datos pertenecientes a Angiospermas.
 Además utilizamos secuencias de ARNm completos de \textit{A. thaliana}\footnote{http://arabidopsis.org} y \textit{Oryza Sativa}\footnote{http://rice.plantbiology.msu.edu} (ver tabla \ref{table:NAR_table_S2}).
-La búsqueda la realizamos utilizando PatMatch\citep{Yan01072005}, que es un programa de búsqueda de patrones de nucleótidos cortos o péptidos.
+La búsqueda la realizamos utilizando PatMatch \citep{Yan01072005}, que es un programa de búsqueda de patrones de nucleótidos cortos o péptidos.
 El programa puede ser usado para encontrar coincidencias con un patrón de secuencia específico y permite el uso de códigos de secuencias ambiguas y expresiones regulares y por esto se puede utilizar la búsqueda con mismatches, inserciones y deleciones.
 Realizamos la búsqueda de potenciales genes blanco permitiendo tres mismatches con las secuencias consensos, mientras que las interacciones G:U y los bulges fueron considerados mismatches.
-Para realizar el alineamiento del par miARN-gen blanco, desarrollamos una versión modificada del algoritmo de programación dinámica Needleman-Wunsch\citep{Needleman1970443}, utilizando el lenguaje Perl\footnote{http://perl.org}.
-Además, desarrollamos scripts para integrar los módulos de Blastx\citep{Altschup1990} utilizando el proteoma de Arabidopsis y el módulo RNAhybrid\citep{Giegerich2004} que es una herramienta que permite encontrar la menor energía libre de hibridación (MFE) de dos secuencias de ARN.
+Para realizar el alineamiento del par miARN-gen blanco, desarrollamos una versión modificada del algoritmo de programación dinámica Needleman-Wunsch \citep{Needleman1970443}, utilizando el lenguaje Perl\footnote{http://perl.org}.
+Además, desarrollamos scripts para integrar los módulos de Blastx \citep{Altschup1990} utilizando el proteoma de Arabidopsis y el módulo RNAhybrid \citep{Giegerich2004} que es una herramienta que permite encontrar la menor energía libre de hibridación (MFE) de dos secuencias de ARN.
 
 \subsubsection{Filtros}
 Las secuencias candidatas fueron etiquetadas con el identificador del locus (locus ID) con mejor puntuación (best hit) en \textit{A. thaliana}, utilizando el módulo de Blastx (Corte del evalue de 10e$^{-5})$.
 De este modo, genes blanco de distintas especies que tenían la misma etiqueta fueron agrupados juntos, ya que tendrían el mismo homólogo en \textit{A. thaliana}.
 El filtro de conservación evolutiva hace referencia al número mínimo de especies donde la misma etiqueta estaba presente para un miARN particular.
-El filtro empírico está basado en trabajos previos\citep{Schwab2005517} y hace referencia a la energía de interacción MFE (mínima energía libre de hibridación de al menos 72\% del apareamiento perfecto).
+El filtro empírico está basado en trabajos previos \citep{Schwab2005517} y hace referencia a la energía de interacción MFE (mínima energía libre de hibridación de al menos 72\% del apareamiento perfecto).
 El otro filtro empírico requiere que entre el par miARN-gen blanco, solamente está permitido un mismatch entre la posición 2 y la 12 del miARN (1-11 de nuestra búsqueda modificada con las secuencias consenso).
 
 \subsubsection{Controles}

@@ -2,9 +2,12 @@
 \contentsline {chapter}{\IeC {\'I}ndice de figuras}{vii}{section*.4}
 \contentsline {chapter}{\IeC {\'I}ndice de tablas}{ix}{section*.6}
 \contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore}{1}{section.1.1}
+\contentsline {section}{\numberline {1.1}Silenciamiento g\IeC {\'e}nico y ARN peque\IeC {\~n}os}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}miARNs en plantas}{1}{section.1.2}
 \contentsline {section}{\numberline {1.3}Biog\IeC {\'e}nesis de miARNs}{2}{section.1.3}
+\contentsline {section}{\numberline {1.4}}{3}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Mechanism of miRNA-Mediated mRNA Decay in Plants}{3}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}miRNA-Mediated Translational Repression in Plants}{3}{subsection.1.4.2}
 \contentsline {chapter}{\numberline {2}Objetivos}{5}{chapter.2}
 \contentsline {section}{\numberline {2.1}Objetivo general}{5}{section.2.1}
 \contentsline {section}{\numberline {2.2}Objetivos espec\IeC {\'\i }ficos}{5}{section.2.2}
@@ -40,4 +43,4 @@
 \contentsline {chapter}{\numberline {6}Conclusiones}{33}{chapter.6}
 \contentsline {section}{\numberline {6.1}Short title}{33}{section.6.1}
 \contentsline {chapter}{References}{35}{section*.34}
-\contentsline {chapter}{Appendix \numberline {A}Anexo}{39}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {A}Anexo}{41}{Appendix.a.A}

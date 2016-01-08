@@ -320,14 +320,13 @@ sub family_from_db{
 	$sth->execute();	
 }
 
-# Save the miRNA for RNAhybird
 sub hybrid_mirna_file{
 	my ($mirna,$file_mirna) = @_;
 	open(MIRNA, ">$file_mirna") || die;
 	print MIRNA ">mirna\n$mirna\n";
 	close(MIRNA);
 }
-# Save the target for RNAhybird
+
 sub hybrid_target_file {
 	my ($target,$file_target) = @_;
 	open(OUT, ">$file_target") || die;
@@ -495,7 +494,6 @@ sub Needleman {
 
 
 		}
-		#no tendria que entrar aca, salvo si esta al final
 		elsif ($matrix[$i][$j]{pointer} eq "left") {
 			$align1 .= substr($seq1, $j-1, 1);
 			$align2 .= "-";

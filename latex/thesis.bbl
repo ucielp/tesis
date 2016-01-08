@@ -14,8 +14,8 @@ Allen, E., Xie, Z., Gustafson, A.~M., and Carrington, J.~C. (2005).
 
 \bibitem[Altschup et~al., 1990]{Altschup1990}
 Altschup, S.~F., Gish, W., Pennsylvania, T., and Park, U. (1990).
-\newblock {Basic Local Alignment Search Tool 2Department of Computer Science}.
-\newblock pages 403--410.
+\newblock {Basic Local Alignment Search Tool}.
+\newblock {\em Journal of Molecular Biology}, pages 403--410.
 
 \bibitem[Arazi et~al., 2005]{Arazi2005}
 Arazi, T., Talmor-Neiman, M., Stav, R., Riese, M., Huijser, P., and Baulcombe,
@@ -23,6 +23,12 @@ Arazi, T., Talmor-Neiman, M., Stav, R., Riese, M., Huijser, P., and Baulcombe,
 \newblock {Cloning and characterization of micro-RNAs from moss.}
 \newblock {\em The Plant journal : for cell and molecular biology},
   43(6):837--48.
+
+\bibitem[Aukerman and Sakai, 2003]{pmid14555699}
+Aukerman, M.~J. and Sakai, H. (2003).
+\newblock {{R}egulation of flowering time and floral organ identity by a
+  {M}icro{R}{N}{A} and its {A}{P}{E}{T}{A}{L}{A}2-like target genes}.
+\newblock {\em Plant Cell}, 15(11):2730--2741.
 
 \bibitem[Axtell, 2008]{Axtell2008}
 Axtell, M.~J. (2008).
@@ -39,22 +45,38 @@ Axtell, M.~J. and Bowman, J.~L. (2008).
 Bartel, D.~P., Lee, R., and Feinbaum, R. (2004).
 \newblock {MicroRNAs: Genomics , Biogenesis , Mechanism , and Function Genomics
   : The miRNA Genes}.
-\newblock 116:281--297.
+\newblock {\em Cell}, 116:281--297.
 
 \bibitem[Bologna et~al., 2012]{Bologna11112012}
 Bologna, N.~G., Schapire, A.~L., and Palatnik, J.~F. (2012).
 \newblock Processing of plant microrna precursors.
 \newblock {\em Briefings in Functional Genomics}.
 
+\bibitem[Brodersen et~al., 2008]{pmid18483398}
+Brodersen, P., Sakvarelidze-Achard, L., Bruun-Rasmussen, M., Dunoyer, P.,
+  Yamamoto, Y.~Y., Sieburth, L., and Voinnet, O. (2008).
+\newblock {{W}idespread translational inhibition by plant mi{R}{N}{A}s and
+  si{R}{N}{A}s}.
+\newblock {\em Science}, 320(5880):1185--1190.
+
 \bibitem[Carrington and Ambros, 2003]{pmid12869753}
 Carrington, J.~C. and Ambros, V. (2003).
 \newblock {{R}ole of micro{R}{N}{A}s in plant and animal development}.
 \newblock {\em Science}, 301(5631):336--338.
 
-\bibitem[Cellulaire, 2008]{Cellulaire2008}
-Cellulaire, L. D.~B. (2008).
-\newblock {Plant ARGONAUTES ´}.
-\newblock (May).
+\bibitem[Chekanova et~al., 2007]{pmid18160042}
+Chekanova, J.~A., Gregory, B.~D., Reverdatto, S.~V., Chen, H., Kumar, R.,
+  Hooker, T., Yazaki, J., Li, P., Skiba, N., Peng, Q., Alonso, J., Brukhin, V.,
+  Grossniklaus, U., Ecker, J.~R., and Belostotsky, D.~A. (2007).
+\newblock {{G}enome-wide high-resolution mapping of exosome substrates reveals
+  hidden features in the {A}rabidopsis transcriptome}.
+\newblock {\em Cell}, 131(7):1340--1353.
+
+\bibitem[Chen, 2004]{pmid12893888}
+Chen, X. (2004).
+\newblock {{A} micro{R}{N}{A} as a translational repressor of
+  {A}{P}{E}{T}{A}{L}{A}2 in {A}rabidopsis flower development}.
+\newblock {\em Science}, 303(5666):2022--2025.
 
 \bibitem[Chorostecki et~al., 2012]{Chorostecki05072012}
 Chorostecki, U., Crosa, V.~A., Lodeyro, A.~F., Bologna, N.~G., Martin, A.~P.,
@@ -78,7 +100,7 @@ Cuperus, J.~T., Fahlgren, N., and Carrington, J.~C. (2011).
 Davies, R.~T., Goetz, D.~H., Lasswell, J., Anderson, M.~N., and Bartel, B.
   (1999).
 \newblock {IAR3 Encodes an Auxin Conjugate Hydrolase from Arabidopsis}.
-\newblock 11(March):365--376.
+\newblock {\em Plant Cell}, 11(March):365--376.
 
 \bibitem[Debernardi et~al., 2012]{10.1371/journal.pgen.1002419}
 Debernardi, J.~M., Rodriguez, R.~E., Mecchia, M.~A., and Palatnik, J.~F.
@@ -86,6 +108,17 @@ Debernardi, J.~M., Rodriguez, R.~E., Mecchia, M.~A., and Palatnik, J.~F.
 \newblock {Functional Specialization of the Plant miR396 Regulatory Network
   through Distinct MicroRNA–Target Interactions}.
 \newblock {\em PLoS Genet}, 8(1):e1002419.
+
+\bibitem[Dugas and Bartel, 2008]{pmid18392778}
+Dugas, D.~V. and Bartel, B. (2008).
+\newblock {{S}ucrose induction of {A}rabidopsis mi{R}398 represses two
+  {C}u/{Z}n superoxide dismutases}.
+\newblock {\em Plant Mol. Biol.}, 67(4):403--417.
+
+\bibitem[Fabian et~al., 2010]{Fabian}
+Fabian, M.~R., Sonenberg, N., and Filipowicz, W. (2010).
+\newblock {Regulation of mRNA Translation and Stability by microRNAs}.
+\newblock {\em Annual Review of Biochemistry}, (79):351--79.
 
 \bibitem[Fahlgren and Carrington, 2010]{Fahlgren_chapter}
 Fahlgren, N. and Carrington, J. (2010).
@@ -100,6 +133,12 @@ Fahlgren, N., Jogdeo, S., Kasschau, K.~D., Sullivan, C.~M., Chapman, E.~J.,
 \newblock {MicroRNA gene evolution in Arabidopsis lyrata and Arabidopsis
   thaliana.}
 \newblock {\em The Plant cell}, 22(4):1074--89.
+
+\bibitem[Floyd and Bowman, 2004]{pmid15057819}
+Floyd, S.~K. and Bowman, J.~L. (2004).
+\newblock {{G}ene regulation: ancient micro{R}{N}{A} target sequences in
+  plants}.
+\newblock {\em Nature}, 428(6982):485--486.
 
 \bibitem[German et~al., 2008]{German2008}
 German, M.~a., Pillay, M., Jeong, D.-H., Hetawal, A., Luo, S., Janardhanan, P.,
@@ -119,6 +158,12 @@ Goodstein, D.~M., Shu, S., Howson, R., Neupane, R., Hayes, R.~D., Fazo, J.,
   Mitros, T., Dirks, W., Hellsten, U., Putnam, N., and Rokhsar, D.~S. (2012).
 \newblock {Phytozome: a comparative platform for green plant genomics.}
 \newblock {\em Nucleic acids research}, 40(Database issue):D1178--86.
+
+\bibitem[Guo et~al., 2010]{pmid20703300}
+Guo, H., Ingolia, N.~T., Weissman, J.~S., and Bartel, D.~P. (2010).
+\newblock {{M}ammalian micro{R}{N}{A}s predominantly act to decrease target
+  m{R}{N}{A} levels}.
+\newblock {\em Nature}, 466(7308):835--840.
 
 \bibitem[Han et~al., 2004]{Han2004}
 Han, M.-H., Goud, S., Song, L., and Fedoroff, N. (2004).
@@ -151,16 +196,36 @@ Kozomara, A. and Griffiths-Jones, S. (2014).
   data.}
 \newblock {\em Nucleic acids research}, 42(Database issue):D68--73.
 
+\bibitem[Lanet et~al., 2009]{pmid19531599}
+Lanet, E., Delannoy, E., Sormani, R., Floris, M., Brodersen, P., Crete, P.,
+  Voinnet, O., and Robaglia, C. (2009).
+\newblock {{B}iochemical evidence for translational repression by {A}rabidopsis
+  micro{R}{N}{A}s}.
+\newblock {\em Plant Cell}, 21(6):1762--1768.
+
+\bibitem[Lee et~al., 1993]{pmid8252621}
+Lee, R.~C., Feinbaum, R.~L., and Ambros, V. (1993).
+\newblock {{T}he {C}. elegans heterochronic gene lin-4 encodes small {R}{N}{A}s
+  with antisense complementarity to lin-14}.
+\newblock {\em Cell}, 75(5):843--854.
+
 \bibitem[Llave et~al., 2002]{Llave2002}
 Llave, C., Xie, Z., Kasschau, K.~D., and Carrington, J.~C. (2002).
 \newblock {Cleavage of Scarecrow-like mRNA Targets Directed by a Class of
   Arabidopsis miRNA}.
-\newblock 297(September):2053--2056.
+\newblock {\em Science}, 297(September):2053--2056.
 
 \bibitem[Lobbes et~al., 2006]{Lobbes2006}
 Lobbes, D., Rallapalli, G., Schmidt, D.~D., Martin, C., and Clarke, J. (2006).
 \newblock {SERRATE: a new player on the plant microRNA scene.}
 \newblock {\em EMBO reports}, 7(10):1052--8.
+
+\bibitem[Mallory et~al., 2004]{Mallory2004}
+Mallory, A.~C., Reinhart, B.~J., Jones-rhoades, M.~W., Zamore, P.~D., Kathryn,
+  M., and Bartel, D.~P. (2004).
+\newblock {MicroRNA control of PHABULOSA in leaf development : importance of
+  pairing to the microRNA 5 0 region}.
+\newblock {\em Embo journal}, 23(16):3356--3364.
 
 \bibitem[Maunoury, 2011]{Maunoury2011}
 Maunoury, N. (2011).
@@ -200,6 +265,12 @@ Niyogi, K.~K., Pilon, M., Shikanai, T., Abdel-ghany, S.~E., and Mu, P. (2005).
 \newblock {Two P-Type ATPases Are Required for Copper Delivery in Arabidopsis
   thaliana Chloroplasts}.
 \newblock 17(April):1233--1251.
+
+\bibitem[Palatnik et~al., 2003]{pmid12931144}
+Palatnik, J.~F., Allen, E., Wu, X., Schommer, C., Schwab, R., Carrington,
+  J.~C., and Weigel, D. (2003).
+\newblock {{C}ontrol of leaf morphogenesis by micro{R}{N}{A}s}.
+\newblock {\em Nature}, 425(6955):257--263.
 
 \bibitem[Palatnik et~al., 2007]{Palatnik2007}
 Palatnik, J.~F., Wollmann, H., Schommer, C., Schwab, R., Boisbouvier, J.,
@@ -259,11 +330,22 @@ Shenoy, A. and Blelloch, R.~H. (2014).
   proliferation and differentiation}.
 \newblock {\em Nat. Rev. Mol. Cell Biol.}, 15(9):565--576.
 
+\bibitem[Souret et~al., 2004]{pmid15260969}
+Souret, F.~F., Kastenmayer, J.~P., and Green, P.~J. (2004).
+\newblock {{A}t{X}{R}{N}4 degrades m{R}{N}{A} in {A}rabidopsis and its
+  substrates include selected mi{R}{N}{A} targets}.
+\newblock {\em Mol. Cell}, 15(2):173--183.
+
 \bibitem[Takeda et~al., 2008]{Takeda2008}
 Takeda, A., Iwasaki, S., and Watanabe, T. (2008).
 \newblock {The Mechanism Selecting the Guide Strand from Small RNA Duplexes is
   Different Among Argonaute Proteins}.
 \newblock 49(4):493--500.
+
+\bibitem[Vaucheret, 2008]{Cellulaire2008}
+Vaucheret, H. (2008).
+\newblock {Plant ARGONAUTES ´}.
+\newblock {\em Cell}, (May).
 
 \bibitem[Vazquez et~al., 2004a]{Vazquez2004a}
 Vazquez, F., Cre, P., and Bartel, D.~P. (2004a).
