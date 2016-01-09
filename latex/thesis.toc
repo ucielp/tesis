@@ -1,46 +1,51 @@
 \thispagestyle {empty}
-\contentsline {chapter}{\IeC {\'I}ndice de figuras}{vii}{section*.4}
-\contentsline {chapter}{\IeC {\'I}ndice de tablas}{ix}{section*.6}
+\contentsline {chapter}{\IeC {\'I}ndice de figuras}{vii}{chapter*.3}
+\contentsline {chapter}{\IeC {\'I}ndice de tablas}{ix}{chapter*.4}
 \contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Silenciamiento g\IeC {\'e}nico y ARN peque\IeC {\~n}os}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Variedades de ARN peque\IeC {\~n}os en plantas}{1}{subsection.1.1.1}
 \contentsline {section}{\numberline {1.2}miARNs en plantas}{1}{section.1.2}
 \contentsline {section}{\numberline {1.3}Biog\IeC {\'e}nesis de miARNs}{2}{section.1.3}
-\contentsline {section}{\numberline {1.4}}{3}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Mechanism of miRNA-Mediated mRNA Decay in Plants}{3}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}miRNA-Mediated Translational Repression in Plants}{3}{subsection.1.4.2}
-\contentsline {chapter}{\numberline {2}Objetivos}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}Objetivo general}{5}{section.2.1}
-\contentsline {section}{\numberline {2.2}Objetivos espec\IeC {\'\i }ficos}{5}{section.2.2}
-\contentsline {chapter}{\numberline {3}M\IeC {\'e}todos}{7}{chapter.3}
-\contentsline {section}{\numberline {3.1}Predicci\IeC {\'o}n de genes regulados por miARNs en plantas}{7}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}MiARN consensos}{7}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Predicci\IeC {\'o}n de genes regulados por miARNs}{7}{subsection.3.1.2}
-\contentsline {subsubsection}{Conjunto de datos de plantas}{7}{section*.8}
-\contentsline {subsubsection}{Filtros}{8}{section*.9}
-\contentsline {subsubsection}{Controles}{8}{section*.10}
-\contentsline {subsubsection}{Ecotipos utilizados y condiciones de crecimiento}{9}{section*.11}
-\contentsline {subsubsection}{Cleavage site mapping of target mRNA and expression analysis}{9}{section*.12}
-\contentsline {section}{\numberline {3.2}comTAR: una herramienta para la predicci\IeC {\'o}n de genes blanco regulados por miARNs en plantas}{9}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}MiARN y transcriptos}{10}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}B\IeC {\'u}squeda de genes blanco}{10}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Herramienta web y almacenamiento de datos}{10}{subsection.3.2.3}
-\contentsline {chapter}{\numberline {4}Resultados Cap\IeC {\'\i }tulo 1}{13}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introducci\IeC {\'o}n}{13}{section.4.1}
-\contentsline {section}{\numberline {4.2}Resultados}{13}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Predicci\IeC {\'o}n de genes regulados por miARNs.}{13}{subsection.4.2.1}
-\contentsline {subsubsection}{Dise\IeC {\~n}o de una estrategia para la identificaci\IeC {\'o}n de genes blanco regulados por microARNs basado en la conservaci\IeC {\'o}n evolutiva del par microARN-gen blanco.}{13}{section*.14}
-\contentsline {subsubsection}{Par\IeC {\'a}metros emp\IeC {\'\i }ricos y de conservaci\IeC {\'o}n evolutiva pueden actuar de manera sin\IeC {\'e}rgica para identificar genes blanco regulados por miARNs.}{14}{section*.17}
-\contentsline {subsubsection}{Identificaci\IeC {\'o}n de nuevos genes blanco en \textit {A. thaliana} por conservaci\IeC {\'o}n de la secuencia del gen blanco.}{21}{section*.21}
-\contentsline {subsubsection}{Identificaci\IeC {\'o}n de nuevos genes blanco permitiendo interacciones G-U.}{22}{section*.23}
-\contentsline {subsubsection}{Identificaci\IeC {\'o}n de genes blanco espec\IeC {\'\i }ficos de \textit {Solanaceae}.}{24}{section*.25}
-\contentsline {subsection}{\numberline {4.2.2}comTAR: una herramienta para la predicci\IeC {\'o}n de genes blanco regulados por miARNs en plantas.}{26}{subsection.4.2.2}
-\contentsline {subsubsection}{Buscar potenciales genes blanco de miARN}{26}{section*.27}
-\contentsline {subsubsection}{Buscar familias de potenciales genes blanco de miARN}{28}{section*.28}
-\contentsline {subsubsection}{\IeC {\textquestiondown }Es este gen un potencial gen blanco de algun miARN conservado?}{28}{section*.29}
-\contentsline {subsubsection}{Buscar tu secuencia particular}{28}{section*.30}
-\contentsline {chapter}{\numberline {5}My second chapter}{31}{chapter.5}
-\contentsline {section}{\numberline {5.1}Short title}{31}{section.5.1}
-\contentsline {chapter}{\numberline {6}Conclusiones}{33}{chapter.6}
-\contentsline {section}{\numberline {6.1}Short title}{33}{section.6.1}
-\contentsline {chapter}{References}{35}{section*.34}
-\contentsline {chapter}{Appendix \numberline {A}Anexo}{41}{Appendix.a.A}
+\contentsline {section}{\numberline {1.4}Regulaci\IeC {\'o}n de la expresi\IeC {\'o}n g\IeC {\'e}nica por miARNs}{3}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Regulaci\IeC {\'o}n por corte del ARN blanco}{3}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Regulaci\IeC {\'o}n de la traducci\IeC {\'o}n por miARNs}{3}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Generaci\IeC {\'o}n de ta-siRNAs y siRNAs secundarios}{4}{subsection.1.4.3}
+\contentsline {section}{\numberline {1.5}Procesos biol\IeC {\'o}gicos regulados por miARNs en plantas}{4}{section.1.5}
+\contentsline {section}{\numberline {1.6}Predicci\IeC {\'o}n de genes blanco de miARNs}{5}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Algoritmos}{5}{subsection.1.6.1}
+\contentsline {chapter}{\numberline {2}Objetivos}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Objetivo general}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}Objetivos espec\IeC {\'\i }ficos}{7}{section.2.2}
+\contentsline {chapter}{\numberline {3}M\IeC {\'e}todos}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Predicci\IeC {\'o}n de genes regulados por miARNs en plantas}{9}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}MiARN consensos}{9}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Predicci\IeC {\'o}n de genes regulados por miARNs}{9}{subsection.3.1.2}
+\contentsline {subsubsection}{Conjunto de datos de plantas}{9}{section*.6}
+\contentsline {subsubsection}{Filtros}{10}{section*.7}
+\contentsline {subsubsection}{Controles}{10}{section*.8}
+\contentsline {subsubsection}{Ecotipos utilizados y condiciones de crecimiento}{11}{section*.9}
+\contentsline {subsubsection}{Cleavage site mapping of target mRNA and expression analysis}{11}{section*.10}
+\contentsline {section}{\numberline {3.2}comTAR: una herramienta para la predicci\IeC {\'o}n de genes blanco regulados por miARNs en plantas}{11}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}MiARN y transcriptos}{12}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}B\IeC {\'u}squeda de genes blanco}{12}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Herramienta web y almacenamiento de datos}{12}{subsection.3.2.3}
+\contentsline {chapter}{\numberline {4}Resultados Cap\IeC {\'\i }tulo 1}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introducci\IeC {\'o}n}{15}{section.4.1}
+\contentsline {section}{\numberline {4.2}Resultados}{15}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Predicci\IeC {\'o}n de genes regulados por miARNs.}{15}{subsection.4.2.1}
+\contentsline {subsubsection}{Dise\IeC {\~n}o de una estrategia para la identificaci\IeC {\'o}n de genes blanco regulados por microARNs basado en la conservaci\IeC {\'o}n evolutiva del par microARN-gen blanco.}{15}{section*.12}
+\contentsline {subsubsection}{Par\IeC {\'a}metros emp\IeC {\'\i }ricos y de conservaci\IeC {\'o}n evolutiva pueden actuar de manera sin\IeC {\'e}rgica para identificar genes blanco regulados por miARNs.}{16}{section*.15}
+\contentsline {subsubsection}{Identificaci\IeC {\'o}n de nuevos genes blanco en \textit {A. thaliana} por conservaci\IeC {\'o}n de la secuencia del gen blanco.}{23}{section*.19}
+\contentsline {subsubsection}{Identificaci\IeC {\'o}n de nuevos genes blanco permitiendo interacciones G-U.}{24}{section*.21}
+\contentsline {subsubsection}{Identificaci\IeC {\'o}n de genes blanco espec\IeC {\'\i }ficos de \textit {Solanaceae}.}{26}{section*.23}
+\contentsline {subsection}{\numberline {4.2.2}comTAR: una herramienta para la predicci\IeC {\'o}n de genes blanco regulados por miARNs en plantas.}{28}{subsection.4.2.2}
+\contentsline {subsubsection}{Buscar potenciales genes blanco de miARN}{28}{section*.25}
+\contentsline {subsubsection}{Buscar familias de potenciales genes blanco de miARN}{30}{section*.26}
+\contentsline {subsubsection}{\IeC {\textquestiondown }Es este gen un potencial gen blanco de algun miARN conservado?}{30}{section*.27}
+\contentsline {subsubsection}{Buscar tu secuencia particular}{30}{section*.28}
+\contentsline {chapter}{\numberline {5}My second chapter}{33}{chapter.5}
+\contentsline {section}{\numberline {5.1}Short title}{33}{section.5.1}
+\contentsline {chapter}{\numberline {6}Conclusiones}{35}{chapter.6}
+\contentsline {section}{\numberline {6.1}Short title}{35}{section.6.1}
+\contentsline {chapter}{References}{37}{chapter*.31}
+\contentsline {chapter}{Appendix \numberline {A}Anexo}{43}{Appendix.a.A}

@@ -52,6 +52,12 @@ Bologna, N.~G., Schapire, A.~L., and Palatnik, J.~F. (2012).
 \newblock Processing of plant microrna precursors.
 \newblock {\em Briefings in Functional Genomics}.
 
+\bibitem[Bowman, 2004]{pmid15351964}
+Bowman, J.~L. (2004).
+\newblock {{C}lass {I}{I}{I} {H}{D}-{Z}ip gene regulation, the golden fleece of
+  {A}{R}{G}{O}{N}{A}{U}{T}{E} activity?}
+\newblock {\em Bioessays}, 26(9):938--942.
+
 \bibitem[Brodersen et~al., 2008]{pmid18483398}
 Brodersen, P., Sakvarelidze-Achard, L., Bruun-Rasmussen, M., Dunoyer, P.,
   Yamamoto, Y.~Y., Sieburth, L., and Voinnet, O. (2008).
@@ -72,6 +78,13 @@ Chekanova, J.~A., Gregory, B.~D., Reverdatto, S.~V., Chen, H., Kumar, R.,
   hidden features in the {A}rabidopsis transcriptome}.
 \newblock {\em Cell}, 131(7):1340--1353.
 
+\bibitem[Chen et~al., 2010]{pmid20643946}
+Chen, H.~M., Chen, L.~T., Patel, K., Li, Y.~H., Baulcombe, D.~C., and Wu, S.~H.
+  (2010).
+\newblock {22-{N}ucleotide {R}{N}{A}s trigger secondary si{R}{N}{A} biogenesis
+  in plants}.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 107(34):15269--15274.
+
 \bibitem[Chen, 2004]{pmid12893888}
 Chen, X. (2004).
 \newblock {{A} micro{R}{N}{A} as a translational repressor of
@@ -90,6 +103,15 @@ Chorostecki, U. and Palatnik, J.~F. (2014).
 \newblock {comTAR: a web tool for the prediction and characterization of
   conserved microRNA targets in plants.}
 \newblock {\em Bioinformatics (Oxford, England)}, 30(14):2066--7.
+
+\bibitem[Cuperus et~al., 2010]{pmid20562854}
+Cuperus, J.~T., Carbonell, A., Fahlgren, N., Garcia-Ruiz, H., Burke, R.~T.,
+  Takeda, A., Sullivan, C.~M., Gilbert, S.~D., Montgomery, T.~A., and
+  Carrington, J.~C. (2010).
+\newblock {{U}nique functionality of 22-nt mi{R}{N}{A}s in triggering
+  {R}{D}{R}6-dependent si{R}{N}{A} biogenesis from target transcripts in
+  {A}rabidopsis}.
+\newblock {\em Nat. Struct. Mol. Biol.}, 17(8):997--1003.
 
 \bibitem[Cuperus et~al., 2011]{citeulike:8816489}
 Cuperus, J.~T., Fahlgren, N., and Carrington, J.~C. (2011).
@@ -139,6 +161,13 @@ Floyd, S.~K. and Bowman, J.~L. (2004).
 \newblock {{G}ene regulation: ancient micro{R}{N}{A} target sequences in
   plants}.
 \newblock {\em Nature}, 428(6982):485--486.
+
+\bibitem[Gasciolli et~al., 2005]{pmid16040244}
+Gasciolli, V., Mallory, A.~C., Bartel, D.~P., and Vaucheret, H. (2005).
+\newblock {{P}artially redundant functions of {A}rabidopsis
+  {D}{I}{C}{E}{R}-like enzymes and a role for {D}{C}{L}4 in producing
+  trans-acting si{R}{N}{A}s}.
+\newblock {\em Curr. Biol.}, 15(16):1494--1500.
 
 \bibitem[German et~al., 2008]{German2008}
 German, M.~a., Pillay, M., Jeong, D.-H., Hetawal, A., Luo, S., Janardhanan, P.,
@@ -203,6 +232,12 @@ Lanet, E., Delannoy, E., Sormani, R., Floris, M., Brodersen, P., Crete, P.,
   micro{R}{N}{A}s}.
 \newblock {\em Plant Cell}, 21(6):1762--1768.
 
+\bibitem[Laufs~P, 2004]{laufus}
+Laufs~P, Peaucelle~A, M. H. T.~J. (2004).
+\newblock {MicroRNA regulation of the CUC genes is required for boundary size
+  control in Arabidopsis meristems.}
+\newblock {\em Development}, 12(5):622--627.
+
 \bibitem[Lee et~al., 1993]{pmid8252621}
 Lee, R.~C., Feinbaum, R.~L., and Ambros, V. (1993).
 \newblock {{T}he {C}. elegans heterochronic gene lin-4 encodes small {R}{N}{A}s
@@ -227,6 +262,12 @@ Mallory, A.~C., Reinhart, B.~J., Jones-rhoades, M.~W., Zamore, P.~D., Kathryn,
   pairing to the microRNA 5 0 region}.
 \newblock {\em Embo journal}, 23(16):3356--3364.
 
+\bibitem[Manavella et~al., 2012]{pmid22308502}
+Manavella, P.~A., Koenig, D., and Weigel, D. (2012).
+\newblock {{P}lant secondary si{R}{N}{A} production determined by
+  micro{R}{N}{A}-duplex structure}.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 109(7):2461--2466.
+
 \bibitem[Maunoury, 2011]{Maunoury2011}
 Maunoury, N. (2011).
 \newblock {AGO1 and AGO2 Act Redundantly in miR408-Mediated Plantacyanin
@@ -246,13 +287,21 @@ Millar, A.~a. and Gubler, F. (2005).
   microRNA-regulated genes that redundantly facilitate anther development.}
 \newblock {\em The Plant cell}, 17(3):705--21.
 
-\bibitem[Montgomery et~al., 2008]{Montgomery2008}
+\bibitem[Montgomery et~al., 2008a]{Montgomery2008}
 Montgomery, T.~A., Howell, M.~D., Cuperus, J.~T., Li, D., Hansen, J.~E.,
   Alexander, A.~L., Chapman, E.~J., Fahlgren, N., Allen, E., and Carrington,
-  J.~C. (2008).
+  J.~C. (2008a).
 \newblock {Specificity of ARGONAUTE7-miR390 Interaction and Dual Functionality
   in TAS3 Trans -Acting siRNA Formation}.
 \newblock pages 128--141.
+
+\bibitem[Montgomery et~al., 2008b]{pmid19066226}
+Montgomery, T.~A., Yoo, S.~J., Fahlgren, N., Gilbert, S.~D., Howell, M.~D.,
+  Sullivan, C.~M., Alexander, A., Nguyen, G., Allen, E., Ahn, J.~H., and
+  Carrington, J.~C. (2008b).
+\newblock {{A}{G}{O}1-mi{R}173 complex initiates phased si{R}{N}{A} formation
+  in plants}.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 105(51):20055--20062.
 
 \bibitem[Needleman and Wunsch, 1970]{Needleman1970443}
 Needleman, S.~B. and Wunsch, C.~D. (1970).
@@ -305,6 +354,17 @@ Rodriguez, R.~E., Mecchia, M.~A., Debernardi, J.~M., Schommer, C., Weigel, D.,
 \newblock {Control of cell proliferation in Arabidopsis thaliana by microRNA
   miR396}.
 \newblock 112:103--112.
+
+\bibitem[Rubio-Somoza et~al., 2009]{pmid19699140}
+Rubio-Somoza, I., Cuperus, J.~T., Weigel, D., and Carrington, J.~C. (2009).
+\newblock {{R}egulation and functional specialization of small {R}{N}{A}-target
+  nodes during plant development}.
+\newblock {\em Curr. Opin. Plant Biol.}, 12(5):622--627.
+
+\bibitem[Rubio-Somoza and Weigel, 2011]{pmid21466971}
+Rubio-Somoza, I. and Weigel, D. (2011).
+\newblock {{M}icro{R}{N}{A} networks and developmental plasticity in plants}.
+\newblock {\em Trends Plant Sci.}, 16(5):258--264.
 
 \bibitem[Schauer et~al., 2002]{pmid12417148}
 Schauer, S.~E., Jacobsen, S.~E., Meinke, D.~W., and Ray, A. (2002).
@@ -368,8 +428,8 @@ Voinnet, O. (2009).
 \bibitem[Xie et~al., 2005]{Xie2005a}
 Xie, Z., Allen, E., Fahlgren, N., Calamar, A., Givan, S.~A., and Carrington,
   J.~C. (2005).
-\newblock {Expression of Arabidopsis MIRNA Genes 1 [ w ]}.
-\newblock 138(August):2145--2154.
+\newblock {Expression of Arabidopsis MIRNA Genes }.
+\newblock {\em Plant Physiology}, 138(August):2145--2154.
 
 \bibitem[Xie et~al., 2003]{Xie2003}
 Xie, Z., Kasschau, K.~D., and Carrington, J.~C. (2003).
@@ -395,6 +455,12 @@ Yang, W.-c., Ye, D., Xu, J., and Sundaresan, V. (1999).
 \newblock {The SPOROCYTELESS gene of Arabidopsis is required for initiation of
   sporogenesis and encodes a novel nuclear protein}.
 \newblock pages 2108--2117.
+
+\bibitem[Yoshikawa et~al., 2005]{pmid16131612}
+Yoshikawa, M., Peragine, A., Park, M.~Y., and Poethig, R.~S. (2005).
+\newblock {{A} pathway for the biogenesis of trans-acting si{R}{N}{A}s in
+  {A}rabidopsis}.
+\newblock {\em Genes Dev.}, 19(18):2164--2175.
 
 \bibitem[Zhang et~al., 2006]{pmid16623887}
 Zhang, B., Pan, X., Cannon, C.~H., Cobb, G.~P., and Anderson, T.~A. (2006).
