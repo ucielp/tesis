@@ -63,7 +63,7 @@ Este corte ocurre entre las posiciones 10 y 11 desde el extremo 5' del miARN, in
 
 Luego del corte medidado por el miARN, los fragmentos 3' son degradados  mediante la actividad de la enzima citoplasmática 5’-3’EXORIBONUCLEASA4 (XRN4) en En \textit{A. thaliana}  \citep{pmid15260969}
 Los fragmentos 5' también pueden ser degradados por un complejo denominado Exosoma, el cual está encargado de diferentes funciones de degradación y procesamiento de ARNs \citep{pmid18160042}.
-En Arabidopsis la degradación del fragmento 5', puede ser acelerada por uridilación en el extremo 3' por la enzima una enzima denomina HESO1 \citep{Ren2014}.
+En Arabidopsis la degradación del fragmento 5', puede ser acelerada por uridilación en el extremo 3' por la enzima una enzima denomina HESO1 \citep{pmid24733911}.
 
 \subsection{Regulación de la traducción por miARNs}
 
@@ -95,7 +95,7 @@ Por otra parte, entre los genes blanco que no corresponden a factores de transcr
 Algunos codifican proteínas pertenecientes a la familia F-Box o enzimas E2 conjugantes de ubiquitina, las cuales están implicadas en la marcación de proteínas para la degradación por el proteosoma \citep{pmid19699140}.
 Otros genes con función conocida codifican para proteínas involucradas en la transducción de señales hormonales, o proteínas involucradas en el metabolismo energético, la respuesta a estrés o déficit de nutrientes.
 
-Por otro lado, en otras especies que se han realizados estudios de RNA pequeños por técnicas de alto rendimiento, se han encontrado miARNs no conservados \citep{citeulike:8816489, Rodriguez2010, Rajagopalan2006}.
+Por otro lado, en otras especies que se han realizados estudios de ARN pequeños por técnicas de alto rendimiento, se han encontrado miARNs no conservados \citep{citeulike:8816489, Rodriguez2010, Rajagopalan2006}.
 Los genes blanco regulados por estos miARNs tienen funciones más variables que los blanco de los miARns conservados, de todos modos se ha demostrado el rol biológico de un pequeño número de estas interacciones \citep{citeulike:8816489}.
 
 En esta tesis nos enfocaremos principalmente en las familias de miARNs conservadas entre distintas especies de plantas (Tabla \ref{table:table_consensus}).
@@ -104,9 +104,49 @@ Estas familias han sido estudiadas profundamente, por lo que su mayoría se encu
 
 \section{Predicción de genes blanco de miARNs}
 
-miRNAs can bind to target messenger RNA (mRNA) transcripts of protein-coding genes and negatively control their translation or cause mRNA degradation.
-It is of key importance to identify the miRNA targets accurately.
-A detailed review for the advances in the miRNA target identification methods and available resources has been published by Zheng et al.[214]. (ijms-14-08179.pdf)
-A comparison of the predictive performance of eighteen in silico algorithms is available in Agarwal et al.[215] 
+\subsection{Métodos para predicción de genes blanco de miARNs en animales}
+Existen muchos métodos para la predicción de genes blanco de miARNs y muchos de ellos fueron desarrollados por distintos grupos de investigación.
+Muchos de ellos que continúan manteniendo y actualizando sus algoritmos. El grupo de Cohen en el EMBL propuso el primer predictor de genes blanco de miARNs en 2003 \citep{pmid14691535} que luego fue actualizado en el 2005 \citep{pmid16337999}.
+TargetScan y TargetScanS fueron desarrollados por Bartel en el MIT y Burge en Cambridge citep{13,39,44,56}.
+DIANA-microT, otra herramienta popular que fue creada por el grupo de Hatzigeorgiou, fue actualizada recientemente porpmid22086949la versión 5.0 \citep{pmid19765283,pmid21551220,pmid23680784}.
+El grupo de Rajewsky publicó su predictor de genes blanco en el 2005 y fue actualizado en el 2011 \citep{pmid15383676,pmid22086949}. 
 
+Hay dos categorías de modelos predictivos: heurísticos y empíricos.
+Los modelos heurísticos utilizan algoritmos de detección que buscan posiciones a lo largo de la secuencia del ARNm y funciones de puntajes que filtran los blanco mediante la combinación de varios valores de entrada.
+Los primeros predictores aplican enfoques heurísticos, debido a la falta de una cantidad suficiente de datos para construir los modelos basados en el conocimiento empírico.
+
+Los modelos predictivos utilizan entradas que se derivan del conocimiento de los detalles mecanísticos de las interacciones miARN-ARNm.
+La entrada  más utilizada de los modlos predictivos, es la complementariedad de base entre el miARN y ARNm.
+En contraste con el apareamiento de bases casi perfecto en las plantas \citep{Rhoades2002513}, los miARNs de animales por lo general se unen al ARNm con sólo algunas posiciones que están apareadas \citep{pmid15345038}.
+La complementariedad del apareamiento de bases en la región semilla (seed), que comprende los ocho primeros nucleótidos en el extremo 5' del miARN, es particularmente importante.
+Los parametros de entradas de accesibilidad del sitio y de conservación evolutiva se utilizan para aumentar la especificidad.
+La mayoría de los predictores usan softwares existentes, como el Vienna RNA package \citep{pmid12824340}, mFold \citep{pmid12824337}, DINAMelt \citep{pmid15980540} y mFold \citep{pmid15215366}, para el cálculo de la energía libre.
+El uso de la conservación evolutiva de los genes blanco de miARNs está motivada por la premisa de que las especies 'similares' deben compartir miARNs comunes y genes blanco comunes.
+Sin embargo, esto conduce a la omisión de los genes blanco no conservados \citep{pmid17254305, pmid21674004}.
+
+
+\subsection{Métodos para predicción de genes blanco de miARNs en plantas}
+Los algoritmos mencionados anteriormente son utilizados generalmente para predecir genes blanco de miARNs en animales, ya que la predicción de genes blanco en plantas es relativamente simple.
+Algunos de ellos, como MiRanda, se utilizan tanto en animales como en plantas.
+Existen herramientas diseñadas específicamente para la predicción de genes blanco de miARns en plantas.
+Algunas de ellas fueron implementadas como herramientas independientes, otras como serivdores web y algunas como ambos.
+
+La herramienta psRNATarget \citep{pmid21622958} utiliza un enfoque de programación dinámica, alineando las secuencias utilizando el algoritmo de Smith-Waterman modificado y aplicando el algoritmo 'RNAup'.
+Targetfinder \citep{pmid15598838} implementa un programa FASTA junto con un sistema de puntuación para mismatches, bulges o gaps para alinear las secuencias.
+TAPIR \citep{pmid20430753} está integrado con dos opciones de búsqueda, el motor de búsqueda "FASTA" (para búsquedas rápidas), y el motor de búsqueda "RNA hybrid" (para obtener resultados precisos).
+La herramienta Target-align \citep{pmid20934992} también emplea el método de puntuación basado en el algoritmo de Smith-Waterman para predecir las complementariedades entre los miARNs y los RNAs mensajeros.
+Por último, la herramienta p-TAREF \citep{pmid22206472} implementa asupport vector regression (RVS) y utiliza la información de la "variación de la densidad de dinucleótido" alrededor del sitio target de conjunt de datos de \textit{A. thaliana}, \textit{Oryza sativa}, \textit{Medicago truncatula} y \textit{Solanum lycopersicum}.
+
+Además existen otras herramientas que son utilizadas para predecir genes blanco de miARNs pero que no fueron específicamente diseñadas para esto.
+Por ejemplo, la herramienta  Web miRNA designer, WMD3 \citep{pmid18269576} es utilizada para el diseño del miARNs artificiales para silenciar la expresión de genes blanco específicos.
+Pero esta herramienta también es empleada para la predicción de genes blanco de miARNs en plantas.
+Patmatch \citep{Yan01072005} que está integrado en "The Arabidopsis Information Resource" (TAIR)\footnote{https://arabidopsis.org} permite realizar búsqueda de secuencias de nucleótidos o de péptidos corto, como dominios pequeños o motivos.
+Esta herramienta puede ser adaptada, para utilizarla como herramienta de búsqueda de genes blanco de miARNs en plantas.
+
+La mayoría de las herramientas específicas de plantas fueron desarrolladas para predecir genes blanco con una alta especificidad en el organismo modelo \textit{A. thaliana}, si se utilizan los parámetros de predicciones óptimos.
+Y los sistemas de puntajes optimizados de Arabidopsis no se pueden utilizar como un umbral en el análisis de organismos no modelos \citep{pmid24885295}.
+Además estas herramientas en general detectan muchos genes blanco (que incluye los validados experimentalmente), también predicen una gran cantidad de falsos positivos.
+
+\subsection{Next-Generation Sequencing for miRNA Target Identification}
+\subsection{Algoritmos}
 \subsection{Algoritmos}

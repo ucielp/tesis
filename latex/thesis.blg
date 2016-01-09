@@ -13,20 +13,26 @@ A level-1 auxiliary file: Chapter3/chapter3.aux
 The style file: apalike.bst
 A level-1 auxiliary file: Appendix1/appendix1.aux
 Database file #1: References/references.bib
-Repeated entry---line 791 of file References/references.bib
- : @article{pmid12869753
+Repeated entry---line 233 of file References/references.bib
+ : @article{pmid15345038
  :                      ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 857 of file References/references.bib
+ : @article{pmid12869753
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 923 of file References/references.bib
  : @article{Allen2005207
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2121 of file References/references.bib
+Repeated entry---line 2225 of file References/references.bib
  : @article{pmid12893888
  :                      ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Ren2014"
-Warning--I didn't find a database entry for "80"
+Repeated entry---line 2467 of file References/references.bib
+ : @article{pmid15345038
+ :                      ,
+I'm skipping whatever remains of this entry
 Too many commas in name 1 of "Laufs P, Peaucelle A, Morin H, Traas J" for entry laufus
 while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Laufs P, Peaucelle A, Morin H, Traas J" for entry laufus
@@ -46,45 +52,45 @@ Warning--empty journal in Takeda2008
 Warning--there's a number but no volume in Cellulaire2008
 Warning--empty journal in Vazquez2004a
 Warning--empty journal in Yang1999
-You've used 75 entries,
+You've used 98 entries,
             1935 wiz_defined-function locations,
-            957 strings with 20257 characters,
-and the built_in function-call counts, 37020 in all, are:
-= -- 3548
-> -- 2021
-< -- 27
-+ -- 724
-- -- 720
-* -- 3574
-:= -- 6401
-add.period$ -- 226
-call.type$ -- 75
-change.case$ -- 734
-chr.to.int$ -- 73
-cite$ -- 88
-duplicate$ -- 1109
-empty$ -- 2295
-format.name$ -- 821
-if$ -- 7043
+            1065 strings with 24833 characters,
+and the built_in function-call counts, 47773 in all, are:
+= -- 4572
+> -- 2592
+< -- 36
++ -- 926
+- -- 922
+* -- 4618
+:= -- 8286
+add.period$ -- 295
+call.type$ -- 98
+change.case$ -- 950
+chr.to.int$ -- 96
+cite$ -- 111
+duplicate$ -- 1431
+empty$ -- 2980
+format.name$ -- 1058
+if$ -- 9078
 int.to.chr$ -- 3
 int.to.str$ -- 0
-missing$ -- 75
-newline$ -- 378
-num.names$ -- 227
-pop$ -- 605
+missing$ -- 98
+newline$ -- 493
+num.names$ -- 296
+pop$ -- 766
 preamble$ -- 1
-purify$ -- 734
+purify$ -- 950
 quote$ -- 0
-skip$ -- 843
+skip$ -- 1082
 stack$ -- 0
-substring$ -- 2821
-swap$ -- 125
+substring$ -- 3637
+swap$ -- 148
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 450
+type$ -- 588
 warning$ -- 13
-while$ -- 292
+while$ -- 376
 width$ -- 0
-write$ -- 967
-(There were 6 error messages)
+write$ -- 1266
+(There were 8 error messages)

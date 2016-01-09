@@ -17,6 +17,13 @@ Altschup, S.~F., Gish, W., Pennsylvania, T., and Park, U. (1990).
 \newblock {Basic Local Alignment Search Tool}.
 \newblock {\em Journal of Molecular Biology}, pages 403--410.
 
+\bibitem[Anders et~al., 2012]{pmid22086949}
+Anders, G., Mackowiak, S.~D., Jens, M., Maaskola, J., Kuntzagk, A., Rajewsky,
+  N., Landthaler, M., and Dieterich, C. (2012).
+\newblock {do{R}i{N}{A}: a database of {R}{N}{A} interactions in
+  post-transcriptional regulation}.
+\newblock {\em Nucleic Acids Res.}, 40(Database issue):D180--186.
+
 \bibitem[Arazi et~al., 2005]{Arazi2005}
 Arazi, T., Talmor-Neiman, M., Stav, R., Riese, M., Huijser, P., and Baulcombe,
   D.~C. (2005).
@@ -47,10 +54,23 @@ Bartel, D.~P., Lee, R., and Feinbaum, R. (2004).
   : The miRNA Genes}.
 \newblock {\em Cell}, 116:281--297.
 
+\bibitem[Bo and Wang, 2005]{pmid15598838}
+Bo, X. and Wang, S. (2005).
+\newblock {{T}arget{F}inder: a software for antisense oligonucleotide target
+  site selection based on {M}{A}{S}{T} and secondary structures of target
+  m{R}{N}{A}}.
+\newblock {\em Bioinformatics}, 21(8):1401--1402.
+
 \bibitem[Bologna et~al., 2012]{Bologna11112012}
 Bologna, N.~G., Schapire, A.~L., and Palatnik, J.~F. (2012).
 \newblock Processing of plant microrna precursors.
 \newblock {\em Briefings in Functional Genomics}.
+
+\bibitem[Bonnet et~al., 2010]{pmid20430753}
+Bonnet, E., He, Y., Billiau, K., and Van~de Peer, Y. (2010).
+\newblock {{T}{A}{P}{I}{R}, a web server for the prediction of plant
+  micro{R}{N}{A} targets, including target mimics}.
+\newblock {\em Bioinformatics}, 26(12):1566--1568.
 
 \bibitem[Bowman, 2004]{pmid15351964}
 Bowman, J.~L. (2004).
@@ -118,6 +138,12 @@ Cuperus, J.~T., Fahlgren, N., and Carrington, J.~C. (2011).
 \newblock Evolution and functional diversification of mirna genes.
 \newblock {\em The Plant cell}, 23(2):431--442.
 
+\bibitem[Dai and Zhao, 2011]{pmid21622958}
+Dai, X. and Zhao, P.~X. (2011).
+\newblock {ps{R}{N}{A}{T}arget: a plant small {R}{N}{A} target analysis
+  server}.
+\newblock {\em Nucleic Acids Res.}, 39(Web Server issue):W155--159.
+
 \bibitem[Davies et~al., 1999]{Davies1999}
 Davies, R.~T., Goetz, D.~H., Lasswell, J., Anderson, M.~N., and Bartel, B.
   (1999).
@@ -130,6 +156,12 @@ Debernardi, J.~M., Rodriguez, R.~E., Mecchia, M.~A., and Palatnik, J.~F.
 \newblock {Functional Specialization of the Plant miR396 Regulatory Network
   through Distinct MicroRNA–Target Interactions}.
 \newblock {\em PLoS Genet}, 8(1):e1002419.
+
+\bibitem[Ding et~al., 2004]{pmid15215366}
+Ding, Y., Chan, C.~Y., and Lawrence, C.~E. (2004).
+\newblock {{S}fold web server for statistical folding and rational design of
+  nucleic acids}.
+\newblock {\em Nucleic Acids Res.}, 32(Web Server issue):W135--141.
 
 \bibitem[Dugas and Bartel, 2008]{pmid18392778}
 Dugas, D.~V. and Bartel, B. (2008).
@@ -196,10 +228,24 @@ Guo, H., Ingolia, N.~T., Weissman, J.~S., and Bartel, D.~P. (2010).
 
 \bibitem[Han et~al., 2004]{Han2004}
 Han, M.-H., Goud, S., Song, L., and Fedoroff, N. (2004).
-\newblock {The Arabidopsis double-stranded RNA-binding protein HYL1 plays a
-  role in microRNA-mediated gene regulation.}
+\newblock {T@Article{pmid14691535, Author="Stark, A. and Brennecke, J. and
+  Russell, R. B. and Cohen, S. M. ", Title="{{I}dentification of {D}rosophila
+  {M}icro{R}{N}{A} targets}", Journal="PLoS Biol.", Year="2003", Volume="1",
+  Number="3", Pages="E60", Month="Dec" } he Arabidopsis double-stranded
+  RNA-binding protein HYL1 plays a role in microRNA-mediated gene regulation.}
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 101(4):1093--8.
+
+\bibitem[Hofacker, 2003]{pmid12824340}
+Hofacker, I.~L. (2003).
+\newblock {{V}ienna {R}{N}{A} secondary structure server}.
+\newblock {\em Nucleic Acids Res.}, 31(13):3429--3431.
+
+\bibitem[Jha and Shankar, 2011]{pmid22206472}
+Jha, A. and Shankar, R. (2011).
+\newblock {{E}mploying machine learning for reliable mi{R}{N}{A} target
+  identification in plants}.
+\newblock {\em BMC Genomics}, 12:636.
 
 \bibitem[Jones-Rhoades and Bartel, 2004]{JonesRhoades2004787}
 Jones-Rhoades, M.~W. and Bartel, D.~P. (2004).
@@ -225,6 +271,11 @@ Kozomara, A. and Griffiths-Jones, S. (2014).
   data.}
 \newblock {\em Nucleic acids research}, 42(Database issue):D68--73.
 
+\bibitem[Lai, 2004]{pmid15345038}
+Lai, E.~C. (2004).
+\newblock {{P}redicting and validating micro{R}{N}{A} targets}.
+\newblock {\em Genome Biol.}, 5(9):115.
+
 \bibitem[Lanet et~al., 2009]{pmid19531599}
 Lanet, E., Delannoy, E., Sormani, R., Floris, M., Brodersen, P., Crete, P.,
   Voinnet, O., and Robaglia, C. (2009).
@@ -243,6 +294,12 @@ Lee, R.~C., Feinbaum, R.~L., and Ambros, V. (1993).
 \newblock {{T}he {C}. elegans heterochronic gene lin-4 encodes small {R}{N}{A}s
   with antisense complementarity to lin-14}.
 \newblock {\em Cell}, 75(5):843--854.
+
+\bibitem[Lekprasert et~al., 2011]{pmid21674004}
+Lekprasert, P., Mayhew, M., and Ohler, U. (2011).
+\newblock {{A}ssessing the utility of thermodynamic features for micro{R}{N}{A}
+  target prediction under relaxed seed and no conservation requirements}.
+\newblock {\em PLoS ONE}, 6(6):e20622.
 
 \bibitem[Llave et~al., 2002]{Llave2002}
 Llave, C., Xie, Z., Kasschau, K.~D., and Carrington, J.~C. (2002).
@@ -267,6 +324,28 @@ Manavella, P.~A., Koenig, D., and Weigel, D. (2012).
 \newblock {{P}lant secondary si{R}{N}{A} production determined by
   micro{R}{N}{A}-duplex structure}.
 \newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 109(7):2461--2466.
+
+\bibitem[Maragkakis et~al., 2009]{pmid19765283}
+Maragkakis, M., Alexiou, P., Papadopoulos, G.~L., Reczko, M., Dalamagas, T.,
+  Giannopoulos, G., Goumas, G., Koukis, E., Kourtis, K., Simossis, V.~A.,
+  Sethupathy, P., Vergoulis, T., Koziris, N., Sellis, T., Tsanakas, P., and
+  Hatzigeorgiou, A.~G. (2009).
+\newblock {{A}ccurate micro{R}{N}{A} target prediction correlates with protein
+  repression levels}.
+\newblock {\em BMC Bioinformatics}, 10:295.
+
+\bibitem[Maragkakis et~al., 2011]{pmid21551220}
+Maragkakis, M., Vergoulis, T., Alexiou, P., Reczko, M., Plomaritou, K., Gousis,
+  M., Kourtis, K., Koziris, N., Dalamagas, T., and Hatzigeorgiou, A.~G. (2011).
+\newblock {{D}{I}{A}{N}{A}-micro{T} {W}eb server upgrade supports {F}ly and
+  {W}orm mi{R}{N}{A} target prediction and bibliographic mi{R}{N}{A} to disease
+  association}.
+\newblock {\em Nucleic Acids Res.}, 39(Web Server issue):W145--148.
+
+\bibitem[Markham and Zuker, 2005]{pmid15980540}
+Markham, N.~R. and Zuker, M. (2005).
+\newblock {{D}{I}{N}{A}{M}elt web server for nucleic acid melting prediction}.
+\newblock {\em Nucleic Acids Res.}, 33(Web Server issue):W577--581.
 
 \bibitem[Maunoury, 2011]{Maunoury2011}
 Maunoury, N. (2011).
@@ -315,6 +394,12 @@ Niyogi, K.~K., Pilon, M., Shikanai, T., Abdel-ghany, S.~E., and Mu, P. (2005).
   thaliana Chloroplasts}.
 \newblock 17(April):1233--1251.
 
+\bibitem[Ossowski et~al., 2008]{pmid18269576}
+Ossowski, S., Schwab, R., and Weigel, D. (2008).
+\newblock {{G}ene silencing in plants using artificial micro{R}{N}{A}s and
+  other small {R}{N}{A}s}.
+\newblock {\em Plant J.}, 53(4):674--690.
+
 \bibitem[Palatnik et~al., 2003]{pmid12931144}
 Palatnik, J.~F., Allen, E., Wu, X., Schommer, C., Schwab, R., Carrington,
   J.~C., and Weigel, D. (2003).
@@ -329,6 +414,14 @@ Palatnik, J.~F., Wollmann, H., Schommer, C., Schwab, R., Boisbouvier, J.,
   specialization of Arabidopsis microRNAs miR159 and miR319.}
 \newblock {\em Developmental cell}, 13(1):115--25.
 
+\bibitem[Paraskevopoulou et~al., 2013]{pmid23680784}
+Paraskevopoulou, M.~D., Georgakilas, G., Kostoulas, N., Vlachos, I.~S.,
+  Vergoulis, T., Reczko, M., Filippidis, C., Dalamagas, T., and Hatzigeorgiou,
+  A.~G. (2013).
+\newblock {{D}{I}{A}{N}{A}-micro{T} web server v5.0: service integration into
+  mi{R}{N}{A} functional analysis workflows}.
+\newblock {\em Nucleic Acids Res.}, 41(Web Server issue):W169--173.
+
 \bibitem[Rajagopalan et~al., 2006]{Rajagopalan2006}
 Rajagopalan, R., Vaucheret, H., Trejo, J., and Bartel, D.~P. (2006).
 \newblock {A diverse and evolutionarily fluid set of microRNAs in Arabidopsis
@@ -342,11 +435,29 @@ Rampey, R.~A., Leclere, S., Kowalczyk, M., Ljung, K., Bartel, B., Biology, C.,
   Indole-3-Acetic Acid Levels during Arabidopsis Germination 1}.
 \newblock 135(June):978--988.
 
+\bibitem[Rehmsmeier et~al., 2004]{pmid15383676}
+Rehmsmeier, M., Steffen, P., Hochsmann, M., and Giegerich, R. (2004).
+\newblock {{F}ast and effective prediction of micro{R}{N}{A}/target duplexes}.
+\newblock {\em RNA}, 10(10):1507--1517.
+
 \bibitem[Reinhart et~al., 2002]{Reinhart2002}
 Reinhart, B.~J., Weinstein, E.~G., Rhoades, M.~W., Bartel, B., and Bartel,
   D.~P. (2002).
 \newblock {MicroRNAs in plants}.
 \newblock pages 1616--1626.
+
+\bibitem[Ren et~al., 2014]{pmid24733911}
+Ren, G., Xie, M., Zhang, S., Vinovskis, C., Chen, X., and Yu, B. (2014).
+\newblock {{M}ethylation protects micro{R}{N}{A}s from an {A}{G}{O}1-associated
+  activity that uridylates 5' {R}{N}{A} fragments generated by {A}{G}{O}1
+  cleavage}.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 111(17):6365--6370.
+
+\bibitem[Rhoades et~al., 2002]{Rhoades2002513}
+Rhoades, M.~W., Reinhart, B.~J., Lim, L.~P., Burge, C.~B., Bartel, B., and
+  Bartel, D.~P. (2002).
+\newblock Prediction of plant microrna targets.
+\newblock {\em Cell}, 110(4):513 -- 520.
 
 \bibitem[Rodriguez et~al., 2010]{Rodriguez2010}
 Rodriguez, R.~E., Mecchia, M.~A., Debernardi, J.~M., Schommer, C., Weigel, D.,
@@ -396,11 +507,36 @@ Souret, F.~F., Kastenmayer, J.~P., and Green, P.~J. (2004).
   substrates include selected mi{R}{N}{A} targets}.
 \newblock {\em Mol. Cell}, 15(2):173--183.
 
+\bibitem[Srivastava et~al., 2014]{pmid24885295}
+Srivastava, P.~K., Moturu, T.~R., Pandey, P., Baldwin, I.~T., and Pandey, S.~P.
+  (2014).
+\newblock {{A} comparison of performance of plant mi{R}{N}{A} target prediction
+  tools and the characterization of features for genome-wide target
+  prediction}.
+\newblock {\em BMC Genomics}, 15:348.
+
+\bibitem[Stark et~al., 2005]{pmid16337999}
+Stark, A., Brennecke, J., Bushati, N., Russell, R.~B., and Cohen, S.~M. (2005).
+\newblock {{A}nimal {M}icro{R}{N}{A}s confer robustness to gene expression and
+  have a significant impact on 3'{U}{T}{R} evolution}.
+\newblock {\em Cell}, 123(6):1133--1146.
+
+\bibitem[Stark et~al., 2003]{pmid14691535}
+Stark, A., Brennecke, J., Russell, R.~B., and Cohen, S.~M. (2003).
+\newblock {{I}dentification of {D}rosophila {M}icro{R}{N}{A} targets}.
+\newblock {\em PLoS Biol.}, 1(3):E60.
+
 \bibitem[Takeda et~al., 2008]{Takeda2008}
 Takeda, A., Iwasaki, S., and Watanabe, T. (2008).
 \newblock {The Mechanism Selecting the Guide Strand from Small RNA Duplexes is
   Different Among Argonaute Proteins}.
 \newblock 49(4):493--500.
+
+\bibitem[Thadani and Tammi, 2006]{pmid17254305}
+Thadani, R. and Tammi, M.~T. (2006).
+\newblock {{M}icro{T}ar: predicting micro{R}{N}{A} targets from {R}{N}{A}
+  duplexes}.
+\newblock {\em BMC Bioinformatics}, 7 Suppl 5:S20.
 
 \bibitem[Vaucheret, 2008]{Cellulaire2008}
 Vaucheret, H. (2008).
@@ -424,6 +560,12 @@ Vazquez, F., Gasciolli, V., Cr\'{e}t\'{e}, P., and Vaucheret, H. (2004b).
 Voinnet, O. (2009).
 \newblock {Origin, Biogenesis, and Activity of Plant MicroRNAs}.
 \newblock {\em Cell}, 136(4):669--687.
+
+\bibitem[Xie and Zhang, 2010]{pmid20934992}
+Xie, F. and Zhang, B. (2010).
+\newblock {{T}arget-align: a tool for plant micro{R}{N}{A} target
+  identification}.
+\newblock {\em Bioinformatics}, 26(23):3002--3003.
 
 \bibitem[Xie et~al., 2005]{Xie2005a}
 Xie, Z., Allen, E., Fahlgren, N., Calamar, A., Givan, S.~A., and Carrington,
@@ -466,5 +608,11 @@ Yoshikawa, M., Peragine, A., Park, M.~Y., and Poethig, R.~S. (2005).
 Zhang, B., Pan, X., Cannon, C.~H., Cobb, G.~P., and Anderson, T.~A. (2006).
 \newblock {{C}onservation and divergence of plant micro{R}{N}{A} genes}.
 \newblock {\em Plant J.}, 46(2):243--259.
+
+\bibitem[Zuker, 2003]{pmid12824337}
+Zuker, M. (2003).
+\newblock {{M}fold web server for nucleic acid folding and hybridization
+  prediction}.
+\newblock {\em Nucleic Acids Res.}, 31(13):3406--3415.
 
 \end{thebibliography}
