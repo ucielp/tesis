@@ -126,13 +126,13 @@ Sin embargo, esto conduce a la omisión de los genes blanco no conservados \cite
 
 
 \subsection{Métodos para predicción de genes blanco de miARNs en plantas}
-Los algoritmos mencionados anteriormente son utilizados generalmente para predecir genes blanco de miARNs en animales, ya que la predicción de genes blanco en plantas es relativamente simple.
+Los algoritmos mencionados anteriormente son utilizados generalmente para predecir genes blanco de miARNs en animales.
 Algunos de ellos, como MiRanda, se utilizan tanto en animales como en plantas.
-Existen herramientas diseñadas específicamente para la predicción de genes blanco de miARns en plantas.
+Existen herramientas diseñadas específicamente para la predicción de genes blanco de miARNs en plantas.
 Algunas de ellas fueron implementadas como herramientas independientes, otras como serivdores web y algunas como ambos.
 
 La herramienta psRNATarget \citep{pmid21622958} utiliza un enfoque de programación dinámica, alineando las secuencias utilizando el algoritmo de Smith-Waterman modificado y aplicando el algoritmo 'RNAup'.
-Targetfinder \citep{pmid15598838} implementa un programa FASTA junto con un sistema de puntuación para mismatches, bulges o gaps para alinear las secuencias.
+Targetfinder \citep{pmid15598838} implementa un programa "FASTA" junto con un sistema de puntuación para mismatches, bulges o gaps para alinear las secuencias.
 TAPIR \citep{pmid20430753} está integrado con dos opciones de búsqueda, el motor de búsqueda "FASTA" (para búsquedas rápidas), y el motor de búsqueda "RNA hybrid" (para obtener resultados precisos).
 La herramienta Target-align \citep{pmid20934992} también emplea el método de puntuación basado en el algoritmo de Smith-Waterman para predecir las complementariedades entre los miARNs y los RNAs mensajeros.
 Por último, la herramienta p-TAREF \citep{pmid22206472} implementa asupport vector regression (RVS) y utiliza la información de la "variación de la densidad de dinucleótido" alrededor del sitio target de conjunt de datos de \textit{A. thaliana}, \textit{Oryza sativa}, \textit{Medicago truncatula} y \textit{Solanum lycopersicum}.
