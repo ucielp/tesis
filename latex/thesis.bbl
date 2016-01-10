@@ -6,11 +6,17 @@ Addo-quaye, C., Eshoo, T.~W., Bartel, D.~P., and Axtell, M.~J. (2009).
   the Arabidopsis degradome}.
 \newblock {\em NIH Public Access}, 18(10):758--762.
 
+\bibitem[Addo-Quaye et~al., 2009]{pmid19017659}
+Addo-Quaye, C., Miller, W., and Axtell, M.~J. (2009).
+\newblock {{C}leave{L}and: a pipeline for using degradome data to find cleaved
+  small {R}{N}{A} targets}.
+\newblock {\em Bioinformatics}, 25(1):130--131.
+
 \bibitem[Allen et~al., 2005]{Allen2005207}
 Allen, E., Xie, Z., Gustafson, A.~M., and Carrington, J.~C. (2005).
-\newblock microrna-directed phasing during trans-acting sirna biogenesis in
-  plants.
-\newblock {\em Cell}, 121(2):207 -- 221.
+\newblock {microRNA-Directed Phasing during Trans-Acting siRNA Biogenesis in
+  Plants}.
+\newblock {\em Cell}, 121(2):207--221.
 
 \bibitem[Altschup et~al., 1990]{Altschup1990}
 Altschup, S.~F., Gish, W., Pennsylvania, T., and Park, U. (1990).
@@ -194,12 +200,25 @@ Floyd, S.~K. and Bowman, J.~L. (2004).
   plants}.
 \newblock {\em Nature}, 428(6982):485--486.
 
+\bibitem[Friedman et~al., 2009]{pmid18955434}
+Friedman, R.~C., Farh, K.~K., Burge, C.~B., and Bartel, D.~P. (2009).
+\newblock {{M}ost mammalian m{R}{N}{A}s are conserved targets of
+  micro{R}{N}{A}s}.
+\newblock {\em Genome Res.}, 19(1):92--105.
+
 \bibitem[Gasciolli et~al., 2005]{pmid16040244}
 Gasciolli, V., Mallory, A.~C., Bartel, D.~P., and Vaucheret, H. (2005).
 \newblock {{P}artially redundant functions of {A}rabidopsis
   {D}{I}{C}{E}{R}-like enzymes and a role for {D}{C}{L}4 in producing
   trans-acting si{R}{N}{A}s}.
 \newblock {\em Curr. Biol.}, 15(16):1494--1500.
+
+\bibitem[German et~al., 2009]{pmid19247285}
+German, M.~A., Luo, S., Schroth, G., Meyers, B.~C., and Green, P.~J. (2009).
+\newblock {{C}onstruction of {P}arallel {A}nalysis of {R}{N}{A} {E}nds
+  ({P}{A}{R}{E}) libraries for the study of cleaved mi{R}{N}{A} targets and the
+  {R}{N}{A} degradome}.
+\newblock {\em Nat Protoc}, 4(3):356--362.
 
 \bibitem[German et~al., 2008]{German2008}
 German, M.~a., Pillay, M., Jeong, D.-H., Hetawal, A., Luo, S., Janardhanan, P.,
@@ -219,6 +238,13 @@ Goodstein, D.~M., Shu, S., Howson, R., Neupane, R., Hayes, R.~D., Fazo, J.,
   Mitros, T., Dirks, W., Hellsten, U., Putnam, N., and Rokhsar, D.~S. (2012).
 \newblock {Phytozome: a comparative platform for green plant genomics.}
 \newblock {\em Nucleic acids research}, 40(Database issue):D1178--86.
+
+\bibitem[Grimson et~al., 2007]{pmid17612493}
+Grimson, A., Farh, K.~K., Johnston, W.~K., Garrett-Engele, P., Lim, L.~P., and
+  Bartel, D.~P. (2007).
+\newblock {{M}icro{R}{N}{A} targeting specificity in mammals: determinants
+  beyond seed pairing}.
+\newblock {\em Mol. Cell}, 27(1):91--105.
 
 \bibitem[Guo et~al., 2010]{pmid20703300}
 Guo, H., Ingolia, N.~T., Weissman, J.~S., and Bartel, D.~P. (2010).
@@ -258,6 +284,13 @@ Jones-Rhoades, M.~W., Bartel, D.~P., and Bartel, B. (2006).
 \newblock {MicroRNAS and their regulatory roles in plants.}
 \newblock {\em Annual review of plant biology}, 57:19--53.
 
+\bibitem[Kakrana et~al., 2014]{pmid25120269}
+Kakrana, A., Hammond, R., Patel, P., Nakano, M., and Meyers, B.~C. (2014).
+\newblock {s{P}{A}{R}{T}{A}: a parallelized pipeline for integrated analysis of
+  plant mi{R}{N}{A} and cleaved m{R}{N}{A} data sets, including new mi{R}{N}{A}
+  target-identification software}.
+\newblock {\em Nucleic Acids Res.}, 42(18):e139.
+
 \bibitem[Kasschau et~al., 2003]{Kasschau2003}
 Kasschau, K.~D., Xie, Z., Allen, E., Llave, C., Chapman, E.~J., Krizan, K.~a.,
   and Carrington, J.~C. (2003).
@@ -270,6 +303,11 @@ Kozomara, A. and Griffiths-Jones, S. (2014).
 \newblock {miRBase: annotating high confidence microRNAs using deep sequencing
   data.}
 \newblock {\em Nucleic acids research}, 42(Database issue):D68--73.
+
+\bibitem[Kr\"uger and Rehmsmeier, 2006]{Kruger01072006}
+Kr\"uger, J. and Rehmsmeier, M. (2006).
+\newblock Rnahybrid: microrna target prediction easy, fast and flexible.
+\newblock {\em Nucleic Acids Research}, 34(suppl 2):W451--W454.
 
 \bibitem[Lai, 2004]{pmid15345038}
 Lai, E.~C. (2004).
@@ -300,6 +338,18 @@ Lekprasert, P., Mayhew, M., and Ohler, U. (2011).
 \newblock {{A}ssessing the utility of thermodynamic features for micro{R}{N}{A}
   target prediction under relaxed seed and no conservation requirements}.
 \newblock {\em PLoS ONE}, 6(6):e20622.
+
+\bibitem[Lewis et~al., 2005]{pmid15652477}
+Lewis, B.~P., Burge, C.~B., and Bartel, D.~P. (2005).
+\newblock {{C}onserved seed pairing, often flanked by adenosines, indicates
+  that thousands of human genes are micro{R}{N}{A} targets}.
+\newblock {\em Cell}, 120(1):15--20.
+
+\bibitem[Lewis et~al., 2003]{pmid14697198}
+Lewis, B.~P., Shih, I.~H., Jones-Rhoades, M.~W., Bartel, D.~P., and Burge,
+  C.~B. (2003).
+\newblock {{P}rediction of mammalian micro{R}{N}{A} targets}.
+\newblock {\em Cell}, 115(7):787--798.
 
 \bibitem[Llave et~al., 2002]{Llave2002}
 Llave, C., Xie, Z., Kasschau, K.~D., and Carrington, J.~C. (2002).
@@ -608,6 +658,13 @@ Yoshikawa, M., Peragine, A., Park, M.~Y., and Poethig, R.~S. (2005).
 Zhang, B., Pan, X., Cannon, C.~H., Cobb, G.~P., and Anderson, T.~A. (2006).
 \newblock {{C}onservation and divergence of plant micro{R}{N}{A} genes}.
 \newblock {\em Plant J.}, 46(2):243--259.
+
+\bibitem[Zheng et~al., 2012]{pmid22140118}
+Zheng, Y., Li, Y.~F., Sunkar, R., and Zhang, W. (2012).
+\newblock {{S}eq{T}ar: an effective method for identifying micro{R}{N}{A}
+  guided cleavage sites from degradome of polyadenylated transcripts in
+  plants}.
+\newblock {\em Nucleic Acids Res.}, 40(4):e28.
 
 \bibitem[Zuker, 2003]{pmid12824337}
 Zuker, M. (2003).

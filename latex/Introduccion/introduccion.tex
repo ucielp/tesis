@@ -1,10 +1,17 @@
 \chapter{Introducción} 
 
-\section{Silenciamiento génico y ARN pequeños}
+\section{Silenciamiento génico y ARN pequeños en plantas}
+El control de la expresión génica es un proceso vital para los organismos unicelulares.
+Este proceso se utiliza para que las células se ajusten a los cambios en su ambiente de manera de optimizar el desarrollo, la respuesta celular al stress y al entorno, entre muchos otros procesos.
+En plantas, la generación de los numerosos tipos celulares diferentes que forman en conjunto un organismo multicelular depende de que los genes se activen en las células adecuadas y en los momentos precisos del desarrollo.
+Muchos de los mecanismos regulatorios operan a nivel genético generando un control a nivel transcripcional y post-transcripcional.
+
+En los últimos años se ha descubierto que pequeñas moléculas de 20 a 25 nucleótidos de longitud, son reguladores críticos de la expresión génica en eucariotas.
+En plantas existen distintos tipos de ARN pequeños, que por diferencias en su biogénesis y modos de acción, han sido clasificados en distintas clases.
+Estos ARN pequeños comparten algunos elementos entre ellos, como que son producidas a partir de precursores de ARN doble hebra, son procesados del ARNdh para librerar el ARN pequeño y la metilación del extremo 3' del ARN pequeño. 
 
 \subsection{Variedades de ARN pequeños en plantas}
-
-
+La clase más abundante son los siARNs (small interfering RNAs), que son ARN pequeños de 21 a 26 nt derivados del procesamiento de largas moléculas de ARN doble hebra de origen endógeno o exógeno.
 
 \section{miARNs en plantas}
 
@@ -105,10 +112,10 @@ Estas familias han sido estudiadas profundamente, por lo que su mayoría se encu
 \section{Predicción de genes blanco de miARNs}
 
 \subsection{Métodos para predicción de genes blanco de miARNs en animales}
-Existen muchos métodos para la predicción de genes blanco de miARNs y muchos de ellos fueron desarrollados por distintos grupos de investigación.
-Muchos de ellos que continúan manteniendo y actualizando sus algoritmos. El grupo de Cohen en el EMBL propuso el primer predictor de genes blanco de miARNs en 2003 \citep{pmid14691535} que luego fue actualizado en el 2005 \citep{pmid16337999}.
-TargetScan y TargetScanS fueron desarrollados por Bartel en el MIT y Burge en Cambridge citep{13,39,44,56}.
-DIANA-microT, otra herramienta popular que fue creada por el grupo de Hatzigeorgiou, fue actualizada recientemente porpmid22086949la versión 5.0 \citep{pmid19765283,pmid21551220,pmid23680784}.
+Existen muchos métodos para la predicción de genes blanco de miARNs que fueron desarrollados por distintos grupos de investigación.
+Gran parte de ellos continúan manteniendo y actualizando sus algoritmos. El grupo de Cohen en el EMBL propuso el primer predictor de genes blanco de miARNs en 2003 \citep{pmid14691535} que luego fue actualizado en el 2005 \citep{pmid16337999}.
+TargetScan y TargetScanS fueron desarrollados por Bartel en el MIT y Burge en Cambridge \citep{pmid18955434,pmid17612493,pmid14697198,pmid15652477}.
+DIANA-microT, otra herramienta popular que fue creada por el grupo de Hatzigeorgiou, fue actualizada recientemente a la versión 5.0 \citep{pmid19765283,pmid21551220,pmid23680784}.
 El grupo de Rajewsky publicó su predictor de genes blanco en el 2005 y fue actualizado en el 2011 \citep{pmid15383676,pmid22086949}. 
 
 Hay dos categorías de modelos predictivos: heurísticos y empíricos.
@@ -116,7 +123,7 @@ Los modelos heurísticos utilizan algoritmos de detección que buscan posiciones
 Los primeros predictores aplican enfoques heurísticos, debido a la falta de una cantidad suficiente de datos para construir los modelos basados en el conocimiento empírico.
 
 Los modelos predictivos utilizan entradas que se derivan del conocimiento de los detalles mecanísticos de las interacciones miARN-ARNm.
-La entrada  más utilizada de los modlos predictivos, es la complementariedad de base entre el miARN y ARNm.
+La entrada  más utilizada de los modelos predictivos, es la complementariedad de base entre el miARN y ARNm.
 En contraste con el apareamiento de bases casi perfecto en las plantas \citep{Rhoades2002513}, los miARNs de animales por lo general se unen al ARNm con sólo algunas posiciones que están apareadas \citep{pmid15345038}.
 La complementariedad del apareamiento de bases en la región semilla (seed), que comprende los ocho primeros nucleótidos en el extremo 5' del miARN, es particularmente importante.
 Los parametros de entradas de accesibilidad del sitio y de conservación evolutiva se utilizan para aumentar la especificidad.
@@ -140,13 +147,27 @@ Por último, la herramienta p-TAREF \citep{pmid22206472} implementa asupport vec
 Además existen otras herramientas que son utilizadas para predecir genes blanco de miARNs pero que no fueron específicamente diseñadas para esto.
 Por ejemplo, la herramienta  Web miRNA designer, WMD3 \citep{pmid18269576} es utilizada para el diseño del miARNs artificiales para silenciar la expresión de genes blanco específicos.
 Pero esta herramienta también es empleada para la predicción de genes blanco de miARNs en plantas.
+RNAHybrid \citep{Kruger01072006} es una herramienta utilizada para buscar la energía mínima libre de un ARN largo y uno corto.
+La secuencia corta se hibrida con la parte más adecuada de la secuencia larga.
+La herramienta está destinada principalmente para la predicción de genes blanco de miARNs, pero no es su único uso.
+
 Patmatch \citep{Yan01072005} que está integrado en "The Arabidopsis Information Resource" (TAIR)\footnote{https://arabidopsis.org} permite realizar búsqueda de secuencias de nucleótidos o de péptidos corto, como dominios pequeños o motivos.
 Esta herramienta puede ser adaptada, para utilizarla como herramienta de búsqueda de genes blanco de miARNs en plantas.
 
 La mayoría de las herramientas específicas de plantas fueron desarrolladas para predecir genes blanco con una alta especificidad en el organismo modelo \textit{A. thaliana}, si se utilizan los parámetros de predicciones óptimos.
 Y los sistemas de puntajes optimizados de Arabidopsis no se pueden utilizar como un umbral en el análisis de organismos no modelos \citep{pmid24885295}.
-Además estas herramientas en general detectan muchos genes blanco (que incluye los validados experimentalmente), también predicen una gran cantidad de falsos positivos.
+Además estas herramientas en general detectan una gran cantidad de potenciales genes blanco (que incluyen los validados experimentalmente), pero su debilidad radica en que predicen una gran número de falsos positivos.
 
 \subsection{Next-Generation Sequencing for miRNA Target Identification}
-\subsection{Algoritmos}
-\subsection{Algoritmos}
+Con los avances de los métodos de secuenciación de alto rendimiento o "next-generation sequencing", la identificación sistemática de genes blanco de miARNs específicos en un tiempo corto ya es un hecho.
+Un método denominado PARE (Construction of Parallel Analysis of RNA Ends) \citep{pmid19247285} fue desarrollado para la identificación de genes blanco de miARNs y estudios del degradoma de ARN, mediante técnicas de alto rendimiento. 	
+A partir de este método, se han desarrollado diferentes herramientas como SeqTar \citep{pmid22140118}, que es un método para la identificación de corte guíado por miARNs de degradoma de transcriptos de plantas.
+
+CleaveLand \citep{pmid19017659} es un pipeline computacional para la detección de cortes de miARNs en datos de degradoma.
+Esta herramienta toma como entrada secuencias de degradoma, ARNs pequeños y una base de datos de ARNm y devuelve los potenciales genes blanco de esos ARNs pequeños. 
+sPARTA (small RNA-PARE target analyzer) \citep{pmid25120269} es un pipeline paralelizado, para el análisis integrado de miARNs en plantas y un conjunto de ARNm.
+Este pipeline incluye un software de identificación de nuevos genes blanco regulados por miARNs y utiliza datos de PARE.
+
+Por otro lado, la herramienta PAREsnip permite realizar búsqueda de potenciales genes blanco de todos los RNA pequeños obtenidos de técnicas de secuenciación de alto rendimiento.
+Mediante la búsqueda de genes blanco de todo el "sRNAome" se pude facilitar identificación de genes blanco de RNA pequeños a grande escala.
+
