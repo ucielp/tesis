@@ -1,5 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: Declaration/declaration.aux
 A level-1 auxiliary file: Dedication/dedication.aux
@@ -13,15 +12,31 @@ A level-1 auxiliary file: Chapter3/chapter3.aux
 The style file: apalike.bst
 A level-1 auxiliary file: Appendix1/appendix1.aux
 Database file #1: References/references.bib
+Repeated entry---line 3095 of file References/references.bib
+ : @article{pmid17943195
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3211 of file References/references.bib
+ : @article{pmid20015654
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3347 of file References/references.bib
+ : @article{pmid19850910
+ :                      ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "2"
+Warning--I didn't find a database entry for "28"
+Warning--I didn't find a database entry for "14"
+Warning--I didn't find a database entry for "31"
 Too many commas in name 1 of "Laufs P, Peaucelle A, Morin H, Traas J" for entry laufus
-while executing---line 1023 of file apalike.bst
+while executing---line 1020 of file apalike.bst
 Too many commas in name 1 of "Laufs P, Peaucelle A, Morin H, Traas J" for entry laufus
-while executing---line 1023 of file apalike.bst
+while executing---line 1020 of file apalike.bst
 Warning--there's a number but no volume in Fabian
 Warning--empty journal in Giegerich2004
 Warning--there's a number but no volume in Giegerich2004
 Too many commas in name 1 of "Laufs P, Peaucelle A, Morin H, Traas J" for entry laufus
-while executing---line 1098 of file apalike.bst
+while executing---line 1095 of file apalike.bst
 Warning--empty journal in Maunoury2011
 Warning--empty journal in Montgomery2008
 Warning--empty journal in Niyogi2005
@@ -32,45 +47,45 @@ Warning--empty journal in Takeda2008
 Warning--there's a number but no volume in Cellulaire2008
 Warning--empty journal in Vazquez2004a
 Warning--empty journal in Yang1999
-You've used 107 entries,
+You've used 127 entries,
             1935 wiz_defined-function locations,
-            1107 strings with 26597 characters,
-and the built_in function-call counts, 51825 in all, are:
-= -- 4961
-> -- 2804
-< -- 37
-+ -- 1000
-- -- 996
-* -- 5014
-:= -- 8999
-add.period$ -- 322
-call.type$ -- 107
-change.case$ -- 1032
-chr.to.int$ -- 105
-cite$ -- 120
-duplicate$ -- 1557
-empty$ -- 3239
-format.name$ -- 1143
-if$ -- 9842
-int.to.chr$ -- 3
+            1209 strings with 30491 characters,
+and the built_in function-call counts, 61340 in all, are:
+= -- 5879
+> -- 3311
+< -- 45
++ -- 1181
+- -- 1176
+* -- 5947
+:= -- 10658
+add.period$ -- 382
+call.type$ -- 127
+change.case$ -- 1222
+chr.to.int$ -- 124
+cite$ -- 140
+duplicate$ -- 1837
+empty$ -- 3839
+format.name$ -- 1353
+if$ -- 11637
+int.to.chr$ -- 4
 int.to.str$ -- 0
-missing$ -- 107
-newline$ -- 538
-num.names$ -- 323
-pop$ -- 829
+missing$ -- 127
+newline$ -- 638
+num.names$ -- 383
+pop$ -- 971
 preamble$ -- 1
-purify$ -- 1032
+purify$ -- 1222
 quote$ -- 0
-skip$ -- 1173
+skip$ -- 1380
 stack$ -- 0
-substring$ -- 3929
-swap$ -- 157
+substring$ -- 4665
+swap$ -- 177
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 642
+type$ -- 762
 warning$ -- 13
-while$ -- 410
+while$ -- 489
 width$ -- 0
-write$ -- 1383
-(There were 3 error messages)
+write$ -- 1643
+(There were 6 error messages)

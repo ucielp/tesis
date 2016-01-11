@@ -2,23 +2,63 @@
 
 \section{Silenciamiento génico y ARN pequeños en plantas}
 El control de la expresión génica es un proceso vital para los organismos unicelulares.
-Este proceso se utiliza para que las células se ajusten a los cambios en su ambiente de manera de optimizar el desarrollo, la respuesta celular al stress y al entorno, entre muchos otros procesos.
+Este proceso se utiliza para que las células se ajusten a los cambios en su ambiente de manera de optimizar el desarrollo, la respuesta celular al estrés y al entorno, entre muchos otros procesos.
 En plantas, la generación de los numerosos tipos celulares diferentes que forman en conjunto un organismo multicelular depende de que los genes se activen en las células adecuadas y en los momentos precisos del desarrollo.
 Muchos de los mecanismos regulatorios operan a nivel genético generando un control a nivel transcripcional y post-transcripcional.
 
 En los últimos años se ha descubierto que pequeñas moléculas de 20 a 25 nucleótidos de longitud, son reguladores críticos de la expresión génica en eucariotas.
 En plantas existen distintos tipos de ARN pequeños, que por diferencias en su biogénesis y modos de acción, han sido clasificados en distintas clases.
-Estos ARN pequeños comparten algunos elementos entre ellos, como que son producidas a partir de precursores de ARN doble hebra, son procesados del ARNdh para librerar el ARN pequeño y la metilación del extremo 3' del ARN pequeño. 
+Estos ARN pequeños comparten algunos elementos entre ellos, pero su función y biogénesis son distintas. 
 
 \subsection{Variedades de ARN pequeños en plantas}
-La clase más abundante son los siARNs (small interfering RNAs), que son ARN pequeños de 21 a 26 nt derivados del procesamiento de largas moléculas de ARN doble hebra de origen endógeno o exógeno.
+Los ARN pequeños provienen del procesamiento de regiones helicoidales de precursores de ARN.
+Los mismos se pueden clasificar en dos grupos principales. 
+Los derivados de precursores de doble hebra (ARNdh) formados por hibridación intermolecular de dos cadenas de ARN complementarias y los derivados de precursores de RNA de una sola hebra (ARNsh) que forman una estructura de tallo-burbuja.
+
+Los ARN pequeños más abundantes, derivados de precursores de ARNdh, son conocidos como siARNs (small interfering RNAs). 
+Pueden ser de origen endógeno o exógeno.
+A su vez, los siARN se pueden clasificar en dos grupos, aquellos que producen un silenciamiento a nivel transcripcional (TGS, del inglés: Transcriptional Gene Silencing) \citep{pmid17943195, Voinnet2009669} y aquellos que lo producen a nivel post-transcripcional (PTGS, del inglés: Post Transcriptional Gene Silencing)\citep{pmid10542148}. 
+El primer grupo se origina a partir de ciertas regiones genómicas como transposones u otras secuencias repetitivas que son transcriptos por la ARN polimerasa IV.
+Estos ARNsh se convierten en ARNdh por acción de una RDR. 
+A continuación los ARNdh son procesados por DCL3 para finalmente liberar siARN de 24 nt de longitud.
+El segundo grupo, los PTGS son originados a partir de ARNs de virus o ARNm proveniente de un transgén. 
+Por acción de una RDR se convierten en ARNdh pero en este caso es procesado pro DCL2 o DCL4 para finalmente librer siARN de 21-22 nt que serán encargados del silenciamiento post-transcripcional \citep{pmid18358247}.
+Los roles biológicos del silenciamiento mediado por siARNs incluyen resistencia contra virus \citep{pmid11485817}, protección del genoma contra elementos móviles de ADN y roles regulatorios sobre genes endógenos \citep{pmid15372043, pmid17943195, Voinnet2009669}.
+
+Existen otros ARNdh menos abundantes que han sido descubiertos posteriormente.
+Este grupo está constituido por un lado por los ta-siARN (del inglés, trans-acting siARNs) y por el otro lado los nat-siARNs y nat-miARNs (del inglés, natural antisense siRNAs y miRNAs) \citep{pmid17943195, pmid18501663, pmid16600909,Voinnet2009669}.
+
+Los genes que darán lugar a ta-siRNAs son transcriptos que generalmente son denominados TAS.
+Este transcripto luego es identificado y cortado por acción de un miARN que posee una secuencia complementaria al mismo \citep{Allen2005207}.
+Los fragmentos de corte de un TAS se estabilizan y por la acción de ARN polimerasas dependientes de ARN, se convierten en un ARNdh que es procesado por DCL4, generando ARNs pequeños de 21 nucleótidos.
+Finalmente algunos ta-siARNs se incorporan a un complejo RISC y guían el corte de los transcriptos de otros genes de manera similar a la acción de un miARN \citep{Allen2005207,pmid16040244,pmid16131612,Xie2005a}.
+
+
+En contraste con los otros tipos de siARNs, que dependen de un RDR para sintetizar el precursor ARNdh, se cree que los precursores de ARNdh de NAT-siARNs surgen de la hibridación de transcriptos separados \citep{pmid16377568,pmid17071740}.
+Estos ARNs separados pueden ser complementarios debido a que fueron transcriptos por hebras opuestas en el mismo locus, y se denominan cis-NAT-siARNs.
+Como alternativa, los ARNs hibridizados pueden surgir de genes que no se superopnen, estos se denominan trans-NAT-siARNs.
+Sólo cis-NAT-siARNs han sidos descritos en plantas; los trans-NAT-siARNs permanecen sólo como una posibilidad hipotética.
+El ARNdh formado es procesado por DCL1 o DCL2 liberando siARN primarios que inducen el corte sobre el ARNm expresado constitutivamente.
+Posteriormente, una RDR sintetiza la hebra complementaria del ARNm cortado. 
+Esto da lugar nuevamente a un ARNdh el cual es procesado por DCL1 para producir una sucesión de siARN ubicados en fase de 21 nt cada uno denominados nat-siARN secundarios \citep{pmid16377568,pmid17071740}.
+
+La clase más abundante de ARN pequeños derivados de precursores de ARNsh son los miARNs.
+Tienen entre 20 y 22 nt de longitud y son originados de largos precursores con extensa estructura secundaria en forma tallo-burbuja.
+Estos precursores luego son procesados por acción de DCL1, liberando el ARN maduro. 
+Actúan como reguladores negativos de la expresión génica reprimiendo la expresión de genes endógenos principalmente a nivel post-transcripcional.
+Este regulación se puede dar a través de la inhibición de la traducción o del corte de los ARN mensajeros.
+Tanto en animales como en plantas, existen un gran número de miARNs conservados en distintas especies.
+En animales se han encontrado miARNs conservados en especies muy distantes como gusanos hasta humanos \citep{pmid11081512}.
+Y en plantas sucede lo mismo, donde existen miARNs conservados desde musgos hasta dicotiledóneas \citep{pmid15849273,Axtell2008343,citeulike:8816489}.
+No se han encontrado miARNs conservados en animales y en plantas, lo que sugiere que han aparecido en forma independientes durante la evolución \citep{citeulike:8816489}.
+Si bien los miARNs en plantas y en animales comparten componentes básicos, su biogénesis y su modo de acción difiere entre ellos.
 
 \section{miARNs en plantas}
 
 Los miARNs son generados a partir de loci endógenos, tanto en animales como en plantas. 
-controlan una gran variedad de procesos biológicos, como el desarrollo, la diferenciación ploriferación y respuesta a estrés \citep{Voinnet2009669,pmid25118717,citeulike:8816489,pmid12869753,Axtell2008}
+Controlan una gran variedad de procesos biológicos, como el desarrollo, la diferenciación ploriferación y respuesta a estrés \citep{Voinnet2009669,pmid25118717,citeulike:8816489,pmid12869753,Axtell2008}
 
-Hasta hoy, en \textit{Aabidopsis thaliana} se han identificado más de 300 \citep{Kozomara2014} miARNs.
+Hasta hoy, en \textit{Arabidopsis thaliana} se han identificado más de 300 \citep{Kozomara2014} miARNs.
 Se han utilizado distintos enfoques para identificar los miARNs: el clonado directo de ARN pequeños, mediante secuenciación de alto rendimiento y mediante estudios genéticos y mediante predicciones bioinformáticas \citep{citeulike:8816489}, siendo está última la más común para la mayoría de las especies.
 
 Los miARNs en plantas están codificados por familias de genes de 1 a 32 miembros que dan lugar a miARNs maduros idénticos o muy similares.
@@ -36,7 +76,7 @@ Estos últimos miARNs cumplen funciones esenciales para la biología de las plan
 Los miARNs se diferencian de otros ARNs pequeños por su particular biogénesis que implica su escisión de un precursor con extensa estructura secundaria localizado en un largo transcripto primario.
 En general, la biogénesis de estos ARN pequeños comienza con la transcripción por la ARN polimerasa II \citep{Xie2005a} a partir de unidades transcripcionales propias distribuidas en el genoma \citep{Reinhart2002}.
 Los transcriptos primarios, llamados pri-miARNs, pueden tener varias kilobases de longitud y sufrir modificaciones post-transcripcionales como ser splicing, capping y poliadenilación. 
-Estos transcriptos contienen precursores para miARNs con extensa estructura secundaria en forma de tallo y burbuja (stem-loop) \citep{Jones-Rhoades2006}.
+Estos transcriptos contienen precursores para miARNs con extensa estructura secundaria en forma de tallo-burbuja (stem-loop) \citep{Jones-Rhoades2006}.
 
 En animales, el procesamiento comienza en el núcleo por DROSHA y finaliza en el citoplasma por la acción de DICER.
 En plantas, los precursores son procesados completamente en el núcleo a través de la acción de una ribonucleasa llamada DCL1 \citep{Reinhart2002,pmid12417148} (del inglés DICER LIKE 1) en asociación con el cofactor proteico de unión a ARN de doble hebra HYL1 \citep{Han2004} (del inglés HYPONASTIC LEAVES 1) y la proteína SERRATE \citep{Lobbes2006}.
@@ -54,21 +94,21 @@ Complejos RISC similares se encuentran presentes en células animales.
 Más recientemente han sido identificadas proteínas adicionales que regularían la actividad de la maquinaria de procesamiento \citep{Bologna11112012}.
 
 En animales, los miARNs reconocen principalmente a la región 3’ no codificante de ARN mensajeros blanco inhibiendo su traducción.
-En plantas es más común que los miARNs se unan a secuencias complementarias en los ARNm blanco en la región codificante señalandolos para su degradación \citep{Jones-Rhoades2006}.
+En plantas es más común que los miARNs se unan a secuencias complementarias en los ARNm blanco en la región codificante señalándolos para su degradación \citep{Jones-Rhoades2006}.
 En cualquier caso, es el miARN el que proporciona la especificidad contra las moléculas de ARN blanco \citep{Bartel2004}.
 
 \section{Regulación de la expresión génica por miARNs}
 
 \subsection{Regulación por corte del ARN blanco}
 
-En animales existe un gran número de genes blanco medidado por miARNs y un ARNm puede estar regulado por varios miARNs.
+En animales existe un gran número de genes blanco mediado por miARNs y un ARNm puede estar regulado por varios miARNs.
 En cambio los miARNs en plantas regulan un número limitado de genes blanco que además tienen un único sitio que es altamente complementario al miARN \citep{Voinnet2009669}.
 
 El ARN pequeño guía al complejo RISC hacia una molécula de ARNm complementario. 
 Luego del reconocimiento de ARNm blanco por complementariedad de bases, la proteína AGO1 del complejo RISC introduce un corte en un enlace fosfodiester del ARNm.
 Este corte ocurre entre las posiciones 10 y 11 desde el extremo 5' del miARN, independientemente de la longitud del miARN \citep{Mallory2004,Llave2002,pmid12931144,Xie2003,pmid15057819}
 
-Luego del corte medidado por el miARN, los fragmentos 3' son degradados  mediante la actividad de la enzima citoplasmática 5’-3’EXORIBONUCLEASA4 (XRN4) en En \textit{A. thaliana}  \citep{pmid15260969}
+Luego del corte mediado por el miARN, los fragmentos 3' son degradados  mediante la actividad de la enzima citoplasmática 5’-3’EXORIBONUCLEASA4 (XRN4) en En \textit{A. thaliana}  \citep{pmid15260969}
 Los fragmentos 5' también pueden ser degradados por un complejo denominado Exosoma, el cual está encargado de diferentes funciones de degradación y procesamiento de ARNs \citep{pmid18160042}.
 En Arabidopsis la degradación del fragmento 5', puede ser acelerada por uridilación en el extremo 3' por la enzima una enzima denomina HESO1 \citep{pmid24733911}.
 
@@ -103,7 +143,7 @@ Algunos codifican proteínas pertenecientes a la familia F-Box o enzimas E2 conj
 Otros genes con función conocida codifican para proteínas involucradas en la transducción de señales hormonales, o proteínas involucradas en el metabolismo energético, la respuesta a estrés o déficit de nutrientes.
 
 Por otro lado, en otras especies que se han realizados estudios de ARN pequeños por técnicas de alto rendimiento, se han encontrado miARNs no conservados \citep{citeulike:8816489, Rodriguez2010, Rajagopalan2006}.
-Los genes blanco regulados por estos miARNs tienen funciones más variables que los blanco de los miARns conservados, de todos modos se ha demostrado el rol biológico de un pequeño número de estas interacciones \citep{citeulike:8816489}.
+Los genes blanco regulados por estos miARNs tienen funciones más variables que los blanco de los miARNs conservados, de todos modos se ha demostrado el rol biológico de un pequeño número de estas interacciones \citep{citeulike:8816489}.
 
 En esta tesis nos enfocaremos principalmente en las familias de miARNs conservadas entre distintas especies de plantas (Tabla \ref{table:table_consensus}).
 Estas familias han sido estudiadas profundamente, por lo que su mayoría se encuentran ampliamente caracterizadas.
@@ -158,16 +198,19 @@ La mayoría de las herramientas específicas de plantas fueron desarrolladas par
 Y los sistemas de puntajes optimizados de Arabidopsis no se pueden utilizar como un umbral en el análisis de organismos no modelos \citep{pmid24885295}.
 Además estas herramientas en general detectan una gran cantidad de potenciales genes blanco (que incluyen los validados experimentalmente), pero su debilidad radica en que predicen una gran número de falsos positivos.
 
-\subsection{Next-Generation Sequencing for miRNA Target Identification}
+\subsection{identificación de genes blanco regulados por miARNs mediante técnicas de secuenciación de alto rendimiento}
 Con los avances de los métodos de secuenciación de alto rendimiento o "next-generation sequencing", la identificación sistemática de genes blanco de miARNs específicos en un tiempo corto ya es un hecho.
-Un método denominado PARE (Construction of Parallel Analysis of RNA Ends) \citep{pmid19247285} fue desarrollado para la identificación de genes blanco de miARNs y estudios del degradoma de ARN, mediante técnicas de alto rendimiento. 	
-A partir de este método, se han desarrollado diferentes herramientas como SeqTar \citep{pmid22140118}, que es un método para la identificación de corte guíado por miARNs de degradoma de transcriptos de plantas.
+Un método denominado PARE (Construction of Parallel Analysis of RNA Ends) \citep{pmid19247285}.
+La misma consiste en una combinación de la estrategia modificada 5´RACE, para la identificación de genes blanco de miARNs y permite realizar estudios del degradoma de ARN, mediante técnicas de alto rendimiento.
 
-CleaveLand \citep{pmid19017659} es un pipeline computacional para la detección de cortes de miARNs en datos de degradoma.
+A partir de este método, se han desarrollado diferentes herramientas como SeqTar \citep{pmid22140118}, que es un método para la identificación de corte guíado por miARNs de degradoma de transcriptos de plantas.
+Por otro lado, CleaveLand \citep{pmid19017659} es un pipeline computacional para la detección de cortes de miARNs en datos de degradoma.
 Esta herramienta toma como entrada secuencias de degradoma, ARNs pequeños y una base de datos de ARNm y devuelve los potenciales genes blanco de esos ARNs pequeños. 
 sPARTA (small RNA-PARE target analyzer) \citep{pmid25120269} es un pipeline paralelizado, para el análisis integrado de miARNs en plantas y un conjunto de ARNm.
 Este pipeline incluye un software de identificación de nuevos genes blanco regulados por miARNs y utiliza datos de PARE.
 
-Por otro lado, la herramienta PAREsnip permite realizar búsqueda de potenciales genes blanco de todos los RNA pequeños obtenidos de técnicas de secuenciación de alto rendimiento.
-Mediante la búsqueda de genes blanco de todo el "sRNAome" se pude facilitar identificación de genes blanco de RNA pequeños a grande escala.
+Por otro lado, la herramienta PAREsnip permite realizar búsqueda de potenciales genes blanco de todos los ARN pequeños obtenidos de técnicas de secuenciación de alto rendimiento.
+Mediante la búsqueda de genes blanco de todo el "sRNAome" se pude facilitar identificación de genes blanco de ARN pequeños a grande escala.
 
+\section{sPARE???}
+Del Methods de Schapire et al.

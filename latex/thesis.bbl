@@ -6,11 +6,19 @@ Addo-quaye, C., Eshoo, T.~W., Bartel, D.~P., and Axtell, M.~J. (2009).
   the Arabidopsis degradome}.
 \newblock {\em NIH Public Access}, 18(10):758--762.
 
-\bibitem[Addo-Quaye et~al., 2009]{pmid19017659}
-Addo-Quaye, C., Miller, W., and Axtell, M.~J. (2009).
+\bibitem[Addo-Quaye et~al., 2009a]{pmid19017659}
+Addo-Quaye, C., Miller, W., and Axtell, M.~J. (2009a).
 \newblock {{C}leave{L}and: a pipeline for using degradome data to find cleaved
   small {R}{N}{A} targets}.
 \newblock {\em Bioinformatics}, 25(1):130--131.
+
+\bibitem[Addo-Quaye et~al., 2009b]{pmid19850910}
+Addo-Quaye, C., Snyder, J.~A., Park, Y.~B., Li, Y.~F., Sunkar, R., and Axtell,
+  M.~J. (2009b).
+\newblock {{S}liced micro{R}{N}{A} targets and precise loop-first processing of
+  {M}{I}{R}319 hairpins revealed by analysis of the {P}hyscomitrella patens
+  degradome}.
+\newblock {\em RNA}, 15(12):2112--2121.
 
 \bibitem[Allen et~al., 2005]{Allen2005207}
 Allen, E., Xie, Z., Gustafson, A.~M., and Carrington, J.~C. (2005).
@@ -49,16 +57,32 @@ Axtell, M.~J. (2008).
   biologically relevant?}
 \newblock {\em Biochimica et biophysica acta}, 1779(11):725--34.
 
+\bibitem[Axtell and Bartel, 2005]{pmid15849273}
+Axtell, M.~J. and Bartel, D.~P. (2005).
+\newblock {{A}ntiquity of micro{R}{N}{A}s and their targets in land plants}.
+\newblock {\em Plant Cell}, 17(6):1658--1673.
+
 \bibitem[Axtell and Bowman, 2008]{Axtell2008343}
 Axtell, M.~J. and Bowman, J.~L. (2008).
 \newblock {Evolution of plant microRNAs and their targets}.
 \newblock {\em Trends in Plant Science}, 13(7):343--349.
+
+\bibitem[Axtell et~al., 2011]{pmid21554756}
+Axtell, M.~J., Westholm, J.~O., and Lai, E.~C. (2011).
+\newblock {{V}ive la différence: biogenesis and evolution of micro{R}{N}{A}s
+  in plants and animals}.
+\newblock {\em Genome Biol.}, 12(4):221.
 
 \bibitem[Bartel et~al., 2004]{Bartel2004}
 Bartel, D.~P., Lee, R., and Feinbaum, R. (2004).
 \newblock {MicroRNAs: Genomics , Biogenesis , Mechanism , and Function Genomics
   : The miRNA Genes}.
 \newblock {\em Cell}, 116:281--297.
+
+\bibitem[Baulcombe, 2004]{pmid15372043}
+Baulcombe, D. (2004).
+\newblock {{R}{N}{A} silencing in plants}.
+\newblock {\em Nature}, 431(7006):356--363.
 
 \bibitem[Bo and Wang, 2005]{pmid15598838}
 Bo, X. and Wang, S. (2005).
@@ -67,16 +91,35 @@ Bo, X. and Wang, S. (2005).
   m{R}{N}{A}}.
 \newblock {\em Bioinformatics}, 21(8):1401--1402.
 
+\bibitem[Bologna et~al., 2009]{Bologna2009}
+Bologna, N.~G., Mateos, J.~L., Bresso, E.~G., and Palatnik, J.~F. (2009).
+\newblock {A loop-to-base processing mechanism underlies the biogenesis of
+  plant microRNAs miR319 and miR159.}
+\newblock {\em The EMBO journal}, 28(23):3646--56.
+
 \bibitem[Bologna et~al., 2012]{Bologna11112012}
 Bologna, N.~G., Schapire, A.~L., and Palatnik, J.~F. (2012).
 \newblock Processing of plant microrna precursors.
 \newblock {\em Briefings in Functional Genomics}.
+
+\bibitem[Bologna et~al., 2013]{Bologna2013}
+Bologna, N.~G., Schapire, A.~L., Zhai, J., Chorostecki, U., Boisbouvier, J.,
+  Meyers, B.~C., and Palatnik, J.~F. (2013).
+\newblock {Multiple RNA recognition patterns during microRNA biogenesis in
+  plants.}
+\newblock {\em Genome research}, 23(10):1675--89.
 
 \bibitem[Bonnet et~al., 2010]{pmid20430753}
 Bonnet, E., He, Y., Billiau, K., and Van~de Peer, Y. (2010).
 \newblock {{T}{A}{P}{I}{R}, a web server for the prediction of plant
   micro{R}{N}{A} targets, including target mimics}.
 \newblock {\em Bioinformatics}, 26(12):1566--1568.
+
+\bibitem[Borsani et~al., 2005]{pmid16377568}
+Borsani, O., Zhu, J., Verslues, P.~E., Sunkar, R., and Zhu, J.~K. (2005).
+\newblock {{E}ndogenous si{R}{N}{A}s derived from a pair of natural
+  cis-antisense transcripts regulate salt tolerance in {A}rabidopsis}.
+\newblock {\em Cell}, 123(7):1279--1291.
 
 \bibitem[Bowman, 2004]{pmid15351964}
 Bowman, J.~L. (2004).
@@ -95,6 +138,12 @@ Brodersen, P., Sakvarelidze-Achard, L., Bruun-Rasmussen, M., Dunoyer, P.,
 Carrington, J.~C. and Ambros, V. (2003).
 \newblock {{R}ole of micro{R}{N}{A}s in plant and animal development}.
 \newblock {\em Science}, 301(5631):336--338.
+
+\bibitem[Chapman and Carrington, 2007]{pmid17943195}
+Chapman, E.~J. and Carrington, J.~C. (2007).
+\newblock {{S}pecialization and evolution of endogenous small {R}{N}{A}
+  pathways}.
+\newblock {\em Nat. Rev. Genet.}, 8(11):884--896.
 
 \bibitem[Chekanova et~al., 2007]{pmid18160042}
 Chekanova, J.~A., Gregory, B.~D., Reverdatto, S.~V., Chen, H., Kumar, R.,
@@ -252,6 +301,19 @@ Guo, H., Ingolia, N.~T., Weissman, J.~S., and Bartel, D.~P. (2010).
   m{R}{N}{A} levels}.
 \newblock {\em Nature}, 466(7308):835--840.
 
+\bibitem[Hamilton and Baulcombe, 1999]{pmid10542148}
+Hamilton, A.~J. and Baulcombe, D.~C. (1999).
+\newblock {{A} species of small antisense {R}{N}{A} in posttranscriptional gene
+  silencing in plants}.
+\newblock {\em Science}, 286(5441):950--952.
+
+\bibitem[Han et~al., 2006]{pmid16751099}
+Han, J., Lee, Y., Yeom, K.~H., Nam, J.~W., Heo, I., Rhee, J.~K., Sohn, S.~Y.,
+  Cho, Y., Zhang, B.~T., and Kim, V.~N. (2006).
+\newblock {{M}olecular basis for the recognition of primary micro{R}{N}{A}s by
+  the {D}rosha-{D}{G}{C}{R}8 complex}.
+\newblock {\em Cell}, 125(5):887--901.
+
 \bibitem[Han et~al., 2004]{Han2004}
 Han, M.-H., Goud, S., Song, L., and Fedoroff, N. (2004).
 \newblock {T@Article{pmid14691535, Author="Stark, A. and Brennecke, J. and
@@ -297,6 +359,12 @@ Kasschau, K.~D., Xie, Z., Allen, E., Llave, C., Chapman, E.~J., Krizan, K.~a.,
 \newblock {P1/HC-Pro, a Viral Suppressor of RNA Silencing, Interferes with
   Arabidopsis Development and miRNA Function}.
 \newblock {\em Developmental Cell}, 4(2):205--217.
+
+\bibitem[Katiyar-Agarwal et~al., 2006]{pmid17071740}
+Katiyar-Agarwal, S., Morgan, R., Dahlbeck, D., Borsani, O., Villegas, A., Zhu,
+  J.~K., Staskawicz, B.~J., and Jin, H. (2006).
+\newblock {{A} pathogen-inducible endogenous si{R}{N}{A} in plant immunity}.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 103(47):18002--18007.
 
 \bibitem[Kozomara and Griffiths-Jones, 2014]{Kozomara2014}
 Kozomara, A. and Griffiths-Jones, S. (2014).
@@ -397,6 +465,12 @@ Markham, N.~R. and Zuker, M. (2005).
 \newblock {{D}{I}{N}{A}{M}elt web server for nucleic acid melting prediction}.
 \newblock {\em Nucleic Acids Res.}, 33(Web Server issue):W577--581.
 
+\bibitem[Mateos et~al., 2010]{Mateos2010}
+Mateos, J.~L., Bologna, N.~G., Chorostecki, U., and Palatnik, J.~F. (2010).
+\newblock {Identification of microRNA processing determinants by random
+  mutagenesis of Arabidopsis MIR172a precursor.}
+\newblock {\em Current Biology}, 20(1):49--54.
+
 \bibitem[Maunoury, 2011]{Maunoury2011}
 Maunoury, N. (2011).
 \newblock {AGO1 and AGO2 Act Redundantly in miR408-Mediated Plantacyanin
@@ -472,11 +546,25 @@ Paraskevopoulou, M.~D., Georgakilas, G., Kostoulas, N., Vlachos, I.~S.,
   mi{R}{N}{A} functional analysis workflows}.
 \newblock {\em Nucleic Acids Res.}, 41(Web Server issue):W169--173.
 
+\bibitem[Pasquinelli et~al., 2000]{pmid11081512}
+Pasquinelli, A.~E., Reinhart, B.~J., Slack, F., Martindale, M.~Q., Kuroda,
+  M.~I., Maller, B., Hayward, D.~C., Ball, E.~E., Degnan, B., Muller, P.,
+  Spring, J., Srinivasan, A., Fishman, M., Finnerty, J., Corbo, J., Levine, M.,
+  Leahy, P., Davidson, E., and Ruvkun, G. (2000).
+\newblock {{C}onservation of the sequence and temporal expression of let-7
+  heterochronic regulatory {R}{N}{A}}.
+\newblock {\em Nature}, 408(6808):86--89.
+
 \bibitem[Rajagopalan et~al., 2006]{Rajagopalan2006}
 Rajagopalan, R., Vaucheret, H., Trejo, J., and Bartel, D.~P. (2006).
 \newblock {A diverse and evolutionarily fluid set of microRNAs in Arabidopsis
   thaliana.}
 \newblock {\em Genes \& development}, 20(24):3407--25.
+
+\bibitem[Ramachandran and Chen, 2008]{pmid18501663}
+Ramachandran, V. and Chen, X. (2008).
+\newblock {{S}mall {R}{N}{A} metabolism in {A}rabidopsis}.
+\newblock {\em Trends Plant Sci.}, 13(7):368--374.
 
 \bibitem[Rampey et~al., 2004]{Rampey2004}
 Rampey, R.~A., Leclere, S., Kowalczyk, M., Ljung, K., Bartel, B., Biology, C.,
@@ -551,6 +639,18 @@ Shenoy, A. and Blelloch, R.~H. (2014).
   proliferation and differentiation}.
 \newblock {\em Nat. Rev. Mol. Cell Biol.}, 15(9):565--576.
 
+\bibitem[Song et~al., 2010]{pmid20015653}
+Song, L., Axtell, M.~J., and Fedoroff, N.~V. (2010).
+\newblock {{R}{N}{A} secondary structural determinants of mi{R}{N}{A} precursor
+  processing in {A}rabidopsis}.
+\newblock {\em Curr. Biol.}, 20(1):37--41.
+
+\bibitem[Song et~al., 2007]{pmid17369351}
+Song, L., Han, M.~H., Lesicka, J., and Fedoroff, N. (2007).
+\newblock {{A}rabidopsis primary micro{R}{N}{A} processing proteins {H}{Y}{L}1
+  and {D}{C}{L}1 define a nuclear body distinct from the {C}ajal body}.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 104(13):5437--5442.
+
 \bibitem[Souret et~al., 2004]{pmid15260969}
 Souret, F.~F., Kastenmayer, J.~P., and Green, P.~J. (2004).
 \newblock {{A}t{X}{R}{N}4 degrades m{R}{N}{A} in {A}rabidopsis and its
@@ -588,6 +688,12 @@ Thadani, R. and Tammi, M.~T. (2006).
   duplexes}.
 \newblock {\em BMC Bioinformatics}, 7 Suppl 5:S20.
 
+\bibitem[Vaucheret, 2006]{pmid16600909}
+Vaucheret, H. (2006).
+\newblock {{P}ost-transcriptional small {R}{N}{A} pathways in plants:
+  mechanisms and regulations}.
+\newblock {\em Genes Dev.}, 20(7):759--771.
+
 \bibitem[Vaucheret, 2008]{Cellulaire2008}
 Vaucheret, H. (2008).
 \newblock {Plant ARGONAUTES ´}.
@@ -606,10 +712,21 @@ Vazquez, F., Gasciolli, V., Cr\'{e}t\'{e}, P., and Vaucheret, H. (2004b).
   silencing.}
 \newblock {\em Current biology : CB}, 14(4):346--51.
 
+\bibitem[Voinnet, 2001]{pmid11485817}
+Voinnet, O. (2001).
+\newblock {{R}{N}{A} silencing as a plant immune system against viruses}.
+\newblock {\em Trends Genet.}, 17(8):449--459.
+
 \bibitem[Voinnet, 2009]{Voinnet2009669}
 Voinnet, O. (2009).
 \newblock {Origin, Biogenesis, and Activity of Plant MicroRNAs}.
 \newblock {\em Cell}, 136(4):669--687.
+
+\bibitem[Werner et~al., 2010]{pmid20015654}
+Werner, S., Wollmann, H., Schneeberger, K., and Weigel, D. (2010).
+\newblock {{S}tructure determinants for accurate processing of mi{R}172a in
+  {A}rabidopsis thaliana}.
+\newblock {\em Curr. Biol.}, 20(1):42--48.
 
 \bibitem[Xie and Zhang, 2010]{pmid20934992}
 Xie, F. and Zhang, B. (2010).
@@ -628,6 +745,11 @@ Xie, Z., Kasschau, K.~D., and Carrington, J.~C. (2003).
 \newblock {Negative Feedback Regulation of Dicer-Like1 in Arabidopsis by
   microRNA-Guided mRNA Degradation}.
 \newblock {\em Current Biology}, 13(9):784--789.
+
+\bibitem[Xie and Qi, 2008]{pmid18358247}
+Xie, Z. and Qi, X. (2008).
+\newblock {{D}iverse small {R}{N}{A}-directed silencing pathways in plants}.
+\newblock {\em Biochim. Biophys. Acta}, 1779(11):720--724.
 
 \bibitem[Yamasaki et~al., 2007]{Yamasaki2007}
 Yamasaki, H., Abdel-Ghany, S.~E., Cohu, C.~M., Kobayashi, Y., Shikanai, T., and
