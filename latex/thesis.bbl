@@ -377,6 +377,12 @@ Kr\"uger, J. and Rehmsmeier, M. (2006).
 \newblock Rnahybrid: microrna target prediction easy, fast and flexible.
 \newblock {\em Nucleic Acids Research}, 34(suppl 2):W451--W454.
 
+\bibitem[Kurihara and Watanabe, 2004]{pmid15314213}
+Kurihara, Y. and Watanabe, Y. (2004).
+\newblock {{A}rabidopsis micro-{R}{N}{A} biogenesis through {D}icer-like 1
+  protein functions}.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 101(34):12753--12758.
+
 \bibitem[Lai, 2004]{pmid15345038}
 Lai, E.~C. (2004).
 \newblock {{P}redicting and validating micro{R}{N}{A} targets}.
@@ -615,6 +621,14 @@ Rubio-Somoza, I. and Weigel, D. (2011).
 \newblock {{M}icro{R}{N}{A} networks and developmental plasticity in plants}.
 \newblock {\em Trends Plant Sci.}, 16(5):258--264.
 
+\bibitem[Schapire et~al., 2013]{Schapire2013}
+Schapire, A.~L., Bologna, N.~G., Moro, B., Zhai, J., Meyers, B.~C., and
+  Palatnik, J.~F. (2013).
+\newblock {Construction of Specific Parallel Amplification of RNA Ends (SPARE)
+  libraries for the systematic identification of plant microRNA processing
+  intermediates.}
+\newblock {\em Methods (San Diego, Calif.)}, 64(3):283--91.
+
 \bibitem[Schauer et~al., 2002]{pmid12417148}
 Schauer, S.~E., Jacobsen, S.~E., Meinke, D.~W., and Ray, A. (2002).
 \newblock {{D}{I}{C}{E}{R}-{L}{I}{K}{E}1: blind men and elephants in
@@ -780,6 +794,13 @@ Yoshikawa, M., Peragine, A., Park, M.~Y., and Poethig, R.~S. (2005).
 Zhang, B., Pan, X., Cannon, C.~H., Cobb, G.~P., and Anderson, T.~A. (2006).
 \newblock {{C}onservation and divergence of plant micro{R}{N}{A} genes}.
 \newblock {\em Plant J.}, 46(2):243--259.
+
+\bibitem[Zhang et~al., 2010]{pmid20696037}
+Zhang, W., Gao, S., Zhou, X., Xia, J., Chellappan, P., Zhou, X., Zhang, X., and
+  Jin, H. (2010).
+\newblock {{M}ultiple distinct small {R}{N}{A}s originate from the same
+  micro{R}{N}{A} precursors}.
+\newblock {\em Genome Biol.}, 11(8):R81.
 
 \bibitem[Zheng et~al., 2012]{pmid22140118}
 Zheng, Y., Li, Y.~F., Sunkar, R., and Zhang, W. (2012).

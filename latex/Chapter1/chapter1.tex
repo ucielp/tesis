@@ -2,10 +2,11 @@
 %*********************************** First Chapter *****************************
 %*******************************************************************************
 
+\graphicspath{{Chapter1/Figs/}}
+
+
 \chapter{Resultados Capítulo 1} 
 {\LARGE Aplicaciones bioinformáticas para el estudio de interacciones miARN-gen blanco}
-
-\graphicspath{{Chapter1/Figs/}}
 
 \section{Introducción}
 patmatch del TAIR es utilizado para...
@@ -44,7 +45,7 @@ Combinando filtros de energía y filtro de conservación evolutiva, la búsqueda
 \begin{figure}[htbp!] 
     \centering    
     \includegraphics[width=0.7\textwidth]{NAR_fig1.png}
-    \caption[Estrategia]{Esquema de la estrategia para la identificación de nuevos genes blanco. 
+    \caption[Estrategia]{Esquema de la estrategia para la identificación de nuevos genes blanco.
     El número de genes blanco está identificado en cada paso. 
     Luego de aplicar el análisis de conservación, todos los genes que tienen el mismo hit en Arabidopsis, fueron considerados como un solo gen blanco. 
     El lado derecho muestra la búsqueda hecha con filtros empíricos: bin 5 y 6 incluyen genes blanco seleccionados con ambos filtros, empíricos y de conservación.
@@ -126,7 +127,7 @@ Estos resultados muestran que una alta conservación podría no ser necesariamen
 \begin{figure}[htbp!] 
     \centering    
     \includegraphics[width=0.9\textwidth]{NAR_fig2.png}
-    \caption[]{Conservación de potenciales genes blanco en distintas especies. Todos los miARNs 
+    \caption[Conservación de potenciales genes blanco en distintas especies]{Conservación de potenciales genes blanco en distintas especies. Todos los miARNs 
     \textbf{(A)}, miR396 \textbf{(B)}, miR408 \textbf{(C)}, miR398 \textbf{(D)}, miR162 \textbf{(E)}, miR158 \textbf{(F)}.
     Puntos naranja representan los genes blanco de miARNs usando filtro evolutivo.
     Puntos amarillos representan los genes blanco de las secuencias al azar usando filtro evolutivo.
@@ -138,7 +139,7 @@ Estos resultados muestran que una alta conservación podría no ser necesariamen
 \begin{figure}[htbp!] 
     \centering    
     \includegraphics[width=0.6\textwidth]{NAR_fig3.png}
-    \caption[]{Selección de genes blanco por conservación evolutiva de la secuencia.
+    \caption[Selección de genes blanco por conservación evolutiva de la secuencia]{Selección de genes blanco por conservación evolutiva de la secuencia.
     \textbf{(A)} Relación entre MFE y el número de especies en donde cada gen blanco fue detectado.
     \textbf{(B)} Sensibilidad de la estrategia, analizado de dos modos distinto. 
     Verde clarito: evaluando la presencia de genes validados en Arabidopsis y en verde oscuro teniendo en cuenta la presencia de por lo menos un gen blanco de cada familia regulada por miARNs.
@@ -244,7 +245,7 @@ De esta manera el sitio de NOZZLE, donde la secuencia cambia en diferentes espec
 \begin{figure}[htbp!] 
     \centering    
     \includegraphics[width=0.7\textwidth]{NAR_fig4.png}
-    \caption[]{Nuevos genes blanco validados en \textit{A. thaliana}. 
+    \caption[Nuevos genes blanco validados en \textit{A. thaliana}.]{Nuevos genes blanco validados en \textit{A. thaliana}. 
     El alineamiento entre el miARN y los nuevos genes blanco identificados se muestran en la izquierda.
     La conservación evolutiva de la secuencia del sitio reconocido por el miARN en las especies seleccionadas se muestra a la derecha. La figura muestra las interacciones del miR408 con PAA2
     \textbf{(A)}, miR408 con PAC1 \textbf{(B)}, miR396 con MMG4.7 \textbf{(C)}, miR396 con FLU \textbf{(D)}, miR159 con NOZZLE \textbf{(E)}.
@@ -273,7 +274,7 @@ La técnica de 5’ RACE PCR confirmó que el gen realmente era gen blanco del m
 \begin{figure}[htbp!] 
     \centering    
     \includegraphics[width=0.8\textwidth]{NAR_fig5.png}
-    \caption[]{Identificación de un nuevo gen blanco de miARN, relajando los parámetros de interacción pero incrementando el parámetro de conservación evolutiva.
+    \caption[Identificación de un nuevo gen blanco de miARN]{Identificación de un nuevo gen blanco de miARN, relajando los parámetros de interacción pero incrementando el parámetro de conservación evolutiva.
     \textbf{(A)} Esquema de la estrategia modificada para identificar genes blanco de miARNs.
     \textbf{(B)} Conservación del sitio blanco reconocido por el miARN en distintas especies.
     La flecha indica una variación de G-C o G-U con el miARN dependiendo de la especie.
@@ -304,7 +305,7 @@ Además, estos resultados demuestran que los genes blanco presentes en un grupo 
 \begin{figure}[htbp!] 
     \centering    
     \includegraphics[width=0.7\textwidth]{NAR_fig6.png}
-    \caption[]{Identificación de genes blanco de miARN, específicos de \textit{Solanaceae}.
+    \caption[Identificación de genes blanco de miARN, específicos de \textit{Solanaceae}]{Identificación de genes blanco de miARN, específicos de \textit{Solanaceae}.
     \textbf{(A)} Predicción de genes blanco de miARN en cinco especies de \textit{Solanaceae}.
     El número de genes blanco de todos los miARNs conservados juntos se muestra luego de aplicar distintos filtros.
     También se muestran los genes blanco obtenidos a partir de las secuencias al azar.
@@ -352,7 +353,7 @@ Luego de la búsqueda, se da un link al usuario y después de unas horas, cuando
 \begin{figure}[htbp!] 
     \centering    
     \includegraphics[width=1\textwidth]{comTAR_find_targets.png}
-    \caption[]{Resultados de la búsqueda con parámetros por defecto para el miR398}
+    \caption[Resultados del comTAR para el miR398]{Resultados de la búsqueda de comTAR, con parámetros por defecto para el miR398}
     \label{fig:comTAR_find_targets}
 \end{figure}
 
@@ -360,7 +361,7 @@ Luego de la búsqueda, se da un link al usuario y después de unas horas, cuando
 \begin{figure}[htbp!] 
     \centering    
     \includegraphics[width=1.1\textwidth]{comTAR_fig2.png}
-    \caption[]{Parte de la salida de comTAR mostrando el par miR398/SOD1 (At1g12520) en diferentes especies}
+    \caption[Salida del comTAR]{Parte de la salida de comTAR mostrando el par miR398/SOD1 (At1g12520) en diferentes especies}
     \label{fig:comTAR_fig2}
 \end{figure}
 

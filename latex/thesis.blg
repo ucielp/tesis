@@ -12,22 +12,6 @@ A level-1 auxiliary file: Chapter3/chapter3.aux
 The style file: apalike.bst
 A level-1 auxiliary file: Appendix1/appendix1.aux
 Database file #1: References/references.bib
-Repeated entry---line 3095 of file References/references.bib
- : @article{pmid17943195
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3211 of file References/references.bib
- : @article{pmid20015654
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3347 of file References/references.bib
- : @article{pmid19850910
- :                      ,
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "2"
-Warning--I didn't find a database entry for "28"
-Warning--I didn't find a database entry for "14"
-Warning--I didn't find a database entry for "31"
 Too many commas in name 1 of "Laufs P, Peaucelle A, Morin H, Traas J" for entry laufus
 while executing---line 1020 of file apalike.bst
 Too many commas in name 1 of "Laufs P, Peaucelle A, Morin H, Traas J" for entry laufus
@@ -47,45 +31,45 @@ Warning--empty journal in Takeda2008
 Warning--there's a number but no volume in Cellulaire2008
 Warning--empty journal in Vazquez2004a
 Warning--empty journal in Yang1999
-You've used 127 entries,
+You've used 130 entries,
             1935 wiz_defined-function locations,
-            1209 strings with 30491 characters,
-and the built_in function-call counts, 61340 in all, are:
-= -- 5879
-> -- 3311
-< -- 45
-+ -- 1181
-- -- 1176
-* -- 5947
-:= -- 10658
-add.period$ -- 382
-call.type$ -- 127
-change.case$ -- 1222
-chr.to.int$ -- 124
-cite$ -- 140
-duplicate$ -- 1837
-empty$ -- 3839
-format.name$ -- 1353
-if$ -- 11637
+            1225 strings with 31180 characters,
+and the built_in function-call counts, 62828 in all, are:
+= -- 6018
+> -- 3400
+< -- 46
++ -- 1213
+- -- 1208
+* -- 6096
+:= -- 10920
+add.period$ -- 391
+call.type$ -- 130
+change.case$ -- 1253
+chr.to.int$ -- 127
+cite$ -- 143
+duplicate$ -- 1879
+empty$ -- 3928
+format.name$ -- 1390
+if$ -- 11916
 int.to.chr$ -- 4
 int.to.str$ -- 0
-missing$ -- 127
-newline$ -- 638
-num.names$ -- 383
-pop$ -- 971
+missing$ -- 130
+newline$ -- 653
+num.names$ -- 392
+pop$ -- 995
 preamble$ -- 1
-purify$ -- 1222
+purify$ -- 1253
 quote$ -- 0
-skip$ -- 1380
+skip$ -- 1411
 stack$ -- 0
-substring$ -- 4665
-swap$ -- 177
+substring$ -- 4769
+swap$ -- 180
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 762
+type$ -- 780
 warning$ -- 13
-while$ -- 489
+while$ -- 500
 width$ -- 0
-write$ -- 1643
-(There were 6 error messages)
+write$ -- 1682
+(There were 3 error messages)

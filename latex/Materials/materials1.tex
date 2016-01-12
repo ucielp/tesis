@@ -1,8 +1,8 @@
-\graphicspath{{Appendix1/Figs/}}
+\graphicspath{{Materials/Figs/}}
 
 \chapter{Métodos} 
 
-\section{Predicción de genes regulados por miARNs en plantas}
+\section{Métodos utilizados para la predicción de genes regulados por miARNs en plantas}
 
 En la primer parte de esta tesis diseñamos una estrategia para la identificación de genes blanco regulados por miARNs basado en la conservación evolutiva del par miARN-gen blanco.
 La metodología aplicada es la siguiente.
@@ -50,18 +50,13 @@ Para el crecimiento directo en tierra, las semillas fueron estratificadas a 4\de
 Las plantas de \textit{Nicotiana tabacum} (cv Petit Havana) fueron crecidas en condición día largo durante 8 semanas y la segunda hoja fue utilizada para el análisis de ARN.
 
 
-\subsubsection{Cleavage site mapping of target mRNA and expression analysis}
+\subsubsection{Mapeo del sitio de corte}
 
-%~ PolyATTract
-
-ARN Poly(A)+ fue extraído a partir de 50 mg de ARN total de plántulas de Col-0 utilizando el kit comercial  PolyATract\textregistered (Promega)
-%~ Poly(A)+ RNA was extracted from 50 mg of total RNA of Col-0 seedlings using PolyAT trackt kit (Promega).
+Se realizó una extración 50mg de ARN total de plántulas de Col-0 y se realizó una purificación de ARN utilizando el kit comercial "PolyATract\textregistered" de (Promega).
 La ligación del Oligo Adaptador de ARN, transcripción reversa y 5' RACE fueron realizadas como se describió anteriormente \citep{Palatnik2007}
-%~ Ligation of an RNA adaptor, reverse transcription and 5' RACE were performed as described before (Palatnik2007).
-%~ TODO
-Two nested gene-specific reverse oligonucleotides were used for 5' RACE.
+Dos oligonucleótidos reversos gen-específico anidados fueron utilizados para la 5' RACE.
 Los productos de la PCR fueron resueltos en geles de agarosa al 2\% y se detectaron por tinción con bromuro de etidio.
-La PCR en tiempo real cuantitativa (qPCR) para los genes blanco del miR396 y miR159  se realizó como se ha descrito anteriormente \citep{Palatnik2007,Rodriguez2010}
+La PCR en tiempo real cuantitativa (qPCR) para los genes blanco del miR396 y miR159 se realizó como se ha descrito anteriormente \citep{Palatnik2007,Rodriguez2010}
 La lista de los cebadores para estos ensayos están descritos en las tablas \ref{table:NAR_S7} y \ref{table:NAR_S8}.
 Las plantas que sobreexpresan el miR396 y miR159 se han descrito previamente \citep{Palatnik2007,Rodriguez2010}.
 
@@ -95,6 +90,32 @@ El TAG del mejor hit en Arabidopsis es el que determina el número de especies d
 \begin{figure}[htbp!] 
     \centering    
     \includegraphics[width=1\textwidth]{comTAR_fig1.png}
-    \caption[]{comTAR. Diagrama de flujo que describe la herramienta}
+    \caption[comTAR. Diagrama de flujo]{comTAR. Diagrama de flujo que describe la herramienta}
     \label{fig:comTAR_fig1}
 \end{figure}
+
+\section{Estudios genómicos sobre la biogénesis de miARN en plantas}
+
+\subsection{Procesamiento de precursores de miARNs en plantas}
+
+\subsubsection{Bibliotecas de sPARE}
+ARN total (1 mg). Se elimino el ARN ribosomal utilizando el "RiboMinus Plant Kit for RNA-seq" (Invitrogen), según las indicaciones del fabricante.
+El ARN se ligó al adaptador oligonucleótido de ARN  (5'-GUUCAGAGUUCUACAGUCCGAC-3') utilizando la ARN ligasa T4 (Fermentas).
+Los productos ligados fueron purificaron y se utilizaron como plantilla en 10 multiplex reacciones de transcripción reversa utilizando 18 diferentes oligos precursor específicos en cada reacción.
+La Síntesis de ADNc se llevó a cabo utilizando "SuperScript III Reverse Transcriptase" (Invitrogen).
+Cada oligo específico posee 20nt que hibridan con precursor específico y 15 nt comunes que hibride oligo general 5'-AGCAGAAGACGGCATACGA-3'.
+A continuación, las mezclas de las 10 reacciones multiplex fueron amplificados por PCR usando el cebador P5 genérico 5'-AATGATACGGCGACCACCGACAGGTTCAGAGTTCTACAGTCCGA-3' y el primer P7 5'-CAAGCAGAAGACGGCATACGA-3'.
+Las condiciones de PCR fueron 18 ciclos de 94\degree C durante 20 seg, 60\degree C durante 20 seg, y 72\degree C durante 20 seg.
+Los productos de PCR se purificaron en gel y se sometió a secuenciación de SBS.
+
+\subsubsection{Análisis bioinformático}
+
+Obtuvimos las estructuras secundarias para cada precursor calculada a partir de la herramienta mfold \citep{pmid12824337} con los parámetros por default a 37°C de temperatura.
+El lado proximal del duplex miARN/miARN* fue definido como la posición +1.
+Analizamos la estructura secuendaria y consideremos las posiciones que había un match como un 0, mientras que bulges y mismatches los consideramos como 1.
+Además hicimos un promedio para todos los precursores siguiendo la misma estrategia.
+Implementamos un pipeline bioinformático utilizando "in-house" scripts y datos públicos de miRBASE, para asistir con el análisis de las bibliotecas de secuenciación masiva.
+Las secuencias de los ARN pequeños fueron obtenidas de la base de datos de nueva generación de Arabidopsis\footnote{https://http://mpss.udel.edu/} \citep{pmid25120269} y  de la base de datos de miRBASE \citep{Kozomara2014}.
+
+\subsubsection{Acceso a los datos}
+Los datos de secuenciación masiva con los resultados del sPARE están accesibles mediante el NCBI Gene Expression Omnibus (GEO\footnote{http://ncbi.nlm.nih.gov/geo} con el código de acceso GSE46429.
