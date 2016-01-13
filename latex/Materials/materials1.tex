@@ -2,132 +2,60 @@
 
 \chapter{Métodos} 
 
-\section{Métodos utilizados para la predicción de genes regulados por miARNs en plantas}
+\section{Obtención de Arabidopsis transformadas}
 
-En la primer parte de esta tesis diseñamos una estrategia para la identificación de genes blanco regulados por miARNs basado en la conservación evolutiva del par miARN-gen blanco.
-La metodología aplicada es la siguiente.
-
-\subsection{MiARN consensos}
-Las 22 familias de miARNs conservadas en angiospermas fueron consideradas para esta parte del trabajo \citep{Fahlgren2010,Axtell2008343}.
-MiR319 y miR159 que codifican para miARNs similares, fueron considerados como familias diferentes ya que regulan a genes blanco distintos \citep{Palatnik2007}.
-Consideramos todos los miembros de estas familia, obtenidos de miRBASE\footnote{http://mirbase.org}, pertenecientes a \textit{A. thaliana}, \textit{Populus trichocarpa} y \textit{Oryza Sativa}.
-Variaciones en las posiciones 1, 20 y 21 son muy comunes en las familias de miARNs \citep{10.1371/journal.pgen.1002419}. 
-Por esto, definimos como secuencia consenso, a las secuencias más comunes (posiciones 2-19) de distintos miembros de cada familia (tabla \ref{table:table_consensus}).
-
-\subsection{Predicción de genes regulados por miARNs}
-
-\subsubsection{Conjunto de datos de plantas}
-Los datos de las secuencias pertenecen a librerías extraídas de "Gene Index Project"\footnote{http://compbio.dfci.harvard.edu/tgi/}, que consiste en una base de datos de ESTs ensamblados.
-Seleccionamos un conjunto de datos pertenecientes a Angiospermas.
-Además utilizamos secuencias de ARNm completos de \textit{A. thaliana}\footnote{http://arabidopsis.org} y \textit{Oryza Sativa}\footnote{http://rice.plantbiology.msu.edu} (ver tabla \ref{table:NAR_table_S2}).
-La búsqueda la realizamos utilizando PatMatch \citep{Yan01072005}, que es un programa de búsqueda de patrones de nucleótidos cortos o péptidos.
-El programa puede ser usado para encontrar coincidencias con un patrón de secuencia específico y permite el uso de códigos de secuencias ambiguas y expresiones regulares y por esto se puede utilizar la búsqueda con mismatches, inserciones y deleciones.
-Realizamos la búsqueda de potenciales genes blanco permitiendo tres mismatches con las secuencias consensos, mientras que las interacciones G:U y los bulges fueron considerados mismatches.
-Para realizar el alineamiento del par miARN-gen blanco, desarrollamos una versión modificada del algoritmo de programación dinámica Needleman-Wunsch \citep{Needleman1970443}, utilizando el lenguaje Perl\footnote{http://perl.org}.
-Además, desarrollamos scripts para integrar los módulos de Blastx \citep{Altschup1990} utilizando el proteoma de Arabidopsis y el módulo RNAhybrid \citep{Giegerich2004} que es una herramienta que permite encontrar la menor energía libre de hibridación (MFE) de dos secuencias de ARN.
-
-\subsubsection{Filtros}
-Las secuencias candidatas fueron etiquetadas con el identificador del locus (locus ID) con mejor puntuación (best hit) en \textit{A. thaliana}, utilizando el módulo de Blastx (Corte del evalue de 10e$^{-5})$.
-De este modo, genes blanco de distintas especies que tenían la misma etiqueta fueron agrupados juntos, ya que tendrían el mismo homólogo en \textit{A. thaliana}.
-El filtro de conservación evolutiva hace referencia al número mínimo de especies donde la misma etiqueta estaba presente para un miARN particular.
-El filtro empírico está basado en trabajos previos \citep{Schwab2005517} y hace referencia a la energía de interacción MFE (mínima energía libre de hibridación de al menos 72\% del apareamiento perfecto).
-El otro filtro empírico requiere que entre el par miARN-gen blanco, solamente está permitido un mismatch entre la posición 2 y la 12 del miARN (1-11 de nuestra búsqueda modificada con las secuencias consenso).
-
-\subsubsection{Controles}
-Como control, realizamos las búsquedas del mismo modo que lo hicimos para los miARNs conservados, pero utilizando secuencia al azar.
-Para cada miARN conservado, generamos 20 secuencias al azar (scramble) dividiendo las secuencias originales de a di-nucleótidos y luego generando nuevas secuencias al azar conservando esa composición de los di-nucleótidos como fue descrito previamente \citep{JonesRhoades2004787}.
-De estas 20 secuencias al azar, elegimos las 10 que tenían el número más similar del total de genes blanco para el miARN real correspondiente.
-La relación señal/ruido fue calculada como el cociente entre el número de genes blanco para los miARNs y el número de genes blanco del promedio obtenido para las secuencias al azar.
-Como un control adicional, seleccionamos dos miARNs que no están conservados durante la evolución, que son el miR158 y el miR173.
-
-
-\subsubsection{Ecotipos utilizados y condiciones de crecimiento}
-Las plantas de \textit{A. thaliana} utilizadas para los experimentos en esta parte del trabajo corresponden a el ecotipo Columbia-0 Col-0.
+\subsection{Ecotipos utilizados y condiciones de crecimiento}
+Las plantas de  \textit{A. thaliana} utilizadas para los experimentos en esta parte del trabajo corresponden a el ecotipo Columbia-0 Col-0.
 Las plantas fueron cultivadas en una cámara de crecimiento con un régimen de 16 h de luz (100 $\mu$E.m.$^{-2}s^{-1}$) y 8 h de oscuridad (condición día largo).
 La temperatura de crecimiento fue de 23\degree C durante el ciclo luz/oscuridad, mientras que la humedad fue mantenida en 65\% de humedad relativa.
 Las plantas fueron regadas 2 veces por semana con agua.
 Para el crecimiento directo en tierra, las semillas fueron estratificadas a 4\degree C por 2 días en tubos de microcentrífuga con 1ml de 0,1\% (p/v) agar, y luego sembradas en tierra.
 Las plantas de \textit{Nicotiana tabacum} (cv Petit Havana) fueron crecidas en condición día largo durante 8 semanas y la segunda hoja fue utilizada para el análisis de ARN.
 
+\subsection{Transformación de Arabidopsis}
 
-\subsubsection{Mapeo del sitio de corte}
-
-Se realizó una extración 50mg de ARN total de plántulas de Col-0 y se realizó una purificación de ARN utilizando el kit comercial "PolyATract\textregistered" de (Promega).
-La ligación del Oligo Adaptador de ARN, transcripción reversa y 5' RACE fueron realizadas como se describió anteriormente \citep{Palatnik2007}
-Dos oligonucleótidos reversos gen-específico anidados fueron utilizados para la 5' RACE.
-Los productos de la PCR fueron resueltos en geles de agarosa al 2\% y se detectaron por tinción con bromuro de etidio.
-La PCR en tiempo real cuantitativa (qPCR) para los genes blanco del miR396 y miR159 se realizó como se ha descrito anteriormente \citep{Palatnik2007,Rodriguez2010}
-La lista de los cebadores para estos ensayos están descritos en las tablas \ref{table:NAR_S7} y \ref{table:NAR_S8}.
-Las plantas que sobreexpresan el miR396 y miR159 se han descrito previamente \citep{Palatnik2007,Rodriguez2010}.
+La transformación de plantas de Arabidopsis se realizó mediante la técnica de "floral-dip".
+Se cultivó las cepas de \textit{A. tumefaciens} ASE transformadas con los distintos plásmidos binarios en 100 ml de LB conteniendo 50 $\mu$g/ml de espectinomicina, 50 $\mu$g/ml de kanamicina y 25 $\mu$g/mg de cloranfenicol a 28 \degree C hasta llegar a una DO600 cercana a 2.
+Se cosechó las células por centrifugación a 5.000 g durante 10 min a temperatura ambiente y se resuspendió en un medio con 5\% (p/v) sacarosa y 200 $\mu$l/l de Silwet L-77.
+Las inflorescencias de plantas de Arabidopsis regadas el día anterior se sumergieron en la suspensión de células durante 30 segundos.
+Luego de escurrir el exceso de medio de cultivo, se colocaron las plantas en posición horizontal dentro de bolsas plásticas para conservar la humedad.
+Luego de 24 hs se sacaron de las bolsas y se prosiguió con el cultivo de las plantas en la cámara de crecimiento hasta la maduración de las semillas.
 
 
-\section{comTAR: una herramienta para la predicción de genes blanco regulados por miARNs en plantas}
+\subsection{Recolección y esterilización de semillas}
 
-A partir de los resultados positivos obtenidos de la estrategia descrita anteriormente, decidimos desarrollar una herramienta web y dejarla disponible para la comunidad científica denominada comTAR que está disponible en un sub-dominio de la página web institucional del IBR: http://rnabiology.ibr-conicet.gov.ar/comtar.
+La recolección de semillas se realizó a partir de plantas que finalizaron su ciclo de vida y que presentaban semillas maduras.
+Se retiró las plantas del pote de tierra y frotando las mismas con las manos se dejó caer las semillas sobre una hoja de papel.
+Se eliminaron los restos de silicua y hojas por tamizado. Las semillas se almacenaron en bolsas de papel en un recipiente seco hasta su posterior utilización.
 
-\subsection{MiARN y transcriptos}
-Como las secuencias del maduro del miARN puede variar en distintas especies, especialmente en la posición 1, 20 y 21 (\citep{Chorostecki05072012}, utilizamos secuencias del 2-19 (18nt) para realizar las búsquedas.
-Como además existen variaciones en las secuencias en los distintos miARNs de las mismas familias, utilizamos la más representativa teniendo en cuenta los genomas de Arabidopsis, álamo y arroz. 
-De este modo comTAR contiene datos pre-calculados, de potenciales genes blanco para 22 miARNs conservados en plantas (ver tabla \ref{table:table_consensus}) donde el usuario puede navegar los resultados y cambiar los parámetros de entrada.
-Además, el usuario puede realizar la búsqueda de nuevos ARNs pequeños teniendo en cuenta esta consideración. El cálculo se hace en el cluster del CCT-Rosario y los datos se obtienen luego de unas horas.
-Como la herramienta web la realizamos tiempo después de haber hecho la estrategia para predicción de genes blanco, utilizamos una nueva base de datos más actualizada y completa denominada Phytozome\footnote{http://phytozome.jgi.doe.gov} \citep{Goodstein2012}. 
-La misma corresponde a secuencias de transcriptos de plantas formado por archivos de nucleótidos en formato FASTA de transcriptos de ARNm (UTR, exones) con variantes de splicing.
+Para la esterilización de las semillas, las mismas se incubaron con una solución de 70\% (v/v) etanol, 0,1\% (v/v) tritón-X-100, durante 8 min. 
+Luego se realizó un enjuague con 96\% (v/v) etanol y finalmente se las dejó secar en el flujo laminar.
 
-\subsection{Búsqueda de genes blanco}
-La búsqueda de genes blanco la realizamos de la misma manera que la descrita anteriormente con algunos cambios.
-Además de actualizar la base de datos y utilizar la de Phytozome, actualizamos la base de datos de \textit{A. thaliana} por la del TAIR10.
-Las secuencias candidatas fueron etiquetadas con el mejor hit del locus ID del Arabidosis TAIR10, utilizando los archivos de anotación de Phytozome, y lo utilizamos como "TAG" (etiqueta).
-Por último, cada TAG de Arabidopsis fue indexado con una breve descripción funcional y computacional obtenida del TAIR10 y los genes blanco candidatos fueron agrupados por familias teniendo en cuanta la clasificación de familias del TAIR10.
+La manipulación del material vegetal en condiciones de esterilidad se realizó en una cabina de flujo laminar.
 
-\subsection{Herramienta web y almacenamiento de datos}
-ComTAR fue diseñado como una aplicación web con un framework open-source en PHP denominado Codeigniter para la interfaz gráfica, pero el análisis está basado en un back-end escrito en Perl.
-Los datos que surgen de ese análisis fueron almacenados en una base de datos en MySQL\footnote{http://mysql.com}.
-El back-end es el encargado de realizar la búsqueda de secuencias y además ahí es donde se integraron las herramientas y scripts para aumentar la especificidad y sensibilidad de comTAR. 
-También el back-end es el encargado de generar los resultados finales.
-Mientras el front-end es el responsable de mostrar los resultados (Figura \ref{fig:comTAR_fig1}).
-El TAG del mejor hit en Arabidopsis es el que determina el número de especies donde un gen blanco está presente, y el número mínimo de especie es un parámetro que es definido por el usuario.
+\subsection{Selección de transformantes}
+Para la selección de plantas transformadas, las semillas esterilizadas se sembraron en placas de Petri con medio MS-agar suplementado con 25 $\mu$g/ml de kanamicina.
+Las placas se mantuvieron en oscuridad a 4 \degree C por 48 hs. Transcurrido este período se transfirieron las placas a la cámara de cultivo y en estas condiciones las plantas se dejaron crecer 5-10 días.
+Luego se analizaron las placas y aquellas plantas que presentaban un fenotipo de resistencia al agente de selección, evidenciado por el desarrollo de la raíz primaria y del primer par de hojas verdaderas, se transfirieron a potes con tierra. Los potes se ubicaron en bandejas con agua las cuales se cubrieron con papel de nylon transparente, de modo de evitar la pérdida de humedad.
+En estas condiciones se cultivaron en la cámara durante 2 días, momento en el que se retiró el nylon y se continuó con su cultivo.
 
-\begin{figure}[htbp!] 
-    \centering    
-    \includegraphics[width=1\textwidth]{comTAR_fig1.png}
-    \caption[comTAR. Diagrama de flujo]{comTAR. Diagrama de flujo que describe la herramienta}
-    \label{fig:comTAR_fig1}
-\end{figure}
+\subsection{Transformación nuclear de tabaco}
+Las plantas transgénicas de tabaco fueron preparadas por el método de transformación de discos de hojas por co-cultivo con \textit{A. tumefaciens}.
+Se cultivó la cepa de A. tumefaciens GV3101 pMP90 transformada con los distintos plásmidos binarios en 10 ml de 2YT conteniendo los antibióticos necesarios (100 $\mu$g ml-1 rifampicina, 50 $\mu$g ml-1 gentamicina, 60 $\mu$g ml-1 cloranfenicol) a 28 ºC hasta llegar a una DO600 entre 0,5 y 1.
+Se utilizaron plantas de tabaco (\textit{N. tabacum cv Petit Havana}) crecidas en medio de cultivo sólido de Murashige-Skoog con 3\% (p/v) sacarosa (MS-0) en condiciones estériles.
+Las hojas fueron cortadas en piezas de aproximadamente 1 $cm^2$ usando un bisturí estéril.
+Las porciones de hoja fueron colocadas en una caja de Petri conteniendo 100 ml de medio MS líquido, al que se agregaron 10 ml del cultivo de \textit{A. tumefaciens}, y se incubó entre 15 y 30 min.
+El exceso de líquido de las porciones de hoja fue eliminado con papel de filtro estéril y luego se las colocó en placas de Petri conteniendo medio MS-10 (MS-0 suplementado con 1 mg l-1 kinetina y 0,1 mg l-1 ácido naftalenacético).
+Tras 4 días de incubación a 28 ºC, los discos de hoja fueron cambiados a cajas de Petri con medio MS-10 suplementado con 100 $\mu$g l-1 kanamicina, para seleccionar células vegetales transformadas, y 100 $\mu$g ml-1 cefotaxima, para eliminar el Agrobacterium.
+Luego de 3 a 4 semanas de crecimiento en cámara de cultivo, se generaron vástagos que fueron transplantados a medio MS-0 suplementado con los mismos antibióticos, para que desarrollen raíces y continúen con su crecimiento.
+Después de 6 a 8 semanas de crecimiento, las plántulas que desarrollaron raíces fueron transplantadas a tierra y aproximadamente 12 semanas después se cosecharon las semillas.
 
-\section{Estudios genómicos sobre la biogénesis de miARN en plantas}
+\section{Cuantificación del nivel de expresión génica}
 
-\subsection{Procesamiento de precursores de miARNs en plantas}
-
-\subsubsection{Bibliotecas de sPARE}
-ARN total (1 mg). Se elimino el ARN ribosomal utilizando el "RiboMinus Plant Kit for RNA-seq" (Invitrogen), según las indicaciones del fabricante.
-El ARN se ligó al adaptador oligonucleótido de ARN  (5'-GUUCAGAGUUCUACAGUCCGAC-3') utilizando la ARN ligasa T4 (Fermentas).
-Los productos ligados fueron purificaron y se utilizaron como plantilla en 10 multiplex reacciones de transcripción reversa utilizando 18 diferentes oligos precursor específicos en cada reacción.
-La Síntesis de ADNc se llevó a cabo utilizando "SuperScript III Reverse Transcriptase" (Invitrogen).
-Cada oligo específico posee 20nt que hibridan con precursor específico y 15 nt comunes que hibride oligo general 5'-AGCAGAAGACGGCATACGA-3'.
-A continuación, las mezclas de las 10 reacciones multiplex fueron amplificados por PCR usando el cebador P5 genérico 5'-AATGATACGGCGACCACCGACAGGTTCAGAGTTCTACAGTCCGA-3' y el primer P7 5'-CAAGCAGAAGACGGCATACGA-3'.
-Las condiciones de PCR fueron 18 ciclos de 94\degree C durante 20 seg, 60\degree C durante 20 seg, y 72\degree C durante 20 seg.
-Los productos de PCR se purificaron en gel y se sometió a secuenciación de SBS.
-
-\subsubsection{Análisis bioinformático}
-
-Obtuvimos las estructuras secundarias para cada precursor calculada a partir de la herramienta mfold \citep{pmid12824337} con los parámetros por default a 37 \degree C de temperatura.
-El lado proximal del duplex miARN/miARN* fue definido como la posición +1.
-Analizamos la estructura secuendaria y consideremos las posiciones que había un match como un 0, mientras que bulges y mismatches los consideramos como 1.
-Además hicimos un promedio para todos los precursores siguiendo la misma estrategia.
-Implementamos un pipeline bioinformático utilizando "in-house" scripts y datos públicos de miRBASE, para asistir con el análisis de las bibliotecas de secuenciación masiva.
-Las secuencias de los ARN pequeños fueron obtenidas de la base de datos de nueva generación de Arabidopsis\footnote{https://http://mpss.udel.edu/} \citep{pmid25120269} y  de la base de datos de miRBASE \citep{Kozomara2014}.
-
-\subsubsection{Acceso a los datos}
-Los datos de secuenciación masiva con los resultados del sPARE están accesibles mediante el NCBI Gene Expression Omnibus (GEO\footnote{http://ncbi.nlm.nih.gov/geo} con el código de acceso GSE46429.
-
-
-
-\subsection{Cuantificación del nivel de expresión génica}
-
-\subsubsection{Extracción de ARN}
+\subsection{Extracción de ARN}
 La extracción de ARN de tejido vegetal de Arabidopsis se realizó utilizando el reactivo TRIzol (Invitrogen).
 La recolección de las muestras de tejido se realizó en tubos de microcentrífuga que inmediatamente fueron sumergidos en N2 líquido.
-El material fue reducido a un polvo fino utilizando un pilón. A continuación, sobre este polvo se adicionó TRIzol (1 ml de reactivo para un máximo de 100 mg de tejido) y se agitó de modo deresuspender el tejido mortereado.
+El material fue reducido a un polvo fino utilizando un pilón. A continuación, sobre este polvo se adicionó TRIzol (1 ml de reactivo para un máximo de 100 mg de tejido) y se agitó de modo de resuspender el tejido mortereado.
 El homogenado se centrifugó a 12000 g a 4 \degree C durante 10 min y finalmente se transfirió el sobrenadante a un tubo de microcentrífuga nuevo.
 
 A continuación se agregó 0,2 volúmenes de cloroformo por cada volumen de TRIzol original.
@@ -142,12 +70,12 @@ Este paso de lavado se repitió una vez más.
 
 El precipitado de ARN obtenido se secó en estufa 37 \degree C por 10 min y luego se resuspendió en 50 $\mu$l de agua Milli-Q esteril.
 
-\subsubsection{Cuantificación y chequeo de la integridad del ARN purificado}
+\subsection{Cuantificación y chequeo de la integridad del ARN purificado}
 Se determinó la absorbancia a 230, 260 y 280 nm. Se estimó la pureza de la preparación a partir de la relación de las medidas de absorbancia a Abs260/ Abs230 y Abs260/ Abs280.
 La integridad del ARN purificado se determinó mediante la electroforesis en geles de 1,5\% (p/v) agarosa de 5 $\mu$l del ARN preparado. Las bandas de
 ARN ribosomal se visualizaron por tinción de los geles con bromuro de etidio.
 
-\subsubsection{Tratamiento del ARN preparado con ADNasa}
+\subsection{Tratamiento del ARN preparado con ADNasa}
 Se preparó la siguiente mezcla de reacción:
 En un volumen final de reacción de 20 $\mu$l se adicionó: 0,5 a 1 $\mu$g de ARN total, 2 $\mu$l de buffer "RQ1 RNase-Free DNase" (Promega), 1 U "RQ1 RNase-Free DNase" (Promega) y agua Milli-Q para completar el volumen de reacción.
 
@@ -155,8 +83,7 @@ La mezcla de reacción se incubó 30 min a 37 \degree C. Luego se inactivó la A
 De los 21 $\mu$l de reacción finales, 12 $\mu$l se utilizaron para sintetizar ADN complementario (ADNc).
 Los 9 $\mu$l restantes se utilizaron como control negativo en la PCR en tiempo real.
 
-
-\subsubsection{Retrotranscripción (RT)}
+\subsection{Retrotranscripción (RT)}
 La síntesis del ADNc a partir del ARN preparado se llevó cabo según el siguiente protocolo.
 En una primera etapa se preparó la siguiente mezcla: en un volumen final de 13,5 $\mu$l se adicionó 0,25 $\mu$g de oligo dT, 12 $\mu$l de ARN tratado con ADNasa, dNTPs a una concentración final de 0,4 mM cada uno.
 El volumen de la mezcla se completó con agua Milli-Q.
@@ -167,7 +94,7 @@ Luego se realizó una centrifugación rápida y se adicionó a cada tubo de reac
 Se mezcló por inversión y se incubó 60 min a 50 \degree C. Luego se realizó una centrifugación rápida y se inactivó la reacción mediante la incubación a 70 \degree C durante 15 min.
 Finalmente el ADNc a usar como molde en la reacciones de amplificación se diluyó al menos 40 veces en agua Milli-Q.
 
-\subsubsection{Reacción en cadena de la polimerasa en tiempo real}
+\subsection{Reacción en cadena de la polimerasa en tiempo real}
 La cuantificación relativa de los niveles de expresión génica se llevó a cabo mediante la técnica de PCR en tiempo real (Real-Time PCR) según el método $2^{-\Delta \Delta Ct}$ \citep{pmid11328886}.
 
 Como calibrador se utilizó un gen de expresión constitutiva que codifica por la Ser/Thr proteína fosfatasa 2 (PP2A; At1g13320) \citep{pmid16166256}.
@@ -207,12 +134,178 @@ Desnaturalización       & 95               & 1 min  & 1                   \\ \h
 \end{tabular}
 \end{table}
 
-Se incluyó una etapa final de determinación de la temperatura de fusión de los
-productos amplificados, lo que permite conocer la especificidad de la reacción.
-Además, la primera vez que se utilizaron los oligonucleótidos el producto de la
-reacción de amplificación se analizó en un gel de agarosa para confirmar la especificidad
-de la reacción.
+Se incluyó una etapa final de determinación de la temperatura de fusión de los productos amplificados, lo que permite conocer la especificidad de la reacción. 
+Además, la primera vez que se utilizaron los oligonucleótidos el producto de la reacción de amplificación se analizó en un gel de agarosa para confirmar la especificidad de la reacción.
+
+Los oligonucleótidos utilizados en este estudio son que se detallan en la Tabla \ref{table:NAR_S7}.
 
 
-\subsubsection{}
+\begin{table}[htbp!] 
+\tiny
+\centering
+\caption{Oligos utilizados para la RT-qPCR}
+\label{table:NAR_S7}
+    \begin{tabular}{ccll}
+    \rowcolor[HTML]{ECF4FF} 
+    \textbf{Gene} & \textbf{Locus ID} & \textbf{Forward primer}                     & \textbf{Reverse Primer}                    \\ \hline
+    PAA2          & At5g21930         & GTCCTCTTATCAGGGGACAGG                       & CATAGTTGCTTGTGCAAGACTCAG                    \\
+    MYB33         & At5g06100         & CTATGGAAACCGACATTCACCTG                     & CTTGGCTTCCAGAAGCAACATATCG                   \\
+    NZZ           & At4g27330         & TCGGGTCAGGTTATGATCGA                        & AGGGTTTCCTTCCATGTAGCTCC                     \\
+    PP2A          & At1g13320         & CCTGCGGTAATAACTGCATCT                       & CTTCACTTAGCTCCACCAAGCA                      \\
+    tMT2A         & tobacco           & TACCCAGATTTGAGCTACAACGAG                    & GCAGGAGATTCACCCATTTCCATA                    \\
+    tMT2B         & tobacco           & TACCCAGATTTGAGCTACAACGAA                    & AGGGGATTCACCCATTTCCATT                     
+    \end{tabular}
+\end{table}
+
+
+\section{Mapeo del sitio de corte}
+En la Figura \ref{fig:identificacion_producto} se muestra un esquema para la identificación de los productos de corte de miARNs.
+Inicialmente, se realizó una extración 50mg de ARN total de plántulas de Col-0 y se realizó una purificación de ARN utilizando el kit comercial "PolyATract\textregistered" de (Promega).
+El ARNm contenido en un volumen de 100 $\mu$l de agua se precipitó mediante el agregado de 2 $\mu$l 10 mg/$\mu$l glucógeno, 10 $\mu$l de 3M Acetato Sodio pH 5.2 y 220 $\mu$l de etanol absoluto, e incubación toda la noche a -20 \degree C.
+Luego se centrifugó 20 min a 4 oC a 20000 g. Se lavó con etanol 80\%, y se centrifugó 5 min a 4 \degree C a 20000 g. 
+Se removió el sobrenadante y se secó 10 min a 37 \degree C.
+Finalmente se resuspendió en 10 $\mu$l agua.
+
+A continuación se realizó la ligación del Oligo Adaptador ARN (5' CAGCUGGAGCACGAGGACACUGACAUGGACUGAAGGAGUAGAAA 3') mediante el siguiente protocolo.
+Se mezcló 250 ng de ARNm con 0,25 $\mu$l de oligo ARN (100 $\mu$M), y se incubó 5 min a 65 oC. Luego se incubó en hielo 2 min.
+Se agregó la mezcla de reacción: 1 $\mu$l 10X Buffer Ligasa, 1 $\mu$l 10mM ATP, 1 $\mu$l BSA, 40 U RNAseOut (Invitrogen), 5 U T4 RNA ligasa (Invitrogen), agua para completar 10$\mu$l.
+Se incubó a 37 \degree  C durante 1 hora, luego se centrifugó y se dejó en hielo. 
+Se precipitó el ARNm mediante el protocolo antes descripto.
+Posteriormente se realizó una retrotranscripción y finalmente se eliminó el exceso de oligo ARN GeneRacer incubando 30 min a 37 \degree C con 0,04 g/$\mu$l de RNAsa A.
+
+\begin{figure}[htbp!] 
+    \centering    
+    \includegraphics[width=.5\textwidth]{identificacion_producto.png}
+    \caption[Diagrama de la estrategia utilizada para la identificación de los productos de corte de miARNs]{
+        Diagrama de la estrategia utilizada para la identificación de los productos de corte de miARNs.
+    }
+    \label{fig:identificacion_producto}
+\end{figure}
+
+Para identificar los productos de corte específicos del gen en estudio se realizó una PCR con un oligo que hibrida sobre la secuencia del Oligo Adaptador ARN (oligogenérico) y otro oligo que hibrida sobre la secuencia del gen en una región 3' del sitio putativo de corte del miARN.
+Los productos de la PCR se clonaron y se secuenció al menos 15 clones independientes para determinar la secuencia del extremo 5'.
+
+Los oligonucleótidos utilizados en este estudio son que se detallan en la Tabla \ref{table:NAR_S8}.
+
+\begin{table}[htbp!] 
+\tiny
+\centering
+\caption{Oligonucleótidos utilizados para 5' RACE}
+\label{table:NAR_S8}
+\begin{tabular}{cccc}
+\rowcolor[HTML]{ECF4FF} 
+\textbf{Gen}     & \textbf{Locus ID} & \textbf{5' RACE}                     & \textbf{5' RACE nested}         \\ \hline
+General          &                   & CGACTGGAGCACGAGGACACTGA              & GGACACTGACATGGACTGAAGGAGTA      \\
+PAA2             & At5g21930         & GACTTATGGAGCTGCAGAAGTAATG            & CATAGTTGCTTGTGCAAGACTCAG        \\
+IAR3             & At1g51760         & ATCTTCTGATCCCATTAATGGTTGCATCTCG      & CATATTCACGCTCGCTTGCCTTGTGATAACC \\
+NZZ              & At4g27330         & CATTTAAAGCTTCAAGGACAAATCAATGGTATTAGG & AGGGTTTCCTTCCATGTAGCTCC         \\
+MMG4.7           & At5g43060         & ATGGTAACAACCTTAGCATTTTTCC            & CTTCGGTATCAATACCWCCATT          \\
+UDP              & At2g47650         & AATGGGCCGACATGTTCTCC                 & CCTCGGTGATAGTCCATGGT            \\
+SVP              & At2g22540         & GCAACTTTCCTTCATTCATC                 & TTTCATCTGCCTCAGCTCAC            \\
+loricrin-related & AT5g64550         & ACCATGAGCTTTGCAGTAGT                 & CCTCAGCACTTCGTGTACAG            \\
+                 & At3g14110         & CGGAAGGATCAGTCAGTCTC                 & CCCAGCTCGGTATAACAGTC            \\
+                 & At3g22110         & GTTTCATCGCCAAAGGTAAC                 & CCAGGCGAATAAGACTAGAG            \\
+AVA-P2           & At1g19910         & CTCTAGACTGACCAGCTCGA                 & GGATGATACCAACAATGAGA           
+\end{tabular}
+\end{table}
+
+
+\section{Métodos utilizados para la predicción de genes regulados por miARNs en plantas}
+
+En la primer parte de esta tesis diseñamos una estrategia para la identificación de genes blanco regulados por miARNs basado en la conservación evolutiva del par miARN-gen blanco.
+La metodología aplicada es la siguiente.
+
+\subsection{MiARN consensos}
+Las 22 familias de miARNs conservadas en angiospermas fueron consideradas para esta parte del trabajo \citep{Fahlgren2010,Axtell2008343}.
+MiR319 y miR159 que codifican para miARNs similares, fueron considerados como familias diferentes ya que regulan a genes blanco distintos \citep{Palatnik2007}.
+Consideramos todos los miembros de estas familia, obtenidos de miRBASE\footnote{http://mirbase.org}, pertenecientes a \textit{A. thaliana}, \textit{Populus trichocarpa} y \textit{Oryza Sativa}.
+Variaciones en las posiciones 1, 20 y 21 son muy comunes en las familias de miARNs \citep{10.1371/journal.pgen.1002419}. 
+Por esto, definimos como secuencia consenso, a las secuencias más comunes (posiciones 2-19) de distintos miembros de cada familia (tabla \ref{table:table_consensus}).
+
+\subsection{Predicción de genes regulados por miARNs}
+
+\subsubsection{Conjunto de datos de plantas}
+Los datos de las secuencias pertenecen a librerías extraídas de "Gene Index Project"\footnote{http://compbio.dfci.harvard.edu/tgi/}, que consiste en una base de datos de ESTs ensamblados.
+Seleccionamos un conjunto de datos pertenecientes a Angiospermas.
+Además utilizamos secuencias de ARNm completos de \textit{A. thaliana}\footnote{http://arabidopsis.org} y \textit{Oryza Sativa}\footnote{http://rice.plantbiology.msu.edu} (ver tabla \ref{table:NAR_table_S2}).
+La búsqueda la realizamos utilizando PatMatch \citep{Yan01072005}, que es un programa de búsqueda de patrones de nucleótidos cortos o péptidos.
+El programa puede ser usado para encontrar coincidencias con un patrón de secuencia específico y permite el uso de códigos de secuencias ambiguas y expresiones regulares y por esto se puede utilizar la búsqueda con "mismatches", inserciones y deleciones.
+Realizamos la búsqueda de potenciales genes blanco permitiendo tres "mismatches" con las secuencias consensos, mientras que las interacciones G:U y los bulges fueron considerados mismatches.
+Para realizar el alineamiento del par miARN-gen blanco, desarrollamos una versión modificada del algoritmo de programación dinámica Needleman-Wunsch \citep{Needleman1970443}, utilizando el lenguaje Perl\footnote{http://perl.org}.
+Además, desarrollamos scripts para integrar los módulos de Blastx \citep{Altschup1990} utilizando el proteoma de Arabidopsis y el módulo RNAhybrid \citep{Giegerich2004} que es una herramienta que permite encontrar la menor energía libre de hibridación (MFE) de dos secuencias de ARN.
+
+\subsubsection{Filtros}
+Las secuencias candidatas fueron etiquetadas con el identificador del locus (locus ID) con mejor puntuación (best hit) en \textit{A. thaliana}, utilizando el módulo de Blastx (Corte del evalue de 10e$^{-5})$.
+De este modo, genes blanco de distintas especies que tenían la misma etiqueta fueron agrupados juntos, ya que tendrían el mismo homólogo en \textit{A. thaliana}.
+El filtro de conservación evolutiva hace referencia al número mínimo de especies donde la misma etiqueta estaba presente para un miARN particular.
+El filtro empírico está basado en trabajos previos \citep{Schwab2005517} y hace referencia a la energía de interacción MFE (mínima energía libre de hibridación de al menos 72\% del apareamiento perfecto).
+El otro filtro empírico requiere que entre el par miARN-gen blanco, solamente está permitido un "mismatch" entre la posición 2 y la 12 del miARN (1-11 de nuestra búsqueda modificada con las secuencias consenso).
+
+\subsubsection{Controles}
+Como control, realizamos las búsquedas del mismo modo que lo hicimos para los miARNs conservados, pero utilizando secuencia al azar.
+Para cada miARN conservado, generamos 20 secuencias al azar (scramble) dividiendo las secuencias originales de a di-nucleótidos y luego generando nuevas secuencias al azar conservando esa composición de los di-nucleótidos como fue descrito previamente \citep{JonesRhoades2004787}.
+De estas 20 secuencias al azar, elegimos las 10 que tenían el número más similar del total de genes blanco para el miARN real correspondiente.
+La relación señal/ruido fue calculada como el cociente entre el número de genes blanco para los miARNs y el número de genes blanco del promedio obtenido para las secuencias al azar.
+Como un control adicional, seleccionamos dos miARNs que no están conservados durante la evolución, que son el miR158 y el miR173.
+
+
+
+\section{comTAR: una herramienta para la predicción de genes blanco regulados por miARNs en plantas}
+
+A partir de los resultados positivos obtenidos de la estrategia descrita anteriormente, decidimos desarrollar una herramienta web y dejarla disponible para la comunidad científica denominada comTAR que está disponible en un sub-dominio de la página web institucional del IBR: http://rnabiology.ibr-conicet.gov.ar/comtar.
+
+\subsection{MiARN y transcriptos}
+Como las secuencias del maduro del miARN puede variar en distintas especies, especialmente en la posición 1, 20 y 21 (\citep{Chorostecki05072012}, utilizamos secuencias del 2-19 (18nt) para realizar las búsquedas.
+Como además existen variaciones en las secuencias en los distintos miARNs de las mismas familias, utilizamos la más representativa teniendo en cuenta los genomas de Arabidopsis, álamo y arroz. 
+De este modo comTAR contiene datos pre-calculados, de potenciales genes blanco para 22 miARNs conservados en plantas (ver tabla \ref{table:table_consensus}) donde el usuario puede navegar los resultados y cambiar los parámetros de entrada.
+Además, el usuario puede realizar la búsqueda de nuevos ARNs pequeños teniendo en cuenta esta consideración. El cálculo se hace en el cluster del CCT-Rosario y los datos se obtienen luego de unas horas.
+Como la herramienta web la realizamos tiempo después de haber hecho la estrategia para predicción de genes blanco, utilizamos una nueva base de datos más actualizada y completa denominada Phytozome\footnote{http://phytozome.jgi.doe.gov} \citep{Goodstein2012}. 
+La misma corresponde a secuencias de transcriptos de plantas formado por archivos de nucleótidos en formato FASTA de transcriptos de ARNm (UTR, exones) con variantes de splicing.
+
+\subsection{Búsqueda de genes blanco}
+La búsqueda de genes blanco la realizamos de la misma manera que la descrita anteriormente con algunos cambios.
+Además de actualizar la base de datos y utilizar la de Phytozome, actualizamos la base de datos de \textit{A. thaliana} por la del TAIR10.
+Las secuencias candidatas fueron etiquetadas con el mejor hit del locus ID del Arabidosis TAIR10, utilizando los archivos de anotación de Phytozome, y lo utilizamos como "TAG" (etiqueta).
+Por último, cada TAG de Arabidopsis fue indexado con una breve descripción funcional y computacional obtenida del TAIR10 y los genes blanco candidatos fueron agrupados por familias teniendo en cuanta la clasificación de familias del TAIR10.
+
+\subsection{Herramienta web y almacenamiento de datos}
+ComTAR fue diseñado como una aplicación web con un framework open-source en PHP denominado Codeigniter para la interfaz gráfica, pero el análisis está basado en un back-end escrito en Perl.
+Los datos que surgen de ese análisis fueron almacenados en una base de datos en MySQL\footnote{http://mysql.com}.
+El back-end es el encargado de realizar la búsqueda de secuencias y además ahí es donde se integraron las herramientas y scripts para aumentar la especificidad y sensibilidad de comTAR. 
+También el back-end es el encargado de generar los resultados finales.
+Mientras el front-end es el responsable de mostrar los resultados (Figura \ref{fig:comTAR_fig1}).
+El TAG del mejor hit en Arabidopsis es el que determina el número de especies donde un gen blanco está presente, y el número mínimo de especie es un parámetro que es definido por el usuario.
+
+\begin{figure}[htbp!] 
+    \centering    
+    \includegraphics[width=1\textwidth]{comTAR_fig1.png}
+    \caption[comTAR. Diagrama de flujo]{comTAR. Diagrama de flujo que describe la herramienta}
+    \label{fig:comTAR_fig1}
+\end{figure}
+
+\section{Estudios genómicos sobre la biogénesis de miARN en plantas}
+
+\subsection{Procesamiento de precursores de miARNs en plantas}
+
+%~ \subsubsection{Bibliotecas de sPARE}
+%~ ARN total (1 mg). Se elimino el ARN ribosomal utilizando el "RiboMinus Plant Kit for RNA-seq" (Invitrogen), según las indicaciones del fabricante.
+%~ El ARN se ligó al adaptador oligonucleótido de ARN  (5'-GUUCAGAGUUCUACAGUCCGAC-3') utilizando la ARN ligasa T4 (Fermentas).
+%~ Los productos ligados fueron purificaron y se utilizaron como plantilla en 10 multiplex reacciones de transcripción reversa utilizando 18 diferentes oligos precursor específicos en cada reacción.
+%~ La Síntesis de ADNc se llevó a cabo utilizando "SuperScript III Reverse Transcriptase" (Invitrogen).
+%~ Cada oligo específico posee 20nt que hibridan con precursor específico y 15 nt comunes que hibride oligo general 5'-AGCAGAAGACGGCATACGA-3'.
+%~ A continuación, las mezclas de las 10 reacciones multiplex fueron amplificados por PCR usando el cebador P5 genérico 5'-AATGATACGGCGACCACCGACAGGTTCAGAGTTCTACAGTCCGA-3' y el primer P7 5'-CAAGCAGAAGACGGCATACGA-3'.
+%~ Las condiciones de PCR fueron 18 ciclos de 94\degree C durante 20 seg, 60\degree C durante 20 seg, y 72\degree C durante 20 seg.
+%~ Los productos de PCR se purificaron en gel y se sometió a secuenciación de SBS.
+
+\subsubsection{Análisis bioinformático}
+
+Obtuvimos las estructuras secundarias para cada precursor calculada a partir de la herramienta mfold \citep{pmid12824337} con los parámetros por default a 37 \degree C de temperatura.
+El lado proximal del duplex miARN/miARN* fue definido como la posición +1.
+Analizamos la estructura secuendaria y consideremos las posiciones que había un match como un 0, mientras que bulges y "mismatches" los consideramos como 1.
+Además hicimos un promedio para todos los precursores siguiendo la misma estrategia.
+Implementamos un pipeline bioinformático utilizando "in-house" scripts y datos públicos de miRBASE, para asistir con el análisis de las bibliotecas de secuenciación masiva.
+Las secuencias de los ARN pequeños fueron obtenidas de la base de datos de nueva generación de Arabidopsis\footnote{https://http://mpss.udel.edu/} \citep{pmid25120269} y  de la base de datos de miRBASE \citep{Kozomara2014}.
+
+\subsubsection{Acceso a los datos}
+Los datos de secuenciación masiva con los resultados del sPARE están accesibles mediante el NCBI Gene Expression Omnibus (GEO\footnote{http://ncbi.nlm.nih.gov/geo} con el código de acceso GSE46429.
 

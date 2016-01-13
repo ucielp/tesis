@@ -1,6 +1,5 @@
 \graphicspath{{Introduccion/Figs/}}
 
-
 \chapter{Introducción} 
 
 \section{Silenciamiento génico y ARN pequeños en plantas}
@@ -94,13 +93,40 @@ Estos últimos miARNs cumplen funciones esenciales para la biología de las plan
 
 \section{Biogénesis de miARNs}
 
+\subsection{Procesamiento de miARNs en animales}
+
+En animales, el procesamiento de los precursores es realizado en el núcleo y el citoplasma.
+Luego de la transcripción, el complejo formado por la ribonucleasa de tipo III, DROSHA, y la proteína DiGeorge syndrome critical region gene 8 (DGCR8) produce un primer corte sobre el pri-miARN para liberar una estructura de tallo y burbuja denominado pre-miARN (Figura \ref{fig:procesamiento_animales}) \citep{pmid15531879, pmid15531877, pmid15574589, pmid15932881}.
+
+A continuación, el pre-miARN es traslocado desde el núcleo hacia el citoplasma por la proteína de transporte nuclear EXPORTIN-5 (EXP5) \citep{pmid14631048,pmid14681208}.
+En el citoplasma DICER conjuntamente con TRPB, otra proteína de unión a ARNdh, produce un segundo corte sobre el precursor para que liberar el dúplex miARN/miARN*.
+Este segundo corte ocurre a $\sim$21 nt de distancia del sitio donde se había producido el primer corte por DROSHA.
+Finalmente el miARN maduro es incorporado al complejo RISC \citep{pmid19165215} (Figura \ref{fig:procesamiento_animales}).
+
+Además de esta ruta canónica de procesamiento, recientemente se han descripto vías alternativas.
+Para algunos precursores, el requerimiento de DROSHA puede ser suplantado por la maquinaria de corte y empalme (splicing) \citep{pmid17599402,pmid17589500}.
+En el caso de otros, es necesaria la interacción de proteínas específicas con el loop terminal \citep{pmid17558416,pmid19458619}.
+Por último, existen casos en donde, el procesamiento de ciertos precursores puede estar específicamente inhibido en ciertos tejidos o determinadas condiciones \citep{pmid18951094,pmid16738409,pmid18292307}.
+
+\begin{figure}[htbp!] 
+    \centering    
+    \includegraphics[width=.9\textwidth]{procesamiento_animales.png}
+    \caption[Biogénesis de miARNs en animales]{Mecanismo de procesamiento de miARNs en animales.}
+    \label{fig:procesamiento_animales}
+\end{figure}
+
+
+
+\subsection{Procesamiento de miARNs en plantas}
+
 Los miARNs se diferencian de otros ARNs pequeños por su particular biogénesis que implica su escisión de un precursor con extensa estructura secundaria localizado en un largo transcripto primario (Figura \ref{fig:biogenesis_accion}).
 En general, la biogénesis de estos ARN pequeños comienza con la transcripción por la ARN polimerasa II \citep{Xie2005a} a partir de unidades transcripcionales propias distribuidas en el genoma \citep{Reinhart2002}.
 Los transcriptos primarios, llamados pri-miARNs, pueden tener varias kilobases de longitud y sufrir modificaciones post-transcripcionales como ser splicing, capping y poliadenilación. 
 Estos transcriptos contienen precursores para miARNs con extensa estructura secundaria en forma de tallo-burbuja (stem-loop) \citep{Jones-Rhoades2006} (Figura \ref{fig:biogenesis_accion}).
 
 En animales, el procesamiento comienza en el núcleo por DROSHA y finaliza en el citoplasma por la acción de DICER.
-En plantas, los precursores son procesados completamente en el núcleo a través de la acción de una ribonucleasa llamada DCL1 \citep{Reinhart2002,pmid12417148} (del inglés DICER LIKE 1) en asociación con el cofactor proteico de unión a ARN de doble hebra HYL1 \citep{Han2004} (del inglés HYPONASTIC LEAVES 1) y la proteína SERRATE \citep{Lobbes2006} (Figura \ref{fig:biogenesis_accion}).
+En plantas no existe un homólogo de DROSHA.
+Los precursores son procesados completamente en el núcleo a través de la acción de una ribonucleasa llamada DCL1 \citep{Reinhart2002,pmid12417148} (del inglés DICER LIKE 1) en asociación con el cofactor proteico de unión a ARN de doble hebra HYL1 \citep{Han2004} (del inglés HYPONASTIC LEAVES 1) y la proteína SERRATE \citep{Lobbes2006} (Figura \ref{fig:biogenesis_accion}).
 
 Al parecer es la estructura secundaria por sobre la secuencia primaria del precursor la más importante en la determinación del correcto procesamiento del mismo \citep{Bologna11112012} .
 El producto generado a partir de los cortes llevados a cabo por DCL1, es un dúplex miARN-miARN* que luego continúa siendo procesado por otros componentes enzimáticos hasta dar lugar al miARN maduro de 21 nt.
@@ -214,7 +240,7 @@ Existen herramientas diseñadas específicamente para la predicción de genes bl
 Algunas de ellas fueron implementadas como herramientas independientes, otras como serivdores web y algunas como ambos.
 
 La herramienta psRNATarget \citep{pmid21622958} utiliza un enfoque de programación dinámica, alineando las secuencias utilizando el algoritmo de Smith-Waterman modificado y aplicando el algoritmo 'RNAup'.
-Targetfinder \citep{pmid15598838} implementa un programa "FASTA" junto con un sistema de puntuación para mismatches, bulges o gaps para alinear las secuencias.
+Targetfinder \citep{pmid15598838} implementa un programa "FASTA" junto con un sistema de puntuación para "mismatches", "bulges" o "gaps" para alinear las secuencias.
 TAPIR \citep{pmid20430753} está integrado con dos opciones de búsqueda, el motor de búsqueda "FASTA" (para búsquedas rápidas), y el motor de búsqueda "RNA hybrid" (para obtener resultados precisos).
 La herramienta Target-align \citep{pmid20934992} también emplea el método de puntuación basado en el algoritmo de Smith-Waterman para predecir las complementariedades entre los miARNs y los RNAs mensajeros.
 Por último, la herramienta p-TAREF \citep{pmid22206472} implementa asupport vector regression (RVS) y utiliza la información de la "variación de la densidad de dinucleótido" alrededor del sitio target de conjunt de datos de \textit{A. thaliana}, \textit{Oryza sativa}, \textit{Medicago truncatula} y \textit{Solanum lycopersicum}.

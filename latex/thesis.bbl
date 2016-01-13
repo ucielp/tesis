@@ -193,6 +193,13 @@ Cuperus, J.~T., Fahlgren, N., and Carrington, J.~C. (2011).
 \newblock Evolution and functional diversification of mirna genes.
 \newblock {\em The Plant cell}, 23(2):431--442.
 
+\bibitem[Czechowski et~al., 2005]{pmid16166256}
+Czechowski, T., Stitt, M., Altmann, T., Udvardi, M.~K., and Scheible, W.~R.
+  (2005).
+\newblock {{G}enome-wide identification and testing of superior reference genes
+  for transcript normalization in {A}rabidopsis}.
+\newblock {\em Plant Physiol.}, 139(1):5--17.
+
 \bibitem[Dai and Zhao, 2011]{pmid21622958}
 Dai, X. and Zhao, P.~X. (2011).
 \newblock {ps{R}{N}{A}{T}arget: a plant small {R}{N}{A} target analysis
@@ -212,6 +219,13 @@ Debernardi, J.~M., Rodriguez, R.~E., Mecchia, M.~A., and Palatnik, J.~F.
   through Distinct MicroRNA–Target Interactions}.
 \newblock {\em PLoS Genet}, 8(1):e1002419.
 
+\bibitem[Denli et~al., 2004]{pmid15531879}
+Denli, A.~M., Tops, B.~B., Plasterk, R.~H., Ketting, R.~F., and Hannon, G.~J.
+  (2004).
+\newblock {{P}rocessing of primary micro{R}{N}{A}s by the {M}icroprocessor
+  complex}.
+\newblock {\em Nature}, 432(7014):231--235.
+
 \bibitem[Ding et~al., 2004]{pmid15215366}
 Ding, Y., Chan, C.~Y., and Lawrence, C.~E. (2004).
 \newblock {{S}fold web server for statistical folding and rational design of
@@ -227,7 +241,7 @@ Dugas, D.~V. and Bartel, B. (2008).
 \bibitem[Fabian et~al., 2010]{Fabian}
 Fabian, M.~R., Sonenberg, N., and Filipowicz, W. (2010).
 \newblock {Regulation of mRNA Translation and Stability by microRNAs}.
-\newblock {\em Annual Review of Biochemistry}, (79):351--79.
+\newblock {\em Annual Review of Biochemistry}, 79(79):351--79.
 
 \bibitem[Fahlgren and Carrington, 2010]{Fahlgren_chapter}
 Fahlgren, N. and Carrington, J. (2010).
@@ -280,7 +294,7 @@ German, M.~a., Pillay, M., Jeong, D.-H., Hetawal, A., Luo, S., Janardhanan, P.,
 \bibitem[Giegerich et~al., 2004]{Giegerich2004}
 Giegerich, R., Rehmsmeier, M., Steffen, P., and Ho, M. (2004).
 \newblock {Fast and effective prediction of microRNA / target duplexes}.
-\newblock (2003):1507--1517.
+\newblock {\em RNA}, 100(2003):1507--1517.
 
 \bibitem[Goodstein et~al., 2012]{Goodstein2012}
 Goodstein, D.~M., Shu, S., Howson, R., Neupane, R., Hayes, R.~D., Fazo, J.,
@@ -288,12 +302,25 @@ Goodstein, D.~M., Shu, S., Howson, R., Neupane, R., Hayes, R.~D., Fazo, J.,
 \newblock {Phytozome: a comparative platform for green plant genomics.}
 \newblock {\em Nucleic acids research}, 40(Database issue):D1178--86.
 
+\bibitem[Gregory et~al., 2004]{pmid15531877}
+Gregory, R.~I., Yan, K.~P., Amuthan, G., Chendrimada, T., Doratotaj, B., Cooch,
+  N., and Shiekhattar, R. (2004).
+\newblock {{T}he {M}icroprocessor complex mediates the genesis of
+  micro{R}{N}{A}s}.
+\newblock {\em Nature}, 432(7014):235--240.
+
 \bibitem[Grimson et~al., 2007]{pmid17612493}
 Grimson, A., Farh, K.~K., Johnston, W.~K., Garrett-Engele, P., Lim, L.~P., and
   Bartel, D.~P. (2007).
 \newblock {{M}icro{R}{N}{A} targeting specificity in mammals: determinants
   beyond seed pairing}.
 \newblock {\em Mol. Cell}, 27(1):91--105.
+
+\bibitem[Guil and Caceres, 2007]{pmid17558416}
+Guil, S. and Caceres, J.~F. (2007).
+\newblock {{T}he multifunctional {R}{N}{A}-binding protein hn{R}{N}{P} {A}1 is
+  required for processing of mi{R}-18a}.
+\newblock {\em Nat. Struct. Mol. Biol.}, 14(7):591--596.
 
 \bibitem[Guo et~al., 2010]{pmid20703300}
 Guo, H., Ingolia, N.~T., Weissman, J.~S., and Bartel, D.~P. (2010).
@@ -307,6 +334,12 @@ Hamilton, A.~J. and Baulcombe, D.~C. (1999).
   silencing in plants}.
 \newblock {\em Science}, 286(5441):950--952.
 
+\bibitem[Han et~al., 2004a]{pmid15574589}
+Han, J., Lee, Y., Yeom, K.~H., Kim, Y.~K., Jin, H., and Kim, V.~N. (2004a).
+\newblock {{T}he {D}rosha-{D}{G}{C}{R}8 complex in primary micro{R}{N}{A}
+  processing}.
+\newblock {\em Genes Dev.}, 18(24):3016--3027.
+
 \bibitem[Han et~al., 2006]{pmid16751099}
 Han, J., Lee, Y., Yeom, K.~H., Nam, J.~W., Heo, I., Rhee, J.~K., Sohn, S.~Y.,
   Cho, Y., Zhang, B.~T., and Kim, V.~N. (2006).
@@ -314,8 +347,8 @@ Han, J., Lee, Y., Yeom, K.~H., Nam, J.~W., Heo, I., Rhee, J.~K., Sohn, S.~Y.,
   the {D}rosha-{D}{G}{C}{R}8 complex}.
 \newblock {\em Cell}, 125(5):887--901.
 
-\bibitem[Han et~al., 2004]{Han2004}
-Han, M.-H., Goud, S., Song, L., and Fedoroff, N. (2004).
+\bibitem[Han et~al., 2004b]{Han2004}
+Han, M.-H., Goud, S., Song, L., and Fedoroff, N. (2004b).
 \newblock {T@Article{pmid14691535, Author="Stark, A. and Brennecke, J. and
   Russell, R. B. and Cohen, S. M. ", Title="{{I}dentification of {D}rosophila
   {M}icro{R}{N}{A} targets}", Journal="PLoS Biol.", Year="2003", Volume="1",
@@ -323,6 +356,12 @@ Han, M.-H., Goud, S., Song, L., and Fedoroff, N. (2004).
   RNA-binding protein HYL1 plays a role in microRNA-mediated gene regulation.}
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 101(4):1093--8.
+
+\bibitem[Heo et~al., 2008]{pmid18951094}
+Heo, I., Joo, C., Cho, J., Ha, M., Han, J., and Kim, V.~N. (2008).
+\newblock {{L}in28 mediates the terminal uridylation of let-7 precursor
+  {M}icro{R}{N}{A}}.
+\newblock {\em Mol. Cell}, 32(2):276--284.
 
 \bibitem[Hofacker, 2003]{pmid12824340}
 Hofacker, I.~L. (2003).
@@ -366,6 +405,11 @@ Katiyar-Agarwal, S., Morgan, R., Dahlbeck, D., Borsani, O., Villegas, A., Zhu,
 \newblock {{A} pathogen-inducible endogenous si{R}{N}{A} in plant immunity}.
 \newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 103(47):18002--18007.
 
+\bibitem[Kim et~al., 2009]{pmid19165215}
+Kim, V.~N., Han, J., and Siomi, M.~C. (2009).
+\newblock {{B}iogenesis of small {R}{N}{A}s in animals}.
+\newblock {\em Nat. Rev. Mol. Cell Biol.}, 10(2):126--139.
+
 \bibitem[Kozomara and Griffiths-Jones, 2014]{Kozomara2014}
 Kozomara, A. and Griffiths-Jones, S. (2014).
 \newblock {miRBase: annotating high confidence microRNAs using deep sequencing
@@ -395,8 +439,8 @@ Lanet, E., Delannoy, E., Sormani, R., Floris, M., Brodersen, P., Crete, P.,
   micro{R}{N}{A}s}.
 \newblock {\em Plant Cell}, 21(6):1762--1768.
 
-\bibitem[Laufs~P, 2004]{laufus}
-Laufs~P, Peaucelle~A, M. H. T.~J. (2004).
+\bibitem[Laufs~P and J, 2004]{laufus}
+Laufs~P, Peaucelle~A, M.~H. and J, T. (2004).
 \newblock {MicroRNA regulation of the CUC genes is required for boundary size
   control in Arabidopsis meristems.}
 \newblock {\em Development}, 12(5):622--627.
@@ -435,6 +479,11 @@ Llave, C., Xie, Z., Kasschau, K.~D., and Carrington, J.~C. (2002).
 Lobbes, D., Rallapalli, G., Schmidt, D.~D., Martin, C., and Clarke, J. (2006).
 \newblock {SERRATE: a new player on the plant microRNA scene.}
 \newblock {\em EMBO reports}, 7(10):1052--8.
+
+\bibitem[Lund et~al., 2004]{pmid14631048}
+Lund, E., Guttinger, S., Calado, A., Dahlberg, J.~E., and Kutay, U. (2004).
+\newblock {{N}uclear export of micro{R}{N}{A} precursors}.
+\newblock {\em Science}, 303(5654):95--98.
 
 \bibitem[Mallory et~al., 2004]{Mallory2004}
 Mallory, A.~C., Reinhart, B.~J., Jones-rhoades, M.~W., Zamore, P.~D., Kathryn,
@@ -481,7 +530,7 @@ Mateos, J.~L., Bologna, N.~G., Chorostecki, U., and Palatnik, J.~F. (2010).
 Maunoury, N. (2011).
 \newblock {AGO1 and AGO2 Act Redundantly in miR408-Mediated Plantacyanin
   Regulation}.
-\newblock 6(12).
+\newblock {\em Plos One}, 6(12).
 
 \bibitem[Mi et~al., 2008]{pmid18342361}
 Mi, S., Cai, T., Hu, Y., Chen, Y., Hodges, E., Ni, F., Wu, L., Li, S., Zhou,
@@ -502,7 +551,7 @@ Montgomery, T.~A., Howell, M.~D., Cuperus, J.~T., Li, D., Hansen, J.~E.,
   J.~C. (2008a).
 \newblock {Specificity of ARGONAUTE7-miR390 Interaction and Dual Functionality
   in TAS3 Trans -Acting siRNA Formation}.
-\newblock pages 128--141.
+\newblock {\em Cell}, pages 128--141.
 
 \bibitem[Montgomery et~al., 2008b]{pmid19066226}
 Montgomery, T.~A., Yoo, S.~J., Fahlgren, N., Gilbert, S.~D., Howell, M.~D.,
@@ -522,7 +571,18 @@ Needleman, S.~B. and Wunsch, C.~D. (1970).
 Niyogi, K.~K., Pilon, M., Shikanai, T., Abdel-ghany, S.~E., and Mu, P. (2005).
 \newblock {Two P-Type ATPases Are Required for Copper Delivery in Arabidopsis
   thaliana Chloroplasts}.
-\newblock 17(April):1233--1251.
+\newblock {\em Plant Cell}, 17(April):1233--1251.
+
+\bibitem[Obernosterer et~al., 2006]{pmid16738409}
+Obernosterer, G., Leuschner, P.~J., Alenius, M., and Martinez, J. (2006).
+\newblock {{P}ost-transcriptional regulation of micro{R}{N}{A} expression}.
+\newblock {\em RNA}, 12(7):1161--1167.
+
+\bibitem[Okamura et~al., 2007]{pmid17599402}
+Okamura, K., Hagen, J.~W., Duan, H., Tyler, D.~M., and Lai, E.~C. (2007).
+\newblock {{T}he mirtron pathway generates micro{R}{N}{A}-class regulatory
+  {R}{N}{A}s in {D}rosophila}.
+\newblock {\em Cell}, 130(1):89--100.
 
 \bibitem[Ossowski et~al., 2008]{pmid18269576}
 Ossowski, S., Schwab, R., and Weigel, D. (2008).
@@ -561,6 +621,12 @@ Pasquinelli, A.~E., Reinhart, B.~J., Slack, F., Martindale, M.~Q., Kuroda,
   heterochronic regulatory {R}{N}{A}}.
 \newblock {\em Nature}, 408(6808):86--89.
 
+\bibitem[Pfaffl, 2001]{pmid11328886}
+Pfaffl, M.~W. (2001).
+\newblock {{A} new mathematical model for relative quantification in real-time
+  {R}{T}-{P}{C}{R}}.
+\newblock {\em Nucleic Acids Res.}, 29(9):e45.
+
 \bibitem[Rajagopalan et~al., 2006]{Rajagopalan2006}
 Rajagopalan, R., Vaucheret, H., Trejo, J., and Bartel, D.~P. (2006).
 \newblock {A diverse and evolutionarily fluid set of microRNAs in Arabidopsis
@@ -577,7 +643,7 @@ Rampey, R.~A., Leclere, S., Kowalczyk, M., Ljung, K., Bartel, B., Biology, C.,
   and Texas, R. A.~R. (2004).
 \newblock {A Family of Auxin-Conjugate Hydrolases That Contributes to Free
   Indole-3-Acetic Acid Levels during Arabidopsis Germination 1}.
-\newblock 135(June):978--988.
+\newblock {\em Plant Physiol.}, 135(June):978--988.
 
 \bibitem[Rehmsmeier et~al., 2004]{pmid15383676}
 Rehmsmeier, M., Steffen, P., Hochsmann, M., and Giegerich, R. (2004).
@@ -588,7 +654,7 @@ Rehmsmeier, M., Steffen, P., Hochsmann, M., and Giegerich, R. (2004).
 Reinhart, B.~J., Weinstein, E.~G., Rhoades, M.~W., Bartel, B., and Bartel,
   D.~P. (2002).
 \newblock {MicroRNAs in plants}.
-\newblock pages 1616--1626.
+\newblock {\em Genes Dev}, pages 1616--1626.
 
 \bibitem[Ren et~al., 2014]{pmid24733911}
 Ren, G., Xie, M., Zhang, S., Vinovskis, C., Chen, X., and Yu, B. (2014).
@@ -608,7 +674,7 @@ Rodriguez, R.~E., Mecchia, M.~A., Debernardi, J.~M., Schommer, C., Weigel, D.,
   and Palatnik, J.~F. (2010).
 \newblock {Control of cell proliferation in Arabidopsis thaliana by microRNA
   miR396}.
-\newblock 112:103--112.
+\newblock {\em Development}, 112:103--112.
 
 \bibitem[Rubio-Somoza et~al., 2009]{pmid19699140}
 Rubio-Somoza, I., Cuperus, J.~T., Weigel, D., and Carrington, J.~C. (2009).
@@ -620,6 +686,12 @@ Rubio-Somoza, I., Cuperus, J.~T., Weigel, D., and Carrington, J.~C. (2009).
 Rubio-Somoza, I. and Weigel, D. (2011).
 \newblock {{M}icro{R}{N}{A} networks and developmental plasticity in plants}.
 \newblock {\em Trends Plant Sci.}, 16(5):258--264.
+
+\bibitem[Ruby et~al., 2007]{pmid17589500}
+Ruby, J.~G., Jan, C.~H., and Bartel, D.~P. (2007).
+\newblock {{I}ntronic micro{R}{N}{A} precursors that bypass {D}rosha
+  processing}.
+\newblock {\em Nature}, 448(7149):83--86.
 
 \bibitem[Schapire et~al., 2013]{Schapire2013}
 Schapire, A.~L., Bologna, N.~G., Moro, B., Zhai, J., Meyers, B.~C., and
@@ -694,13 +766,20 @@ Stark, A., Brennecke, J., Russell, R.~B., and Cohen, S.~M. (2003).
 Takeda, A., Iwasaki, S., and Watanabe, T. (2008).
 \newblock {The Mechanism Selecting the Guide Strand from Small RNA Duplexes is
   Different Among Argonaute Proteins}.
-\newblock 49(4):493--500.
+\newblock {\em Plant Cell Physiol}, 49(4):493--500.
 
 \bibitem[Thadani and Tammi, 2006]{pmid17254305}
 Thadani, R. and Tammi, M.~T. (2006).
 \newblock {{M}icro{T}ar: predicting micro{R}{N}{A} targets from {R}{N}{A}
   duplexes}.
 \newblock {\em BMC Bioinformatics}, 7 Suppl 5:S20.
+
+\bibitem[Trabucchi et~al., 2009]{pmid19458619}
+Trabucchi, M., Briata, P., Garcia-Mayoral, M., Haase, A.~D., Filipowicz, W.,
+  Ramos, A., Gherzi, R., and Rosenfeld, M.~G. (2009).
+\newblock {{T}he {R}{N}{A}-binding protein {K}{S}{R}{P} promotes the biogenesis
+  of a subset of micro{R}{N}{A}s}.
+\newblock {\em Nature}, 459(7249):1010--1014.
 
 \bibitem[Vaucheret, 2006]{pmid16600909}
 Vaucheret, H. (2006).
@@ -711,13 +790,13 @@ Vaucheret, H. (2006).
 \bibitem[Vaucheret, 2008]{Cellulaire2008}
 Vaucheret, H. (2008).
 \newblock {Plant ARGONAUTES ´}.
-\newblock {\em Cell}, (May).
+\newblock {\em Cell}.
 
 \bibitem[Vazquez et~al., 2004a]{Vazquez2004a}
 Vazquez, F., Cre, P., and Bartel, D.~P. (2004a).
 \newblock {The action of ARGONAUTE1 in the miRNA pathway and its regulation by
   the miRNA pathway are crucial for plant development}.
-\newblock pages 1187--1197.
+\newblock {\em Genes Dev}, pages 1187--1197.
 
 \bibitem[Vazquez et~al., 2004b]{Vazquez2004}
 Vazquez, F., Gasciolli, V., Cr\'{e}t\'{e}, P., and Vaucheret, H. (2004b).
@@ -725,6 +804,11 @@ Vazquez, F., Gasciolli, V., Cr\'{e}t\'{e}, P., and Vaucheret, H. (2004b).
   accumulation and plant development, but not posttranscriptional transgene
   silencing.}
 \newblock {\em Current biology : CB}, 14(4):346--51.
+
+\bibitem[Viswanathan et~al., 2008]{pmid18292307}
+Viswanathan, S.~R., Daley, G.~Q., and Gregory, R.~I. (2008).
+\newblock {{S}elective blockade of micro{R}{N}{A} processing by {L}in28}.
+\newblock {\em Science}, 320(5872):97--100.
 
 \bibitem[Voinnet, 2001]{pmid11485817}
 Voinnet, O. (2001).
@@ -782,13 +866,25 @@ Yan, T., Yoo, D., Berardini, T.~Z., Mueller, L.~A., Weems, D.~C., Weng, S.,
 Yang, W.-c., Ye, D., Xu, J., and Sundaresan, V. (1999).
 \newblock {The SPOROCYTELESS gene of Arabidopsis is required for initiation of
   sporogenesis and encodes a novel nuclear protein}.
-\newblock pages 2108--2117.
+\newblock {\em Genes Dev.}, pages 2108--2117.
+
+\bibitem[Yi et~al., 2003]{pmid14681208}
+Yi, R., Qin, Y., Macara, I.~G., and Cullen, B.~R. (2003).
+\newblock {{E}xportin-5 mediates the nuclear export of pre-micro{R}{N}{A}s and
+  short hairpin {R}{N}{A}s}.
+\newblock {\em Genes Dev.}, 17(24):3011--3016.
 
 \bibitem[Yoshikawa et~al., 2005]{pmid16131612}
 Yoshikawa, M., Peragine, A., Park, M.~Y., and Poethig, R.~S. (2005).
 \newblock {{A} pathway for the biogenesis of trans-acting si{R}{N}{A}s in
   {A}rabidopsis}.
 \newblock {\em Genes Dev.}, 19(18):2164--2175.
+
+\bibitem[Zeng and Cullen, 2005]{pmid15932881}
+Zeng, Y. and Cullen, B.~R. (2005).
+\newblock {{E}fficient processing of primary micro{R}{N}{A} hairpins by
+  {D}rosha requires flanking nonstructured {R}{N}{A} sequences}.
+\newblock {\em J. Biol. Chem.}, 280(30):27595--27603.
 
 \bibitem[Zhang et~al., 2006]{pmid16623887}
 Zhang, B., Pan, X., Cannon, C.~H., Cobb, G.~P., and Anderson, T.~A. (2006).
