@@ -1,6 +1,7 @@
 This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: Declaration/declaration.aux
+A level-1 auxiliary file: Divulgacion/divulgacion.aux
 A level-1 auxiliary file: Dedication/dedication.aux
 A level-1 auxiliary file: Abstract/abstract.aux
 A level-1 auxiliary file: Introduccion/introduccion.aux
@@ -33,7 +34,7 @@ Warning--empty journal in Vazquez2004a
 Warning--empty journal in Yang1999
 You've used 130 entries,
             1935 wiz_defined-function locations,
-            1225 strings with 31180 characters,
+            1226 strings with 31207 characters,
 and the built_in function-call counts, 62828 in all, are:
 = -- 6018
 > -- 3400

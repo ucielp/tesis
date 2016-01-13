@@ -17,7 +17,7 @@ Por esto, definimos como secuencia consenso, a las secuencias más comunes (posi
 \subsection{Predicción de genes regulados por miARNs}
 
 \subsubsection{Conjunto de datos de plantas}
-Los datos de las secuencias pertenecen a librerías extraídas de “Gene Index Project”\footnote{http://compbio.dfci.harvard.edu/tgi/}, que consiste en una base de datos de ESTs ensamblados.
+Los datos de las secuencias pertenecen a librerías extraídas de "Gene Index Project"\footnote{http://compbio.dfci.harvard.edu/tgi/}, que consiste en una base de datos de ESTs ensamblados.
 Seleccionamos un conjunto de datos pertenecientes a Angiospermas.
 Además utilizamos secuencias de ARNm completos de \textit{A. thaliana}\footnote{http://arabidopsis.org} y \textit{Oryza Sativa}\footnote{http://rice.plantbiology.msu.edu} (ver tabla \ref{table:NAR_table_S2}).
 La búsqueda la realizamos utilizando PatMatch \citep{Yan01072005}, que es un programa de búsqueda de patrones de nucleótidos cortos o péptidos.
@@ -76,7 +76,7 @@ La misma corresponde a secuencias de transcriptos de plantas formado por archivo
 \subsection{Búsqueda de genes blanco}
 La búsqueda de genes blanco la realizamos de la misma manera que la descrita anteriormente con algunos cambios.
 Además de actualizar la base de datos y utilizar la de Phytozome, actualizamos la base de datos de \textit{A. thaliana} por la del TAIR10.
-Las secuencias candidatas fueron etiquetadas con el mejor hit del locus ID del Arabidosis TAIR10, utilizando los archivos de anotación de Phytozome, y lo utilizamos como “TAG” (etiqueta).
+Las secuencias candidatas fueron etiquetadas con el mejor hit del locus ID del Arabidosis TAIR10, utilizando los archivos de anotación de Phytozome, y lo utilizamos como "TAG" (etiqueta).
 Por último, cada TAG de Arabidopsis fue indexado con una breve descripción funcional y computacional obtenida del TAIR10 y los genes blanco candidatos fueron agrupados por familias teniendo en cuanta la clasificación de familias del TAIR10.
 
 \subsection{Herramienta web y almacenamiento de datos}
@@ -110,7 +110,7 @@ Los productos de PCR se purificaron en gel y se sometió a secuenciación de SBS
 
 \subsubsection{Análisis bioinformático}
 
-Obtuvimos las estructuras secundarias para cada precursor calculada a partir de la herramienta mfold \citep{pmid12824337} con los parámetros por default a 37°C de temperatura.
+Obtuvimos las estructuras secundarias para cada precursor calculada a partir de la herramienta mfold \citep{pmid12824337} con los parámetros por default a 37 \degree C de temperatura.
 El lado proximal del duplex miARN/miARN* fue definido como la posición +1.
 Analizamos la estructura secuendaria y consideremos las posiciones que había un match como un 0, mientras que bulges y mismatches los consideramos como 1.
 Además hicimos un promedio para todos los precursores siguiendo la misma estrategia.
@@ -119,3 +119,100 @@ Las secuencias de los ARN pequeños fueron obtenidas de la base de datos de nuev
 
 \subsubsection{Acceso a los datos}
 Los datos de secuenciación masiva con los resultados del sPARE están accesibles mediante el NCBI Gene Expression Omnibus (GEO\footnote{http://ncbi.nlm.nih.gov/geo} con el código de acceso GSE46429.
+
+
+
+\subsection{Cuantificación del nivel de expresión génica}
+
+\subsubsection{Extracción de ARN}
+La extracción de ARN de tejido vegetal de Arabidopsis se realizó utilizando el reactivo TRIzol (Invitrogen).
+La recolección de las muestras de tejido se realizó en tubos de microcentrífuga que inmediatamente fueron sumergidos en N2 líquido.
+El material fue reducido a un polvo fino utilizando un pilón. A continuación, sobre este polvo se adicionó TRIzol (1 ml de reactivo para un máximo de 100 mg de tejido) y se agitó de modo deresuspender el tejido mortereado.
+El homogenado se centrifugó a 12000 g a 4 \degree C durante 10 min y finalmente se transfirió el sobrenadante a un tubo de microcentrífuga nuevo.
+
+A continuación se agregó 0,2 volúmenes de cloroformo por cada volumen de TRIzol original.
+Esta mezcla se invirtió vigorosamente por 15 segundos y se centrifugó a 12000 g a 4 \degree C durante 15 min.
+Se transfirió la fase superior a un nuevo tubo de microcentrífuga y se precipitó el ARN mediante el agregado de un volumen de isopropanol.
+Esta mezcla se incubó por 2 hs a -20 \degree C. Luego se centrifugó a 12000 g a 4 \degree C durante 10 min.
+Finalizada la centrifugación se descartó el sobrenadante.
+
+Se lavó el precipitado de ARN mediante el agregado de 1 ml de 70\% (v/v) etanol frío y agitación con vortex.
+Luego se centrifugó a 7500 g a 4 \degree C durante 5 min, descartando el sobrenadante una vez finalizada la centrifugación. 
+Este paso de lavado se repitió una vez más.
+
+El precipitado de ARN obtenido se secó en estufa 37 \degree C por 10 min y luego se resuspendió en 50 $\mu$l de agua Milli-Q esteril.
+
+\subsubsection{Cuantificación y chequeo de la integridad del ARN purificado}
+Se determinó la absorbancia a 230, 260 y 280 nm. Se estimó la pureza de la preparación a partir de la relación de las medidas de absorbancia a Abs260/ Abs230 y Abs260/ Abs280.
+La integridad del ARN purificado se determinó mediante la electroforesis en geles de 1,5\% (p/v) agarosa de 5 $\mu$l del ARN preparado. Las bandas de
+ARN ribosomal se visualizaron por tinción de los geles con bromuro de etidio.
+
+\subsubsection{Tratamiento del ARN preparado con ADNasa}
+Se preparó la siguiente mezcla de reacción:
+En un volumen final de reacción de 20 $\mu$l se adicionó: 0,5 a 1 $\mu$g de ARN total, 2 $\mu$l de buffer "RQ1 RNase-Free DNase" (Promega), 1 U "RQ1 RNase-Free DNase" (Promega) y agua Milli-Q para completar el volumen de reacción.
+
+La mezcla de reacción se incubó 30 min a 37 \degree C. Luego se inactivó la ADNasa mediante la adición al tubo de reacción de 1 $\mu$l de "DNase Stop Solution" (Promega) e incubación por 10 min a 65 \degree  C.
+De los 21 $\mu$l de reacción finales, 12 $\mu$l se utilizaron para sintetizar ADN complementario (ADNc).
+Los 9 $\mu$l restantes se utilizaron como control negativo en la PCR en tiempo real.
+
+
+\subsubsection{Retrotranscripción (RT)}
+La síntesis del ADNc a partir del ARN preparado se llevó cabo según el siguiente protocolo.
+En una primera etapa se preparó la siguiente mezcla: en un volumen final de 13,5 $\mu$l se adicionó 0,25 $\mu$g de oligo dT, 12 $\mu$l de ARN tratado con ADNasa, dNTPs a una concentración final de 0,4 mM cada uno.
+El volumen de la mezcla se completó con agua Milli-Q.
+
+La mezcla de reacción se incubó durante 5 min a 65 \degree C y a continuación en hielo durante al menos un minuto.
+Luego se realizó una centrifugación rápida y se adicionó a cada tubo de reacción 4 $\mu$l de "5X First Strand Buffer", 1 $\mu$l de 0,1 M DTT, 1 $\mu$l “Rnase OUT Recombinant Ribonuclease Inhibitor” (Invitrogen) y 100 U de “SuperScript III Reverse Transcriptase” (Invitrogen).
+
+Se mezcló por inversión y se incubó 60 min a 50 \degree C. Luego se realizó una centrifugación rápida y se inactivó la reacción mediante la incubación a 70 \degree C durante 15 min.
+Finalmente el ADNc a usar como molde en la reacciones de amplificación se diluyó al menos 40 veces en agua Milli-Q.
+
+\subsubsection{Reacción en cadena de la polimerasa en tiempo real}
+La cuantificación relativa de los niveles de expresión génica se llevó a cabo mediante la técnica de PCR en tiempo real (Real-Time PCR) según el método $2^{-\Delta \Delta Ct}$ \citep{pmid11328886}.
+
+Como calibrador se utilizó un gen de expresión constitutiva que codifica por la Ser/Thr proteína fosfatasa 2 (PP2A; At1g13320) \citep{pmid16166256}.
+Un aspecto importante que se tuvo en cuenta para la aplicación del método de cuantificación $2^{- \Delta \Delta Ct}$ es que las eficiencias de amplificación de los fragmentos del gen de interés y del gen de referencia sean similares y próximas a 2 \citep{pmid11328886}.
+
+Para el diseño de los oligonucleótidos para la cuantificación de blancos de miARNs se tuvieron en cuenta las siguientes consideraciones. 
+Los miARNs en plantas regulan la expresión de sus blancos principalmente mediante el corte del ARNm. 
+De esta manera para cuantificar el nivel de expresión de un gen que es blanco de un miARN es fundamental distinguir el ARNm completo del cortado.
+Dado que en la RT se sintetizan las hebras de ADNc a partir del oligo dT que hibrida en el extremo 3' de los ARN mensajeros, la secuencia que se ubica 5' del sitio complementario al miARN solamente será retrotranscripta en aquellos ARNm que no hayan sido cortados por el miARN. 
+De esta manera si los oligonucleótidos utilizados en la PCR en tiempo real hibridan en esta región se amplificará específicamente un fragmento presente en el ADNc generado de ARNm intactos.
+
+Las reacciones se realizaron en un equipo de qPCR "Mastercycler® ep realplex" (Eppendorf) en microtubos apropiados para esta técnica. 
+Para determinar el perfil de amplificación durante la PCR se utilizó el colorante fluorescente "SYBR Green I Nucleic Acid Gel Stain" (Roche).
+
+Las reacciones de amplificación se llevaron a cabo bajo las siguientes condiciones.
+Para un volumen final de reacción de 20$\mu$l se adicionó a cada tubo: 2 $\mu$l de "10X PCR Buffer" (Invitrogen), 3mM MgCl2, 0,2mM de cada dNTP, 5 $\mu$l de ADNc, 0,5 U de "Platinum Taq DNA Polymerase" (Invitrogen), 20 pmol de cada cebador, y 0,8 $\mu$l de una dilución 1000X en agua del "SYBR Green I Nucleic Acid Gel Stain (Roche)" original.
+El volumen se completó con agua Milli-Q.
+
+Como control negativo se preparó un tubo de reacción para cada muestra en el cual se agregaron los mismos componentes en las mismas condiciones, pero en lugar de utilizar ADNc como molde se colocó 5 $\mu$l del ARN sobrante luego del tratamiento con ADNasa, diluido en la misma proporción.
+
+El termociclado de las mezclas de reacción se llevó a cabo según el programa que se muestra en la tabla \ref{table:termociclado}.
+
+
+\begin{table}[!htbp]
+\centering
+\small
+\caption{}
+\label{table:termociclado}
+\begin{tabular}{|l|c|c|c|}
+\hline
+Etapa                   & Temperatura (°C) & Tiempo & N° de ciclos        \\ \hline
+Desnaturalización       & 95               & 1 min  & 1                   \\ \hline
+\multirow{4}{*}{Ciclos} & 95               & 15 seg & \multirow{3}{*}{40} \\ \cline{2-3}
+                        & 55               & 30 seg &                     \\ \cline{2-3}
+                        & 72               & 40 seg &                     \\ \cline{2-4} 
+                        & \multicolumn{3}{c|}{Lectura de fluorescencia}   \\ \hline
+\end{tabular}
+\end{table}
+
+Se incluyó una etapa final de determinación de la temperatura de fusión de los
+productos amplificados, lo que permite conocer la especificidad de la reacción.
+Además, la primera vez que se utilizaron los oligonucleótidos el producto de la
+reacción de amplificación se analizó en un gel de agarosa para confirmar la especificidad
+de la reacción.
+
+
+\subsubsection{}
+
