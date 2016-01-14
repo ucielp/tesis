@@ -1,0 +1,33 @@
+z <- read.table("precursores_dicots_especies_both.txt",header=T,sep='\t')
+
+svg(filename="precursores_dicots_especies_both.svg", 
+    width=5, 
+    height=5, 
+    pointsize=10)
+    boxplot(z)
+dev.off()
+
+
+----------
+x <- read.table("precursores_dicots_especies.txt",header=T,sep='\t')
+
+y <- x[,2]
+svg(filename="precursores_dicots_especies..svg", 
+    width=5, 
+    height=5, 
+    pointsize=10)
+    boxplot(y)
+dev.off()
+
+
+a <- read.table("precursores_dicots_especies_familias.txt",header=T,sep='\t')
+
+b <- a[,2]
+svg(filename="precursores_dicots_especies_familias.svg", 
+    width=5, 
+    height=5, 
+    pointsize=10)
+    boxplot(b)
+dev.off()
+
+

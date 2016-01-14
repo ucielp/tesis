@@ -2,7 +2,7 @@
 %****************************** Second Chapter *********************************
 %*******************************************************************************
 
-\chapter{Resultados Capítulo 1} 
+\chapter{Resultados Capítulo 2} 
 {\LARGE Estudios genómicos sobre la biogénesis de miARN en plantas}
 
 \graphicspath{{Chapter2/Figs/}}
@@ -16,6 +16,15 @@ En nuestro grupo actualmente se está estudiando la biogenesis de miARNs, espec�
 Estos precursores tienen una estructura de tallo-burbuja característica \citep{Jones-Rhoades2006}, que se cree que proporciona las claves para el procesamiento del mismo y la liberación de los ARN pequeños de 21 nt.
 
 Mientras que los precursores de miARN en animales tienen estructuras homogéneas, los precursores de miARNs en plantas constituyen una amplia gama de estructuras, y sus longitud pueden variar entre 50 y 900 nucleótidos \citep{Bologna2013,citeulike:8816489}.
+Esa variabilidad se da entre distintas familias de precursores, pero a veces también entre una misma familia de precursores en distintas especies (Figura \ref{fig:hairpin_distribution}).
+
+\begin{figure}[htbp!] 
+    \centering    
+    \includegraphics[width=.7\textwidth]{hairpin_distribution.png}
+    \caption[Tamaño de precursores]{Tamaño de precursores. Se muestra el tamaño (nt) de dos familias de precursores en distintas especies.}
+    \label{fig:hairpin_distribution}
+\end{figure}
+
 En particular, la biogénesis de los miARNs es un proceso clave porque determina la secuencia exacta de nucleótidos del ARN pequeño funcional.
 Si bien en el caso de animales está claro cuáles elementos estructurales son reconocidos en los precursores durante su procesamiento, poco se sabía sobre el reconocimiento de los precursores de plantas por la maquinaria de procesamiento.
 
@@ -151,12 +160,52 @@ Em este mismo artículo se pudo demostrar que los precursores de miARNs en plant
     \label{fig:mecanismos}
 \end{figure}
 
-
-Que los precursores de miARNs en plantas sean procesados de diferentes maneras, nos llevó a especular que su patrón de evolución también puede ser diferente y podrían estar vinculados a su mecanismo de procesamiento.
-
-
 \subsection{Enfoque bioinformático para el estudio de la evolución y biogénesis de miARNs en plantas}
 
+Que los precursores de miARNs en plantas sean procesados de diferentes maneras \citep{Bologna2013}, nos llevó a especular que su patrón de evolución también puede ser diferente y podrían estar vinculados a su mecanismo de procesamiento.
+Es por esto que elaboramos una estrategia bioinformática para caracterizar la relación entre la evolución de los precursores de miARNs en plantas y los mecanismos de procesamiento determinados previamente.
 
-%~ Estudios recientes del laboratorio revelaron que en plantas los precursores de miARNs pueden procesarse por al menos cuatro mecanismos diferentes \citep{Bologna2013}, indicando que la diversidad de estructuras secundaria podría correlacionar con el mecanismo de biogénesis de los miARNs. 
+\subsubsection{Estrategia}
 
+La metodología utilizada se detalla en la sección \ref{ref_evolution} y primero la utilizamos para estudiar precursores de miARNs conservados en dicotiledóneas. 
+La misma consta de los siguientes pasos:
+
+\begin{itemize}
+    \item Búsqueda de ortólogos para cada miembro de cada familia de Arabidopsis de  precursores de miARNs conservados en plantas
+    \item Extensión de las secuencias
+    \item Alineamiento de secuencia primaria
+    \item Alineamiento de secuencia teniendo en cuenta estructura secundaria
+    \item Búsqueda de motivos conservados
+    \item Representación gráfica de los precursores
+\end{itemize}
+
+Las secuencias de los precursores de miARNs en miRBASE rara vez son validadas experimentalmente, de hecho muchas de ellas son el resultado de predicciones computacionales de estructuras en forma de tallo y burbuja que incluye el miARN maduro, pero que no se extiende muchas bases más allá de el mismo \cite{Kozomara2014}.
+Esto lleva a anotaciones erróneas de los precursores de miARNs.
+Además para cada miembro de cada familia de \textit{A. thaliana} no es fácil saber cual precursor corresponde al ortólogo en otra especie en base a la anotación de miRBASE.
+Por esto, primero realizamos una búsqueda de ortólogos para cada miembro de cada familia de \textit{A. thaliana} y empezamos nuestro análisis con una definición arbitraria de los precursores de plantas incluyendo 150 nt fuera del par miARN/miARN*.
+Y para esto utilizamos 30 especies de dicotiledóneas, donde los datos genómicos para encontrar los ortólogos, fueron extraídos Phytozome.
+
+
+\begin{figure}[htbp!] 
+    \centering    
+    \includegraphics[width=.7\textwidth]{dicots_species.png}
+    \caption[Especies detectadas]{Cantidad de especies detectadas.
+    Esta figura muestra la distribución de la cantidad de especies donde se encuentran ortólogos.
+    A la izquierda se muestra la distribución de especies por miembro de familias de precursores de miARNs donde se detecta un órtologo de \textit{A. thaliana}.
+    A la derecha se agruparon todos los miembros de una misma familia y se muestra la distribución de la cantidad de especies donde se detecta un ortólogo de \textit{A. thaliana}}
+    \label{fig:dicots_species}
+\end{figure}
+
+%~ Por otro lado, se seleccionaron todos los precursores que codifican para miARNs de la misma familia y luego los analizamos en conjunto.
+%~ Por último, como la información generada a partir de la estrategia y programas utilizados no era simple de analizar, ideamos una forma de representarla mediante gráficos en forma circular utilizando el paquete Circos \citep{37}
+%~ De esta manera, utilizamos estos gráficos para analizar los precursores teniendo en cuenta los distintos mecanismos de procesamientos determinados previamente.
+
+
+\begin{landscape}
+    \begin{figure}[htbp!] 
+        \centering    
+        \includegraphics[width=1.4\textwidth]{miR172a_tcoffee.png}
+        \caption[]{}
+         \label{fig:miR172a_tcoffee}
+    \end{figure}
+\end{landscape}

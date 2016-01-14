@@ -309,3 +309,71 @@ Las secuencias de los ARN pequeños fueron obtenidas de la base de datos de nuev
 \subsubsection{Acceso a los datos}
 Los datos de secuenciación masiva con los resultados del sPARE están accesibles mediante el NCBI Gene Expression Omnibus (GEO\footnote{http://ncbi.nlm.nih.gov/geo} con el código de acceso GSE46429.
 
+\section{Estrategia bioinformática para caracterizar la relación entre la evolución de los precursores de miARNs en plantas y los mecanismos de procesamientos} \label{ref_evolution}
+
+\subsubsection{Búsqueda de ortólogos y extensión de la secuencia}
+De la base de datos biológica miRBASE (release 19), obtuvimos las secuencias de 92 precursores que incluye cada miembro de las familias de \textit{A. thaliana} conservados en dicotiledóneas.
+Además obtuvimos las secuencias de 117 precursores que incluye cada miembro de las familias de \text{O. Sativa} conservados en monocotiledóneas.
+Con estas secuencias de \textit{A. thaliana} y de \text{O. Sativa}, buscamos los ortólogos en dicotiledóneas y monocotiledóneas respectivamente.
+Esto lo hicimos utilizando la técnica de blast recíproco, mediante un script desarrollado por nosotros que utiliza el blast del paquete de BLAST+ del NCBI (versión 2.2.25).
+Los datos genómicos para la búsqueda de ortólogos, fueron extraídos de la base de datos de Phytozome y utilizamos 30 especies de dicotiledóneas y 6 especies de monocotiledóneas (Figura \ref{fig:treePhytozome}).
+Además extendimos las secuencias, obteniendo más bases de las que originalmente están definidas en miRBASE y empezamos nuestro análisis con una definición arbitraria de los precursores de plantas incluyendo 150 nt fuera del par miARN/miARN*.
+Esta definición se basa en que todos los determinantes estructurales validados experimentalmente necesarios para el procesamiento de miARNs están dentro de este rango.
+
+\begin{figure}[htbp!] 
+    \centering    
+    \includegraphics[width=.9\textwidth]{treePhytozome.png}
+    \caption[Especies almacenadas en Phytozome]{Especies almacenadas en Phytozome.}
+    \label{fig:treePhytozome}
+\end{figure}
+
+\subsubsection{Alineamientos de precursores y determinación de estructura secundaria}
+
+Los alineamientos de precursores en base a su secuencia primaria se realizaron utilizando la herramienta T-coffee (versión 11.00.8cbe486) \citep{pmid10964570} como se muestra a continuación :
+
+\begin{lstlisting}[language=bash]
+t_coffee -in=miR.fasta -mode=regular -method=slow_pair -output=fasta_aln -quiet=stdout -out=miR.aln
+\end{lstlisting}
+
+Por defecto, T-coffee colorea los alineamientos en base a un puntaje de las bibliotecas construida a partir de distintos algoritmos de alineamiento.
+Como a nosotros nos interesa poder visualizar las diferencias en base a la conservación de los precursores, utilizamos T-Coffee para colorear el alineamiento en base a el nivel de conservación
+
+\begin{lstlisting}[language=bash]
+t_coffee -other_pg seq_reformat -in miR.aln -in3 miR.aln -action +3evaluate idmat -out=miR_T_Coffee.pdf
+\end{lstlisting}
+
+Los alineamientos de precursores, considerando su estructura secundaria, fueron realizados con la herramienta R-coffee \citep{pmid18292307} como se muestra a coninuación.
+
+\begin{lstlisting}[language=bash]
+t_coffee -in=miR.aln -mode=rcoffee -method=slow_pair -output=score_pdf score_ascii -run_name=miR_R_Coffee
+\end{lstlisting}
+
+Y para colorear los alineamientos en base a su conservación, utilizamos el siguiente comando:
+
+\begin{lstlisting}[language=bash]
+t_coffee -other_pg seq_reformat -in miR.aln -in3 miR.aln -action +3evaluate idmat -out= miR.aln_R_Coffee.pdf
+\end{lstlisting}
+
+El plegamiento de los precursores para determinar la estructura secundaria lo realizamos utilizando el paquete RNAfold (versión 2.1.1)(35) \citep{pmid22115189}.
+
+\subsubsection{Búsqueda de motivos}
+La búsqueda de motivos conservados la realizamos utilizando la herramienta MEME (versión 4.10.1) \citep{pmid7584402}.
+Hicimos dos búsquedas de motivos, la primera para encontrar motivos 2 motivos entre los precursores, de alrededor de 20nt.
+Utilizamos el comando y los parámetros como se muestra a continuación:
+
+\begin{lstlisting}[language=bash]
+meme miR.fasta -dna -oc miR -nostatus -time 18000 -mod zoops -nmotifs 2 -minw 19 -maxw 23 -revcomp
+\end{lstlisting}
+
+Y luego hicimos otra búsqueda de motivos, pero esta vez con tamaño más variable (de 5 a 50 nt) y hasta 10 motivos.
+Utilizamos el comando y los parámetros como se muestra a continuación:
+
+
+\begin{lstlisting}[language=bash]
+meme miR.fasta -dna -oc miR -nostatus -time 18000 -mod anr -nmotifs 10 -minw 5 -maxw 50 -revcomp -evt 1e-3
+\end{lstlisting}
+
+\subsubsection{Representación gráfica de los precursores}
+En base a la información de los alineamientos y estructuras secundarias, representamos los datos utilizando el paquete Circos \citep{pmid19541911}.
+El archivo de configuración principal se muestra en el anexo en \ref{circos.conf} y los archivos de configuración del histograma y los las relaciones se muestran en el anexo en \ref{histogram.conf} y \ref{inks.conf} respectivamente. 
+Los archivos karyotype.txt, highlight.txt y link.txt son distintos para cada precursor en particular y se realizaron mediante un script, con el formato que se especifica en \url{http://circos.ca/}.

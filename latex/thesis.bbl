@@ -73,6 +73,12 @@ Axtell, M.~J., Westholm, J.~O., and Lai, E.~C. (2011).
   in plants and animals}.
 \newblock {\em Genome Biol.}, 12(4):221.
 
+\bibitem[Bailey and Elkan, 1994]{pmid7584402}
+Bailey, T.~L. and Elkan, C. (1994).
+\newblock {{F}itting a mixture model by expectation maximization to discover
+  motifs in biopolymers}.
+\newblock {\em Proc Int Conf Intell Syst Mol Biol}, 2:28--36.
+
 \bibitem[Bartel et~al., 2004]{Bartel2004}
 Bartel, D.~P., Lee, R., and Feinbaum, R. (2004).
 \newblock {MicroRNAs: Genomics , Biogenesis , Mechanism , and Function Genomics
@@ -421,6 +427,12 @@ Kr\"uger, J. and Rehmsmeier, M. (2006).
 \newblock Rnahybrid: microrna target prediction easy, fast and flexible.
 \newblock {\em Nucleic Acids Research}, 34(suppl 2):W451--W454.
 
+\bibitem[Krzywinski et~al., 2009]{pmid19541911}
+Krzywinski, M., Schein, J., Birol, I., Connors, J., Gascoyne, R., Horsman, D.,
+  Jones, S.~J., and Marra, M.~A. (2009).
+\newblock {{C}ircos: an information aesthetic for comparative genomics}.
+\newblock {\em Genome Res.}, 19(9):1639--1645.
+
 \bibitem[Kurihara and Watanabe, 2004]{pmid15314213}
 Kurihara, Y. and Watanabe, Y. (2004).
 \newblock {{A}rabidopsis micro-{R}{N}{A} biogenesis through {D}icer-like 1
@@ -479,6 +491,12 @@ Llave, C., Xie, Z., Kasschau, K.~D., and Carrington, J.~C. (2002).
 Lobbes, D., Rallapalli, G., Schmidt, D.~D., Martin, C., and Clarke, J. (2006).
 \newblock {SERRATE: a new player on the plant microRNA scene.}
 \newblock {\em EMBO reports}, 7(10):1052--8.
+
+\bibitem[Lorenz et~al., 2011]{pmid22115189}
+Lorenz, R., Bernhart, S.~H., Honer Zu~Siederdissen, C., Tafer, H., Flamm, C.,
+  Stadler, P.~F., and Hofacker, I.~L. (2011).
+\newblock {{V}ienna{R}{N}{A} {P}ackage 2.0}.
+\newblock {\em Algorithms Mol Biol}, 6:26.
 
 \bibitem[Lund et~al., 2004]{pmid14631048}
 Lund, E., Guttinger, S., Calado, A., Dahlberg, J.~E., and Kutay, U. (2004).
@@ -572,6 +590,12 @@ Niyogi, K.~K., Pilon, M., Shikanai, T., Abdel-ghany, S.~E., and Mu, P. (2005).
 \newblock {Two P-Type ATPases Are Required for Copper Delivery in Arabidopsis
   thaliana Chloroplasts}.
 \newblock {\em Plant Cell}, 17(April):1233--1251.
+
+\bibitem[Notredame et~al., 2000]{pmid10964570}
+Notredame, C., Higgins, D.~G., and Heringa, J. (2000).
+\newblock {{T}-{C}offee: {A} novel method for fast and accurate multiple
+  sequence alignment}.
+\newblock {\em J. Mol. Biol.}, 302(1):205--217.
 
 \bibitem[Obernosterer et~al., 2006]{pmid16738409}
 Obernosterer, G., Leuschner, P.~J., Alenius, M., and Martinez, J. (2006).
