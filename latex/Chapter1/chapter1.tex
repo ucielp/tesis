@@ -1,7 +1,3 @@
-%*******************************************************************************
-%*********************************** First Chapter *****************************
-%*******************************************************************************
-
 \graphicspath{{Chapter1/Figs/}}
 
 
@@ -278,7 +274,7 @@ La técnica de 5’ RACE PCR confirmó que el gen realmente era gen blanco del m
     \textbf{(A)} Esquema de la estrategia modificada para identificar genes blanco de miARNs.
     \textbf{(B)} Conservación del sitio blanco reconocido por el miARN en distintas especies.
     La flecha indica una variación de G-C o G-U con el miARN dependiendo de la especie.
-    \textbf{(C)} Alineamiento en Arabidopsis thaliana del gen blanco IAR3 con el miR167. La flecha indica la posición del corte indicada por 5’RACE-PCR y el número indica la frecuencia de clonado de cada fragmento.}
+    \textbf{(C)} Alineamiento en \textit{A. thaliana} del gen blanco IAR3 con el miR167. La flecha indica la posición del corte indicada por 5’RACE-PCR y el número indica la frecuencia de clonado de cada fragmento.}
     \label{fig:NAR_fig5}
 \end{figure}
 
@@ -319,7 +315,7 @@ Además, estos resultados demuestran que los genes blanco presentes en un grupo 
 
 \subsection{comTAR: una herramienta para la predicción de genes blanco regulados por miARNs en plantas.} 
 
-A partir de la estrategia descrita en el capítulo anterior, que fue utilizada para encontrar y validar experimentalmente genes blanco regulados por miARNs en Arabidopsis thaliana, desarrollamos una herramienta web denominada comTAR\footnote{http://rnabiology.ibr-conicet.gov.ar/comtar} (Conserved plant miRNA target prediction tool) \citep{Chorostecki2014}.
+A partir de la estrategia descrita en el capítulo anterior, que fue utilizada para encontrar y validar experimentalmente genes blanco regulados por miARNs en \textit{A. thaliana}, desarrollamos una herramienta web denominada comTAR\footnote{http://rnabiology.ibr-conicet.gov.ar/comtar} (Conserved plant miRNA target prediction tool) \citep{Chorostecki2014}.
 La misma se puede utilizar para predecir potenciales genes blanco regulados por miARNs en plantas y está basada en la conservación evolutiva del par miARN-gen blanco con un número relajado de "mismatches".
 ComTAR permite distintas opciones/parámetros de búsqueda que pueden ser modificados por el usuario:
 
@@ -329,22 +325,22 @@ ComTAR permite distintas opciones/parámetros de búsqueda que pueden ser modifi
     \item El número mínimo de especies donde un mismo TAG está presente para un miARN particular.
 \end{itemize}
 
-\subsubsection{Buscar potenciales genes blanco de miARN}
+\subsubsection{Realizar la búsqueda de potenciales genes blanco de miARN}
 Esta es la búsqueda por defecto.
 El usuario puede realizar la búsqueda de genes blanco de miARNs conservados.
 En la primer pantalla se muestra los potenciales genes blanco para un miARN dado (Figura \ref{fig:comTAR_find_targets}), con una breve descripción del gen, la familia a la que pertenece y además en cuantas y cuáles especies está presente.
 También, para cada especie que está presente, se tiene acceso por pantalla al alineamiento del miARN-gen blanco, la energía de hibridación y los filtros empíricos de interacciones conocidas del par miARN-gen blanco (Figura \ref{fig:comTAR_fig2}).
 
-\subsubsection{Buscar familias de potenciales genes blanco de miARN}
+\subsubsection{Realizar la búsqueda de familias de potenciales genes blanco de miARN}
 Debido a que los miARNs en plantas en general regulan genes que codifican a proteínas de las misma familias, la herramienta tiene otra funcionalidad donde permite la búsqueda de genes agrupados por familias en vez de agruparlos por TAG.
 De este modo genes en distintas especies con diferentes TAG, pero que pertenecen a la misma familia pueden ser detectados como familias de potenciales genes blanco.
 
-\subsubsection{¿Es este gen un potencial gen blanco de algun miARN conservado?}
+\subsubsection{Realizar la búsqueda de un gen de interés para ver si es potencial gen blanco de algun miARN conservado}
 
 El usuario puede introducir un locus TAG en particular (tanto de Arabidopsis como el 'gene ID' del Phytozome) y se identifica si este gen en particular puede ser un potencial gen blanco de algun miARN y en cuantas especies aparece.
 En Arabidopsis se utiliza el LocusID como identificador, mientrás que en Phytozome este identificador varía según la especie y se puede ver la precedencia de cada especie en el sitio de Phytozome.
 
-\subsubsection{Buscar tu secuencia particular}
+\subsubsection{Realizar la búsqueda de un miARN nuevo}
 En esta parte del programa el usuario puede realizar la búsqueda de nuevos ARNs pequeños teniendo en cuenta que la secuencia introducida tiene que ser de 18nt de largo (posiciones 2-19).
 Luego de la búsqueda, se da un link al usuario y después de unas horas, cuando haya sido procesado el cálculo, el usuario puede entrar a ese link y navegar los resultados por pantalla.
 

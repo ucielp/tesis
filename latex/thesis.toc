@@ -65,10 +65,10 @@
 \contentsline {subsubsection}{Identificaci\IeC {\'o}n de nuevos genes blanco permitiendo interacciones G-U.}{40}{figure.caption.22}
 \contentsline {subsubsection}{Identificaci\IeC {\'o}n de genes blanco espec\IeC {\'\i }ficos de \textit {Solanaceae}.}{42}{figure.caption.23}
 \contentsline {subsection}{\numberline {4.2.2}comTAR: una herramienta para la predicci\IeC {\'o}n de genes blanco regulados por miARNs en plantas.}{44}{subsection.4.2.2}
-\contentsline {subsubsection}{Buscar potenciales genes blanco de miARN}{44}{subsection.4.2.2}
-\contentsline {subsubsection}{Buscar familias de potenciales genes blanco de miARN}{46}{subsection.4.2.2}
-\contentsline {subsubsection}{\IeC {\textquestiondown }Es este gen un potencial gen blanco de algun miARN conservado?}{46}{subsection.4.2.2}
-\contentsline {subsubsection}{Buscar tu secuencia particular}{46}{subsection.4.2.2}
+\contentsline {subsubsection}{Realizar la b\IeC {\'u}squeda de potenciales genes blanco de miARN}{44}{subsection.4.2.2}
+\contentsline {subsubsection}{Realizar la b\IeC {\'u}squeda de familias de potenciales genes blanco de miARN}{46}{subsection.4.2.2}
+\contentsline {subsubsection}{Realizar la b\IeC {\'u}squeda de un gen de inter\IeC {\'e}s para ver si es potencial gen blanco de algun miARN conservado}{46}{subsection.4.2.2}
+\contentsline {subsubsection}{Realizar la b\IeC {\'u}squeda de un miARN nuevo}{46}{subsection.4.2.2}
 \contentsline {chapter}{\numberline {5}Resultados Cap\IeC {\'\i }tulo 2}{49}{chapter.5}
 \contentsline {section}{\numberline {5.1}Introducci\IeC {\'o}n}{49}{section.5.1}
 \contentsline {section}{\numberline {5.2}Resultados}{50}{section.5.2}
@@ -79,8 +79,10 @@
 \contentsline {subsubsection}{Procesamiento de loop a base}{55}{figure.caption.30}
 \contentsline {subsection}{\numberline {5.2.2}Enfoque bioinform\IeC {\'a}tico para el estudio de la evoluci\IeC {\'o}n y biog\IeC {\'e}nesis de miARNs en plantas}{57}{subsection.5.2.2}
 \contentsline {subsubsection}{Estrategia}{57}{subsection.5.2.2}
-\contentsline {chapter}{\numberline {6}Conclusiones}{61}{chapter.6}
-\contentsline {section}{\numberline {6.1}Aplicaciones bioinform\IeC {\'a}ticas para el estudio de interacciones miARN-gen blanco}{61}{section.6.1}
-\contentsline {section}{\numberline {6.2}Estudios gen\IeC {\'o}micos sobre la biog\IeC {\'e}nesis de miARN en plantas}{62}{section.6.2}
-\contentsline {chapter}{References}{63}{section*.37}
-\contentsline {chapter}{Appendix \numberline {A}Anexo}{75}{Appendix.a.A}
+\contentsline {subsubsection}{B\IeC {\'u}squeda de ort\IeC {\'o}logos de precursores de miARNs}{58}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Alineamiento de los precursores en base a su secuencia primaria}{58}{subsection.5.2.3}
+\contentsline {chapter}{\numberline {6}Conclusiones}{67}{chapter.6}
+\contentsline {section}{\numberline {6.1}Aplicaciones bioinform\IeC {\'a}ticas para el estudio de interacciones miARN-gen blanco}{67}{section.6.1}
+\contentsline {section}{\numberline {6.2}Estudios gen\IeC {\'o}micos sobre la biog\IeC {\'e}nesis de miARN en plantas}{68}{section.6.2}
+\contentsline {chapter}{References}{69}{section*.40}
+\contentsline {chapter}{Appendix \numberline {A}Anexo}{81}{Appendix.a.A}
