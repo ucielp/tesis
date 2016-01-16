@@ -282,17 +282,66 @@ Esta búsqueda de motivos la hicimos de diferentes maneras, la primera permitien
         \centering    
         \includegraphics[width=1.4\textwidth]{miR172_meme.png}
         \caption[MEME del miR172a]{
-        \textbf{MEME del miR172a.}
-        Se muestra el MEME y se muestran los motivos conservados dentro de los precursores del miR172a en distintas especies.
+			\textbf{MEME del miR172a.}
+        Se muestra el MEME donde se pueden observar los motivos conservados dentro de los precursores del miR172a en distintas especies.
+        En color rojo el primer motivo conservado comprende parte del miR172 (logo 1).
+        El segundo motivo más conservado comprende parte del miR172* (logo 2).
         }
         \label{fig:miR172_meme}
     \end{figure}
 \end{landscape}
 
+\subsection{Mecanismo de base a loop cortos}
 
-%~ Por otro lado, se seleccionaron todos los precursores que codifican para miARNs de la misma familia y luego los analizamos en conjunto.
-%~ Por último, como la información generada a partir de la estrategia y programas utilizados no era simple de analizar, ideamos una forma de representarla mediante gráficos en forma circular utilizando el paquete Circos \citep{37}
-%~ De esta manera, utilizamos estos gráficos para analizar los precursores teniendo en cuenta los distintos mecanismos de procesamientos determinados previamente.
+En los precursores con un mecanismo corto de base a loop, un loop interno seguido por un tallo inferior de $\sim$15nt especifica la posición del primer corte.
+A pesar de que el tallo puede contener bulges, la transición de un loop interno (simple hebra) al tallo inferior es bastante marcada, y tres pares de bases apareadas generalmente definen el comienzo del tallo inferior del precursor \citep{Mateos2010,Bologna2013}.
+El segundo corte procede a una distancia fija de $\sim$21 nt desde la posición del primer corte.
+
+Para la mayoría de los precursores procesados con este mecanismo pudimos observar el mismo patrón de conservación de estructura primaria y similares patrones de estructura secundaria (Figura \ref{fig:miR172a_circos} y \ref{fig:miR390a_circos}). 
+La región con mayor conservación conincide con el duplex miARN/miARN* pero además se puede ver una región  conservada por debajo del dúplex, que coincide con el tallo inferior.
+
+Otra ventaja de esta forma de representar a los precursores y su conservación es que visualmente se puede reconocer facilmente posiciones "mismatches" conservados. 
+Por ejemplo en el Circos del miR172, se puede observar un mismatch en la primer posición del miARN con la posición 19 del miARN*.
+Esta interacción es A-A y se mantiene sin variaciones en todas las especies (Figura \ref{fig:miR172a_circos}).
+Esto podría ser interesante estudiarlo en detalle donde se podría generar un precursor mutante donde esas bases en particular estén apareadas y luego ver si esto afecto o no el procesamiento del precursor.  
+
+Además notamos que este patrón de conservación se puede observar independientemente si el miARN maduro está en la hebra 5' (Figura \ref{fig:miR172a_circos} ) o si está en la hebra 3' (Figura \ref{fig:miR390a_circos}).
+A diferencia de los precursores que tienen un mecanismo de loop a base, donde el tallo superior es fundamental para el su procesamiento, los precursores que se procesan cortos de base a loop no tienen el tallo superior conservado.
+Y mediante la búsqueda de motivos conservados, pudimos observar que el tamaño del tallo superior y del loop es muy variado en un mismo precursor en distintas especies, donde los mismos puede ir desde los 40nt hasta 115nt (Figura \ref{fig:miR172_meme}).
+
+
+\begin{figure}[htbp!] 
+    \centering    
+    \includegraphics[width=1\textwidth]{miR390a_circos.png}
+    \caption[Circos del miR172a]{Circos del miR390a.}
+     \label{fig:miR390a_circos}
+\end{figure}
+
+\subsection{Mecanismo de base a loop secuenciales}
+
+En los precursores con un mecanismo secuencial de base a loop, el primer corte procede como en los cortos de base a loop, pero luego son necesario dos cortes más para liberar el miARN, generando en el proceso niveles bajos de RNA pequeños adicionales \citep{Bologna2013}.
+
+
+\begin{landscape}
+	\begin{figure}
+	\centering
+	\begin{subfigure}{.75\textwidth}
+	  \centering
+	  \includegraphics[width=.9\linewidth]{miR169b_circos.png}
+	  \caption{Precursor del miR169b}
+	  \label{subfig:miR169b_circos}
+	\end{subfigure}%
+	\begin{subfigure}{.75\textwidth}
+	  \centering
+	  \includegraphics[width=.9\linewidth]{miR394b_circos.png}
+	  \caption{Precursor del miR394b}
+	  \label{subfig:miR394b_circos}
+	\end{subfigure}
+	\caption{Circos de precursores con mecanismos de procesamientos cortos de base a loop}
+	\label{fig:srBTL_circos}
+	\end{figure}
+\end{landscape}
+
 
 
 \subsection{Mixed processing of members of the MIR170/MIR171 family}
@@ -301,4 +350,8 @@ Esta observación no sorprende ya que se cree que las familias de miARNs se expa
 Sin embargo, ciertos el procesamiento de miembros de ciertas familias pueden variar de uno a otro \citep{Bologna2013}.
 Esto sucede, por ejemplo,en la familia del miR171 donde en \textit{A. thaliana} existen 4 miembros. 
 El precursor del miR171a es procesado de base a loop, mientras que los precursores del miR171b y miR171c son procesados de loop a base.
+
+
+
+%~ Por otro lado, se seleccionaron todos los precursores que codifican para miARNs de la misma familia y luego los analizamos en conjunto.
 
