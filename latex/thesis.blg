@@ -1,4 +1,5 @@
-This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: Declaration/declaration.aux
 A level-1 auxiliary file: Divulgacion/divulgacion.aux
@@ -13,44 +14,44 @@ A level-1 auxiliary file: Chapter3/chapter3.aux
 The style file: apalike.bst
 A level-1 auxiliary file: Appendix1/appendix1.aux
 Database file #1: References/references.bib
-You've used 149 entries,
+You've used 150 entries,
             1935 wiz_defined-function locations,
-            1323 strings with 34627 characters,
-and the built_in function-call counts, 71886 in all, are:
-= -- 6897
-> -- 3903
+            1329 strings with 34875 characters,
+and the built_in function-call counts, 72426 in all, are:
+= -- 6948
+> -- 3936
 < -- 49
-+ -- 1392
-- -- 1386
-* -- 6982
-:= -- 12517
-add.period$ -- 448
-call.type$ -- 149
-change.case$ -- 1437
-chr.to.int$ -- 145
-cite$ -- 149
-duplicate$ -- 2145
-empty$ -- 4487
-format.name$ -- 1595
-if$ -- 13629
++ -- 1404
+- -- 1398
+* -- 7037
+:= -- 12611
+add.period$ -- 451
+call.type$ -- 150
+change.case$ -- 1448
+chr.to.int$ -- 146
+cite$ -- 150
+duplicate$ -- 2159
+empty$ -- 4519
+format.name$ -- 1608
+if$ -- 13730
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 149
-newline$ -- 748
-num.names$ -- 449
-pop$ -- 1117
+missing$ -- 150
+newline$ -- 753
+num.names$ -- 452
+pop$ -- 1126
 preamble$ -- 1
-purify$ -- 1437
+purify$ -- 1448
 quote$ -- 0
-skip$ -- 1608
+skip$ -- 1618
 stack$ -- 0
-substring$ -- 5440
-swap$ -- 209
+substring$ -- 5483
+swap$ -- 210
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 894
+type$ -- 900
 warning$ -- 0
-while$ -- 574
+while$ -- 578
 width$ -- 0
-write$ -- 1938
+write$ -- 1951

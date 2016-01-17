@@ -148,7 +148,7 @@ Em este mismo artículo se pudo demostrar que los precursores de miARNs en plant
         El segundo corte procede a una distancia fija de $\sim$21 nt desde la posición del primer corte.
     \item En los precursores con un mecanismo \textbf{secuencial de base a loop} (ej: familia del miR169), el primer corte procede como en los cortos de base a loop, pero luego son necesario dos cortes más para liberar el miARN, generando en el proceso niveles bajos de RNA pequeños adicionales \citep{Bologna2013}.
     \item En los precursores con un mecanismo \textbf{cortos de loop a base} (ej: familia del miR156 y miR160), el procesamiento es guiado por un tallo superior, y son necesarios dos cortes para liberar el miARN maduro.
-        La región terminal de estos precursores tienen una largo conservado de $\sim$42 y un loop pequeño \citep{Bologna2013}.
+        La región terminal de estos precursores tienen una largo conservado de $\sim$42 donde incluye un loop pequeño \citep{Bologna2013}.
     \item En los precursores con un mecanismo \textbf{secuencial de loop a base} (ej: familia del miR319 y miR159), cuatro cortes secuenciales por DCL1 son los encargados de procesar los precursores de miARNs.
         En general muestran un tallo largo superior, del cual otros ARNs pequeños son generados \citep{pmid19850910,Bologna2009,Bologna2013}
 \end{itemize}
@@ -319,7 +319,13 @@ Y mediante la búsqueda de motivos conservados, pudimos observar que el tamaño 
 
 \subsection{Mecanismo de base a loop secuenciales}
 
-En los precursores con un mecanismo secuencial de base a loop, el primer corte procede como en los cortos de base a loop, pero luego son necesario dos cortes más para liberar el miARN, generando en el proceso niveles bajos de RNA pequeños adicionales \citep{Bologna2013}.
+En estos precursores, con un mecanismo secuencial de base a loop, el primer corte procede como en los cortos de base a loop, pero luego son necesario dos cortes más para liberar el miARN, generando en el proceso niveles bajos de RNA pequeños adicionales \citep{Bologna2013}.
+Este es el caso de algunos miembros de la  familias del miR169, que tiene en total 14 miembros siendo la familia más grande de \textit{A. thaliana}.
+Un estudio en detalle de los precursores del miR169b/d/e/f/g mostró que los sitios de cortes del precursor estaban localizados 21 nt por debajo del lado proximal del dúplex miARN/miARN*.
+Esta es la distancia esperada entre dos cortes de DCL1, sugeriendo que estos precursores eran procesados por más de dos cortes de la encima \citep{Bologna2013}.
+
+La familia del miR394 también es procesada de la misma manera y comparten similares patrones de estructura secundaria, donde se ve el tallo inferior largo bien estructurado (Figura \ref{fig:seqBTL_circos}).
+Si observamos el patrón de conservación de secuencia primaria podemos ver que la región del dúplex miARN/miARN está muy conservada, pero además podemos observar que debajo del dúplex existe otra región conservada que coincide con el tallo inferior largo que presentan estos precursores (Figura \ref{fig:seqBTL_circos}).
 
 
 \begin{landscape}
@@ -337,20 +343,79 @@ En los precursores con un mecanismo secuencial de base a loop, el primer corte p
 	  \caption{Precursor del miR394b}
 	  \label{subfig:miR394b_circos}
 	\end{subfigure}
-	\caption{Circos de precursores con mecanismos de procesamientos cortos de base a loop}
-	\label{fig:srBTL_circos}
+	\caption{Circos de precursores con mecanismos de procesamientos secuenciales de base a loop}
+	\label{fig:seqBTL_circos}
 	\end{figure}
 \end{landscape}
 
 
+\subsection{Mecanismo de loop a base cortos}
 
-\subsection{Mixed processing of members of the MIR170/MIR171 family}
+En los precursores con un mecanismo \textbf{cortos de loop a base}, el procesamiento es guiado por un tallo superior, y son necesarios dos cortes para liberar el miARN maduro.
+La región terminal de estos precursores tienen una largo conservado de $\sim$42, donde incluye un loop pequeño \citep{Bologna2013} a diferencia de los precursores procesados dee base a loop, donde esta región es variable en tamaño.
+Realizamos los Circos para precursores que se procesan cortos de base a loop y observamos que presentan una región conservada que corresponde al tallo superior, además de la región que comprende al dúplex miARN/miARN* (Figura \ref{fig:seqBTL_circos}).
+A diferencia de los precursores que se procesan de la base al loop, estos precursores no presentan el tallo inferior ni estructurado ni conservado y esto se ve en los ejemplos del miR157a (Figura \ref{subfig:miR157a_circos}) y del miR160a (Figura \ref{subfig:miR157a_circos}).
+
+
+\begin{landscape}
+	\begin{figure}
+	\centering
+	\begin{subfigure}{.75\textwidth}
+	  \centering
+	  \includegraphics[width=.9\linewidth]{miR157a_circos.png}
+	  \caption{Precursor del miR157a}
+	  \label{subfig:miR157a_circos}
+	\end{subfigure}%
+	\begin{subfigure}{.75\textwidth}
+	  \centering
+	  \includegraphics[width=.9\linewidth]{miR160a_circos.png}
+	  \caption{Precursor del miR160a}
+	  \label{subfig:miR160a_circos}
+	\end{subfigure}
+	\caption{Circos de precursores con mecanismos de procesamientos cortos de loop a base}
+	\label{fig:srLTB_circos}
+	\end{figure}
+\end{landscape}
+
+\subsection{Mecanismo de loop a base secuenciales}
+
+En los precursores con un mecanismo \textbf{secuencial de loop a base}, cuatro cortes secuenciales por DCL1 son los encargados de procesar los precursores de miARNs.
+En general, estos precursores muestran un tallo largo superior, del cual otros ARNs pequeños son generados \citep{pmid19850910,Bologna2009,Bologna2013}.
+
+En este caso estudiamos la familia del miR319 y del miR159 y en particular mostramos al miR319a (Figura \ref{subfig:miR319a_circos}) y al miR159b (Figura \ref{subfig:miR159b_circos}).
+Pudimos reconocer el tallo superior conservado y estructurado.
+Además se pudo observar que los ARNs pequeños, que se originan del procesamiento de estos precursores, están conservados de la misma manera que el miARN y el miARN* (Figura \ref{fig:seqLTBL_circos}).
+
+\begin{landscape}
+	\begin{figure}
+	\centering
+	\begin{subfigure}{.75\textwidth}
+	  \centering
+	  \includegraphics[width=.9\linewidth]{miR319a_circos.png}
+	  \caption{Precursor del miR319a}
+	  \label{subfig:miR319a_circos}
+	\end{subfigure}%
+	\begin{subfigure}{.75\textwidth}
+	  \centering
+	  \includegraphics[width=.9\linewidth]{miR159b_circos.png}
+	  \caption{Precursor del miR159b}
+	  \label{subfig:miR159b_circos}
+	\end{subfigure}
+	\caption{Circos de precursores con mecanismos de procesamientos secuenciales de loop a base}
+	\label{fig:seqLTBL_circos}
+	\end{figure}
+\end{landscape}
+
+
+\subsection{Procesamiento mixto de miembros de la familia del miR171}
+
 En general, se sabe que diferentes miembros de una misma familia de miARNs comparten la misma vía de biogenésis. 
 Esta observación no sorprende ya que se cree que las familias de miARNs se expanden por eventos de duplicación de un gen ancestral \citep{pmid15565108}.
 Sin embargo, ciertos el procesamiento de miembros de ciertas familias pueden variar de uno a otro \citep{Bologna2013}.
 Esto sucede, por ejemplo,en la familia del miR171 donde en \textit{A. thaliana} existen 4 miembros. 
 El precursor del miR171a es procesado de base a loop, mientras que los precursores del miR171b y miR171c son procesados de loop a base.
 
+Nos pusimos analizar esta familia en detalle para ver si los patrones de conservación y estructura secundaria eran diferentes o no.
 
 
 %~ Por otro lado, se seleccionaron todos los precursores que codifican para miARNs de la misma familia y luego los analizamos en conjunto.

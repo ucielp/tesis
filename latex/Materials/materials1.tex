@@ -374,5 +374,6 @@ meme miR.fasta -dna -oc miR -nostatus -time 18000 -mod anr -nmotifs 10 -minw 5 -
 
 \subsubsection{Representación gráfica de los precursores}
 En base a la información de los alineamientos y estructuras secundarias, representamos los datos utilizando el paquete Circos \citep{pmid19541911}.
+Por simplicidad en la representación de los precursores, eliminamos los gaps y sólo están representadas las bases dentro del precursor. 
 El archivo de configuración principal se muestra en el anexo en \ref{circos.conf} y los archivos de configuración del histograma y los las relaciones se muestran en el anexo en \ref{histogram.conf} y \ref{inks.conf} respectivamente. 
 Los archivos karyotype.txt, highlight.txt y link.txt son distintos para cada precursor en particular y se realizaron mediante un script, con el formato que se especifica en \url{http://circos.ca/}.
