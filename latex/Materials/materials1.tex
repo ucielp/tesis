@@ -251,7 +251,7 @@ La relación señal/ruido fue calculada como el cociente entre el número de gen
 Como un control adicional, seleccionamos dos miARNs que no están conservados durante la evolución, que son el miR158 y el miR173.
 
 
-\section{comTAR: una herramienta para la predicción de genes blanco regulados por miARNs en plantas}
+\section{ComTAR: una herramienta para la predicción de genes blanco regulados por miARNs en plantas}
 
 A partir de los resultados positivos obtenidos de la estrategia descrita anteriormente, decidimos desarrollar una herramienta web y dejarla disponible para la comunidad científica denominada comTAR que está disponible en un sub-dominio de la página web institucional del IBR: http://rnabiology.ibr-conicet.gov.ar/comtar.
 
@@ -284,93 +284,9 @@ El TAG del mejor hit en Arabidopsis es el que determina el número de especies d
     \label{fig:comTAR_fig1}
 \end{figure}
 
-\section{Estudios genómicos sobre la biogénesis de miARN en plantas}
-
-\subsection{Procesamiento de precursores de miARNs en plantas}
-
-\subsubsection{Análisis bioinformático}
-
-Obtuvimos las estructuras secundarias para cada precursor calculada a partir de la herramienta mfold \citep{pmid12824337} con los parámetros por default a 37 \degree C de temperatura.
-El lado proximal del duplex miARN/miARN* fue definido como la posición +1.
-Analizamos la estructura secuendaria y consideremos las posiciones que había un match como un 0, mientras que bulges y "mismatches" los consideramos como 1.
-Además hicimos un promedio para todos los precursores siguiendo la misma estrategia.
-Implementamos un pipeline bioinformático utilizando "in-house" scripts y datos públicos de miRBASE, para asistir con el análisis de las bibliotecas de secuenciación masiva.
-Las secuencias de los ARN pequeños fueron obtenidas de la base de datos de nueva generación de Arabidopsis\footnote{https://http://mpss.udel.edu/} \citep{pmid25120269} y  de la base de datos de miRBASE \citep{Kozomara2014}.
-
-\subsubsection{Acceso a los datos}
-Los datos de secuenciación masiva con los resultados del sPARE están accesibles mediante el NCBI Gene Expression Omnibus (GEO\footnote{http://ncbi.nlm.nih.gov/geo} con el código de acceso GSE46429.
-
-\section{Estrategia bioinformática para caracterizar la relación entre la evolución de los precursores de miARNs en plantas y los mecanismos de procesamientos} \label{ref_evolution}
-
-\subsubsection{Búsqueda de ortólogos y extensión de la secuencia}
-De la base de datos biológica miRBASE (release 19), obtuvimos las secuencias de 92 precursores que incluye cada miembro de las familias de \textit{A. thaliana} conservados en dicotiledóneas.
-Además obtuvimos las secuencias de 117 precursores que incluye cada miembro de las familias de \text{O. Sativa} conservados en monocotiledóneas.
-Con estas secuencias de \textit{A. thaliana} y de \text{O. Sativa}, buscamos los ortólogos en dicotiledóneas y monocotiledóneas respectivamente.
-Esto lo hicimos utilizando la técnica de blast recíproco, mediante un script desarrollado por nosotros que utiliza el blast del paquete de BLAST+ del NCBI (versión 2.2.25).
-Los datos genómicos para la búsqueda de ortólogos, fueron extraídos de la base de datos de Phytozome y utilizamos 30 especies de dicotiledóneas y 6 especies de monocotiledóneas (Figura \ref{fig:treePhytozome}).
-Además extendimos las secuencias, obteniendo más bases de las que originalmente están definidas en miRBASE y empezamos nuestro análisis con una definición arbitraria de los precursores de plantas incluyendo 150 nt fuera del par miARN/miARN*.
-Esta definición se basa en que todos los determinantes estructurales validados experimentalmente necesarios para el procesamiento de miARNs están dentro de este rango.
-
-\begin{figure}[htbp!] 
-    \centering    
-    \includegraphics[width=.9\textwidth]{treePhytozome.png}
-    \caption[Especies almacenadas en Phytozome]{Especies almacenadas en Phytozome.}
-    \label{fig:treePhytozome}
-\end{figure}
-
-\subsubsection{Alineamientos de precursores y determinación de estructura secundaria}
-
-Los alineamientos de precursores en base a su secuencia primaria se realizaron utilizando la herramienta T-coffee (versión 11.00.8cbe486) \citep{pmid10964570} como se muestra a continuación :
-
-\begin{lstlisting}[language=bash]
-t_coffee -in=miR.fasta -mode=regular -method=slow_pair -output=fasta_aln -quiet=stdout -out=miR.aln
-\end{lstlisting}
-
-Por defecto, T-coffee colorea los alineamientos en base a un puntaje de las bibliotecas construida a partir de distintos algoritmos de alineamiento.
-Como a nosotros nos interesa poder visualizar las diferencias en base a la conservación de los precursores, utilizamos T-Coffee para colorear el alineamiento en base a el nivel de conservación
-
-\begin{lstlisting}[language=bash]
-t_coffee -other_pg seq_reformat -in miR.aln -in3 miR.aln -action +3evaluate idmat -out=miR_T_Coffee.pdf
-\end{lstlisting}
-
-Los alineamientos de precursores, considerando su estructura secundaria, fueron realizados con la herramienta R-coffee \citep{pmid18292307} como se muestra a coninuación.
-
-\begin{lstlisting}[language=bash]
-t_coffee -in=miR.aln -mode=rcoffee -method=slow_pair -output=score_pdf score_ascii -run_name=miR_R_Coffee
-\end{lstlisting}
-
-Y para colorear los alineamientos en base a su conservación, utilizamos el siguiente comando:
-
-\begin{lstlisting}[language=bash]
-t_coffee -other_pg seq_reformat -in miR.aln -in3 miR.aln -action +3evaluate idmat -out= miR.aln_R_Coffee.pdf
-\end{lstlisting}
-
-El plegamiento de los precursores para determinar la estructura secundaria lo realizamos utilizando el paquete RNAfold (versión 2.1.1) \citep{pmid22115189}.
-
-\subsubsection{Búsqueda de motivos}
-La búsqueda de motivos conservados la realizamos utilizando la herramienta MEME (versión 4.10.1) \citep{pmid7584402}.
-Hicimos dos búsquedas de motivos, la primera para encontrar como máximo 2 motivos conservados en los precursores, de alrededor de 20nt.
-Utilizamos el comando y los parámetros como se muestra a continuación:
-
-\begin{lstlisting}[language=bash]
-meme miR.fasta -dna -oc miR -nostatus -time 18000 -mod zoops -nmotifs 2 -minw 19 -maxw 23 -revcomp
-\end{lstlisting}
-
-Y luego hicimos otra búsqueda de motivos, pero esta vez con tamaño más variable (de 5 a 50 nt) y permitimos encontrar hasta 10 motivos con un umbral de corte por e-value.
-Utilizamos el comando y los parámetros como se muestra a continuación:
-
-\begin{lstlisting}[language=bash]
-meme miR.fasta -dna -oc miR -nostatus -time 18000 -mod anr -nmotifs 10 -minw 5 -maxw 50 -revcomp -evt 1e-3
-\end{lstlisting}
-
-\subsubsection{Representación gráfica de los precursores}
-En base a la información de los alineamientos y estructuras secundarias, representamos los datos utilizando el paquete Circos \citep{pmid19541911}.
-Por simplicidad en la representación de los precursores, eliminamos los gaps y sólo están representadas las bases dentro del precursor. 
-El archivo de configuración principal se muestra en el anexo en \ref{circos.conf} y los archivos de configuración del histograma y los las relaciones se muestran en el anexo en \ref{histogram.conf} y \ref{inks.conf} respectivamente. 
-Los archivos karyotype.txt, highlight.txt y link.txt son distintos para cada precursor en particular y se realizaron mediante un script, con el formato que se especifica en \url{http://circos.ca/}.
 
 
-\section{Protocolo SPARE multiplex}
+\section{Protocolo de SPARE multiplex}
 %~ ARN total (1 mg). Se elimino el ARN ribosomal utilizando el "RiboMinus Plant Kit for RNA-seq" (Invitrogen), según las indicaciones del fabricante.
 %~ El ARN se ligó al adaptador oligonucleótido de ARN  (5'-GUUCAGAGUUCUACAGUCCGAC-3') utilizando la ARN ligasa T4 (Fermentas).
 %~ Los productos ligados fueron purificaron y se utilizaron como plantilla en 10 multiplex reacciones de transcripción reversa utilizando 18 diferentes oligos precursor específicos en cada reacción.
@@ -379,6 +295,20 @@ Los archivos karyotype.txt, highlight.txt y link.txt son distintos para cada pre
 %~ A continuación, las mezclas de las 10 reacciones multiplex fueron amplificados por PCR usando el cebador P5 genérico 5'-AATGATACGGCGACCACCGACAGGTTCAGAGTTCTACAGTCCGA-3' y el primer P7 5'-CAAGCAGAAGACGGCATACGA-3'.
 %~ Las condiciones de PCR fueron 18 ciclos de 94\degree C durante 20 seg, 60\degree C durante 20 seg, y 72\degree C durante 20 seg.
 %~ Los productos de PCR se purificaron en gel y se sometió a secuenciación de SBS.
+
+\subsubsection{Construcción de bibliotecas de sPARE}
+
+La técnica de SPARE (del inglés Specific Parallel Analisys of 5' RNA Ends) fue desarrollada con el objetivo de caracterizar el procesamiento de los precursores de miARNs de \textit{A. thaliana}.
+El esquema de la técnica se muestra en la Figura \ref{fig:sPARE_construccion} y se detalla a contunación.
+
+\begin{figure}[htbp!]
+	\centering    
+	\includegraphics[width=1\textwidth]{sPARE_construccion.png}
+	\caption[Esquema general para la construcción de bibliotecas de sPARE]{
+		Esquema general para la construcción de bibliotecas de sPARE.
+	}
+	 \label{fig:sPARE_construccion}
+\end{figure}
 
 \subsubsection{Extracción de ARN}
 La extracción de ARN fue realizada como se detalla en sección \ref{sec:extraccion_ARN}.
@@ -531,10 +461,15 @@ Programa de PCR
 	\item 72 \degree C 50''
 	\item 72 \degree C 10'
 \end{itemize}
+
+Se corre un gel al 2\% conjunto a un marcado de peso de molecular de 100pb y otro de 50pb.
+Se corta la región desde 150-800pb y se purifica por kit Wizard SV gel and PCR Clean-up system eluyendo en un volumen final de de 22 $\mu$L.
+
 \subsubsection{Análisis bioinformático de los datos obtenidos de la secuenciación}
 
 Una vez obtenidos los datos crudos de la secuencias se procedió a hacer el procesamiento de los datos siguiendo los siguientes pasos:
 \begin{itemize}
+	\item Comprobar la calidad de las secuencias.
 	\item Remover secuencias adaptadoras (trimming)
 	\item Agrupar secuencias iguales y determinar abundancia (conversión de archivos fastq file a archivos tag-count).
 	\item Mapear las secuencias únicas con las secuencias de precursores (sub-genoma definido)
@@ -542,5 +477,88 @@ Una vez obtenidos los datos crudos de la secuencias se procedió a hacer el proc
 	\item Analizar y comparar los intermediarios de procesamiento para plantas silvestreste y mutantes de procesamiento
 \end{itemize}
 
-Se corre un gel al 2\% conjunto a un marcado de peso de molecular de 100pb y otro de 50pb.
-Se corta la región desde 150-800pb y se purifica por kit Wizard SV gel and PCR Clean-up system eluyendo en un volumen final de de 22 $\mu$L.
+
+\section{Estudios genómicos sobre la biogénesis de miARN en plantas}
+
+\subsection{Procesamiento de precursores de miARNs en plantas}
+
+\subsubsection{Análisis bioinformático}
+
+Obtuvimos las estructuras secundarias para cada precursor calculada a partir de la herramienta mfold \citep{pmid12824337} con los parámetros por default a 37 \degree C de temperatura.
+El lado proximal del duplex miARN/miARN* fue definido como la posición +1.
+Analizamos la estructura secuendaria y consideremos las posiciones que había un match como un 0, mientras que bulges y "mismatches" los consideramos como 1.
+Además hicimos un promedio para todos los precursores siguiendo la misma estrategia.
+Implementamos un pipeline bioinformático utilizando "in-house" scripts y datos públicos de miRBASE, para asistir con el análisis de las bibliotecas de secuenciación masiva.
+Las secuencias de los ARN pequeños fueron obtenidas de la base de datos de nueva generación de Arabidopsis\footnote{https://http://mpss.udel.edu/} \citep{pmid25120269} y  de la base de datos de miRBASE \citep{Kozomara2014}.
+
+\subsubsection{Acceso a los datos}
+Los datos de secuenciación masiva con los resultados del sPARE de la primer parte del trabajo, están accesibles mediante el NCBI Gene Expression Omnibus (GEO\footnote{http://ncbi.nlm.nih.gov/geo} con el código de acceso GSE46429.
+
+\section{Estrategia bioinformática para caracterizar la relación entre la evolución de los precursores de miARNs en plantas y los mecanismos de procesamientos} \label{ref_evolution}
+
+\subsubsection{Búsqueda de ortólogos y extensión de la secuencia}
+De la base de datos biológica miRBASE (release 19), obtuvimos las secuencias de 92 precursores que incluye cada miembro de las familias de \textit{A. thaliana} conservados en dicotiledóneas.
+Además obtuvimos las secuencias de 117 precursores que incluye cada miembro de las familias de \text{O. Sativa} conservados en monocotiledóneas.
+Con estas secuencias de \textit{A. thaliana} y de \text{O. Sativa}, buscamos los ortólogos en dicotiledóneas y monocotiledóneas respectivamente.
+Esto lo hicimos utilizando la técnica de blast recíproco, mediante un script desarrollado por nosotros que utiliza el blast del paquete de BLAST+ del NCBI (versión 2.2.25).
+Los datos genómicos para la búsqueda de ortólogos, fueron extraídos de la base de datos de Phytozome y utilizamos 30 especies de dicotiledóneas y 6 especies de monocotiledóneas (Figura \ref{fig:treePhytozome}).
+Además extendimos las secuencias, obteniendo más bases de las que originalmente están definidas en miRBASE y empezamos nuestro análisis con una definición arbitraria de los precursores de plantas incluyendo 150 nt fuera del par miARN/miARN*.
+Esta definición se basa en que todos los determinantes estructurales validados experimentalmente necesarios para el procesamiento de miARNs están dentro de este rango.
+
+\begin{figure}[htbp!] 
+    \centering    
+    \includegraphics[width=.9\textwidth]{treePhytozome.png}
+    \caption[Especies almacenadas en Phytozome]{Especies almacenadas en Phytozome.}
+    \label{fig:treePhytozome}
+\end{figure}
+
+\subsubsection{Alineamientos de precursores y determinación de estructura secundaria}
+
+Los alineamientos de precursores en base a su secuencia primaria se realizaron utilizando la herramienta T-coffee (versión 11.00.8cbe486) \citep{pmid10964570} como se muestra a continuación :
+
+\begin{lstlisting}[language=bash]
+t_coffee -in=miR.fasta -mode=regular -method=slow_pair -output=fasta_aln -quiet=stdout -out=miR.aln
+\end{lstlisting}
+
+Por defecto, T-coffee colorea los alineamientos en base a un puntaje de las bibliotecas construida a partir de distintos algoritmos de alineamiento.
+Como a nosotros nos interesa poder visualizar las diferencias en base a la conservación de los precursores, utilizamos T-Coffee para colorear el alineamiento en base a el nivel de conservación
+
+\begin{lstlisting}[language=bash]
+t_coffee -other_pg seq_reformat -in miR.aln -in3 miR.aln -action +3evaluate idmat -out=miR_T_Coffee.pdf
+\end{lstlisting}
+
+Los alineamientos de precursores, considerando su estructura secundaria, fueron realizados con la herramienta R-coffee \citep{pmid18292307} como se muestra a coninuación.
+
+\begin{lstlisting}[language=bash]
+t_coffee -in=miR.aln -mode=rcoffee -method=slow_pair -output=score_pdf score_ascii -run_name=miR_R_Coffee
+\end{lstlisting}
+
+Y para colorear los alineamientos en base a su conservación, utilizamos el siguiente comando:
+
+\begin{lstlisting}[language=bash]
+t_coffee -other_pg seq_reformat -in miR.aln -in3 miR.aln -action +3evaluate idmat -out= miR.aln_R_Coffee.pdf
+\end{lstlisting}
+
+El plegamiento de los precursores para determinar la estructura secundaria lo realizamos utilizando el paquete RNAfold (versión 2.1.1) \citep{pmid22115189}.
+
+\subsubsection{Búsqueda de motivos}
+La búsqueda de motivos conservados la realizamos utilizando la herramienta MEME (versión 4.10.1) \citep{pmid7584402}.
+Hicimos dos búsquedas de motivos, la primera para encontrar como máximo 2 motivos conservados en los precursores, de alrededor de 20nt.
+Utilizamos el comando y los parámetros como se muestra a continuación:
+
+\begin{lstlisting}[language=bash]
+meme miR.fasta -dna -oc miR -nostatus -time 18000 -mod zoops -nmotifs 2 -minw 19 -maxw 23 -revcomp
+\end{lstlisting}
+
+Y luego hicimos otra búsqueda de motivos, pero esta vez con tamaño más variable (de 5 a 50 nt) y permitimos encontrar hasta 10 motivos con un umbral de corte por e-value.
+Utilizamos el comando y los parámetros como se muestra a continuación:
+
+\begin{lstlisting}[language=bash]
+meme miR.fasta -dna -oc miR -nostatus -time 18000 -mod anr -nmotifs 10 -minw 5 -maxw 50 -revcomp -evt 1e-3
+\end{lstlisting}
+
+\subsubsection{Representación gráfica de los precursores}
+En base a la información de los alineamientos y estructuras secundarias, representamos los datos utilizando el paquete Circos \citep{pmid19541911}.
+Por simplicidad en la representación de los precursores, eliminamos los gaps y sólo están representadas las bases dentro del precursor. 
+El archivo de configuración principal se muestra en el anexo en \ref{circos.conf} y los archivos de configuración del histograma y los las relaciones se muestran en el anexo en \ref{histogram.conf} y \ref{inks.conf} respectivamente. 
+Los archivos karyotype.txt, highlight.txt y link.txt son distintos para cada precursor en particular y se realizaron mediante un script, con el formato que se especifica en \url{http://circos.ca/}.

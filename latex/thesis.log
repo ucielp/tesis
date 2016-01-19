@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.3)  18 JAN 2016 18:34
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.3)  19 JAN 2016 20:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**thesis
+**thesis.tex
 (./thesis.tex
 LaTeX2e <2011/06/27>
 Babel <3.9h> and hyphenation patterns for 5 languages loaded.
@@ -1599,7 +1599,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 88.
 \PHD@crest=\box56
 
-<Figs/logo_unr.jpg, id=265, 473.77pt x 473.77pt>
+<Figs/logo_unr.jpg, id=261, 473.77pt x 473.77pt>
 File: Figs/logo_unr.jpg Graphic file (type jpg)
  <use Figs/logo_unr.jpg>
 Package pdftex.def Info: Figs/logo_unr.jpg used on input line 88.
@@ -1725,43 +1725,43 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-<Introduccion/Figs/familias_miRNAs_conservados.png, id=532, 449.5194pt x 178.74
+<Introduccion/Figs/familias_miRNAs_conservados.png, id=539, 449.5194pt x 178.74
 78pt>
 File: Introduccion/Figs/familias_miRNAs_conservados.png Graphic file (type png)
 
  <use Introduccion/Figs/familias_miRNAs_conservados.png>
 Package pdftex.def Info: Introduccion/Figs/familias_miRNAs_conservados.png used
- on input line 61.
+ on input line 60.
 (pdftex.def)             Requested size: 437.46112pt x 173.9579pt.
  [3 <./Introduccion/Figs/familias_miRNAs_conservados.png>] [4]
-<Introduccion/Figs/procesamiento_animales.png, id=601, 318.27708pt x 459.6372pt
+<Introduccion/Figs/procesamiento_animales.png, id=608, 318.27708pt x 459.6372pt
 >
 File: Introduccion/Figs/procesamiento_animales.png Graphic file (type png)
  <use Introduccion/Figs/procesamiento_animales.png>
 Package pdftex.def Info: Introduccion/Figs/procesamiento_animales.png used on i
-nput line 110.
+nput line 109.
 (pdftex.def)             Requested size: 393.71233pt x 568.6187pt.
  [5] [6 <./Introduccion/Figs/procesamiento_animales.png>]
-<Introduccion/Figs/biogenesis_accion.png, id=650, 426.10393pt x 559.94797pt>
+<Introduccion/Figs/biogenesis_accion.png, id=658, 426.10393pt x 559.94797pt>
 File: Introduccion/Figs/biogenesis_accion.png Graphic file (type png)
 
 <use Introduccion/Figs/biogenesis_accion.png>
 Package pdftex.def Info: Introduccion/Figs/biogenesis_accion.png used on input 
-line 146.
+line 145.
 (pdftex.def)             Requested size: 393.71233pt x 517.3884pt.
 
 
-LaTeX Warning: Float too large for page by 53.10326pt on input line 155.
+LaTeX Warning: Float too large for page by 53.10326pt on input line 154.
 
 [7] [8 <./Introduccion/Figs/biogenesis_accion.png>] [9] [10] [11]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 254.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 253.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 254.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 253.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 254.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 253.
  [12]
-Overfull \hbox (1.27475pt too wide) in paragraph at lines 272--274
+Overfull \hbox (1.27475pt too wide) in paragraph at lines 271--273
 \T1/ptm/m/n/12 (-20) blanco de to-dos los ARN pe-queños obtenidos de téc-ni-cas
  de se-cuen-ciación de alto rendimiento.
  []
@@ -1796,7 +1796,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 152.
 
-<Materials/Figs/identificacion_producto.png, id=871, 222.01344pt x 320.30064pt>
+<Materials/Figs/identificacion_producto.png, id=878, 222.01344pt x 320.30064pt>
 File: Materials/Figs/identificacion_producto.png Graphic file (type png)
 <use Materials/Figs/identificacion_producto.png>
 Package pdftex.def Info: Materials/Figs/identificacion_producto.png used on inp
@@ -1809,7 +1809,7 @@ Underfull \vbox (badness 1231) has occurred while \output is active []
 Underfull \vbox (badness 1675) has occurred while \output is active []
 
  [25]
-[26] <Materials/Figs/comTAR_fig1.png, id=933, 858.5676pt x 232.7094pt>
+[26] <Materials/Figs/comTAR_fig1.png, id=940, 858.5676pt x 232.7094pt>
 File: Materials/Figs/comTAR_fig1.png Graphic file (type png)
 
 <use Materials/Figs/comTAR_fig1.png>
@@ -1817,19 +1817,30 @@ Package pdftex.def Info: Materials/Figs/comTAR_fig1.png used on input line 282.
 
 (pdftex.def)             Requested size: 437.46112pt x 118.57013pt.
 
+<Materials/Figs/sPARE_construccion.png, id=942, 1024.3068pt x 766.5438pt>
+File: Materials/Figs/sPARE_construccion.png Graphic file (type png)
+
+<use Materials/Figs/sPARE_construccion.png>
+Package pdftex.def Info: Materials/Figs/sPARE_construccion.png used on input li
+ne 306.
+(pdftex.def)             Requested size: 437.46112pt x 327.37337pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
  Make it at least 26.98592pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[27 <./Materials/Figs/comTAR_fig1.png>] [28]
-<Materials/Figs/treePhytozome.png, id=953, 551.05875pt x 529.37775pt>
+[27 <./Materials/Figs/comTAR_fig1.png>]
+Underfull \vbox (badness 1454) has occurred while \output is active []
+
+ [28 <./Materials/Figs/sPARE_construccion.png>] [29] [30] [31] [32] [33]
+<Materials/Figs/treePhytozome.png, id=1014, 551.05875pt x 529.37775pt>
 File: Materials/Figs/treePhytozome.png Graphic file (type png)
 
 <use Materials/Figs/treePhytozome.png>
-Package pdftex.def Info: Materials/Figs/treePhytozome.png used on input line 31
-6.
+Package pdftex.def Info: Materials/Figs/treePhytozome.png used on input line 51
+0.
 (pdftex.def)             Requested size: 393.71233pt x 378.23566pt.
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
@@ -1837,361 +1848,421 @@ File: lstlang1.sty 2013/08/26 1.5b listings language file
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2013/08/26 1.5b listings language file
-)
+) [34]
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
  Make it at least 26.98592pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[29 <./Materials/Figs/treePhytozome.png>] [30] [31] [32] [33] [34]) [35]
-[36]
+[35 <./Materials/Figs/treePhytozome.png>]) [36]
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 26.98592pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[37]
 \openout2 = `Chapter1/chapter1.aux'.
 
- (./Chapter1/chapter1.tex
+ (./Chapter1/chapter1.tex [38
+
+
+
+]
 Cap\IeC {\'\i }tulos 4.
 
-LaTeX Warning: Reference `fig:varabilidad_maduro' on page 37 undefined on input
- line 12.
+Package natbib Warning: Citation `281' on page 39 undefined on input line 21.
 
+[39]
 
-Package natbib Warning: Citation `281' on page 37 undefined on input line 18.
+Package natbib Warning: Citation `pmid18472421' on page 40 undefined on input l
+ine 32.
 
-<Chapter1/Figs/variabilidad_maduro.png, id=1055, 450.483pt x 512.1534pt>
+<Chapter1/Figs/variabilidad_maduro.png, id=1081, 450.483pt x 512.1534pt>
 File: Chapter1/Figs/variabilidad_maduro.png Graphic file (type png)
 
 <use Chapter1/Figs/variabilidad_maduro.png>
 Package pdftex.def Info: Chapter1/Figs/variabilidad_maduro.png used on input li
-ne 23.
+ne 41.
 (pdftex.def)             Requested size: 306.22144pt x 348.1503pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [37
-
-
-
-]
-[38 <./Chapter1/Figs/variabilidad_maduro.png>] [39]
-<Chapter1/Figs/NAR_fig1.png, id=1082, 361.35pt x 543.4704pt>
-File: Chapter1/Figs/NAR_fig1.png Graphic file (type png)
-
-<use Chapter1/Figs/NAR_fig1.png>
-Package pdftex.def Info: Chapter1/Figs/NAR_fig1.png used on input line 64.
-(pdftex.def)             Requested size: 306.22144pt x 460.55884pt.
- [40] [41 <./Chapter1/Figs/NAR_fig1.png>]
+ [40] [41 <./Chapter1/Figs/variabilidad_maduro.png>]
 Underfull \vbox (badness 1668) has occurred while \output is active []
 
  [42]
-<Chapter1/Figs/NAR_fig2.png, id=1117, 432.1746pt x 579.1236pt>
+<Chapter1/Figs/NAR_fig1.png, id=1108, 361.35pt x 543.4704pt>
+File: Chapter1/Figs/NAR_fig1.png Graphic file (type png)
+
+<use Chapter1/Figs/NAR_fig1.png>
+Package pdftex.def Info: Chapter1/Figs/NAR_fig1.png used on input line 82.
+(pdftex.def)             Requested size: 306.22144pt x 460.55884pt.
+ [43] [44 <./Chapter1/Figs/NAR_fig1.png>]
+<Chapter1/Figs/NAR_fig2.png, id=1138, 432.1746pt x 579.1236pt>
 File: Chapter1/Figs/NAR_fig2.png Graphic file (type png)
 
 <use Chapter1/Figs/NAR_fig2.png>
-Package pdftex.def Info: Chapter1/Figs/NAR_fig2.png used on input line 146.
+Package pdftex.def Info: Chapter1/Figs/NAR_fig2.png used on input line 164.
 (pdftex.def)             Requested size: 393.71233pt x 527.60419pt.
 
 
-LaTeX Warning: Float too large for page by 5.31905pt on input line 154.
+LaTeX Warning: Float too large for page by 5.31905pt on input line 172.
 
-<Chapter1/Figs/NAR_fig3.png, id=1118, 292.9344pt x 494.8086pt>
+<Chapter1/Figs/NAR_fig3.png, id=1139, 292.9344pt x 494.8086pt>
 File: Chapter1/Figs/NAR_fig3.png Graphic file (type png)
 
 <use Chapter1/Figs/NAR_fig3.png>
-Package pdftex.def Info: Chapter1/Figs/NAR_fig3.png used on input line 158.
+Package pdftex.def Info: Chapter1/Figs/NAR_fig3.png used on input line 176.
 (pdftex.def)             Requested size: 262.47934pt x 443.40587pt.
- [43] [44 <./Chapter1/Figs/NAR_fig2.png>]
-[45 <./Chapter1/Figs/NAR_fig3.png>]
+ [45] [46 <./Chapter1/Figs/NAR_fig2.png>]
+[47 <./Chapter1/Figs/NAR_fig3.png>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 170.
+               Default added (so using `tbp') on input line 188.
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 176.
-[46]
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 194.
+[48]
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 214.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 232.
 
 Underfull \vbox (badness 1571) has occurred while \output is active []
 
- [47
+ [49
 
 
 ]
-<Chapter1/Figs/NAR_fig4.png, id=1169, 420.6114pt x 707.5233pt>
+<Chapter1/Figs/NAR_fig4.png, id=1191, 420.6114pt x 707.5233pt>
 File: Chapter1/Figs/NAR_fig4.png Graphic file (type png)
 
 <use Chapter1/Figs/NAR_fig4.png>
-Package pdftex.def Info: Chapter1/Figs/NAR_fig4.png used on input line 264.
+Package pdftex.def Info: Chapter1/Figs/NAR_fig4.png used on input line 282.
 (pdftex.def)             Requested size: 306.22144pt x 515.11662pt.
- [48] [49 <./Chapter1/Figs/NAR_fig4.png>]
-<Chapter1/Figs/NAR_fig5.png, id=1191, 450.9648pt x 393.6306pt>
+ [50] [51 <./Chapter1/Figs/NAR_fig4.png>]
+<Chapter1/Figs/NAR_fig5.png, id=1214, 450.9648pt x 393.6306pt>
 File: Chapter1/Figs/NAR_fig5.png Graphic file (type png)
 
 <use Chapter1/Figs/NAR_fig5.png>
-Package pdftex.def Info: Chapter1/Figs/NAR_fig5.png used on input line 293.
+Package pdftex.def Info: Chapter1/Figs/NAR_fig5.png used on input line 311.
 (pdftex.def)             Requested size: 349.97023pt x 305.49301pt.
- [50] [51 <./Chapter1/Figs/NAR_fig5.png>]
-<Chapter1/Figs/NAR_fig6.png, id=1209, 453.3738pt x 590.6868pt>
+ [52] [53 <./Chapter1/Figs/NAR_fig5.png>]
+<Chapter1/Figs/NAR_fig6.png, id=1231, 453.3738pt x 590.6868pt>
 File: Chapter1/Figs/NAR_fig6.png Graphic file (type png)
 
 <use Chapter1/Figs/NAR_fig6.png>
-Package pdftex.def Info: Chapter1/Figs/NAR_fig6.png used on input line 324.
+Package pdftex.def Info: Chapter1/Figs/NAR_fig6.png used on input line 342.
 (pdftex.def)             Requested size: 306.22144pt x 398.9848pt.
- [52] [53 <./Chapter1/Figs/NAR_fig6.png>]
-<Chapter1/Figs/comTAR_find_targets.png, id=1225, 1146.2825pt x 767.86874pt>
+ [54] [55 <./Chapter1/Figs/NAR_fig6.png>]
+<Chapter1/Figs/comTAR_find_targets.png, id=1247, 1146.2825pt x 767.86874pt>
 File: Chapter1/Figs/comTAR_find_targets.png Graphic file (type png)
 
 <use Chapter1/Figs/comTAR_find_targets.png>
 Package pdftex.def Info: Chapter1/Figs/comTAR_find_targets.png used on input li
-ne 372.
+ne 390.
 (pdftex.def)             Requested size: 437.46112pt x 293.04684pt.
 
-<Chapter1/Figs/comTAR_fig2.png, id=1226, 1619.04875pt x 914.41624pt>
+<Chapter1/Figs/comTAR_fig2.png, id=1248, 1619.04875pt x 914.41624pt>
 File: Chapter1/Figs/comTAR_fig2.png Graphic file (type png)
 
 <use Chapter1/Figs/comTAR_fig2.png>
-Package pdftex.def Info: Chapter1/Figs/comTAR_fig2.png used on input line 380.
+Package pdftex.def Info: Chapter1/Figs/comTAR_fig2.png used on input line 398.
 (pdftex.def)             Requested size: 481.2099pt x 271.77362pt.
 
-Overfull \hbox (43.74878pt too wide) in paragraph at lines 380--381
+Overfull \hbox (43.74878pt too wide) in paragraph at lines 398--399
  [][] 
  []
 
-) [54] [55 <./Chapter1/Figs/comTAR_find_targets.png>] [56 <./Chapter1/Figs/comT
+) [56] [57 <./Chapter1/Figs/comTAR_find_targets.png>] [58 <./Chapter1/Figs/comT
 AR_fig2.png>]
 \openout2 = `Chapter2/chapter2.aux'.
 
  (./Chapter2/chapter2.tex
 Cap\IeC {\'\i }tulos 5.
-<Chapter2/Figs/hairpin_distribution.png, id=1248, 332.9238pt x 280.8894pt>
+
+Package natbib Warning: Citation `pmid12747833' on page 59 undefined on input l
+ine 21.
+
+
+Package natbib Warning: Citation `pmid16889646' on page 59 undefined on input l
+ine 21.
+
+<Chapter2/Figs/hairpin_distribution.png, id=1275, 332.9238pt x 280.8894pt>
 File: Chapter2/Figs/hairpin_distribution.png Graphic file (type png)
 
 <use Chapter2/Figs/hairpin_distribution.png>
 Package pdftex.def Info: Chapter2/Figs/hairpin_distribution.png used on input l
-ine 23.
+ine 26.
 (pdftex.def)             Requested size: 306.22144pt x 258.36995pt.
- [57
+ [59
 
 
 
-] [58 <./Chapter2/Figs/hairpin_distribution.png>] [59]
-<Chapter2/Figs/GR_fig1C.png, id=1288, 168.1482pt x 179.2296pt>
+]
+Underfull \vbox (badness 6078) has occurred while \output is active []
+
+ [60 <./Chapter2/Figs/hairpin_distribution.png>] [61]
+<Chapter2/Figs/GR_fig1C.png, id=1314, 168.1482pt x 179.2296pt>
 File: Chapter2/Figs/GR_fig1C.png Graphic file (type png)
 
 <use Chapter2/Figs/GR_fig1C.png>
-Package pdftex.def Info: Chapter2/Figs/GR_fig1C.png used on input line 69.
+Package pdftex.def Info: Chapter2/Figs/GR_fig1C.png used on input line 72.
 (pdftex.def)             Requested size: 218.73056pt x 233.15431pt.
 
-<Chapter2/Figs/GR_fig2A.png, id=1289, 434.5836pt x 218.7372pt>
+<Chapter2/Figs/GR_fig2A.png, id=1315, 434.5836pt x 218.7372pt>
 File: Chapter2/Figs/GR_fig2A.png Graphic file (type png)
 
 <use Chapter2/Figs/GR_fig2A.png>
-Package pdftex.def Info: Chapter2/Figs/GR_fig2A.png used on input line 76.
+Package pdftex.def Info: Chapter2/Figs/GR_fig2A.png used on input line 79.
 (pdftex.def)             Requested size: 437.46112pt x 220.19519pt.
 
-<Chapter2/Figs/GR_fig4A.png, id=1290, 408.5664pt x 242.8272pt>
+<Chapter2/Figs/GR_fig4A.png, id=1316, 408.5664pt x 242.8272pt>
 File: Chapter2/Figs/GR_fig4A.png Graphic file (type png)
 
 <use Chapter2/Figs/GR_fig4A.png>
-Package pdftex.def Info: Chapter2/Figs/GR_fig4A.png used on input line 91.
+Package pdftex.def Info: Chapter2/Figs/GR_fig4A.png used on input line 94.
 (pdftex.def)             Requested size: 437.46112pt x 260.00038pt.
- [60 <./Chapter2/Figs/GR_fig1C.png>] [61 <./Chapter2/Figs/GR_fig2A.png>] [62 <.
+ [62 <./Chapter2/Figs/GR_fig1C.png>] [63 <./Chapter2/Figs/GR_fig2A.png>] [64 <.
 /Chapter2/Figs/GR_fig4A.png>]
-<Chapter2/Figs/GR_fig2C.png, id=1318, 433.62pt x 105.0324pt>
+<Chapter2/Figs/GR_fig2C.png, id=1345, 433.62pt x 105.0324pt>
 File: Chapter2/Figs/GR_fig2C.png Graphic file (type png)
 
 <use Chapter2/Figs/GR_fig2C.png>
-Package pdftex.def Info: Chapter2/Figs/GR_fig2C.png used on input line 128.
+Package pdftex.def Info: Chapter2/Figs/GR_fig2C.png used on input line 131.
 (pdftex.def)             Requested size: 437.46112pt x 105.96808pt.
 
-<Chapter2/Figs/GR_fig4C.png, id=1319, 431.211pt x 109.3686pt>
+<Chapter2/Figs/GR_fig4C.png, id=1346, 431.211pt x 109.3686pt>
 File: Chapter2/Figs/GR_fig4C.png Graphic file (type png)
 
 <use Chapter2/Figs/GR_fig4C.png>
-Package pdftex.def Info: Chapter2/Figs/GR_fig4C.png used on input line 138.
+Package pdftex.def Info: Chapter2/Figs/GR_fig4C.png used on input line 141.
 (pdftex.def)             Requested size: 437.46112pt x 110.95871pt.
- [63 <./Chapter2/Figs/GR_fig2C.png>]
-<Chapter2/Figs/mecanismos.png, id=1337, 608.5134pt x 309.89375pt>
+ [65] [66 <./Chapter2/Figs/GR_fig2C.png> <./Chapter2/Figs/GR_fig4C.png>]
+<Chapter2/Figs/mecanismos.png, id=1369, 608.5134pt x 309.89375pt>
 File: Chapter2/Figs/mecanismos.png Graphic file (type png)
 
 <use Chapter2/Figs/mecanismos.png>
-Package pdftex.def Info: Chapter2/Figs/mecanismos.png used on input line 163.
+Package pdftex.def Info: Chapter2/Figs/mecanismos.png used on input line 166.
 (pdftex.def)             Requested size: 437.46112pt x 222.78287pt.
 
-Underfull \vbox (badness 3977) has occurred while \output is active []
+Underfull \vbox (badness 1895) has occurred while \output is active []
 
- [64 <./Chapter2/Figs/GR_fig4C.png>] [65 <./Chapter2/Figs/mecanismos.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [67 <./Chapter2/Figs/mecanismos.png>]
+<Chapter2/Figs/sPARE_tecnica.png, id=1377, 1168.8468pt x 480.8364pt>
+File: Chapter2/Figs/sPARE_tecnica.png Graphic file (type png)
 
- [66]
-[67] <Chapter2/Figs/dicots_species.png, id=1363, 324.7332pt x 277.9986pt>
+<use Chapter2/Figs/sPARE_tecnica.png>
+Package pdftex.def Info: Chapter2/Figs/sPARE_tecnica.png used on input line 185
+.
+(pdftex.def)             Requested size: 437.46112pt x 179.96103pt.
+ [68 <./Chapter2/Figs/sPARE_tecnica.png>]
+[69] [70]
+<Chapter2/Figs/miR165a_sPARE.png, id=1398, 780.80653pt x 411.83005pt>
+File: Chapter2/Figs/miR165a_sPARE.png Graphic file (type png)
+
+<use Chapter2/Figs/miR165a_sPARE.png>
+Package pdftex.def Info: Chapter2/Figs/miR165a_sPARE.png used on input line 257
+.
+(pdftex.def)             Requested size: 612.44289pt x 323.0485pt.
+ [71
+
+ <./Chapter2/Figs/miR165a_sPARE.png>]
+<Chapter2/Figs/miR169b_sPARE.png, id=1404, 780.80653pt x 281.09035pt>
+File: Chapter2/Figs/miR169b_sPARE.png Graphic file (type png)
+
+<use Chapter2/Figs/miR169b_sPARE.png>
+Package pdftex.def Info: Chapter2/Figs/miR169b_sPARE.png used on input line 272
+.
+(pdftex.def)             Requested size: 612.44289pt x 220.49341pt.
+ [72
+
+
+ <./Chapter2/Figs/miR169b_sPARE.png>]
+[73
+
+] <Chapter2/Figs/miR156a_sPARE.png, id=1419, 824.96205pt x 551.4201pt>
+File: Chapter2/Figs/miR156a_sPARE.png Graphic file (type png)
+
+<use Chapter2/Figs/miR156a_sPARE.png>
+Package pdftex.def Info: Chapter2/Figs/miR156a_sPARE.png used on input line 299
+.
+(pdftex.def)             Requested size: 612.44289pt x 409.3739pt.
+
+
+LaTeX Warning: Float too large for page by 54.41277pt on input line 308.
+
+[74 <./Chapter2/Figs/miR156a_sPARE.png>]
+<Chapter2/Figs/miR159b_sPARE.png, id=1425, 780.80653pt x 365.708pt>
+File: Chapter2/Figs/miR159b_sPARE.png Graphic file (type png)
+
+<use Chapter2/Figs/miR159b_sPARE.png>
+Package pdftex.def Info: Chapter2/Figs/miR159b_sPARE.png used on input line 316
+.
+(pdftex.def)             Requested size: 612.44289pt x 286.86935pt.
+ [75
+
+
+
+ <./Chapter2/Figs/miR159b_sPARE.png>]
+[76
+
+] <Chapter2/Figs/dicots_species.png, id=1440, 324.7332pt x 277.9986pt>
 File: Chapter2/Figs/dicots_species.png Graphic file (type png)
 
 <use Chapter2/Figs/dicots_species.png>
-Package pdftex.def Info: Chapter2/Figs/dicots_species.png used on input line 25
-3.
+Package pdftex.def Info: Chapter2/Figs/dicots_species.png used on input line 36
+7.
 (pdftex.def)             Requested size: 218.73056pt x 187.25917pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [68 <./Chapter2/Figs/dicots_species.png>] [69]
-<Chapter2/Figs/miR172a_tcoffee.png, id=1378, 732.8178pt x 419.166pt>
+ [77 <./Chapter2/Figs/dicots_species.png>] [78] <Chapter2/Figs/miR172a_tcoffee.
+png, id=1454, 732.8178pt x 419.166pt>
 File: Chapter2/Figs/miR172a_tcoffee.png Graphic file (type png)
 
 <use Chapter2/Figs/miR172a_tcoffee.png>
-Package pdftex.def Info: Chapter2/Figs/miR172a_tcoffee.png used on input line 2
-75.
+Package pdftex.def Info: Chapter2/Figs/miR172a_tcoffee.png used on input line 3
+89.
 (pdftex.def)             Requested size: 612.44289pt x 350.31258pt.
- [70
+ [79
 
- <./Chapter2/Figs/miR172a_tcoffee.png>] [71
+ <./Chapter2/Figs/miR172a_tcoffee.png>] [80
 
 ]
-<Chapter2/Figs/miR172a_rnafold.png, id=1392, 814.84425pt x 582.4962pt>
+<Chapter2/Figs/miR172a_rnafold.png, id=1468, 814.84425pt x 582.4962pt>
 File: Chapter2/Figs/miR172a_rnafold.png Graphic file (type png)
 
 <use Chapter2/Figs/miR172a_rnafold.png>
-Package pdftex.def Info: Chapter2/Figs/miR172a_rnafold.png used on input line 2
-94.
+Package pdftex.def Info: Chapter2/Figs/miR172a_rnafold.png used on input line 4
+08.
 (pdftex.def)             Requested size: 612.44289pt x 437.82211pt.
 
 
-LaTeX Warning: Float too large for page by 39.36098pt on input line 300.
+LaTeX Warning: Float too large for page by 39.36098pt on input line 414.
 
-[72 <./Chapter2/Figs/miR172a_rnafold.png>]
-<Chapter2/Figs/miR172a_circos.png, id=1400, 2053.9134pt x 2013.4422pt>
+[81 <./Chapter2/Figs/miR172a_rnafold.png>]
+<Chapter2/Figs/miR172a_circos.png, id=1477, 2053.9134pt x 2013.4422pt>
 File: Chapter2/Figs/miR172a_circos.png Graphic file (type png)
 
 <use Chapter2/Figs/miR172a_circos.png>
-Package pdftex.def Info: Chapter2/Figs/miR172a_circos.png used on input line 32
-1.
+Package pdftex.def Info: Chapter2/Figs/miR172a_circos.png used on input line 43
+5.
 (pdftex.def)             Requested size: 437.46112pt x 428.82625pt.
- [73
+ [82
 
 
-] [74 <./Chapter2/Figs/miR172a_circos.png>] <Chapter2/Figs/miR172_meme.png, id=
-1413, 1131.2664pt x 632.6034pt>
+] [83 <./Chapter2/Figs/miR172a_circos.png>] <Chapter2/Figs/miR172_meme.png, id=
+1489, 1131.2664pt x 632.6034pt>
 File: Chapter2/Figs/miR172_meme.png Graphic file (type png)
 
 <use Chapter2/Figs/miR172_meme.png>
-Package pdftex.def Info: Chapter2/Figs/miR172_meme.png used on input line 340.
+Package pdftex.def Info: Chapter2/Figs/miR172_meme.png used on input line 454.
 (pdftex.def)             Requested size: 612.44289pt x 342.47914pt.
- [75
+ [84
 
  <./Chapter2/Figs/miR172_meme.png>]
-<Chapter2/Figs/miR390a_circos.png, id=1428, 2051.0226pt x 2013.4422pt>
+<Chapter2/Figs/miR390a_circos.png, id=1503, 2051.0226pt x 2013.4422pt>
 File: Chapter2/Figs/miR390a_circos.png Graphic file (type png)
 
 <use Chapter2/Figs/miR390a_circos.png>
-Package pdftex.def Info: Chapter2/Figs/miR390a_circos.png used on input line 37
-3.
+Package pdftex.def Info: Chapter2/Figs/miR390a_circos.png used on input line 48
+7.
 (pdftex.def)             Requested size: 437.46112pt x 429.4407pt.
- [76
+ [85
 
-] [77 <./Chapter2/Figs/miR390a_circos.png>] [78]
-<Chapter2/Figs/miR169b_circos.png, id=1446, 2059.695pt x 2013.4422pt>
+] [86 <./Chapter2/Figs/miR390a_circos.png>] [87]
+<Chapter2/Figs/miR169b_circos.png, id=1522, 2059.695pt x 2013.4422pt>
 File: Chapter2/Figs/miR169b_circos.png Graphic file (type png)
 
 <use Chapter2/Figs/miR169b_circos.png>
-Package pdftex.def Info: Chapter2/Figs/miR169b_circos.png used on input line 39
-6.
+Package pdftex.def Info: Chapter2/Figs/miR169b_circos.png used on input line 51
+0.
 (pdftex.def)             Requested size: 295.28424pt x 288.63896pt.
 
-<Chapter2/Figs/miR394b_circos.png, id=1447, 2053.9134pt x 2014.8876pt>
+<Chapter2/Figs/miR394b_circos.png, id=1523, 2053.9134pt x 2014.8876pt>
 File: Chapter2/Figs/miR394b_circos.png Graphic file (type png)
 
 <use Chapter2/Figs/miR394b_circos.png>
-Package pdftex.def Info: Chapter2/Figs/miR394b_circos.png used on input line 40
-2.
+Package pdftex.def Info: Chapter2/Figs/miR394b_circos.png used on input line 51
+6.
 (pdftex.def)             Requested size: 295.28424pt x 289.64552pt.
 
-Overfull \hbox (22.40656pt too wide) in paragraph at lines 394--406
+Overfull \hbox (22.40656pt too wide) in paragraph at lines 508--520
  []$[]$$[]$ 
  []
 
-[79 <./Chapter2/Figs/miR169b_circos.png> <./Chapter2/Figs/miR394b_circos.png>]
-[80
+[88 <./Chapter2/Figs/miR169b_circos.png> <./Chapter2/Figs/miR394b_circos.png>]
+[89
 
 
-] <Chapter2/Figs/miR157a_circos.png, id=1462, 2052.468pt x 2013.4422pt>
+] <Chapter2/Figs/miR157a_circos.png, id=1538, 2052.468pt x 2013.4422pt>
 File: Chapter2/Figs/miR157a_circos.png Graphic file (type png)
 
 <use Chapter2/Figs/miR157a_circos.png>
-Package pdftex.def Info: Chapter2/Figs/miR157a_circos.png used on input line 42
-7.
+Package pdftex.def Info: Chapter2/Figs/miR157a_circos.png used on input line 54
+1.
 (pdftex.def)             Requested size: 295.28424pt x 289.6528pt.
 
-<Chapter2/Figs/miR160a_circos.png, id=1463, 2055.3588pt x 2013.4422pt>
+<Chapter2/Figs/miR160a_circos.png, id=1539, 2055.3588pt x 2013.4422pt>
 File: Chapter2/Figs/miR160a_circos.png Graphic file (type png)
 
 <use Chapter2/Figs/miR160a_circos.png>
-Package pdftex.def Info: Chapter2/Figs/miR160a_circos.png used on input line 43
-3.
+Package pdftex.def Info: Chapter2/Figs/miR160a_circos.png used on input line 54
+7.
 (pdftex.def)             Requested size: 295.28424pt x 289.25342pt.
 
-Overfull \hbox (22.40656pt too wide) in paragraph at lines 425--437
+Overfull \hbox (22.40656pt too wide) in paragraph at lines 539--551
  []$[]$$[]$ 
  []
 
-[81 <./Chapter2/Figs/miR157a_circos.png> <./Chapter2/Figs/miR160a_circos.png>]
-[82
+[90 <./Chapter2/Figs/miR157a_circos.png> <./Chapter2/Figs/miR160a_circos.png>]
+[91
 
 
-] <Chapter2/Figs/miR319a_circos.png, id=1481, 2269.278pt x 2022.1146pt>
+] <Chapter2/Figs/miR319a_circos.png, id=1557, 2269.278pt x 2022.1146pt>
 File: Chapter2/Figs/miR319a_circos.png Graphic file (type png)
 
 <use Chapter2/Figs/miR319a_circos.png>
-Package pdftex.def Info: Chapter2/Figs/miR319a_circos.png used on input line 45
-6.
+Package pdftex.def Info: Chapter2/Figs/miR319a_circos.png used on input line 57
+0.
 (pdftex.def)             Requested size: 295.28424pt x 263.10011pt.
 
-<Chapter2/Figs/miR159b_circos.png, id=1482, 2275.0596pt x 2027.8962pt>
+<Chapter2/Figs/miR159b_circos.png, id=1558, 2275.0596pt x 2027.8962pt>
 File: Chapter2/Figs/miR159b_circos.png Graphic file (type png)
 
 <use Chapter2/Figs/miR159b_circos.png>
-Package pdftex.def Info: Chapter2/Figs/miR159b_circos.png used on input line 46
-2.
+Package pdftex.def Info: Chapter2/Figs/miR159b_circos.png used on input line 57
+6.
 (pdftex.def)             Requested size: 295.28424pt x 263.20256pt.
 
-Overfull \hbox (22.40656pt too wide) in paragraph at lines 454--466
+Overfull \hbox (22.40656pt too wide) in paragraph at lines 568--580
  []$[]$$[]$ 
  []
 
-[83 <./Chapter2/Figs/miR319a_circos.png> <./Chapter2/Figs/miR159b_circos.png>]
-[84
+[92 <./Chapter2/Figs/miR319a_circos.png> <./Chapter2/Figs/miR159b_circos.png>]
+[93
 
 
-] <Chapter2/Figs/miR171c_circos.png, id=1498, 2053.9134pt x 2011.9968pt>
+] <Chapter2/Figs/miR171c_circos.png, id=1575, 2053.9134pt x 2011.9968pt>
 File: Chapter2/Figs/miR171c_circos.png Graphic file (type png)
 
 <use Chapter2/Figs/miR171c_circos.png>
-Package pdftex.def Info: Chapter2/Figs/miR171c_circos.png used on input line 49
-4.
+Package pdftex.def Info: Chapter2/Figs/miR171c_circos.png used on input line 60
+8.
 (pdftex.def)             Requested size: 295.28424pt x 289.22997pt.
 
-<Chapter2/Figs/miR171a_REHACER.png, id=1499, 2258.4375pt x 2258.4375pt>
+<Chapter2/Figs/miR171a_REHACER.png, id=1576, 2258.4375pt x 2258.4375pt>
 File: Chapter2/Figs/miR171a_REHACER.png Graphic file (type png)
 
 <use Chapter2/Figs/miR171a_REHACER.png>
-Package pdftex.def Info: Chapter2/Figs/miR171a_REHACER.png used on input line 5
-00.
+Package pdftex.def Info: Chapter2/Figs/miR171a_REHACER.png used on input line 6
+14.
 (pdftex.def)             Requested size: 295.28424pt x 295.2613pt.
 
-Overfull \hbox (22.40656pt too wide) in paragraph at lines 492--504
+Overfull \hbox (22.40656pt too wide) in paragraph at lines 606--618
  []$[]$$[]$ 
  []
 
-[85 <./Chapter2/Figs/miR171c_circos.png> <./Chapter2/Figs/miR171a_REHACER.png>]
+[94 <./Chapter2/Figs/miR171c_circos.png> <./Chapter2/Figs/miR171a_REHACER.png>]
 )
 \openout2 = `Chapter3/chapter3.aux'.
 
- (./Chapter3/chapter3.tex [86
-
-
-
-
-
-]
+ (./Chapter3/chapter3.tex
 Conclusiones 6.
 
 Overfull \hbox (15.74504pt too wide) in paragraph at lines 7--7
@@ -2199,14 +2270,20 @@ Overfull \hbox (15.74504pt too wide) in paragraph at lines 7--7
 r-ac-ciones miARN-
  []
 
-[87]) [88] (./thesis.bbl [89
+[95
 
 
-] [90] [91] [92] [93] [94] [95] [96] [97] [98])
-[99]
+
+
+
+]) [96] (./thesis.bbl [97
+
+
+] [98] [99] [100] [101] [102] [103] [104] [105]
+[106]) [107]
 \openout2 = `Appendix1/appendix1.aux'.
 
- (./Appendix1/appendix1.tex [100
+ (./Appendix1/appendix1.tex [108
 
 
 ]
@@ -2219,11 +2296,11 @@ Overfull \hbox (5.34338pt too wide) in paragraph at lines 20--21
 ][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[101]) (./scripts/histogram.conf) (./scripts/links.conf [102])
+[109]) (./scripts/histogram.conf) (./scripts/links.conf [110])
 
 LaTeX Warning: Float too large for page by 4.01445pt on input line 77.
 
-) [103] [104] [105]
+) [111] [112] [113]
 No file thesis.ind.
 
 Package natbib Warning: There were undefined citations.
@@ -2238,20 +2315,20 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 175.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 175.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 175.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 9A94B7F12C0485DA416D8C40A39C4F7B;19055.
+(rerunfilecheck)             Checksum: 368482898EFE64D231FA67C6CADD227D;18956.
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 27841 strings out of 494966
- 480552 string characters out of 6179560
- 584004 words of memory out of 5000000
- 29599 multiletter control sequences out of 15000+600000
- 116130 words of font info for 344 fonts, out of 8000000 for 9000
+ 27888 strings out of 494966
+ 481790 string characters out of 6179560
+ 587910 words of memory out of 5000000
+ 29630 multiletter control sequences out of 15000+600000
+ 115905 words of font info for 342 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 49i,12n,53p,10420b,2307s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,12n,53p,10424b,2307s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
@@ -2261,10 +2338,10 @@ type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (121 pages, 11568581 bytes).
+Output written on thesis.pdf (129 pages, 12339915 bytes).
 PDF statistics:
- 1915 PDF objects out of 2073 (max. 8388607)
- 1684 compressed objects within 17 object streams
- 575 named destinations out of 1000 (max. 500000)
- 66242 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 1989 PDF objects out of 2073 (max. 8388607)
+ 1737 compressed objects within 18 object streams
+ 588 named destinations out of 1000 (max. 500000)
+ 66264 words of extra memory for PDF output out of 74296 (max. 10000000)
 

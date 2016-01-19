@@ -6,17 +6,35 @@
 
 \section{Introducción}
 %~ patmatch del TAIR es utilizado para...
+Los miARNs son ARN pequeños de alrededor de 21 nucleótidos, son importantes reguladores de la expresión de genes en eucariotas y controlan procesos claves como el desarrollo y la respuesta a estrés.
+Los miARNs es controlan la expresión génica ajustando los niveles finales de las proteínas o eliminando los transcriptos de ARN en la célula.
+La identidad de los genes blancos está especificada por la molécula de miARN, la cual reconoce una secuencia por complementariedad de bases. 
+En plantas, los miARNs tienen una buena complementariedad con sus blancos y en muchos casos regulan más de un gen de una misma familia \citep{Jones-Rhoades2006}.
 
-
-
-Los miARNs conservados en plantas se encuentran generalmente como pequeñas familias de genes que codifican ARN pequeños de secuencias similares o idénticas (Figura \ref{fig:varabilidad_maduro}).
+Los miARNs conservados en plantas se encuentran generalmente como pequeñas familias de genes que codifican ARN pequeños de secuencias similares o idénticas (Figura \ref{fig:variabilidad_maduro}).
 Una de las ventajas de tener familias génicas con múltiples miembros es que proporciona flexibilidad en la manera en la que cada uno de ellos es regulado \citep{pmid21466971, pmid19699140}.
 Estas diferencias pueden ser por variaciones en elementos regulatorios en los promotores o en las estructuras de los precursores de miARNs que llevan a eficiencias de procesamiento diferenciales \citep{pmid19699140}.
 
 Por otro lado, las diferencias en las secuencias de los miARNs maduros podrían causar que miARNs de una misma familia regulen diferentes conjuntos de genes.
-Esto se ha demostrado previamente para los miARNs miR319 y miR159. Estos dos miARNs son muy similares en secuencia, al punto que varios autores los consideran miembros de una misma familia \citep{Jones-Rhoades2006}.
+Esto se ha demostrado previamente para los miARNs miR319 y miR159.
+Estos dos miARNs son muy similares en secuencia, al punto que varios autores los consideran miembros de una misma familia \citep{Jones-Rhoades2006}.
 Sin embargo ha sido demostrado que regulan genes diferentes \citep{Schwab2005517, pmid12931144,281}.
 Así, mientras el miR319 puede reprimir la expresión de factores de transcripción de la familia TCP y MYB, diferencias de secuencia en 4 nucleótidos previenen la actividad del miR159 sobre los TCP \citep{Palatnik2007}.
+
+La identificación de genes blanco regulados por miARNs en plantas es muy importante para poder conocer el rol de los miARNs.
+En general está identificación de genes blanco, se obtiene de diferentes estrategias computacionales donde tienen en cuenta la complementariedad con sus mensajeros blanco.
+Un de los mayores desafío ha sido poder encontrar la mayoría de los genes regulados por estos ARN pequeños con una baja frecuencia de predicciones falsas.
+
+A partir de predicciones de genes blanco y luego validación experimental, se han determinado algunos parámetros empíricos para la identificación de genes blanco.
+Por un lado, el hecho de que determinados genes con un número de "mismatches" fuesen blancos de regulación por miARNs mientras que otros con igual número no, sugería que debían existir otros factores que afectaran la interacción de los miARN con los ARNm blanco.
+Es por esto que se han utilizado otros enfoques para abordar este problema, por ejemplo el requerimiento de que el sitio complementario al miARN en los ARNm estuviera conservados entre genes homólogos de Arabidopsis y arroz.
+
+Más recientemente se desarrolló una tecnología, en este caso experimental, conocida como "degradoma", que permite obtener el perfil global de los productos de degradación de los ARN mensajeros \citep{German2008,pmid18472421}.
+Este enfoque permitió detectar in vivo y a nivel genómico la actividad de los miARNs al identificarse los productos de corte de los ARNm mediado por estos ARNs pequeños.
+Dicha información es muy útil para la identificación de nuevos posibles blancos.
+
+En esta parte de la Tesis se profundizó esta cuestión y se desarrolló un método bioinformático para la predicción de genes regulados por miARNs conservados en plantas.
+
 
 \begin{figure}[htbp!] 
     \centering    
@@ -47,7 +65,7 @@ Utilizando las secuencias consenso de 18nt y permitiendo 3 "mismatches", la bús
 Las interacciones G-U y los bulges fueron considerados como "mismatches" en esta primera búsqueda. Todos los genes blanco de  \textit{A. thaliana} conocidos hasta ese momento fueron identificados usando esta estrategia con la excepción de CSD2, un gen blanco del miR398 que contiene 4 mismatches ( tabla \ref{table:NAR_table_S2}).
 
 Teniendo en cuenta que la mayoría de los genes blanco arrojados presentan una escasa descripción del tipo genómica funcional, realizamos un BLASTx  contra el proteoma de \textit{A. thaliana}.
-El “locus ID” obtenido como “best hit” se utilizó como tag (etiqueta) para identificar al candidato en distintas especies (Figura \ref{fig:NAR_fig1}).
+El "locus ID" obtenido como "best hit" se utilizó como tag (etiqueta) para identificar al candidato en distintas especies (Figura \ref{fig:NAR_fig1}).
 A pesar que esta estrategia no necesariamente identifica el gen ortólogo de Arabidopsis, sirve como propósito de clasificación de cada potencial gen blanco de miARN.
 Aunque la mayoría de los potenciales genes blanco pudieron ser fácilmente asignados con una etiqueta, algunos pocos casos, que incluye a los genes que representan ARNs no codificantes fueron perdidos en este paso.
 
