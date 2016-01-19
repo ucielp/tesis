@@ -8,30 +8,32 @@
 \contentsline {figure}{\numberline {3.2}{\ignorespaces comTAR. Diagrama de flujo}}{27}{figure.caption.13}
 \contentsline {figure}{\numberline {3.3}{\ignorespaces Especies almacenadas en Phytozome}}{29}{figure.caption.14}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Estrategia}}{35}{figure.caption.15}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Conservaci\IeC {\'o}n de potenciales genes blanco en distintas especies}}{38}{figure.caption.17}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Selecci\IeC {\'o}n de genes blanco por conservaci\IeC {\'o}n evolutiva de la secuencia}}{39}{figure.caption.18}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Nuevos genes blanco validados en \textit {A. thaliana}.}}{43}{figure.caption.20}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Identificaci\IeC {\'o}n de un nuevo gen blanco de miARN}}{45}{figure.caption.21}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Identificaci\IeC {\'o}n de genes blanco de miARN, espec\IeC {\'\i }ficos de \textit {Solanaceae}}}{47}{figure.caption.22}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Resultados del comTAR para el miR398}}{49}{figure.caption.23}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Salida del comTAR}}{50}{figure.caption.24}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Variabilidad de la secuencia del maduro}}{38}{figure.caption.15}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Estrategia}}{41}{figure.caption.16}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Conservaci\IeC {\'o}n de potenciales genes blanco en distintas especies}}{44}{figure.caption.18}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Selecci\IeC {\'o}n de genes blanco por conservaci\IeC {\'o}n evolutiva de la secuencia}}{45}{figure.caption.19}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Nuevos genes blanco validados en \textit {A. thaliana}.}}{49}{figure.caption.21}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Identificaci\IeC {\'o}n de un nuevo gen blanco de miARN}}{51}{figure.caption.22}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Identificaci\IeC {\'o}n de genes blanco de miARN, espec\IeC {\'\i }ficos de \textit {Solanaceae}}}{53}{figure.caption.23}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Resultados del comTAR para el miR398}}{55}{figure.caption.24}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Salida del comTAR}}{56}{figure.caption.25}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Tama\IeC {\~n}o de precursores}}{52}{figure.caption.25}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Esquema del procedimiento para analizar los datos de sPARE}}{54}{figure.caption.26}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Identificaci\IeC {\'o}n y caracterizaci\IeC {\'o}n de precursores de miARNs procesados de base a loop}}{55}{figure.caption.27}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Identificaci\IeC {\'o}n y caracterizaci\IeC {\'o}n de precursores de miARNs procesados de loop a base}}{56}{figure.caption.28}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Estructura secundaria de precursores de base a loop}}{57}{figure.caption.29}
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Estructura secundaria de precursores de loop a base}}{58}{figure.caption.30}
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Mecanismos de procesamiento}}{59}{figure.caption.31}
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Especies detectadas}}{61}{figure.caption.32}
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Alineamiento del precursor del miR172a.}}{62}{figure.caption.33}
-\contentsline {figure}{\numberline {5.10}{\ignorespaces Estructura secundaria del miR172a en distintas especies}}{64}{figure.caption.34}
-\contentsline {figure}{\numberline {5.11}{\ignorespaces Circos del miR172a}}{66}{figure.caption.35}
-\contentsline {figure}{\numberline {5.12}{\ignorespaces MEME del miR172a}}{67}{figure.caption.36}
-\contentsline {figure}{\numberline {5.13}{\ignorespaces Circos del miR172a}}{69}{figure.caption.37}
-\contentsline {figure}{\numberline {5.14}{\ignorespaces Circos de precursores con mecanismos de procesamientos secuenciales de base a loop\relax }}{71}{figure.caption.38}
-\contentsline {figure}{\numberline {5.15}{\ignorespaces Circos de precursores con mecanismos de procesamientos cortos de loop a base\relax }}{73}{figure.caption.39}
-\contentsline {figure}{\numberline {5.16}{\ignorespaces Circos de precursores con mecanismos de procesamientos secuenciales de loop a base\relax }}{75}{figure.caption.40}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Tama\IeC {\~n}o de precursores}}{58}{figure.caption.26}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Esquema del procedimiento para analizar los datos de sPARE}}{60}{figure.caption.27}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Identificaci\IeC {\'o}n y caracterizaci\IeC {\'o}n de precursores de miARNs procesados de base a loop}}{61}{figure.caption.28}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Identificaci\IeC {\'o}n y caracterizaci\IeC {\'o}n de precursores de miARNs procesados de loop a base}}{62}{figure.caption.29}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Estructura secundaria de precursores de base a loop}}{63}{figure.caption.30}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Estructura secundaria de precursores de loop a base}}{64}{figure.caption.31}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Mecanismos de procesamiento}}{65}{figure.caption.32}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Especies detectadas}}{68}{figure.caption.33}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Alineamiento del precursor del miR172a.}}{70}{figure.caption.34}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Estructura secundaria del miR172a en distintas especies}}{72}{figure.caption.35}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Circos del miR172a}}{74}{figure.caption.36}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces MEME del miR172a}}{75}{figure.caption.37}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Circos del miR172a}}{77}{figure.caption.38}
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Circos de precursores con mecanismos de procesamientos secuenciales de base a loop\relax }}{79}{figure.caption.39}
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Circos de precursores con mecanismos de procesamientos cortos de loop a base\relax }}{81}{figure.caption.40}
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Circos de precursores con mecanismos de procesamientos secuenciales de loop a base\relax }}{83}{figure.caption.41}
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Procesamiento mixto de miembros de la familia del miR171\relax }}{85}{figure.caption.42}
 \addvspace {10\p@ }
 \addvspace {10\p@ }

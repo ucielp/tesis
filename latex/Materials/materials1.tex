@@ -36,7 +36,8 @@ La manipulación del material vegetal en condiciones de esterilidad se realizó 
 \subsection{Selección de transformantes}
 Para la selección de plantas transformadas, las semillas esterilizadas se sembraron en placas de Petri con medio MS-agar suplementado con 25 $\mu$g/ml de kanamicina.
 Las placas se mantuvieron en oscuridad a 4 \degree C por 48 hs. Transcurrido este período se transfirieron las placas a la cámara de cultivo y en estas condiciones las plantas se dejaron crecer 5-10 días.
-Luego se analizaron las placas y aquellas plantas que presentaban un fenotipo de resistencia al agente de selección, evidenciado por el desarrollo de la raíz primaria y del primer par de hojas verdaderas, se transfirieron a potes con tierra. Los potes se ubicaron en bandejas con agua las cuales se cubrieron con papel de nylon transparente, de modo de evitar la pérdida de humedad.
+Luego se analizaron las placas y aquellas plantas que presentaban un fenotipo de resistencia al agente de selección, evidenciado por el desarrollo de la raíz primaria y del primer par de hojas verdaderas, se transfirieron a potes con tierra.
+Los potes se ubicaron en bandejas con agua las cuales se cubrieron con papel de nylon transparente, de modo de evitar la pérdida de humedad.
 En estas condiciones se cultivaron en la cámara durante 2 días, momento en el que se retiró el nylon y se continuó con su cultivo.
 
 \subsection{Transformación nuclear de tabaco}
@@ -53,6 +54,7 @@ Después de 6 a 8 semanas de crecimiento, las plántulas que desarrollaron raíc
 \section{Cuantificación del nivel de expresión génica}
 
 \subsection{Extracción de ARN}
+\label{sec:extraccion_ARN}
 La extracción de ARN de tejido vegetal de Arabidopsis se realizó utilizando el reactivo TRIzol (Invitrogen).
 La recolección de las muestras de tejido se realizó en tubos de microcentrífuga que inmediatamente fueron sumergidos en N2 líquido.
 El material fue reducido a un polvo fino utilizando un pilón. A continuación, sobre este polvo se adicionó TRIzol (1 ml de reactivo para un máximo de 100 mg de tejido) y se agitó de modo de resuspender el tejido mortereado.
@@ -249,7 +251,6 @@ La relación señal/ruido fue calculada como el cociente entre el número de gen
 Como un control adicional, seleccionamos dos miARNs que no están conservados durante la evolución, que son el miR158 y el miR173.
 
 
-
 \section{comTAR: una herramienta para la predicción de genes blanco regulados por miARNs en plantas}
 
 A partir de los resultados positivos obtenidos de la estrategia descrita anteriormente, decidimos desarrollar una herramienta web y dejarla disponible para la comunidad científica denominada comTAR que está disponible en un sub-dominio de la página web institucional del IBR: http://rnabiology.ibr-conicet.gov.ar/comtar.
@@ -286,16 +287,6 @@ El TAG del mejor hit en Arabidopsis es el que determina el número de especies d
 \section{Estudios genómicos sobre la biogénesis de miARN en plantas}
 
 \subsection{Procesamiento de precursores de miARNs en plantas}
-
-%~ \subsubsection{Bibliotecas de sPARE}
-%~ ARN total (1 mg). Se elimino el ARN ribosomal utilizando el "RiboMinus Plant Kit for RNA-seq" (Invitrogen), según las indicaciones del fabricante.
-%~ El ARN se ligó al adaptador oligonucleótido de ARN  (5'-GUUCAGAGUUCUACAGUCCGAC-3') utilizando la ARN ligasa T4 (Fermentas).
-%~ Los productos ligados fueron purificaron y se utilizaron como plantilla en 10 multiplex reacciones de transcripción reversa utilizando 18 diferentes oligos precursor específicos en cada reacción.
-%~ La Síntesis de ADNc se llevó a cabo utilizando "SuperScript III Reverse Transcriptase" (Invitrogen).
-%~ Cada oligo específico posee 20nt que hibridan con precursor específico y 15 nt comunes que hibride oligo general 5'-AGCAGAAGACGGCATACGA-3'.
-%~ A continuación, las mezclas de las 10 reacciones multiplex fueron amplificados por PCR usando el cebador P5 genérico 5'-AATGATACGGCGACCACCGACAGGTTCAGAGTTCTACAGTCCGA-3' y el primer P7 5'-CAAGCAGAAGACGGCATACGA-3'.
-%~ Las condiciones de PCR fueron 18 ciclos de 94\degree C durante 20 seg, 60\degree C durante 20 seg, y 72\degree C durante 20 seg.
-%~ Los productos de PCR se purificaron en gel y se sometió a secuenciación de SBS.
 
 \subsubsection{Análisis bioinformático}
 
@@ -377,3 +368,179 @@ En base a la información de los alineamientos y estructuras secundarias, repres
 Por simplicidad en la representación de los precursores, eliminamos los gaps y sólo están representadas las bases dentro del precursor. 
 El archivo de configuración principal se muestra en el anexo en \ref{circos.conf} y los archivos de configuración del histograma y los las relaciones se muestran en el anexo en \ref{histogram.conf} y \ref{inks.conf} respectivamente. 
 Los archivos karyotype.txt, highlight.txt y link.txt son distintos para cada precursor en particular y se realizaron mediante un script, con el formato que se especifica en \url{http://circos.ca/}.
+
+
+\section{Protocolo SPARE multiplex}
+%~ ARN total (1 mg). Se elimino el ARN ribosomal utilizando el "RiboMinus Plant Kit for RNA-seq" (Invitrogen), según las indicaciones del fabricante.
+%~ El ARN se ligó al adaptador oligonucleótido de ARN  (5'-GUUCAGAGUUCUACAGUCCGAC-3') utilizando la ARN ligasa T4 (Fermentas).
+%~ Los productos ligados fueron purificaron y se utilizaron como plantilla en 10 multiplex reacciones de transcripción reversa utilizando 18 diferentes oligos precursor específicos en cada reacción.
+%~ La Síntesis de ADNc se llevó a cabo utilizando "SuperScript III Reverse Transcriptase" (Invitrogen).
+%~ Cada oligo específico posee 20nt que hibridan con precursor específico y 15 nt comunes que hibride oligo general 5'-AGCAGAAGACGGCATACGA-3'.
+%~ A continuación, las mezclas de las 10 reacciones multiplex fueron amplificados por PCR usando el cebador P5 genérico 5'-AATGATACGGCGACCACCGACAGGTTCAGAGTTCTACAGTCCGA-3' y el primer P7 5'-CAAGCAGAAGACGGCATACGA-3'.
+%~ Las condiciones de PCR fueron 18 ciclos de 94\degree C durante 20 seg, 60\degree C durante 20 seg, y 72\degree C durante 20 seg.
+%~ Los productos de PCR se purificaron en gel y se sometió a secuenciación de SBS.
+
+\subsubsection{Extracción de ARN}
+La extracción de ARN fue realizada como se detalla en sección \ref{sec:extraccion_ARN}.
+Las plántulas de \textit{A. thaliana} fueron crecidas durante 10 días con luz continúa (independizándonos de este modo la variación asociada al ritmo circadiano a la hora de la colecta de muestra).
+
+\subsubsection{Tratamiento con ADNasa}
+
+\begin{enumerate}
+	\item Preparar la siguiente reacción:
+		\begin{itemize}
+			\item ARN (40 $\mu$g de ARN en 89 $\mu$l finales)
+			\item Buffer DNasa 10 $\mu$l
+			\item DNasa (Promega) 1 $\mu$l
+		\end{itemize}
+	\item Incubar 30 minutos a 37 \degree C
+	\item Agregar 1 $\mu$l de DNasa Stop Solution
+	\item Incubar 10 minutos a 65 \degree C
+\end{enumerate}
+
+\subsubsection{Precipitación de ARN}
+
+\begin{enumerate}
+	\item Agregar:
+		\begin{itemize}
+			\item 1 $\mu$l de Glucógeno (20mgr/ul)
+			\item 10 $\mu$l de Acetato Sodio 3M pH 5.2
+			\item 220 $\mu$l de Etanol Abs
+	\end{itemize}
+
+	\item ON -20 \degree C
+	\item Centrifugar 30 minutos a 4 \degree C a máxima velocidad
+	\item Descartar sobrenadante
+	\item Lavar con Etanol 80% 
+	\item Centrifugar 5 minutos a 4 \degree C a máxima velocidad
+	\item Descartar sobrenadante. Repetir desde el paso 5 una vez. 
+	\item Spin y remover excedente.
+	\item Secar 5-10 minutos a 37 \degree C
+	\item Resuspender en 9 $\mu$l de agua
+\end{enumerate}
+
+\subsubsection{Ligación con Oligo ARN}
+
+\begin{enumerate}
+	\item 1. Mezclar 9 $\mu$l de ARN  con 1 $\mu$l 5-ARN  adapter(200 uM) u oligo target.
+	\item Incubar 5 minutos a 65 \degree C
+	\item Poner en hielo aproximadamente 2 minutos
+	\item Agregar a la mezcla de reacción (Vf: 20 $\mu$l)
+		\begin{itemize}
+			\item 2  $\mu$ de 10X Buffer Ligasa
+			\item 2  $\mu$ de 10mM ATP
+			\item 2  $\mu$ de BSA
+			\item 2  $\mu$ de RNAseOut (40U/$\mu$l)
+			\item 2  $\mu$ de T4 RNA ligasa (5U/$\mu$l)
+		\end{itemize}
+	\item Incubar a 37ºC durante 1 hora
+	\item Centrifugar y poner en hielo.
+	\item Inactivación de la ligasa: 72 \degree C durante 15'
+\end{enumerate}
+
+\subsubsection{Purificación de ARNm con dynabeads}
+\begin{enumerate}
+	\item Seguir las instrucciones del kit
+	\item Resuspender en 12 $\mu$l de agua.
+\end{enumerate}
+
+
+\subsubsection{Transcripción Reversa}
+\begin{enumerate}
+	\item Preparar la siguiente reacción:
+	\begin{itemize}
+		\item ARNm-ligado purificado: 12 $\mu$l (dividir en 8 tubos del PCR del strip pipetendo 4 $\mu$l en cada uno)
+		\item dNTP mix 10 mM:1 $\mu$l
+		\item Mix Oligo específico: 0,5 $\mu$l (ver indicaciones de cómo prepararla más abajo)
+	\end{itemize}
+	\item Calentar a 65 \degree C durante 5 minutos
+	\item Incubar en hielo al menos 1 minuto
+	\item Spin down. 
+	\item Agregar:
+	\begin{itemize}
+		\item 5X First Strand Buffer 4 $\mu$l
+		\item DTT 0,1 M 1 $\mu$l
+		\item Inhibidor de RNasa (Invitrogen) 1 $\mu$l
+		\item SuperScript III 0,5 $\mu$l
+	\end{itemize}
+	\item Incubar 60 minutos a 50 \degree C
+	\item Spin down
+	\item Inactivar la reacción 15 minutos a 70 \degree C
+\end{enumerate}
+
+\textbf{Preparación de la mix de oligos}
+Los stocks de oligos están 100 $\mu$M, como en cada reacción de síntesis de ADNc se levantan aproximadamente 15 precursores, conviene trabajar de la siguiente manera: en un eppendorf se coloca 1 $\mu$l de cada oligo (las mix 1-7 tienen 15 oligos y la mix 8 tiene 16 oligos)  y se completa con cantidad suficiente para 20 $\mu$l.
+De esta dilución 1:20 se toman 10 $\mu$l y se lleva a 100 $\mu$l, para obtener una dilución 1:200.
+Esto último se repite para obtener una dilución final 1:2000 de la que se toman 0,5ul para realizar la síntesis de ADNc.  
+
+\subsubsection{PCRs}
+\textbf{PCR1}
+
+La función de esta PCR es enriquecer los intermediarios de procesamiento, sin la interferencia de los oligos indexados, que son de mayor tamaño y por ende dan mayor número de dímero de primer.
+Se toman 2,5uL de cada ADNc para un total de 20 $\mu$L que se emplean como molde de la PCR1. 
+
+\begin{itemize}
+	\item Oligo Fw: 1,5 $\mu$l
+	\item Oligo Rv: 1,5 $\mu$l
+	\item dNTPs 10mM: 1 $\mu$l
+	\item buffer GC: 10 $\mu$L
+	\item Phusion pol: 0,5 $\mu$l
+	\item cDNA:  20 $\mu$l
+	\item DMSO: 1,5 $\mu$L
+	\item H20 csp 50 $\mu$l.
+\end{itemize}
+
+Programa
+\begin{itemize}
+	\item 1' 98 \degree C x 1 ciclo
+	\item 30'' 98 \degree C 
+	\item 30'' 63 \degree C 
+	\item 50'' 72 \degree C  X 20 ciclos
+	\item 10' 72 \degree C  1 ciclo
+\end{itemize}
+
+Nota: la PCR1 se hace en condiciones de no-saturación para poder trabajar en condiciones semi-cuantitativas.
+
+La PCR1 se corre  en un gel de agarosa al 1,5\% conjunto a un marcador de peso molecular 100 (PM100).
+En estas condiciones los productos de PCR no son visibles en el gel.
+Se corta y purifica la región comprendida entre 100-700pb con un kit Wizard SV gel and PCR Clean-up system, eluyendola en un volumen de 35 $\mu$l.
+
+\textbf{PCR2} 
+
+Se realiza con el objetivo de incorporar el oligo indexado al producto de la PCR1.
+De la PCR1 se toman 10 $\mu$l para realizar la segunda PCR. 
+Oligo indexado: 0,75 $\mu$l (no se coloca en la master mix, se pone un oligo indexado diferente por biblioteca).
+
+\begin{itemize}
+	\item 5X GC buffer: 10 $\mu$l
+	\item dNTPs: 1 $\mu$l
+	\item Oligo P5: 0.75 $\mu$l
+	\item Oligo Indexado: 0.75 $\mu$l
+	\item Molde: 10 $\mu$l 
+	\item DMSO: 1,5 $\mu$l
+	\item Phusion: 0,5 $\mu$l
+	\item H2O: 22,5 $\mu$l
+\end{itemize}
+Volumen final: 50 $\mu$l.
+Programa de PCR
+
+\begin{itemize}
+	\item 98 \degree C 1'
+	\item 98 \degree C 30''
+	\item 63 \degree C 30'' x 10 ciclos
+	\item 72 \degree C 50''
+	\item 72 \degree C 10'
+\end{itemize}
+\subsubsection{Análisis bioinformático de los datos obtenidos de la secuenciación}
+
+Una vez obtenidos los datos crudos de la secuencias se procedió a hacer el procesamiento de los datos siguiendo los siguientes pasos:
+\begin{itemize}
+	\item Remover secuencias adaptadoras (trimming)
+	\item Agrupar secuencias iguales y determinar abundancia (conversión de archivos fastq file a archivos tag-count).
+	\item Mapear las secuencias únicas con las secuencias de precursores (sub-genoma definido)
+	\item Combinar los resultados del mapeo con la abundancia de cada secuencia
+	\item Analizar y comparar los intermediarios de procesamiento para plantas silvestreste y mutantes de procesamiento
+\end{itemize}
+
+Se corre un gel al 2\% conjunto a un marcado de peso de molecular de 100pb y otro de 50pb.
+Se corta la región desde 150-800pb y se purifica por kit Wizard SV gel and PCR Clean-up system eluyendo en un volumen final de de 22 $\mu$L.

@@ -35,7 +35,12 @@ Se ha demostrado que otros precursores de plantas liberan otros ARNs pequeños a
 
 \section{Resultados} 
 
+%~ ################################################# 
+%~ Procesamiento de precursores de miARNs en plantas
+%~ #################################################
+
 \subsection{Procesamiento de precursores de miARNs en plantas}
+\label{sec:procesamiento}
 
 En esta parte del proyecto de tesis y en el marco de una colaboración con el grupo del Dr. Blake Meyers (Delaware,USA), el cual se especializa en secuenciación y análisis de ARN pequeños, nos propusimos entender cómo se procesan los precursores de miARNs plantas. 
 Colegas del laboratorio realizaron una estrategia para analizar sistemáticamente intermediarios de procesamiento de miARNs y caracterizar la biogénesis de la mayoría de los miARNs conservados presentes en \textit{A. thaliana} mediante técnicas de secuenciación de alto rendimiento, utilizando los equipos de última generación disponibles en Delaware (USA).
@@ -160,6 +165,58 @@ Em este mismo artículo se pudo demostrar que los precursores de miARNs en plant
     \label{fig:mecanismos}
 \end{figure}
 
+
+%~ ################################################# 
+%~ Identificación de intermediarios de procesamiento
+%~ en plantas mutantes en proteínas de procesamiento
+%~ y en plantas sometidas a diferentes temperaturas
+%~ #################################################
+
+\subsection{Identificación de intermediarios de procesamiento en plantas mutantes en proteínas de procesamiento y en plantas sometidas a diferentes temperaturas}
+
+La técnica de sPARE (del inglés Specific Parallel Analisys of 5'RNA Ends) fue desarrollada con el objetivo de caracterizar el procesamiento de los precursores de microARNs de \textit{A. thaliana}.
+Para esto se identifican los intermediarios de procesamiento de cada uno de dichos precursores, y uniendo la información brindada por los diferentes fragmentos es posible dilucidar tanto la dirección, como el número de cortes requeridos para la biogénesis de cada miARN.
+
+Brevemente la técnica consiste en emplear los extremos 5'P dejados por la maquinaria de procesamiento en los precursores luego del clivaje para realizar una ligación ARN-ARN entre los intermediaros de procesamiento y un oligo de ARN de secuencia conocida.
+A continuación se emplean oligos específicos para retro-transcribir los intermediaros de cada precursor en particular, con una cola común a todos.
+En este punto todos los fragmentos generados durante el procesamiento presentan los mismos extremos: en el 5' la secuencia del oligo de ARN y el en el extremo 3' la secuencia común incorporada durante la retro-transcripción.
+Esta información es empleada para diseñar oligos (FW y RV) que se emplean en una reacción de PCR a continuación.
+Finalmente los fragmentos son secuenciados. 
+
+En la sección \ref{sec:procesamiento} mostramos los resultados obtenidos de está técnica para determinar la dirección de procesamiento de los precursores de miARNs en plantas.
+Para esta parte del trabajo se hicieron algunas modificiaciones de la técnica. 
+Se ubicaron los oligos a 100 nt del último corte 3' esperado.
+En total se diseñaron 121 oligos para retrotranscribir el conjunto de precursores conservados y jóvenes validados hasta el momento.  
+
+\subsubsection{Construcción de bibliotecas multiplex}
+El paso final consiste en secuenciar las bibliotecas construidas, sin embargo la secuenciación es costosa haciendo económicamente dificultoso secuenciar varias bibliotecas en paralelo para comparar entre diferentes condiciones (siendo este nuestro objetivo con las plantas mutantes en proteínas de procesamiento).
+En los últimos años se han desarrollado métodos que hacen posible secuenciar más de una biblioteca por calle.
+Esto consiste en marcar los fragmentos provenientes de cada biblioteca con secuencias especificas (detallado en Materiales y Métodos) y separar informáticamente cada secuencia en la biblioteca de la cual provino a luego de secuenciación.
+Técnicamente esto se hace agregando una PCR final donde los índex son incorporados en todas las secuencias de cada biblioteca.
+
+\subsubsection{Diseño experimental}
+
+Con el objetivo de construir bibliotecas de sPARE crecimos plántulas de Arabidopsis thaliana durante 10 días con luz continúa (independizándonos de este modo la variación asociada al ritmo circadiano a la hora de la colecta de muestra).
+Se realizaron dos subconjuntos de experimentos: el primero con plantas mutantes en proteínas de procesamiento y el segundo en plantas sometidas a diferentes temperaturas.
+
+\textbf{Plantas mutantes en proteínas de procesamiento}
+
+\textit{Hyl1}, \textit{Se}, \textit{Ago1}, \textit{Hen1}, \textit{Hasty}, \textit{Dcl1} (dcl1-100), \textit{Dcl234},\textit{Dcp5},\textit{Ddl1} y \textit{Fiery}.
+Siendo sus controles plantas silvestres de Arabidopsis ecotipo Col-O.
+Mientras que la mutante de  \textit{Dcl1} (dcl1-7) se encontraba en el ecotipo Ler-0 por lo cual se usó este ecotipo como control.
+
+\textbf{Plantas sometidas a diferentes temperaturas}
+
+En este caso sólo se utilizaron plantas Col-0 y fiery crecidas en las condiciones descriptas anteriormente y que luego fueron sometidas a un tratamiento de dos horas a tres temperaturas diferentes: 8 \degree C, 22 \degree C y 37 \degree C.
+Luego se realizó la colecta de muestra a la temperatura del tratamiento. 
+
+\subsubsection{Herramienta web para el análisis ...}
+
+%~ ################################################# 
+%~ Enfoque bioinformático para el estudio de la
+%~ evolución y biogénesis de miARNs en plantas
+%~ #################################################
+
 \subsection{Enfoque bioinformático para el estudio de la evolución y biogénesis de miARNs en plantas}
 
 Que los precursores de miARNs en plantas sean procesados de diferentes maneras \citep{Bologna2013}, nos llevó a especular que su patrón de evolución también puede ser diferente y podrían estar vinculados a su mecanismo de procesamiento.
@@ -205,7 +262,7 @@ Algunos familias de miARNs se han diversificado durante la evolución, donde en 
 Por ejemplo, el miR396 en Arabidopsis está constituido por dos miembros, miR396a y miR396b mientras que en en el caso de arroz existen 8 miembros, nombrados del miR396a al miR396h.
 Por esto, agrupamos a los miembros por familias y vimos la distribución de la cantidad de especies donde se detecta un ortólogo de los precursores de miARNs pertenecientes a \textit{A. thaliana} y en este caso vimos un alto número de especies detectadas para la mayoría de las familias de miARNs (Figura \ref{fig:dicots_species}).
 
-\subsection{Alineamiento de los precursores en base a su secuencia primaria}
+\subsubsection{Alineamiento de los precursores en base a su secuencia primaria}
 
 Comenzamos con los alineamientos múltiple de cada miembro de las familias de precursores de miARNs conservadas en dicotiledóneas.
 Primero, realizamos el alineamiento en base a su secuencia primaria utilizando la herramienta T-Coffee \citep{pmid10964570}.
@@ -291,21 +348,22 @@ Esta búsqueda de motivos la hicimos de diferentes maneras, la primera permitien
     \end{figure}
 \end{landscape}
 
-\subsection{Mecanismo de base a loop cortos}
+\subsubsection{Mecanismo de base a loop cortos}
 
 En los precursores con un mecanismo corto de base a loop, un loop interno seguido por un tallo inferior de $\sim$15nt especifica la posición del primer corte.
 A pesar de que el tallo puede contener bulges, la transición de un loop interno (simple hebra) al tallo inferior es bastante marcada, y tres pares de bases apareadas generalmente definen el comienzo del tallo inferior del precursor \citep{Mateos2010,Bologna2013}.
 El segundo corte procede a una distancia fija de $\sim$21 nt desde la posición del primer corte.
 
-Para la mayoría de los precursores procesados con este mecanismo pudimos observar el mismo patrón de conservación de estructura primaria y similares patrones de estructura secundaria (Figura \ref{fig:miR172a_circos} y \ref{fig:miR390a_circos}). 
-La región con mayor conservación conincide con el duplex miARN/miARN* pero además se puede ver una región  conservada por debajo del dúplex, que coincide con el tallo inferior.
+Para la mayoría de los precursores procesados con este mecanismo pudimos observar el mismo patrón de conservación de estructura primaria y similares patrones de estructura secundaria.
+Para los precursores del miR172a (Figura \ref{fig:miR172a_circos} y el miR390a \ref{fig:miR390a_circos}), mediante la estrategia pudimos encontrar precursores en las 30 especies utilizadas.
+En ambos casos, se pudo observar que la región con mayor conservación conincide con el duplex miARN/miARN* pero además se puede ver una región conservada por debajo del dúplex, que coincide con el tallo inferior.
 
-Otra ventaja de esta forma de representar a los precursores y su conservación es que visualmente se puede reconocer facilmente posiciones "mismatches" conservados. 
+Otra ventaja de esta forma de representar a los precursores con la conservación entre especies, es que visualmente se puede reconocer facilmente las posiciones donde existen "mismatches" conservados. 
 Por ejemplo en el Circos del miR172, se puede observar un mismatch en la primer posición del miARN con la posición 19 del miARN*.
 Esta interacción es A-A y se mantiene sin variaciones en todas las especies (Figura \ref{fig:miR172a_circos}).
 Esto podría ser interesante estudiarlo en detalle donde se podría generar un precursor mutante donde esas bases en particular estén apareadas y luego ver si esto afecto o no el procesamiento del precursor.  
+Además notamos que este patrón de conservación se puede observar independientemente si el miARN maduro está en la hebra 5' (Figura \ref{fig:miR172a_circos}) o si está en la hebra 3' (Figura \ref{fig:miR390a_circos}).
 
-Además notamos que este patrón de conservación se puede observar independientemente si el miARN maduro está en la hebra 5' (Figura \ref{fig:miR172a_circos} ) o si está en la hebra 3' (Figura \ref{fig:miR390a_circos}).
 A diferencia de los precursores que tienen un mecanismo de loop a base, donde el tallo superior es fundamental para el su procesamiento, los precursores que se procesan cortos de base a loop no tienen el tallo superior conservado.
 Y mediante la búsqueda de motivos conservados, pudimos observar que el tamaño del tallo superior y del loop es muy variado en un mismo precursor en distintas especies, donde los mismos puede ir desde los 40nt hasta 115nt (Figura \ref{fig:miR172_meme}).
 
@@ -317,7 +375,7 @@ Y mediante la búsqueda de motivos conservados, pudimos observar que el tamaño 
      \label{fig:miR390a_circos}
 \end{figure}
 
-\subsection{Mecanismo de base a loop secuenciales}
+\subsubsection{Mecanismo de base a loop secuenciales}
 
 En estos precursores, con un mecanismo secuencial de base a loop, el primer corte procede como en los cortos de base a loop, pero luego son necesario dos cortes más para liberar el miARN, generando en el proceso niveles bajos de RNA pequeños adicionales \citep{Bologna2013}.
 Este es el caso de algunos miembros de la  familias del miR169, que tiene en total 14 miembros siendo la familia más grande de \textit{A. thaliana}.
@@ -327,6 +385,8 @@ Esta es la distancia esperada entre dos cortes de DCL1, sugeriendo que estos pre
 La familia del miR394 también es procesada de la misma manera y comparten similares patrones de estructura secundaria, donde se ve el tallo inferior largo bien estructurado (Figura \ref{fig:seqBTL_circos}).
 Si observamos el patrón de conservación de secuencia primaria podemos ver que la región del dúplex miARN/miARN está muy conservada, pero además podemos observar que debajo del dúplex existe otra región conservada que coincide con el tallo inferior largo que presentan estos precursores (Figura \ref{fig:seqBTL_circos}).
 
+%~ 394b 26 especies
+%~ 319b 22 especies
 
 \begin{landscape}
 	\begin{figure}
@@ -349,12 +409,14 @@ Si observamos el patrón de conservación de secuencia primaria podemos ver que 
 \end{landscape}
 
 
-\subsection{Mecanismo de loop a base cortos}
+\subsubsection{Mecanismo de loop a base cortos}
 
 En los precursores con un mecanismo \textbf{cortos de loop a base}, el procesamiento es guiado por un tallo superior, y son necesarios dos cortes para liberar el miARN maduro.
 La región terminal de estos precursores tienen una largo conservado de $\sim$42, donde incluye un loop pequeño \citep{Bologna2013} a diferencia de los precursores procesados dee base a loop, donde esta región es variable en tamaño.
-Realizamos los Circos para precursores que se procesan cortos de base a loop y observamos que presentan una región conservada que corresponde al tallo superior, además de la región que comprende al dúplex miARN/miARN* (Figura \ref{fig:seqBTL_circos}).
-A diferencia de los precursores que se procesan de la base al loop, estos precursores no presentan el tallo inferior ni estructurado ni conservado y esto se ve en los ejemplos del miR157a (Figura \ref{subfig:miR157a_circos}) y del miR160a (Figura \ref{subfig:miR157a_circos}).
+
+En este caso mostramos los Circos para el precursor del miR157a, que fue encontrado en 30 especies, y para el precursor del miR160a también encontrado en 30 especies. 
+En los precursores que se procesan cortos de base a loop observamos que presentan una región conservada que corresponde al tallo superior además de la región que comprende al dúplex miARN/miARN* (Figura \ref{fig:seqBTL_circos}).
+A diferencia de los precursores que se procesan de la base al loop, estos precursores no presentan el tallo inferior ni estructurado ni conservado y esto se puede observar en ambos casos; en el miR157a (Figura \ref{subfig:miR157a_circos}) y del miR160a (Figura \ref{subfig:miR160a_circos}).
 
 
 \begin{landscape}
@@ -377,7 +439,7 @@ A diferencia de los precursores que se procesan de la base al loop, estos precur
 	\end{figure}
 \end{landscape}
 
-\subsection{Mecanismo de loop a base secuenciales}
+\subsubsection{Mecanismo de loop a base secuenciales}
 
 En los precursores con un mecanismo \textbf{secuencial de loop a base}, cuatro cortes secuenciales por DCL1 son los encargados de procesar los precursores de miARNs.
 En general, estos precursores muestran un tallo largo superior, del cual otros ARNs pequeños son generados \citep{pmid19850910,Bologna2009,Bologna2013}.
@@ -407,7 +469,7 @@ Además se pudo observar que los ARNs pequeños, que se originan del procesamien
 \end{landscape}
 
 
-\subsection{Procesamiento mixto de miembros de la familia del miR171}
+\subsubsection{Procesamiento mixto de miembros de la familia del miR171}
 
 En general, se sabe que diferentes miembros de una misma familia de miARNs comparten la misma vía de biogenésis. 
 Esta observación no sorprende ya que se cree que las familias de miARNs se expanden por eventos de duplicación de un gen ancestral \citep{pmid15565108}.
@@ -416,7 +478,35 @@ Esto sucede, por ejemplo,en la familia del miR171 donde en \textit{A. thaliana} 
 El precursor del miR171a es procesado de base a loop, mientras que los precursores del miR171b y miR171c son procesados de loop a base.
 
 Nos pusimos analizar esta familia en detalle para ver si los patrones de conservación y estructura secundaria eran diferentes o no.
+Observamos que el miR171a, que es procesado corto de base a loop, tiene un patrón de conservación similar a los precursores procesados de base a loop, donde el tallo inferior es estructurado y conservado (Figura \ref{subfig:miR171a_circos}).
+Por el contrario el miR171c, que es procesado corto de loop a base, muestra conservación en el tallo superior, que además es estructurado, y no así el tallo inferior (Figura \ref{subfig:miR171c_circos}).
 
+
+%~ #######
+%~ ##### TENGO QUE REHACER EL MIR171A en el lab
+%~ #######
+
+\begin{landscape}
+	\begin{figure}
+	\centering
+	\begin{subfigure}{.75\textwidth}
+	  \centering
+	  \includegraphics[width=.9\linewidth]{miR171c_circos.png}
+	  \caption{Precursor del miR171c. Procesamiento de loop a base. }
+	  \label{subfig:miR171c_circos}
+	\end{subfigure}%
+	\begin{subfigure}{.75\textwidth}
+	  \centering
+	  \includegraphics[width=.9\linewidth]{miR171a_REHACER.png}
+	  \caption{Precursor del miR171a. Procesamiento de base a loop.}
+	  \label{subfig:miR171a_circos}
+	\end{subfigure}
+	\caption{Procesamiento mixto de miembros de la familia del miR171}
+	\label{fig:familia_miR171_circos}
+	\end{figure}
+\end{landscape}
 
 %~ Por otro lado, se seleccionaron todos los precursores que codifican para miARNs de la misma familia y luego los analizamos en conjunto.
 
+%~ \subsubsection{Procesamiento central?????}
+%~ miR166b 
