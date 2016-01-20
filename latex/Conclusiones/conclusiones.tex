@@ -1,0 +1,42 @@
+\setcounter{chapter}{6}
+\chapter*{Conclusiones} 
+\addcontentsline{toc}{chapter}{Conclusiones}
+
+
+\graphicspath{{Chapter2/Figs/}}
+
+
+\section{Aplicaciones bioinformáticas para el estudio de interacciones miARN-gen blanco}
+
+En cuanto a la primera parte de la Tesis y mediante diferentes estrategias y estudios, hemos alcanzado las siguientes conclusiones:
+
+\begin{itemize}
+    \item Diseñamos una estrategia para identificar genes blanco regulados por miARNs en plantas, basado en la conservación evolutiva del par microARN-gen blanco.
+    \item El enfoque requiere que la interacción miARN-gen blanco, pueda ocurrir en el contexto de un conjunto mínimo de parámetros que interactúan en diferentes especies. Pero la secuencia del gen blanco en sí, no necesariamente tiene que estar conservada.
+    \item Además, nuestro enfoque permite ajustar el número de especies requeridas como un filtro para realizar la búsqueda con diferentes sensibilidades y relaciones señal/ruido.
+    \item Utilizando esta estrategia identificamos y validamos experimentalmente nuevos genes blanco en \textit{A. thaliana}, a pesar de que este sistema ya había sido estudiado en detalles en distintos enfoques genómicos a gran escala (\citep{Allen2005207,JonesRhoades2004787,Addo-quaye2009a,German2008,Rajagopalan2006,Schwab2005517}).
+    \item Tres de los nuevos genes blanco validados tienen bulges. Parámetros empíricos usualmente le otorgan una gran penalidad a ellos, que puede llegar a ser el doble que un mismatch regular \citep{JonesRhoades2004787}, 
+    sin embargo es probable que genes blancos con bulges asimétricos sean más frecuente de lo que se pensaba previamente en plantas.
+    \item El enfoque ofrece una estrategia alternativa a otras predicciones que se basan en parámetros empíricos del par miARN-gen blanco \citep{Allen2005207,JonesRhoades2004787,citeulike:8816489,Fahlgren_chapter}.
+    \item Una ventaja de la estrategia presentada es que la interacciones miARN-gen blanco conservadas probablemente participen en procesos biológicos relevantes.
+    \item Además, esta estrategia puede ser fácilmente modificada para incorporar datos de otras bibliotecas, y/o para realizar la búsqueda de genes blanco presentes en un grupo específico de especies de plantas.
+\end{itemize}
+
+Esta parte del trabajo de Tesis fue publicado en la revista Nucleic Acid Research \citep{Chorostecki05072012} y en la revista Bioinformatics \citep{Chorostecki2014}.
+
+%~ We found that newly validated targets have functions related to those already known
+%~ MiR159 regulates MYB transcription factors (33,54,55) and NOZZLE (this work), which are involved in stamen and pollen development(48–50,55).
+%~ MiR408 regulates the copper transporter PAA2 (this work) as well as copper-binding proteins (13,23,38,56).
+%~ MiR167 regulates ARFs (10,57) and IAR3 (this work), and both of them participate in the control of auxin levels and activity (52,58).
+%~ These results confirm the importance of miRNA regulation in plants, further indicating that a miRNA might be regulating different components of a biological pathway.
+
+
+\section{Estudios genómicos sobre la biogénesis de miARN en plantas}
+
+En la segunda parte de esta Tesis, desarrollamos un enfoque genómico a gran escala para estudiar el procesamiento de miARNs en plantas y determinamos, de esta manera, el mecanismo de procesamiento de la mayoría de los miARNs de \textit{A. thaliana} conservados evolutivamente \citep{Bologna2013}.
+Encontramos que los miARNs en plantas pueden ser procesados por cuatro mecanismos, dependientes de la dirección secuencial de la maquinaria de procesamiento y del número de cortes requeridos para liberar el miARN (Figura \ref{fig:mecanismos}) \citep{Bologna2013}.
+Precursores procesados en el mismo mecanismo comparten determinantes estructurales, explicando el gran rango de tamaño y forma observado en precursores de miARNs en plantas \citep{Bologna2013}.
+
+Además, agrupamos toda esta información en una representación gráfica para poder visualizar de manera más simple los precursores de miARNs. 
+Caracterizamos la relación entre patrones de conservación y mecanismos de procesamiento determinados previamente. 
+Y pudimos observar que a partir del patrón de conservación se puede deducir el mecanismo de procesamiento de precursores en plantas.

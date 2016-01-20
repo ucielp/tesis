@@ -1,5 +1,11 @@
 \begin{thebibliography}{}
 
+\bibitem[Addo-Quaye et~al., 2008]{pmid18472421}
+Addo-Quaye, C., Eshoo, T.~W., Bartel, D.~P., and Axtell, M.~J. (2008).
+\newblock {{E}ndogenous si{R}{N}{A} and mi{R}{N}{A} targets identified by
+  sequencing of the {A}rabidopsis degradome}.
+\newblock {\em Curr. Biol.}, 18(10):758--762.
+
 \bibitem[Addo-quaye et~al., 2009]{Addo-quaye2009a}
 Addo-quaye, C., Eshoo, T.~W., Bartel, D.~P., and Axtell, M.~J. (2009).
 \newblock {Endogenous siRNA and microRNA targets identified by sequencing of
@@ -133,6 +139,14 @@ Borsani, O., Zhu, J., Verslues, P.~E., Sunkar, R., and Zhu, J.~K. (2005).
 \newblock {{E}ndogenous si{R}{N}{A}s derived from a pair of natural
   cis-antisense transcripts regulate salt tolerance in {A}rabidopsis}.
 \newblock {\em Cell}, 123(7):1279--1291.
+
+\bibitem[Boutet et~al., 2003]{pmid12747833}
+Boutet, S., Vazquez, F., Liu, J., Beclin, C., Fagard, M., Gratias, A., Morel,
+  J.~B., Crete, P., Chen, X., and Vaucheret, H. (2003).
+\newblock {{A}rabidopsis {H}{E}{N}1: a genetic link between endogenous
+  mi{R}{N}{A} controlling development and si{R}{N}{A} controlling transgene
+  silencing and virus resistance}.
+\newblock {\em Curr. Biol.}, 13(10):843--848.
 
 \bibitem[Bowman, 2004]{pmid15351964}
 Bowman, J.~L. (2004).
@@ -362,11 +376,8 @@ Han, J., Lee, Y., Yeom, K.~H., Nam, J.~W., Heo, I., Rhee, J.~K., Sohn, S.~Y.,
 
 \bibitem[Han et~al., 2004b]{Han2004}
 Han, M.-H., Goud, S., Song, L., and Fedoroff, N. (2004b).
-\newblock {T@Article{pmid14691535, Author="Stark, A. and Brennecke, J. and
-  Russell, R. B. and Cohen, S. M. ", Title="{{I}dentification of {D}rosophila
-  {M}icro{R}{N}{A} targets}", Journal="PLoS Biol.", Year="2003", Volume="1",
-  Number="3", Pages="E60", Month="Dec" } he Arabidopsis double-stranded
-  RNA-binding protein HYL1 plays a role in microRNA-mediated gene regulation.}
+\newblock {he Arabidopsis double-stranded RNA-binding protein HYL1 plays a role
+  in microRNA-mediated gene regulation.}
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 101(4):1093--8.
 
@@ -887,6 +898,12 @@ Yan, T., Yoo, D., Berardini, T.~Z., Mueller, L.~A., Weems, D.~C., Weng, S.,
 \newblock Patmatch: a program for finding patterns in peptide and nucleotide
   sequences.
 \newblock {\em Nucleic Acids Research}, 33(suppl 2):W262--W266.
+
+\bibitem[Yang et~al., 2006]{pmid16889646}
+Yang, L., Liu, Z., Lu, F., Dong, A., and Huang, H. (2006).
+\newblock {{S}{E}{R}{R}{A}{T}{E} is a novel nuclear regulator in primary
+  micro{R}{N}{A} processing in {A}rabidopsis}.
+\newblock {\em Plant J.}, 47(6):841--850.
 
 \bibitem[Yang et~al., 1999]{Yang1999}
 Yang, W.-c., Ye, D., Xu, J., and Sundaresan, V. (1999).

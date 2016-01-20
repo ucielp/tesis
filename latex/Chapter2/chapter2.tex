@@ -1,11 +1,14 @@
 %*******************************************************************************
 %****************************** Second Chapter *********************************
 %*******************************************************************************
+\graphicspath{{Chapter2/Figs/}}
 
-\chapter{Resultados Capítulo 2} 
+\setcounter{chapter}{5}
+\chapter*{Resultados y Discusión Capítulo 2} 
+\addcontentsline{toc}{chapter}{Resultados y Discusión Capítulo 2}
+
 {\LARGE Estudios genómicos sobre la biogénesis de miARN en plantas}
 
-\graphicspath{{Chapter2/Figs/}}
 
 \section{Introducción}
 Los miARNs son una clase de ARNs de 20-22nt de largo que son originados de genes endógenos y regulan otros ARNs por complementariedad de bases \citep{Voinnet2009669}.
@@ -51,7 +54,7 @@ Esta técnica desarrollada en el laboratorio se conoce como sPARE \citep{Schapir
 Utilizando esta técnica encontramos que los miARNs son procesados por cuatro mecanismos, dependientes de la dirección secuencial de la maquinaria de procesamiento y del número de cortes requeridos para liberar el miARN.
 La clasificación de los precursores, teniendo en cuenta los mecanismos de procesamiento, reveló determinantes estructurales específicos para cada grupo.
 Se encontró que la complejidad de las vías de procesamiento de miARN se produce tanto en precursores jóvenes como en conservados y que los miembros de la misma familia pueden ser procesados de diferentes maneras.
-Además hemos observado que diferentes determinantes estructurales compiten por la maquinaria de procesamiento y que miRNAs alternativos pueden ser generados a partir de un único precursor.
+Además hemos observado que diferentes determinantes estructurales compiten por la maquinaria de procesamiento y que miARNs alternativos pueden ser generados a partir de un único precursor.
 Los resultados ofrecen una explicación para la diversidad estructural de los genes de precursores de miARN en plantas y nuevas perspectivas hacia la comprensión de la biogénesis de los ARNs pequeños \citep{Bologna2013}.
 
 
@@ -228,15 +231,29 @@ Luego se realizó la colecta de muestra a la temperatura del tratamiento.
 
 
 \subsubsection{Herramienta web para el análisis de intermediarios de procesamiento en plantas}
-De la técnica de sPARE se obtienen una gran cantidad de datos que arroja el secuenciador para cada biblioteca secuenciada.
-Estos datos se conocen como datos crudos y son fragmentos de secuencia que luego tienen que ser mapeados contra la base de datos de interés.
-Además en estos datos crudos cuentan con  información de las secuencia, lo que permite mediante programas informáticos hacer un control de calidad de la secuencias obtenidas.
+De la técnica de sPARE se obtienen una gran cantidad de datos arrojados por el secuenciador para cada biblioteca secuenciada.
+Estos datos se conocen como datos crudos y son fragmentos de secuencia que luego tienen que ser mapeados contra el genoma de datos de interés.
+Además, estos datos crudos cuentan con información de las secuencia, lo que permite mediante programas informáticos hacer un control de calidad de la secuencias obtenidas.
+En total se obtuvieron cerca de 150 millones de secuencias (Figura \ref{fig:sPARE_estrategia}).
 
-Luego esos fragmentos son agrupados y mapeados contra las secuencias únicas de los precursores de \textit{A. thaliana}.
+Esos fragmentos son agrupados y mapeados contra las secuencias únicas de los precursores de \textit{A. thaliana}.
+Nos quedamos con 7158 secuencias únicas, que luego las filtramos por largo de la secuencia (Figura \ref{fig:sPARE_estrategia}).
 Esa información ya procesada es la que utilizamos en la herramienta para analizar y comparar los intermediarios de procesamiento para plantas silvestreste y mutantes de procesamiento.
 
-La herramienta permite seleccionar un precursor en particular de los 110 precursores que se detectaron fragmentos por la técnica de sPARE.
-Luego se selecciona la/las mutantes y controles que se quieren analizar además de otros parámetros variables como la longitud y abundancia de los fragmentos secuenciados.
+Para facilitar el análisis de los datos obtenidos por la técnica de sPARE, creamos una herramienta web disponible en la red interna del laboratorio.
+La herramienta permite seleccionar un precursor en particular de los $\sim$100 precursores que se detectaron fragmentos por la técnica de sPARE.
+Luego se selecciona una o varias mutantes y controles que se quieren analizar.
+Además la herramienta permite modificar otros parámetros como la longitud y abundancia de los fragmentos secuenciados a considerar.
+
+\begin{figure}[htbp!] 
+	\centering    
+	\includegraphics[width=.5\textwidth]{sPARE_estrategia.png}
+	\caption[Análisis informático utilizado para procesar los datos de sPARE]{
+	Análisis informático utilizado para procesar los datos de sPARE.
+	Las secuencias únicas mapeadas contra los precursores son las que se utilizan en la herramienta para analizar los intermediarios de procesamiento.
+	}
+	 \label{fig:sPARE_estrategia}
+\end{figure}
 
 Primero vemos la salida de la herramienta para el precursor del  miR165a, analizando distintas mutantes de procesamiento al mismo tiempo (Figura \ref{fig:miR165a_sPARE}).
 La posición final del duplex miARN/miARN* fue considerada como la posición 0, y las posiciones positivas son bases hacia arriba del dúplex mientrás que las posiciones negativas son bases hacia abajo del dúplex.
