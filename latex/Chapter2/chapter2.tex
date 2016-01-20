@@ -7,7 +7,7 @@
 \chapter*{Resultados y Discusión Capítulo 2} 
 \addcontentsline{toc}{chapter}{Resultados y Discusión Capítulo 2}
 
-{\LARGE Estudios genómicos sobre la biogénesis de miARN en plantas}
+{\LARGE Estudios genómicos sobre la biogénesis de precursores de miARN en plantas}
 
 
 \section{Introducción}
@@ -50,7 +50,7 @@ Se ha demostrado que otros precursores de plantas liberan otros ARNs pequeños a
 
 En esta parte del proyecto de tesis y en el marco de una colaboración con el grupo del Dr. Blake Meyers (Delaware,USA), el cual se especializa en secuenciación y análisis de ARN pequeños, nos propusimos entender cómo se procesan los precursores de miARNs plantas. 
 Colegas del laboratorio realizaron una estrategia para analizar sistemáticamente intermediarios de procesamiento de miARNs y caracterizar la biogénesis de la mayoría de los miARNs conservados presentes en \textit{A. thaliana} mediante técnicas de secuenciación de alto rendimiento, utilizando los equipos de última generación disponibles en Delaware (USA).
-Esta técnica desarrollada en el laboratorio se conoce como sPARE \citep{Schapire2013} (del inglés Specific Parallel Amplification of RNA Ends).
+Esta técnica desarrollada en el laboratorio se conoce como SPARE \citep{Schapire2013} (del inglés Specific Parallel Amplification of RNA Ends).
 Utilizando esta técnica encontramos que los miARNs son procesados por cuatro mecanismos, dependientes de la dirección secuencial de la maquinaria de procesamiento y del número de cortes requeridos para liberar el miARN.
 La clasificación de los precursores, teniendo en cuenta los mecanismos de procesamiento, reveló determinantes estructurales específicos para cada grupo.
 Se encontró que la complejidad de las vías de procesamiento de miARN se produce tanto en precursores jóvenes como en conservados y que los miembros de la misma familia pueden ser procesados de diferentes maneras.
@@ -59,7 +59,7 @@ Los resultados ofrecen una explicación para la diversidad estructural de los ge
 
 
 \subsubsection{Análisis de datos y precursores detectados}
-Mediante la cantidad de cortes detectados la técnica de sPARE permite definir si el mecanismo es base a loop o loop a base.
+Mediante la cantidad de cortes detectados la técnica de SPARE permite definir si el mecanismo es base a loop o loop a base.
 Esta técnica arroja una gran cantidad de datos producto de la secuenciación de alto rendimiento, por lo que se necesita de un enfoque bioinformático para la interpretación de los resultados.
 Por la gran cantidad de precursores a estudiar y el número de bibliotecas se necesitó un análisis previo de los datos y una forma de presentarlos.
 Para esto construimos e implementamos un pipeline bioinformático utilizando "in-house" scripts y datos disponibles de miRBASE para poder analizar los datos de las bibliotecas de deep-sequencing obtenidos a partir de la técnica de SPARE.
@@ -73,7 +73,7 @@ Además encontramos 16 precursores de miARNs conservados con cortes detectados (
 \begin{figure}[htbp!] 
     \centering    
     \includegraphics[width=.5\textwidth]{GR_fig1C.png}
-    \caption[Esquema del procedimiento para analizar los datos de sPARE]{Esquema del procedimiento para analizar los datos de sPARE.}
+    \caption[Esquema del procedimiento para analizar los datos de SPARE]{Esquema del procedimiento para analizar los datos de SPARE.}
     \label{fig:GR_fig1C}
 \end{figure}
 
@@ -87,7 +87,7 @@ Además encontramos 16 precursores de miARNs conservados con cortes detectados (
             Flechas en negro muestran otros cortes con al menos 5\% de abundancia del número total de cortes, mientras que otros cortes minoritarios se muestran con una flecha gris.
             Con rosa se resalta el stem de 15nt debajo del corte proximal.
             El miARN se indica en color rojo y el miARN* en color azul.
-            La imagen de la derecha muestra el patrón de corte típico detectado en la biblioteca de sPARE para estos precursores.}
+            La imagen de la derecha muestra el patrón de corte típico detectado en la biblioteca de SPARE para estos precursores.}
     \label{fig:GR_fig2A}
 \end{figure}
 
@@ -180,15 +180,15 @@ Em este mismo artículo se pudo demostrar que los precursores de miARNs en plant
 
 \subsection{Identificación de intermediarios de procesamiento en plantas mutantes en proteínas de procesamiento y en plantas sometidas a diferentes temperaturas}
 
-La técnica de sPARE (del inglés Specific Parallel Analisys of 5'RNA Ends) fue desarrollada con el objetivo de caracterizar el procesamiento de los precursores de miARNs de \textit{A. thaliana}.
-Para esto se identifican los intermediarios de procesamiento de cada uno de dichos precursores, y uniendo la información brindada por los diferentes fragmentos es posible dilucidar tanto la dirección, como el número de cortes requeridos para la biogénesis de cada miARN (Figura \ref{fig:sPARE_tecnica}).
+La técnica de SPARE (del inglés Specific Parallel Analisys of 5'RNA Ends) fue desarrollada con el objetivo de caracterizar el procesamiento de los precursores de miARNs de \textit{A. thaliana}.
+Para esto se identifican los intermediarios de procesamiento de cada uno de dichos precursores, y uniendo la información brindada por los diferentes fragmentos es posible dilucidar tanto la dirección, como el número de cortes requeridos para la biogénesis de cada miARN (Figura \ref{fig:SPARE_tecnica}).
 
 \begin{figure}[htbp!] 
 	\centering    
-	\includegraphics[width=1\textwidth]{sPARE_tecnica.png}
-	\caption[Técnica de sPARE]{Técnica de sPARE para diferenciar mecanismos de procesamiento de precursores.
+	\includegraphics[width=1\textwidth]{SPARE_tecnica.png}
+	\caption[Técnica de SPARE]{Técnica de SPARE para diferenciar mecanismos de procesamiento de precursores.
 	Detalle donde se muestra a nivel molecular como la técnica permite diferenciar entre dos direcciones de procesamiento opuestas. }
-	 \label{fig:sPARE_tecnica}
+	 \label{fig:SPARE_tecnica}
 \end{figure}
 
 Brevemente la técnica consiste en emplear los extremos 5'P dejados por la maquinaria de procesamiento en los precursores luego del clivaje para realizar una ligación ARN-ARN entre los intermediaros de procesamiento y un oligo de ARN de secuencia conocida.
@@ -197,7 +197,7 @@ En este punto todos los fragmentos generados durante el procesamiento presentan 
 Esta información es empleada para diseñar oligos (FW y RV) que se emplean en una reacción de PCR a continuación.
 Finalmente los fragmentos son secuenciados. 
 
-En la sección \ref{sec:procesamiento} mostramos los resultados obtenidos de está técnica para determinar la dirección de procesamiento de los precursores de miARNs en plantas.
+En la sección \ref{sec:procesamiento} mostramos los resultados obtenidos de esta técnica para determinar la dirección de procesamiento de los precursores de miARNs en plantas.
 Para esta parte del trabajo se hicieron algunas modificiaciones de la técnica. 
 Se ubicaron los oligos a 100 nt del último corte 3' esperado.
 En total se diseñaron 121 oligos para retrotranscribir el conjunto de precursores conservados y jóvenes validados hasta el momento.  
@@ -210,7 +210,7 @@ Técnicamente esto se hace agregando una PCR final donde los índex son incorpor
 
 \subsubsection{Diseño experimental}
 
-Con el objetivo de construir bibliotecas de sPARE crecimos plántulas de Arabidopsis thaliana durante 10 días con luz continúa (independizándonos de este modo la variación asociada al ritmo circadiano a la hora de la colecta de muestra).
+Con el objetivo de construir bibliotecas de SPARE crecimos plántulas de Arabidopsis thaliana durante 10 días con luz continúa (independizándonos de este modo la variación asociada al ritmo circadiano a la hora de la colecta de muestra).
 Se realizaron dos subconjuntos de experimentos: el primero con plantas mutantes en proteínas de procesamiento y el segundo en plantas sometidas a diferentes temperaturas.
 
 \textbf{Plantas mutantes en proteínas de procesamiento}
@@ -231,54 +231,54 @@ Luego se realizó la colecta de muestra a la temperatura del tratamiento.
 
 
 \subsubsection{Herramienta web para el análisis de intermediarios de procesamiento en plantas}
-De la técnica de sPARE se obtienen una gran cantidad de datos arrojados por el secuenciador para cada biblioteca secuenciada.
+De la técnica de SPARE se obtienen una gran cantidad de datos arrojados por el secuenciador para cada biblioteca secuenciada.
 Estos datos se conocen como datos crudos y son fragmentos de secuencia que luego tienen que ser mapeados contra el genoma de datos de interés.
 Además, estos datos crudos cuentan con información de las secuencia, lo que permite mediante programas informáticos hacer un control de calidad de la secuencias obtenidas.
-En total se obtuvieron cerca de 150 millones de secuencias (Figura \ref{fig:sPARE_estrategia}).
+En total se obtuvieron cerca de 150 millones de secuencias (Figura \ref{fig:SPARE_estrategia}).
 
 Esos fragmentos son agrupados y mapeados contra las secuencias únicas de los precursores de \textit{A. thaliana}.
-Nos quedamos con 7158 secuencias únicas, que luego las filtramos por largo de la secuencia (Figura \ref{fig:sPARE_estrategia}).
+Nos quedamos con 7158 secuencias únicas, que luego las filtramos por largo de la secuencia (Figura \ref{fig:SPARE_estrategia}).
 Esa información ya procesada es la que utilizamos en la herramienta para analizar y comparar los intermediarios de procesamiento para plantas silvestreste y mutantes de procesamiento.
 
-Para facilitar el análisis de los datos obtenidos por la técnica de sPARE, creamos una herramienta web disponible en la red interna del laboratorio.
-La herramienta permite seleccionar un precursor en particular de los $\sim$100 precursores que se detectaron fragmentos por la técnica de sPARE.
+Para facilitar el análisis de los datos obtenidos por la técnica de SPARE, creamos una herramienta web disponible en la red interna del laboratorio.
+La herramienta permite seleccionar un precursor en particular de los $\sim$100 precursores que se detectaron fragmentos por la técnica de SPARE.
 Luego se selecciona una o varias mutantes y controles que se quieren analizar.
 Además la herramienta permite modificar otros parámetros como la longitud y abundancia de los fragmentos secuenciados a considerar.
 
 \begin{figure}[htbp!] 
 	\centering    
-	\includegraphics[width=.5\textwidth]{sPARE_estrategia.png}
-	\caption[Análisis informático utilizado para procesar los datos de sPARE]{
-	Análisis informático utilizado para procesar los datos de sPARE.
+	\includegraphics[width=.5\textwidth]{SPARE_estrategia.png}
+	\caption[Análisis informático utilizado para procesar los datos de SPARE]{
+	Análisis informático utilizado para procesar los datos de SPARE.
 	Las secuencias únicas mapeadas contra los precursores son las que se utilizan en la herramienta para analizar los intermediarios de procesamiento.
 	}
-	 \label{fig:sPARE_estrategia}
+	 \label{fig:SPARE_estrategia}
 \end{figure}
 
-Primero vemos la salida de la herramienta para el precursor del  miR165a, analizando distintas mutantes de procesamiento al mismo tiempo (Figura \ref{fig:miR165a_sPARE}).
+Primero vemos la salida de la herramienta para el precursor del  miR165a, analizando distintas mutantes de procesamiento al mismo tiempo (Figura \ref{fig:miR165a_SPARE}).
 La posición final del duplex miARN/miARN* fue considerada como la posición 0, y las posiciones positivas son bases hacia arriba del dúplex mientrás que las posiciones negativas son bases hacia abajo del dúplex.
 Los fragmentos se muestran en forma porcentual tomando cada biblioteca de forma independiente y en distintos colores se representan las distintas bibliotecas.
-Además se muestra una tabla con los valores absolutos de cada fragmento y con flechas verdes se marcan las posiciones con los fragmentos de mayor abundancia en promedio de todas las bibliotecas (Figura \ref{fig:miR165a_sPARE}).
+Además se muestra una tabla con los valores absolutos de cada fragmento y con flechas verdes se marcan las posiciones con los fragmentos de mayor abundancia en promedio de todas las bibliotecas (Figura \ref{fig:miR165a_SPARE}).
  
-En esta figura se muestra un precursor que es procesado con un mecanismo corto de base a loop, donde según se muestra en la Figura \ref{fig:sPARE_tecnica} los fragmentos detectados corresponden únicamente al primer corte por DCL1 (Figura \ref{fig:miR165a_sPARE}).
+En esta figura se muestra un precursor que es procesado con un mecanismo corto de base a loop, donde según se muestra en la Figura \ref{fig:SPARE_tecnica} los fragmentos detectados corresponden únicamente al primer corte por DCL1 (Figura \ref{fig:miR165a_SPARE}).
 
 Mediante esta herramienta no sólo se puede identificar los precursores procesados de base a loop o de loop a base, sino que también permite identificar a los precursores que denominamos secuenciales, que son los que requieren de más de dos cortes por DCL1 para liberar al miARN maduro.
 Por ejemplo, mostramos al precursor del miR169b que es procesado de forma secuencial de base a loop.
 En estos precursores, los sitios de cortes delestán localizados 21 nt por debajo del lado proximal del dúplex miARN/miARN* y luego DCL1 sigue cortando para procesar al precursor.
-En este caso se detecta un fragmento mayoritario en la posición -21, es decir 21nt por debajo del dúplex miARN/miARN* como era esperado para precursores secuenciales de base a loop \ref{fig:miR169b_sPARE}.
+En este caso se detecta un fragmento mayoritario en la posición -21, es decir 21nt por debajo del dúplex miARN/miARN* como era esperado para precursores secuenciales de base a loop \ref{fig:miR169b_SPARE}.
 
 
 \begin{landscape}
     \begin{figure}[htbp!] 
         \centering    
-        \includegraphics[width=1.4\textwidth]{miR165a_sPARE.png}
-        \caption[Captura de pantalla de la herramienta de sPARE para el miR165a]{Captura de pantalla de la herramienta de sPARE para el miR165a.
+        \includegraphics[width=1.4\textwidth]{miR165a_SPARE.png}
+        \caption[Captura de pantalla de la herramienta de SPARE para el miR165a]{Captura de pantalla de la herramienta de SPARE para el miR165a.
         Porcentaje de fragmentos del precursor (abundancia relativa de los fragmentos en esa posición dividido la abundancia total de los fragmentos en el precursor).
         La posición final del duplex miARN/miARN* fue considerada como la posición 0.
         La tabla muestra los valores absolutos de cada fragmento.
         Las flechas verdes marcan las posiciones del precursor con los fragmentos de mayor abundancia. 
         }
-         \label{fig:miR165a_sPARE}
+         \label{fig:miR165a_SPARE}
     \end{figure}
 \end{landscape}
 
@@ -286,26 +286,26 @@ En este caso se detecta un fragmento mayoritario en la posición -21, es decir 2
 \begin{landscape}
 \begin{figure}[htbp!] 
         \centering    
-        \includegraphics[width=1.4\textwidth]{miR169b_sPARE.png}
-        \caption[Captura de pantalla de la herramienta de sPARE para el miR169b]{Captura de pantalla de la herramienta de sPARE para el miR169b.
+        \includegraphics[width=1.4\textwidth]{miR169b_SPARE.png}
+        \caption[Captura de pantalla de la herramienta de SPARE para el miR169b]{Captura de pantalla de la herramienta de SPARE para el miR169b.
         Porcentaje de fragmentos del precursor (abundancia relativa de los fragmentos en esa posición dividido la abundancia total de los fragmentos en el precursor).
         La posición final del duplex miARN/miARN* fue considerada como la posición 0.
         La tabla muestra los valores absolutos de cada fragmento.
         Las flechas verdes marcan las posiciones del precursor con los fragmentos de mayor abundancia. 
         }
-	 \label{fig:miR169b_sPARE}
+	 \label{fig:miR169b_SPARE}
     \end{figure}
 \end{landscape}
 
-Para el caso de los precursores cortos de loop a base, los fragmentos detectados pueden ser más de uno según muestra la técnica de sPARE (Figura \ref{fig:sPARE_tecnica}).
-Vemos el precursor del miR156a, donde los cortes más abundantes corresponden a las posiciones 22 y 0 (Figura \ref{fig:miR156a_sPARE}).
+Para el caso de los precursores cortos de loop a base, los fragmentos detectados pueden ser más de uno según muestra la técnica de SPARE (Figura \ref{fig:SPARE_tecnica}).
+Vemos el precursor del miR156a, donde los cortes más abundantes corresponden a las posiciones 22 y 0 (Figura \ref{fig:miR156a_SPARE}).
 Estos fragmentos corresponden a los cortes del precursor por DCL1, donde el primer corte se da en la parte distal del dúplex y el segundo en la parte proximal del mismo.
 Además se pueden observar otros fragmentos con abundancias relativas, cercanas a estas posiciones. 
 
 
-Por último en el caso del miR159, y al igual que todos los precursores que son procesados secuenciales de loop a base los cuatros fragmentos más abundantes corresponden a los cuatro cortes realizados por DCL1 que son requeridos para procesar este precursor (Figura \ref{fig:miR159b_sPARE}).
+Por último en el caso del miR159, y al igual que todos los precursores que son procesados secuenciales de loop a base los cuatros fragmentos más abundantes corresponden a los cuatro cortes realizados por DCL1 que son requeridos para procesar este precursor (Figura \ref{fig:miR159b_SPARE}).
 El primer corte se da en la posición 71, que de los cuatros cortes es el que tiene fragmentos menos abundantes, y luego DCL1 corta a 21 nucleótidos liberando otros ARN pequeños.
-Luego se pueden observar los fragmentos correspondientes al tercer (posición 21) y cuarto corte (posición 0), que son los necesarios para liberar el miARN maduro (Figura \ref{fig:miR159b_sPARE}).
+Luego se pueden observar los fragmentos correspondientes al tercer (posición 21) y cuarto corte (posición 0), que son los necesarios para liberar el miARN maduro (Figura \ref{fig:miR159b_SPARE}).
 En este caso se pueden ver otros fragmentos que son productos de la degreadación del precursor, aunque nunca son tan abundantes como los fragmentos de los cortes por DCL1.
 Por cuestiones de simplicidad, en la tabla solo se muestra los fragmentos con mayor abundancia en promedio de todas las bibliotecas.
 
@@ -313,15 +313,15 @@ Por cuestiones de simplicidad, en la tabla solo se muestra los fragmentos con ma
 \begin{landscape}
     \begin{figure}[htbp!] 
         \centering    
-        \includegraphics[width=1.4\textwidth]{miR156a_sPARE.png}
-        \caption[Captura de pantalla de la herramienta de sPARE para el miR156a]{Captura de pantalla de la herramienta de sPARE para el miR156a.
+        \includegraphics[width=1.4\textwidth]{miR156a_SPARE.png}
+        \caption[Captura de pantalla de la herramienta de SPARE para el miR156a]{Captura de pantalla de la herramienta de SPARE para el miR156a.
         Herramienta para analizar los datos de la técnica SPARE.
         Porcentaje de fragmentos del precursor (abundancia relativa de los fragmentos en esa posición dividido la abundancia total de los fragmentos en el precursor).
         La posición final del duplex miARN/miARN* fue considerada como la posición 0.
         La tabla muestra los valores absolutos de cada fragmento.
         Las flechas verdes marcan las posiciones del precursor con los fragmentos de mayor abundancia. 
         }
-         \label{fig:miR156a_sPARE}
+         \label{fig:miR156a_SPARE}
     \end{figure}
 \end{landscape}
 
@@ -330,15 +330,15 @@ Por cuestiones de simplicidad, en la tabla solo se muestra los fragmentos con ma
 \begin{landscape}
     \begin{figure}[htbp!] 
         \centering    
-        \includegraphics[width=1.4\textwidth]{miR159b_sPARE.png}
-		\caption[Captura de pantalla de la herramienta de sPARE para el miR159b]{Captura de pantalla de la herramienta de sPARE para el miR159b.
+        \includegraphics[width=1.4\textwidth]{miR159b_SPARE.png}
+		\caption[Captura de pantalla de la herramienta de SPARE para el miR159b]{Captura de pantalla de la herramienta de SPARE para el miR159b.
         Porcentaje de fragmentos del precursor (abundancia relativa de los fragmentos en esa posición dividido la abundancia total de los fragmentos en el precursor).
         La posición final del duplex miARN/miARN* fue considerada como la posición 0.
         La tabla muestra los valores absolutos de cada fragmento.
         Por cuestiones de simplicidad, solo se muestran en la tabla los fragmentos con mayor abundancia en promedio de todas las bibliotecas.
         Las flechas verdes marcan las posiciones del precursor con los fragmentos de mayor abundancia.
         }
-		\label{fig:miR159b_sPARE}
+		\label{fig:miR159b_SPARE}
     \end{figure}
 \end{landscape}
 
@@ -608,7 +608,7 @@ Sin embargo, ciertos el procesamiento de miembros de ciertas familias pueden var
 Esto sucede, por ejemplo,en la familia del miR171 donde en \textit{A. thaliana} existen 4 miembros. 
 El precursor del miR171a es procesado de base a loop, mientras que los precursores del miR171b y miR171c son procesados de loop a base.
 
-Nos pusimos analizar esta familia en detalle para ver si los patrones de conservación y estructura secundaria eran diferentes o no.
+Nos pusimos a analizar esta familia en detalle para ver si los patrones de conservación y estructura secundaria eran diferentes o no.
 Observamos que el miR171a, que es procesado corto de base a loop, tiene un patrón de conservación similar a los precursores procesados de base a loop, donde el tallo inferior es estructurado y conservado (Figura \ref{subfig:miR171a_circos}).
 Por el contrario el miR171c, que es procesado corto de loop a base, muestra conservación en el tallo superior, que además es estructurado, y no así el tallo inferior (Figura \ref{subfig:miR171c_circos}).
 
@@ -628,7 +628,7 @@ Por el contrario el miR171c, que es procesado corto de loop a base, muestra cons
 	\end{subfigure}%
 	\begin{subfigure}{.75\textwidth}
 	  \centering
-	  \includegraphics[width=.9\linewidth]{miR171a_REHACER.png}
+	  \includegraphics[width=.9\linewidth]{miR171a_circos.png}
 	  \caption{Precursor del miR171a. Procesamiento de base a loop.}
 	  \label{subfig:miR171a_circos}
 	\end{subfigure}
