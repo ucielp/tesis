@@ -724,11 +724,18 @@ Rubio-Somoza, I. and Weigel, D. (2011).
 \newblock {{M}icro{R}{N}{A} networks and developmental plasticity in plants}.
 \newblock {\em Trends Plant Sci.}, 16(5):258--264.
 
-\bibitem[Ruby et~al., 2007]{pmid17589500}
-Ruby, J.~G., Jan, C.~H., and Bartel, D.~P. (2007).
+\bibitem[Ruby et~al., 2007a]{pmid17589500}
+Ruby, J.~G., Jan, C.~H., and Bartel, D.~P. (2007a).
 \newblock {{I}ntronic micro{R}{N}{A} precursors that bypass {D}rosha
   processing}.
 \newblock {\em Nature}, 448(7149):83--86.
+
+\bibitem[Ruby et~al., 2007b]{pmid17989254}
+Ruby, J.~G., Stark, A., Johnston, W.~K., Kellis, M., Bartel, D.~P., and Lai,
+  E.~C. (2007b).
+\newblock {{E}volution, biogenesis, expression, and target predictions of a
+  substantially expanded set of {D}rosophila micro{R}{N}{A}s}.
+\newblock {\em Genome Res.}, 17(12):1850--1864.
 
 \bibitem[Schapire et~al., 2013]{Schapire2013}
 Schapire, A.~L., Bologna, N.~G., Moro, B., Zhai, J., Meyers, B.~C., and

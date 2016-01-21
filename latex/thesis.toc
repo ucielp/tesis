@@ -1,7 +1,7 @@
 \thispagestyle {empty}
-\contentsline {chapter}{\IeC {\'I}ndice de figuras}{xi}{section*.4}
-\contentsline {chapter}{\IeC {\'I}ndice de tablas}{xiii}{section*.6}
-\contentsline {chapter}{Introducci\IeC {\'o}n}{1}{chapter*.8}
+\contentsline {chapter}{\IeC {\'I}ndice de figuras}{xi}{chapter*.3}
+\contentsline {chapter}{\IeC {\'I}ndice de tablas}{xiii}{chapter*.4}
+\contentsline {chapter}{Introducci\IeC {\'o}n}{1}{chapter*.6}
 \contentsline {section}{\numberline {1.1}Silenciamiento g\IeC {\'e}nico y ARN peque\IeC {\~n}os en plantas}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Variedades de ARN peque\IeC {\~n}os en plantas}{1}{subsection.1.1.1}
 \contentsline {section}{\numberline {1.2}miARNs en plantas}{3}{section.1.2}
@@ -18,10 +18,10 @@
 \contentsline {subsection}{\numberline {1.6.1}M\IeC {\'e}todos para predicci\IeC {\'o}n de genes blanco de miARNs en animales}{10}{subsection.1.6.1}
 \contentsline {subsection}{\numberline {1.6.2}M\IeC {\'e}todos para predicci\IeC {\'o}n de genes blanco de miARNs en plantas}{11}{subsection.1.6.2}
 \contentsline {subsection}{\numberline {1.6.3}identificaci\IeC {\'o}n de genes blanco regulados por miARNs mediante t\IeC {\'e}cnicas de secuenciaci\IeC {\'o}n de alto rendimiento}{12}{subsection.1.6.3}
-\contentsline {chapter}{Objetivos}{15}{chapter*.12}
+\contentsline {chapter}{Objetivos}{15}{chapter*.10}
 \contentsline {section}{\numberline {2.7}Objetivo general}{15}{section.2.7}
 \contentsline {section}{\numberline {2.8}Objetivos espec\IeC {\'\i }ficos}{15}{section.2.8}
-\contentsline {chapter}{Materiales y M\IeC {\'e}todos}{17}{chapter*.13}
+\contentsline {chapter}{Materiales y M\IeC {\'e}todos}{17}{chapter*.11}
 \contentsline {section}{\numberline {3.9}Obtenci\IeC {\'o}n de Arabidopsis transformadas}{17}{section.3.9}
 \contentsline {subsection}{\numberline {3.9.1}Ecotipos utilizados y condiciones de crecimiento}{17}{subsection.3.9.1}
 \contentsline {subsection}{\numberline {3.9.2}Transformaci\IeC {\'o}n de Arabidopsis}{17}{subsection.3.9.2}
@@ -47,8 +47,8 @@
 \contentsline {subsection}{\numberline {3.13.3}Herramienta web y almacenamiento de datos}{27}{subsection.3.13.3}
 \contentsline {section}{\numberline {3.14}Protocolo de SPARE multiplex}{28}{section.3.14}
 \contentsline {subsubsection}{Construcci\IeC {\'o}n de bibliotecas de SPARE}{28}{section.3.14}
-\contentsline {subsubsection}{Extracci\IeC {\'o}n de ARN}{28}{figure.caption.19}
-\contentsline {subsubsection}{Tratamiento con ADNasa}{29}{figure.caption.19}
+\contentsline {subsubsection}{Extracci\IeC {\'o}n de ARN}{28}{figure.caption.17}
+\contentsline {subsubsection}{Tratamiento con ADNasa}{29}{figure.caption.17}
 \contentsline {subsubsection}{Precipitaci\IeC {\'o}n de ARN}{29}{Item.6}
 \contentsline {subsubsection}{Ligaci\IeC {\'o}n con Oligo ARN}{30}{Item.16}
 \contentsline {subsubsection}{Purificaci\IeC {\'o}n de ARNm con dynabeads}{30}{Item.23}
@@ -61,45 +61,49 @@
 \contentsline {subsubsection}{Acceso a los datos}{34}{subsection.3.15.1}
 \contentsline {section}{\numberline {3.16}Estrategia bioinform\IeC {\'a}tica para caracterizar la relaci\IeC {\'o}n entre la evoluci\IeC {\'o}n de los precursores de miARNs en plantas y los mecanismos de procesamientos}{34}{section.3.16}
 \contentsline {subsubsection}{B\IeC {\'u}squeda de ort\IeC {\'o}logos y extensi\IeC {\'o}n de la secuencia}{34}{section.3.16}
-\contentsline {subsubsection}{Alineamientos de precursores y determinaci\IeC {\'o}n de estructura secundaria}{36}{figure.caption.20}
+\contentsline {subsubsection}{Alineamientos de precursores y determinaci\IeC {\'o}n de estructura secundaria}{36}{figure.caption.18}
 \contentsline {subsubsection}{B\IeC {\'u}squeda de motivos}{36}{lstnumber.-4.1}
 \contentsline {subsubsection}{Representaci\IeC {\'o}n gr\IeC {\'a}fica de los precursores}{36}{lstnumber.-6.1}
-\contentsline {chapter}{Resultados y Discusi\IeC {\'o}n Cap\IeC {\'\i }tulo 1}{39}{chapter*.21}
+\contentsline {chapter}{Resultados y Discusi\IeC {\'o}n Cap\IeC {\'\i }tulo 1}{39}{chapter*.19}
 \contentsline {section}{\numberline {4.17}Introducci\IeC {\'o}n}{39}{section.4.17}
-\contentsline {section}{\numberline {4.18}Resultados}{40}{section.4.18}
+\contentsline {section}{\numberline {4.18}Resultados y Discusi\IeC {\'o}n}{40}{section.4.18}
 \contentsline {subsection}{\numberline {4.18.1}Predicci\IeC {\'o}n de genes regulados por miARNs.}{40}{subsection.4.18.1}
 \contentsline {subsubsection}{Dise\IeC {\~n}o de una estrategia para la identificaci\IeC {\'o}n de genes blanco regulados por miARNs basado en la conservaci\IeC {\'o}n evolutiva del par miARN-gen blanco.}{40}{subsection.4.18.1}
-\contentsline {subsubsection}{Par\IeC {\'a}metros emp\IeC {\'\i }ricos y de conservaci\IeC {\'o}n evolutiva pueden actuar de manera sin\IeC {\'e}rgica para identificar genes blanco regulados por miARNs.}{44}{table.caption.24}
-\contentsline {subsubsection}{Identificaci\IeC {\'o}n de nuevos genes blanco en \textit {A. thaliana} por conservaci\IeC {\'o}n de la secuencia del gen blanco.}{49}{table.caption.27}
-\contentsline {subsubsection}{Identificaci\IeC {\'o}n de nuevos genes blanco permitiendo interacciones G-U.}{50}{figure.caption.28}
-\contentsline {subsubsection}{Identificaci\IeC {\'o}n de genes blanco espec\IeC {\'\i }ficos de \textit {Solanaceae}.}{52}{figure.caption.29}
+\contentsline {subsubsection}{Par\IeC {\'a}metros emp\IeC {\'\i }ricos y de conservaci\IeC {\'o}n evolutiva pueden actuar de manera sin\IeC {\'e}rgica para identificar genes blanco regulados por miARNs.}{44}{table.caption.22}
+\contentsline {subsubsection}{Identificaci\IeC {\'o}n de nuevos genes blanco en \textit {A. thaliana} por conservaci\IeC {\'o}n de la secuencia del gen blanco.}{49}{table.caption.25}
+\contentsline {subsubsection}{Identificaci\IeC {\'o}n de nuevos genes blanco permitiendo interacciones G-U.}{50}{figure.caption.26}
+\contentsline {subsubsection}{Identificaci\IeC {\'o}n de genes blanco espec\IeC {\'\i }ficos de \textit {Solanaceae}.}{52}{figure.caption.27}
 \contentsline {subsection}{\numberline {4.18.2}comTAR: una herramienta para la predicci\IeC {\'o}n de genes blanco regulados por miARNs en plantas.}{54}{subsection.4.18.2}
 \contentsline {subsubsection}{Realizar la b\IeC {\'u}squeda de potenciales genes blanco de miARN}{54}{subsection.4.18.2}
 \contentsline {subsubsection}{Realizar la b\IeC {\'u}squeda de familias de potenciales genes blanco de miARN}{56}{subsection.4.18.2}
 \contentsline {subsubsection}{Realizar la b\IeC {\'u}squeda de un gen de inter\IeC {\'e}s para ver si es potencial gen blanco de algun miARN conservado}{56}{subsection.4.18.2}
 \contentsline {subsubsection}{Realizar la b\IeC {\'u}squeda de un miARN nuevo}{56}{subsection.4.18.2}
-\contentsline {chapter}{Resultados y Discusi\IeC {\'o}n Cap\IeC {\'\i }tulo 2}{59}{chapter*.33}
+\contentsline {chapter}{Resultados y Discusi\IeC {\'o}n Cap\IeC {\'\i }tulo 2}{59}{chapter*.31}
 \contentsline {section}{\numberline {5.19}Introducci\IeC {\'o}n}{59}{section.5.19}
-\contentsline {section}{\numberline {5.20}Resultados}{61}{section.5.20}
+\contentsline {section}{\numberline {5.20}Resultados y Discusi\IeC {\'o}n}{61}{section.5.20}
 \contentsline {subsection}{\numberline {5.20.1}Procesamiento de precursores de miARNs en plantas}{61}{subsection.5.20.1}
 \contentsline {subsubsection}{An\IeC {\'a}lisis de datos y precursores detectados}{61}{subsection.5.20.1}
-\contentsline {subsubsection}{Estructura secundaria de los precursores}{62}{figure.caption.37}
-\contentsline {subsubsection}{Procesamiento de base a loop}{65}{figure.caption.37}
-\contentsline {subsubsection}{Procesamiento de loop a base}{65}{figure.caption.37}
-\contentsline {subsection}{\numberline {5.20.2}Identificaci\IeC {\'o}n de intermediarios de procesamiento en plantas mutantes en prote\IeC {\'\i }nas de procesamiento y en plantas sometidas a diferentes temperaturas}{68}{subsection.5.20.2}
-\contentsline {subsubsection}{Construcci\IeC {\'o}n de bibliotecas multiplex}{69}{figure.caption.41}
-\contentsline {subsubsection}{Dise\IeC {\~n}o experimental}{69}{figure.caption.41}
-\contentsline {subsubsection}{Herramienta web para el an\IeC {\'a}lisis de intermediarios de procesamiento en plantas}{69}{figure.caption.41}
-\contentsline {subsection}{\numberline {5.20.3}Enfoque bioinform\IeC {\'a}tico para el estudio de la evoluci\IeC {\'o}n y biog\IeC {\'e}nesis de miARNs en plantas}{77}{subsection.5.20.3}
-\contentsline {subsubsection}{Estrategia}{77}{subsection.5.20.3}
-\contentsline {subsubsection}{B\IeC {\'u}squeda de ort\IeC {\'o}logos de precursores de miARNs}{77}{subsection.5.20.3}
-\contentsline {subsubsection}{Alineamiento de los precursores en base a su secuencia primaria}{78}{figure.caption.47}
-\contentsline {subsubsection}{Mecanismo de base a loop cortos}{86}{figure.caption.51}
-\contentsline {subsubsection}{Mecanismo de base a loop secuenciales}{86}{figure.caption.52}
-\contentsline {subsubsection}{Mecanismo de loop a base cortos}{90}{figure.caption.53}
-\contentsline {subsubsection}{Mecanismo de loop a base secuenciales}{92}{figure.caption.54}
-\contentsline {subsubsection}{Procesamiento mixto de miembros de la familia del miR171}{94}{figure.caption.55}
-\contentsline {chapter}{Conclusiones}{97}{chapter*.57}
-\contentsline {section}{\numberline {6.21}Aplicaciones bioinform\IeC {\'a}ticas para el estudio de interacciones miARN-gen blanco}{97}{section.6.21}
-\contentsline {section}{\numberline {6.22}Estudios gen\IeC {\'o}micos sobre la biog\IeC {\'e}nesis de miARN en plantas}{98}{section.6.22}
-\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{99}{section*.59}
+\contentsline {subsubsection}{Estructura secundaria de los precursores}{62}{figure.caption.35}
+\contentsline {subsubsection}{Procesamiento de base a loop}{65}{figure.caption.35}
+\contentsline {subsubsection}{Procesamiento de loop a base}{65}{figure.caption.35}
+\contentsline {subsection}{\numberline {5.20.2}Identificaci\IeC {\'o}n de intermediarios de procesamiento en plantas mutantes en prote\IeC {\'\i }nas de procesamiento}{68}{subsection.5.20.2}
+\contentsline {subsubsection}{Construcci\IeC {\'o}n de bibliotecas multiplex}{69}{figure.caption.39}
+\contentsline {subsubsection}{Dise\IeC {\~n}o experimental}{69}{figure.caption.39}
+\contentsline {subsubsection}{Herramienta web para el an\IeC {\'a}lisis de intermediarios de procesamiento en plantas}{69}{figure.caption.39}
+\contentsline {chapter}{Resultados y Discusi\IeC {\'o}n Cap\IeC {\'\i }tulo 3}{77}{chapter*.45}
+\contentsline {section}{\numberline {6.21}Introducci\IeC {\'o}n}{77}{section.6.21}
+\contentsline {section}{\numberline {6.22}Resultados y Discusi\IeC {\'o}n}{77}{section.6.22}
+\contentsline {subsection}{\numberline {6.22.1}Enfoque bioinform\IeC {\'a}tico para el estudio de la evoluci\IeC {\'o}n y biog\IeC {\'e}nesis de miARNs en plantas}{77}{subsection.6.22.1}
+\contentsline {subsubsection}{Estrategia}{77}{subsection.6.22.1}
+\contentsline {subsubsection}{B\IeC {\'u}squeda de ort\IeC {\'o}logos de precursores de miARNs}{78}{subsection.6.22.1}
+\contentsline {subsubsection}{Alineamiento de los precursores en base a su secuencia primaria}{78}{figure.caption.46}
+\contentsline {subsubsection}{Mecanismo de base a loop cortos}{86}{figure.caption.50}
+\contentsline {subsubsection}{Mecanismo de base a loop secuenciales}{86}{figure.caption.51}
+\contentsline {subsubsection}{Mecanismo de loop a base cortos}{90}{figure.caption.52}
+\contentsline {subsubsection}{Mecanismo de loop a base secuenciales}{92}{figure.caption.53}
+\contentsline {subsubsection}{Procesamiento mixto de miembros de la familia del miR170/miR171}{94}{figure.caption.54}
+\contentsline {chapter}{Conclusiones}{97}{chapter*.56}
+\contentsline {section}{\numberline {7.23}Aplicaciones bioinform\IeC {\'a}ticas para el estudio de interacciones miARN-gen blanco}{97}{section.7.23}
+\contentsline {section}{\numberline {7.24}Estudios gen\IeC {\'o}micos sobre la biog\IeC {\'e}nesis de miARN en plantas}{98}{section.7.24}
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{99}{chapter*.57}
+\contentsline {chapter}{Anexo}{111}{chapter*.59}

@@ -15,7 +15,7 @@
 
 
 %~ Esto lo saco en el lab y lo pongo en mi laptop
-%~ \usepackage{gensymb}
+\usepackage{gensymb}
 
 
 
@@ -114,6 +114,7 @@
 %~ \renewcommand{\chaptername}{}
 %~ \renewcommand{\thechapter}{}
 %~ \renewcommand{\chaptername}{Introducción}
+\renewcommand{\figurename}{Figura}
 
 
 \include{Introduccion/introduccion}
@@ -124,12 +125,10 @@
 %~ \renewcommand{\chaptername}{Materiales y Métodos}
 \include{Materials/materials1}
 
-\renewcommand{\chaptername}{Capítulos}
-\renewcommand{\figurename}{Figura}
+%~ \renewcommand{\chaptername}{Capítulos}
 \include{Chapter1/chapter1}
 \include{Chapter2/chapter2}
-
-\renewcommand{\chaptername}{Conclusiones}
+\include{Chapter3/chapter3}
 \include{Conclusiones/conclusiones}
 
 
@@ -166,5 +165,8 @@
 
 % *************************************** Index ********************************
 \printthesisindex % If index is present
+
+\include{Appendix/appendix}
+
 
 \end{document}

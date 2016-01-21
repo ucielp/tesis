@@ -31,3 +31,5 @@ svg(filename="precursores_dicots_especies_familias.svg",
 dev.off()
 
 
+####
+wc -l *.infile | awk '{print $1/2"\t"$2}' > ../precursores_animal_especies.csv
