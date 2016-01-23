@@ -292,13 +292,13 @@ Por el contrario el miR171c, que es procesado corto de loop a base, muestra cons
 \begin{landscape}
 	\begin{figure}
 	\centering
-	\begin{subfigure}{.75\textwidth}
+	\begin{subfigure}{.65\textwidth}
 	  \centering
 	  \includegraphics[width=.9\linewidth]{miR171c_circos.png}
 	  \caption{Precursor del miR171c. Procesamiento de loop a base. }
 	  \label{subfig:miR171c_circos}
 	\end{subfigure}
-	\begin{subfigure}{.75\textwidth}
+	\begin{subfigure}{.65\textwidth}
 	  \centering
 	  \includegraphics[width=.9\linewidth]{miR171a_circos.png}
 	  \caption{Precursor del miR171a. Procesamiento de base a loop.}
@@ -310,21 +310,101 @@ Por el contrario el miR171c, que es procesado corto de loop a base, muestra cons
 \end{landscape}
 
 
-\subsubsection{miR164a}
+\subsubsection{Mutaciones puntuales afectan el procesamiento de miARNs en plantas}
 %~ Natural Variation in Biogenesis
 %~ Efficiency of Individual
 %~ Arabidopsis thaliana MicroRNAs
-Se ha demostrado recientemente que un polimorfismo de origen natural que ocurre en el gen del miR164a afecta a la forma de la hoja y la arquitectura del vástago en \textit{A. thaliana}, cpn los efectos de ser modificados por loci adicionales en el genoma \citep{pmid22206705}.
+
+Se ha demostrado recientemente que un polimorfismo de origen natural que ocurre en el gen del miR164a afecta a la forma de la hoja y la arquitectura del vástago en \textit{A. thaliana}, con los efectos de ser modificados por loci adicionales en el genoma \citep{pmid22206705}.
 Una sustitución única en un par de bases en la secuencia complementaria del miARN altera la estabilidad predicha del dúplex miARN/miARN*.
 Se reduce con ello, en gran medida, la acumulación del miARN maduro, probablemente porque interfiere en el procesamiento del precursor.
 Además se demostró en ese mismo artículo que no es una rara excepción y que las cepas naturales de \textit{A. thaliana} albergan decenas de polimorfismos similares que afectan al procesaciemiento de una amplia gama de precusores de miARNs.
 
+Es por esto que nos pusimos a estudiar en detalles al precursor del miR164a.
+A nivel de secuencia los alelos de Col-0 y C24 son diferentes sólo por un par de polimorfismos simples.
+Uno de ellos afecta a una C en el miARN* que aparea con una G en la posición dos del miARN (nos referimos a esta posición como *2) (Figura \ref{fig:miR164_base_pairing}).
 
-The replacement of a G:C in MIR164A Col-0 with
-a non-Watson-Crick G:U pair in MIR164A C24 slightly increases
-the calculated free energy of the foldback from 265.3 to
-262.9 kcal/mol, but should not modify the secondary structure
-of MIR164A
+\begin{figure}[htbp!] 
+	\centering    
+	\includegraphics[width=0.6\textwidth]{miR164_base_pairing.png}
+	\caption[Apareamiento de bases en el precursor del miR164a]{
+		\textbf{Apareamiento de bases en el precursor del miR164a.}
+		El miARN se muestra en rojo y el miARN* en azul.
+		En la posición *2, el alelo alternativo C24 se muestra en naranja.
+	}
+	\label{fig:miR164_base_pairing}
+\end{figure}
+
+Se puede ver que el remplazo de una G:C en el miR164$a^{Col-0}$ por un par no canónico G:U en el miR164$a^{C24}$, incrementa ligeramente la energía libre del plegado del precursor que cambia de -41.58 kcal/mol a -39.28 kcal/mol, pero no se modifica la estructura secundaria del miR164a (Figura \ref{fig:miR164_ss}). 
+
+\begin{figure}[htbp!] 
+	\centering    
+	\includegraphics[width=0.3\textwidth]{miR164_ss.png}
+	\caption[Estructura secundaria predicha del precursor del miR164a]{
+	\textbf{Estructura secundaria predicha del precursor del miR164a.}
+	La barra gris horizontal indica el polimorfismo, un G:C en Col-0 y un G:U en C24.
+	Los colores indican probabilidad de pares de bases.
+	}
+	\label{fig:miR164_ss}
+\end{figure}
+
+Realizamos el Circos del miR164a en distintas especies para ver como era la conservación de la base en la posición 2* que hace que el precursor no pueda ser procesado de manera correcta.
+Lo que pudimos observar es que dicha posición del miR164a* está conservada en dicotiledóneas y se mantiene sin cambios en todas las especies (Figura \ref{miR164a_circos}).
+Además esa base está siempre apareada con la base correspondiente del miARN maduro, formando un G:C (Figura \ref{miR164a_circos} a la derecha)..
+
+También se puede observar que en la secuencia del miR164a* existen mutaciones en distintas bases en distintas especies, pero no en la base que estamos estudiando.
+Esto sugiere que esa base en particular es importante para la estabilidad del precursor y su buen procesamiento.
+
+%~ \begin{landscape}
+    \begin{figure}[htbp!] 
+        \centering    
+        \includegraphics[width=1\textwidth]{miR164a_circos.png}
+        \caption[Circos del miR164a]{
+			\textbf{Circos del miR164a}.
+			A la izquierda se representa el Circos del miR164a.
+			A la derecha el alineamiento del miR164a en distintas especies. 
+			Con una flecha verde se destaca la posición *2 a estudiar, en el Circos y en el alineamiento.
+        }
+        \label{fig:miR164a_circos}
+    \end{figure}
+%~ \end{landscape}
+
+En otro trabajó, se estudió un alelo mutante llamado miR394b-1, que tiene un mismatch en el stem inferior del precursor del miR394b \citep{pmid23333352}.
+La mutante incrementa dramáticamente la terminación del meristema apical.   
+En la figura \ref{fig:miR164_base_pairing} se muestra el apareamiento de bases en el precursor del miR394b y miR394b-1, donde el miARN se muestra en rojo y el miARN* en azul.
+Y en naranja se muestra la posición de la mutación del precursor del miR394b-1 donde la G es reemplazada por una A con respecto al miR394b.
+En este caso se mostró que los niveles de maduro en el precursor del miR394b-1 se ven fuertemente disminuídos aunque no completamente ausentes \citep{pmid23333352}. 
+
+\begin{figure}[htbp!] 
+	\centering    
+	\includegraphics[width=0.6\textwidth]{miR394b_base_pairing.png}
+	\caption[Apareamiento de bases en el precursor del miR394b]{
+		\textbf{Apareamiento de bases en el precursor del miR394b.}
+		El miARN se muestra en rojo y el miARN* en azul.
+		En naranja se muestra la posición de la mutación G por A en el stem inferior del precursor del miR394b-1.
+	}
+	\label{fig:miR164_base_pairing}
+\end{figure}
+
+Para varios precursores de plantas hemos visto anteriormente que esa región que corresponde al stem inferior es crucial para su procesamiento.
+En este caso mostramos el Circos correspondiente al miR394b, para poder visualizar que es lo que sucede con esta mutación puntual fuera del dúplex miARN/miARN* (Figura \ref{fig:miR394b_circos_aliniamientos}).
+Vemos, como en el caso del miR164a, está mutación que afecta al procesamiento del precursor y a la acumulación del miARN maduro, está conservada en todas las especies estudiadas.
+Esto sugiere que esta base es importante para el procesamiento y que no sólo mutaciones de una base dentro del dúplex miARN/miARN* pueden afectar el procesamiento, sino que mutaciones simples en el precursor puede afectar el reconocimiento de DCL1. 
+
+%~ \begin{landscape}
+\begin{figure}[htbp!] 
+	\centering    
+	\includegraphics[width=1\textwidth]{miR394b_circos_aliniamientos.png}
+	\caption[Circos del miR394b]{
+		\textbf{Circos del miR394b}.
+		A la izquierda se representa el Circos del miR394b.
+		A la derecha el alineamiento del miR394b en distintas especies. 
+		Con una flecha verde se destaca la posición a estudiar, en el Circos y en el alineamiento.
+	}
+	\label{fig:miR394b_circos_aliniamientos}
+\end{figure}
+%~ \end{landscape}
+
 %~ Por otro lado, se seleccionaron todos los precursores que codifican para miARNs de la misma familia y luego los analizamos en conjunto.
 
 %~ \subsubsection{Procesamiento central?????}
@@ -332,3 +412,36 @@ of MIR164A
 %~ \subsubsection{Compensatory mutation}
 %~ miR164a
 %~ miR394b
+
+\subsubsection{Precursores en plantas monocotiledóneas}
+
+
+\subsubsection{Precursores de animales}
+
+Para esta parte del trabajo de Tesis, utilizamos genomas de distintos especies de \textit{Metazoa} entre ellos humanos, monos, rana, vaca y pez (Tabla \ref{table:db_metazoa}).
+Y estudiamos que sucede con los precursores de miARNs conservados en animales.
+Para esto partimos de los precursores de humanos definidos en miRBASE.
+
+\begin{table}[!htbp]
+\centering
+\small
+\caption{Especies de \textit{Metazoa} utilizadas}
+\label{table:db_metazoa}
+\begin{tabular}{c}
+\rowcolor[HTML]{ECF4FF} 
+\textbf{Animales}        \\
+	Bos taurus               \\
+	Canis familiaris         \\
+	Equus caballus           \\
+	Gallus gallus            \\
+	Gorilla gorilla          \\
+	Homo sapiens             \\
+	Macaca mulatta           \\
+	Monodelphis domestica    \\
+	Mus musculus             \\
+	Ornithorhynchus anatinus \\
+	Petromyzon marinus       \\
+	Sus scrofa               \\
+	Xenopus tropicalis      
+\end{tabular}
+\end{table}

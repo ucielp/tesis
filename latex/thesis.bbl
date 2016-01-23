@@ -429,6 +429,13 @@ Kim, V.~N., Han, J., and Siomi, M.~C. (2009).
 \newblock {{B}iogenesis of small {R}{N}{A}s in animals}.
 \newblock {\em Nat. Rev. Mol. Cell Biol.}, 10(2):126--139.
 
+\bibitem[Knauer et~al., 2013]{pmid23333352}
+Knauer, S., Holt, A.~L., Rubio-Somoza, I., Tucker, E.~J., Hinze, A., Pisch, M.,
+  Javelle, M., Timmermans, M.~C., Tucker, M.~R., and Laux, T. (2013).
+\newblock {{A} protodermal mi{R}394 signal defines a region of stem cell
+  competence in the {A}rabidopsis shoot meristem}.
+\newblock {\em Dev. Cell}, 24(2):125--132.
+
 \bibitem[Kozomara and Griffiths-Jones, 2014]{Kozomara2014}
 Kozomara, A. and Griffiths-Jones, S. (2014).
 \newblock {miRBase: annotating high confidence microRNAs using deep sequencing
@@ -818,6 +825,13 @@ Thadani, R. and Tammi, M.~T. (2006).
   duplexes}.
 \newblock {\em BMC Bioinformatics}, 7 Suppl 5:S20.
 
+\bibitem[Todesco et~al., 2012]{pmid22206705}
+Todesco, M., Balasubramanian, S., Cao, J., Ott, F., Sureshkumar, S.,
+  Schneeberger, K., Meyer, R.~C., Altmann, T., and Weigel, D. (2012).
+\newblock {{N}atural variation in biogenesis efficiency of individual
+  {A}rabidopsis thaliana micro{R}{N}{A}s}.
+\newblock {\em Curr. Biol.}, 22(2):166--170.
+
 \bibitem[Trabucchi et~al., 2009]{pmid19458619}
 Trabucchi, M., Briata, P., Garcia-Mayoral, M., Haase, A.~D., Filipowicz, W.,
   Ramos, A., Gherzi, R., and Rosenfeld, M.~G. (2009).
@@ -954,6 +968,13 @@ Zheng, Y., Li, Y.~F., Sunkar, R., and Zhang, W. (2012).
   guided cleavage sites from degradome of polyadenylated transcripts in
   plants}.
 \newblock {\em Nucleic Acids Res.}, 40(4):e28.
+
+\bibitem[Zhu et~al., 2013]{pmid23934148}
+Zhu, H., Zhou, Y., Castillo-Gonzalez, C., Lu, A., Ge, C., Zhao, Y.~T., Duan,
+  L., Li, Z., Axtell, M.~J., Wang, X.~J., and Zhang, X. (2013).
+\newblock {{B}idirectional processing of pri-mi{R}{N}{A}s with branched
+  terminal loops by {A}rabidopsis {D}icer-like1}.
+\newblock {\em Nat. Struct. Mol. Biol.}, 20(9):1106--1115.
 
 \bibitem[Zuker, 2003]{pmid12824337}
 Zuker, M. (2003).

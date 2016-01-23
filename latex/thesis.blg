@@ -10,49 +10,49 @@ A level-1 auxiliary file: Objetivos/objetivos.aux
 A level-1 auxiliary file: Materials/materials1.aux
 A level-1 auxiliary file: Chapter1/chapter1.aux
 A level-1 auxiliary file: Chapter2/chapter2.aux
+A level-1 auxiliary file: Chapter3/chapter3.aux
 A level-1 auxiliary file: Conclusiones/conclusiones.aux
 The style file: apalike.bst
+A level-1 auxiliary file: Appendix/appendix.aux
 Database file #1: References/references.bib
-Warning--I didn't find a database entry for "281"
-You've used 154 entries,
+You've used 157 entries,
             1935 wiz_defined-function locations,
-            1344 strings with 35550 characters,
-and the built_in function-call counts, 74563 in all, are:
-= -- 7148
-> -- 4073
+            1358 strings with 36443 characters,
+and the built_in function-call counts, 76519 in all, are:
+= -- 7321
+> -- 4232
 < -- 49
-+ -- 1455
-- -- 1448
-* -- 7255
-:= -- 12987
-add.period$ -- 463
-call.type$ -- 154
-change.case$ -- 1493
-chr.to.int$ -- 149
-cite$ -- 154
-duplicate$ -- 2215
-empty$ -- 4641
-format.name$ -- 1662
-if$ -- 14127
++ -- 1515
+- -- 1508
+* -- 7464
+:= -- 13337
+add.period$ -- 472
+call.type$ -- 157
+change.case$ -- 1538
+chr.to.int$ -- 152
+cite$ -- 157
+duplicate$ -- 2257
+empty$ -- 4733
+format.name$ -- 1725
+if$ -- 14482
 int.to.chr$ -- 6
 int.to.str$ -- 0
-missing$ -- 154
-newline$ -- 773
-num.names$ -- 464
-pop$ -- 1163
+missing$ -- 157
+newline$ -- 788
+num.names$ -- 473
+pop$ -- 1202
 preamble$ -- 1
-purify$ -- 1493
+purify$ -- 1538
 quote$ -- 0
-skip$ -- 1657
+skip$ -- 1687
 stack$ -- 0
-substring$ -- 5637
-swap$ -- 214
+substring$ -- 5754
+swap$ -- 217
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 924
+type$ -- 942
 warning$ -- 0
-while$ -- 594
+while$ -- 606
 width$ -- 0
-write$ -- 2003
-(There was 1 warning)
+write$ -- 2042

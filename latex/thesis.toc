@@ -96,14 +96,17 @@
 \contentsline {subsection}{\numberline {6.22.1}Enfoque bioinform\IeC {\'a}tico para el estudio de la evoluci\IeC {\'o}n y biog\IeC {\'e}nesis de miARNs en plantas}{77}{subsection.6.22.1}
 \contentsline {subsubsection}{Estrategia}{77}{subsection.6.22.1}
 \contentsline {subsubsection}{B\IeC {\'u}squeda de ort\IeC {\'o}logos de precursores de miARNs}{78}{subsection.6.22.1}
-\contentsline {subsubsection}{Alineamiento de los precursores en base a su secuencia primaria}{78}{figure.caption.46}
+\contentsline {subsubsection}{Alineamiento de los precursores en base a su secuencia primaria}{79}{figure.caption.46}
 \contentsline {subsubsection}{Mecanismo de base a loop cortos}{86}{figure.caption.50}
 \contentsline {subsubsection}{Mecanismo de base a loop secuenciales}{86}{figure.caption.51}
 \contentsline {subsubsection}{Mecanismo de loop a base cortos}{90}{figure.caption.52}
 \contentsline {subsubsection}{Mecanismo de loop a base secuenciales}{92}{figure.caption.53}
 \contentsline {subsubsection}{Procesamiento mixto de miembros de la familia del miR170/miR171}{94}{figure.caption.54}
-\contentsline {chapter}{Conclusiones}{97}{chapter*.56}
-\contentsline {section}{\numberline {7.23}Aplicaciones bioinform\IeC {\'a}ticas para el estudio de interacciones miARN-gen blanco}{97}{section.7.23}
-\contentsline {section}{\numberline {7.24}Estudios gen\IeC {\'o}micos sobre la biog\IeC {\'e}nesis de miARN en plantas}{98}{section.7.24}
-\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{99}{chapter*.57}
-\contentsline {chapter}{Anexo}{111}{chapter*.59}
+\contentsline {subsubsection}{Mutaciones puntuales afectan el procesamiento de miARNs en plantas}{96}{figure.caption.55}
+\contentsline {subsubsection}{Precursores en plantas monocotiled\IeC {\'o}neas}{99}{figure.caption.60}
+\contentsline {subsubsection}{Precursores de animales}{99}{figure.caption.60}
+\contentsline {chapter}{Conclusiones}{101}{chapter*.62}
+\contentsline {section}{\numberline {7.23}Aplicaciones bioinform\IeC {\'a}ticas para el estudio de interacciones miARN-gen blanco}{101}{section.7.23}
+\contentsline {section}{\numberline {7.24}Estudios gen\IeC {\'o}micos sobre la biog\IeC {\'e}nesis de miARNs}{102}{section.7.24}
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{103}{chapter*.63}
+\contentsline {chapter}{Anexo}{115}{chapter*.65}
