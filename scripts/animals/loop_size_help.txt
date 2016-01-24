@@ -1,0 +1,20 @@
+SELECT name,iF(strand = 1,miRNA_ast_pos_ini - (miRNA_pos_ini + LENGTH(miRNA)),miRNA_pos_ini - (miRNA_ast_pos_ini + LENGTH(miRNA_ast))) as loop_size
+FROM  `miRNAs_information` 
+where mechanism =  "srBTL"
+AND conservado =  1
+
+SELECT name,iF(strand = 1,miRNA_ast_pos_ini - (miRNA_pos_ini + LENGTH(miRNA)),miRNA_pos_ini - (miRNA_ast_pos_ini + LENGTH(miRNA_ast))) as loop_size
+FROM  `miRNAs_information` 
+where mechanism =  "srLTB"
+AND conservado =  1
+
+
+SELECT name,iF(strand = 1,miRNA_ast_pos_ini - (miRNA_pos_ini + LENGTH(miRNA)),miRNA_pos_ini - (miRNA_ast_pos_ini + LENGTH(miRNA_ast))) as loop_size
+FROM  `miRNAs_information` 
+where mechanism =  "seqBTL"
+AND conservado =  1
+
+SELECT name,iF(strand = 1,miRNA_ast_pos_ini - (miRNA_pos_ini + LENGTH(miRNA)),miRNA_pos_ini - (miRNA_ast_pos_ini + LENGTH(miRNA_ast))) as loop_size
+FROM  `miRNAs_information` 
+where mechanism =  "seqLTB"
+AND conservado =  1
