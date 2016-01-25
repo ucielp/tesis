@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg3891"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="loop_size.svg">
+  <defs
+     id="defs3893" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="434.65577"
+     inkscape:cy="315.00359"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="750"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3896">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <text
+       style="font-size:18.43017387px;font-weight:normal;fill:#000000;fill-rule:evenodd;font-family:Arial"
+       id="text16242"
+       class="fil5 fnt4"
+       y="799.66168"
+       x="457.45377">0</text>
+    <text
+       style="font-size:18.43017387px;font-weight:normal;fill:#000000;fill-rule:evenodd;font-family:Arial"
+       id="text16244"
+       class="fil5 fnt4"
+       y="752.70789"
+       x="447.2009">50</text>
+    <text
+       style="font-size:18.43017387px;font-weight:normal;fill:#000000;fill-rule:evenodd;font-family:Arial"
+       id="text16246"
+       class="fil5 fnt4"
+       y="707.7785"
+       x="437.01343">100</text>
+    <text
+       style="font-size:18.43017387px;font-weight:normal;fill:#000000;fill-rule:evenodd;font-family:Arial"
+       id="text16248"
+       class="fil5 fnt4"
+       y="662.84918"
+       x="437.01343">150</text>
+    <text
+       style="font-size:18.43017387px;font-weight:normal;fill:#000000;fill-rule:evenodd;font-family:Arial"
+       id="text16250"
+       class="fil5 fnt4"
+       y="617.20154"
+       x="437.01343">300</text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4021"
+       y="416.85873"
+       x="-760.25189"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         style="font-size:12px"
+         y="416.85873"
+         x="-760.25189"
+         id="tspan4023"
+         sodipodi:role="line">Tamaño del loop (nt)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4021-4"
+       y="810.40326"
+       x="493.60126"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="810.40326"
+         x="493.60126"
+         id="tspan4023-9"
+         sodipodi:role="line">Base</tspan><tspan
+         id="tspan4046"
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="825.40326"
+         x="493.60126"
+         sodipodi:role="line">a loop</tspan></text>
+    <g
+       style="fill-rule:evenodd"
+       id="g16556"
+       transform="matrix(0.06530428,0,0,0.06530428,-595.83917,-435.24229)">
+      <polygon
+         style="fill:#000000;fill-rule:nonzero"
+         id="polygon16558"
+         points="16357,15824 16357,18801 16339,18801 16339,15824 "
+         class="fil17" />
+    </g>
+    <line
+       style="fill:none;stroke:#000000;stroke-width:1.79913282"
+       id="line16560"
+       y2="792.54346"
+       x2="471.75568"
+       y1="792.54346"
+       x1="468.55566"
+       class="fil3 str10" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:1.79913282"
+       id="line16562"
+       y2="747.02637"
+       x2="471.75568"
+       y1="747.02637"
+       x1="468.55566"
+       class="fil3 str10" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:1.79913282"
+       id="line16564"
+       y2="701.50934"
+       x2="471.75568"
+       y1="701.50934"
+       x1="468.55566"
+       class="fil3 str10" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:1.79913282"
+       id="line16566"
+       y2="655.99225"
+       x2="471.75568"
+       y1="655.99225"
+       x1="468.55566"
+       class="fil3 str10" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:1.79913282"
+       id="line16568"
+       y2="610.4751"
+       x2="471.75568"
+       y1="610.4751"
+       x1="468.55566"
+       class="fil3 str10" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.64716542"
+       inkscape:connector-curvature="0"
+       id="path16570"
+       d="m 492.45634,763.41773 c 1.5673,0 2.80808,1.24079 2.80808,2.74278 0,1.5673 -1.24078,2.80808 -2.80808,2.80808 -1.50199,0 -2.74278,-1.24078 -2.74278,-2.80808 0,-1.50199 1.24079,-2.74278 2.74278,-2.74278 z"
+       class="fil5 str11" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.64716542"
+       inkscape:connector-curvature="0"
+       id="path16572"
+       d="m 492.45634,761.5892 c 1.5673,0 2.80808,1.24079 2.80808,2.74279 0,1.56729 -1.24078,2.80808 -2.80808,2.80808 -1.50199,0 -2.74278,-1.24079 -2.74278,-2.80808 0,-1.502 1.24079,-2.74279 2.74278,-2.74279 z"
+       class="fil5 str11" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.64716542"
+       inkscape:connector-curvature="0"
+       id="path16574"
+       d="m 492.45634,761.5892 c 1.5673,0 2.80808,1.24079 2.80808,2.74279 0,1.56729 -1.24078,2.80808 -2.80808,2.80808 -1.50199,0 -2.74278,-1.24079 -2.74278,-2.80808 0,-1.502 1.24079,-2.74279 2.74278,-2.74279 z"
+       class="fil5 str11" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.64716542"
+       inkscape:connector-curvature="0"
+       id="path16576"
+       d="m 492.45634,606.94867 c 1.5673,0 2.80808,1.24079 2.80808,2.74279 0,1.56729 -1.24078,2.80808 -2.80808,2.80808 -1.50199,0 -2.74278,-1.24079 -2.74278,-2.80808 0,-1.502 1.24079,-2.74279 2.74278,-2.74279 z"
+       class="fil5 str11" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.64716542"
+       inkscape:connector-curvature="0"
+       id="path16578"
+       d="m 492.45634,652.26984 c 1.5673,0 2.80808,1.24079 2.80808,2.74278 0,1.5673 -1.24078,2.80808 -2.80808,2.80808 -1.50199,0 -2.74278,-1.24078 -2.74278,-2.80808 0,-1.50199 1.24079,-2.74278 2.74278,-2.74278 z"
+       class="fil5 str11" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.64716542"
+       inkscape:connector-curvature="0"
+       id="path16580"
+       d="m 492.45634,690.53815 c 1.5673,0 2.80808,1.24079 2.80808,2.74278 0,1.5673 -1.24078,2.80808 -2.80808,2.80808 -1.50199,0 -2.74278,-1.24078 -2.74278,-2.80808 0,-1.50199 1.24079,-2.74278 2.74278,-2.74278 z"
+       class="fil5 str11" />
+    <polygon
+       style="fill:#b7cbd8;fill-rule:evenodd"
+       id="polygon16582"
+       points="16856,18174 16856,17809 16472,17809 16472,18174 "
+       class="fil18"
+       transform="matrix(0.06530428,0,0,0.06530428,-595.83917,-435.24229)" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:9.90999985"
+       id="polyline16584"
+       points="16472,18174 16472,17809 16856,17809 16856,18174 16472,18174 "
+       class="fil3 str11"
+       transform="matrix(0.06530428,0,0,0.06530428,-595.83917,-435.24229)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.64716542"
+       id="line16586"
+       y2="745.65503"
+       x2="504.93024"
+       y1="745.65503"
+       x1="479.85342"
+       class="fil3 str11" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.64716542"
+       id="line16588"
+       y2="763.94025"
+       x2="492.45715"
+       y1="751.5976"
+       x1="492.45715"
+       class="fil3 str11" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.64716542"
+       id="line16590"
+       y2="763.94025"
+       x2="498.98758"
+       y1="763.94025"
+       x1="485.99203"
+       class="fil3 str11" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.64716542"
+       id="line16592"
+       y2="694.2605"
+       x2="492.45715"
+       y1="727.7616"
+       x1="492.45715"
+       class="fil3 str11" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.64716542"
+       id="line16594"
+       y2="694.2605"
+       x2="498.98758"
+       y1="694.2605"
+       x1="485.99203"
+       class="fil3 str11" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.64716542"
+       inkscape:connector-curvature="0"
+       id="path16596"
+       d="m 556.32392,754.27513 c 1.5673,0 2.80808,1.24079 2.80808,2.74278 0,1.5673 -1.24078,2.80808 -2.80808,2.80808 -1.50199,0 -2.74278,-1.24078 -2.74278,-2.80808 0,-1.50199 1.24079,-2.74278 2.74278,-2.74278 z"
+       class="fil5 str11" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.64716542"
+       inkscape:connector-curvature="0"
+       id="path16598"
+       d="m 556.32392,747.02636 c 1.5673,0 2.80808,1.24077 2.80808,2.74278 0,1.5673 -1.24078,2.80808 -2.80808,2.80808 -1.50199,0 -2.74278,-1.24078 -2.74278,-2.80808 0,-1.50201 1.24079,-2.74278 2.74278,-2.74278 z"
+       class="fil5 str11" />
+    <polygon
+       style="fill:#fff383;fill-rule:evenodd"
+       id="polygon16600"
+       points="17834,18244 17834,18188 17452,18188 17452,18244 "
+       class="fil19"
+       transform="matrix(0.06530428,0,0,0.06530428,-595.83917,-435.24229)" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:9.90999985"
+       id="polyline16602"
+       points="17452,18244 17452,18188 17834,18188 17834,18244 17452,18244 "
+       class="fil3 str11"
+       transform="matrix(0.06530428,0,0,0.06530428,-595.83917,-435.24229)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.64716542"
+       id="line16604"
+       y2="754.34045"
+       x2="568.79785"
+       y1="754.34045"
+       x1="543.85162"
+       class="fil3 str11" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.64716542"
+       id="line16606"
+       y2="756.88733"
+       x2="556.32471"
+       y1="756.16901"
+       x1="556.32471"
+       class="fil3 str11" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.64716542"
+       id="line16608"
+       y2="756.88733"
+       x2="562.85516"
+       y1="756.88733"
+       x1="549.85962"
+       class="fil3 str11" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.64716542"
+       id="line16610"
+       y2="750.16101"
+       x2="556.32471"
+       y1="752.51196"
+       x1="556.32471"
+       class="fil3 str11" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:0.64716542"
+       id="line16612"
+       y2="750.16101"
+       x2="562.85516"
+       y1="750.16101"
+       x1="549.85962"
+       class="fil3 str11" />
+    <text
+       style="font-size:27.64525795px;font-weight:bold;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
+       id="text16828"
+       class="fil1 fnt10"
+       y="591.23834"
+       x="397.73938">D</text>
+    <g
+       style="fill-rule:evenodd"
+       id="g16830"
+       transform="matrix(0.10463962,0,0,0.10463962,-1236.2001,-1174.6092)">
+      <polygon
+         style="fill:#000000;fill-rule:nonzero"
+         id="polygon16832"
+         points="16306,18795 18249,18795 18249,18807 16306,18807 "
+         class="fil17" />
+    </g>
+    <line
+       style="fill:none;stroke:#2b2a29;stroke-width:1.15196741"
+       id="line16834"
+       y2="624.12366"
+       x2="478.87384"
+       y1="629.67462"
+       x1="464.70267"
+       class="fil3 str12" />
+    <line
+       style="fill:none;stroke:#2b2a29;stroke-width:1.15196741"
+       id="line16836"
+       y2="627.2583"
+       x2="478.87384"
+       y1="632.87451"
+       x1="464.70267"
+       class="fil3 str12" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4021-4-5"
+       y="811.56635"
+       x="555.65668"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4046-6"
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="811.56635"
+         x="555.65668"
+         sodipodi:role="line">Loop</tspan><tspan
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="826.56635"
+         x="555.65668"
+         sodipodi:role="line"
+         id="tspan4095">a base</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4021-4-5-2"
+       y="819.25092"
+       x="622.71802"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         y="819.25092"
+         x="622.71802"
+         sodipodi:role="line"
+         id="tspan4095-7">Animales</tspan></text>
+  </g>
+</svg>

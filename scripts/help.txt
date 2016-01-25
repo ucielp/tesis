@@ -37,11 +37,3 @@ wc -l *.infile | awk '{print $1/2"\t"$2}' > ../precursores_animal_especies.csv
 
 ###
 
-z <- read.table("loop_size.csv",header=T,sep='\t')
-
-svg(filename="loop_size_uciel.svg", 
-    width=5, 
-    height=5, 
-    pointsize=10)
-    boxplot(z)
-dev.off()

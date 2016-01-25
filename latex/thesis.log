@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.3)  24 JAN 2016 10:19
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.3)  25 JAN 2016 13:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1734,7 +1734,7 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 [2]
-<Introduccion/Figs/familias_miRNAs_conservados.png, id=572, 449.5194pt x 178.74
+<Introduccion/Figs/familias_miRNAs_conservados.png, id=574, 449.5194pt x 178.74
 78pt>
 File: Introduccion/Figs/familias_miRNAs_conservados.png Graphic file (type png)
 
@@ -1743,7 +1743,7 @@ Package pdftex.def Info: Introduccion/Figs/familias_miRNAs_conservados.png used
  on input line 62.
 (pdftex.def)             Requested size: 437.46112pt x 173.9579pt.
  [3 <./Introduccion/Figs/familias_miRNAs_conservados.png>]
-<Introduccion/Figs/procesamiento_animales.png, id=626, 318.27708pt x 459.6372pt
+<Introduccion/Figs/procesamiento_animales.png, id=628, 318.27708pt x 459.6372pt
 >
 File: Introduccion/Figs/procesamiento_animales.png Graphic file (type png)
  <use Introduccion/Figs/procesamiento_animales.png>
@@ -1765,7 +1765,7 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 [6 <./Introduccion/Figs/procesamiento_animales.png>]
-<Introduccion/Figs/biogenesis_accion.png, id=691, 426.10393pt x 559.94797pt>
+<Introduccion/Figs/biogenesis_accion.png, id=693, 426.10393pt x 559.94797pt>
 File: Introduccion/Figs/biogenesis_accion.png Graphic file (type png)
 
 <use Introduccion/Figs/biogenesis_accion.png>
@@ -1855,7 +1855,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 155.
 
-<Materials/Figs/identificacion_producto.png, id=911, 222.01344pt x 320.30064pt>
+<Materials/Figs/identificacion_producto.png, id=913, 222.01344pt x 320.30064pt>
 File: Materials/Figs/identificacion_producto.png Graphic file (type png)
 <use Materials/Figs/identificacion_producto.png>
 Package pdftex.def Info: Materials/Figs/identificacion_producto.png used on inp
@@ -1888,7 +1888,7 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[26] <Materials/Figs/comTAR_fig1.png, id=973, 858.5676pt x 232.7094pt>
+[26] <Materials/Figs/comTAR_fig1.png, id=975, 858.5676pt x 232.7094pt>
 File: Materials/Figs/comTAR_fig1.png Graphic file (type png)
 
 <use Materials/Figs/comTAR_fig1.png>
@@ -1896,7 +1896,7 @@ Package pdftex.def Info: Materials/Figs/comTAR_fig1.png used on input line 285.
 
 (pdftex.def)             Requested size: 437.46112pt x 118.57013pt.
 
-<Materials/Figs/SPARE_construccion.png, id=975, 1024.3068pt x 766.5438pt>
+<Materials/Figs/SPARE_construccion.png, id=977, 1024.3068pt x 766.5438pt>
 File: Materials/Figs/SPARE_construccion.png Graphic file (type png)
 
 <use Materials/Figs/SPARE_construccion.png>
@@ -1935,7 +1935,7 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 [32] [33]
-<Materials/Figs/treePhytozome.png, id=1048, 551.05875pt x 529.37775pt>
+<Materials/Figs/treePhytozome.png, id=1050, 551.05875pt x 529.37775pt>
 File: Materials/Figs/treePhytozome.png Graphic file (type png)
 
 <use Materials/Figs/treePhytozome.png>
@@ -1984,7 +1984,7 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
 
 
 ] [39]
-<Chapter1/Figs/variabilidad_maduro.png, id=1116, 450.483pt x 512.1534pt>
+<Chapter1/Figs/variabilidad_maduro.png, id=1118, 450.483pt x 512.1534pt>
 File: Chapter1/Figs/variabilidad_maduro.png Graphic file (type png)
 
 <use Chapter1/Figs/variabilidad_maduro.png>
@@ -1999,7 +1999,7 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 [40] [41 <./Chapter1/Figs/variabilidad_maduro.png>]
-<Chapter1/Figs/NAR_fig1.png, id=1140, 361.35pt x 543.4704pt>
+<Chapter1/Figs/NAR_fig1.png, id=1142, 361.35pt x 543.4704pt>
 File: Chapter1/Figs/NAR_fig1.png Graphic file (type png)
 
 <use Chapter1/Figs/NAR_fig1.png>
@@ -2022,7 +2022,7 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[44] <Chapter1/Figs/NAR_fig2.png, id=1174, 432.1746pt x 579.1236pt>
+[44] <Chapter1/Figs/NAR_fig2.png, id=1177, 432.1746pt x 579.1236pt>
 File: Chapter1/Figs/NAR_fig2.png Graphic file (type png)
 
 <use Chapter1/Figs/NAR_fig2.png>
@@ -2032,7 +2032,7 @@ Package pdftex.def Info: Chapter1/Figs/NAR_fig2.png used on input line 167.
 
 LaTeX Warning: Float too large for page by 5.31905pt on input line 175.
 
-<Chapter1/Figs/NAR_fig3.png, id=1175, 292.9344pt x 494.8086pt>
+<Chapter1/Figs/NAR_fig3.png, id=1178, 292.9344pt x 494.8086pt>
 File: Chapter1/Figs/NAR_fig3.png Graphic file (type png)
 
 <use Chapter1/Figs/NAR_fig3.png>
@@ -2068,7 +2068,7 @@ Underfull \vbox (badness 1571) has occurred while \output is active []
 
 
 ]
-<Chapter1/Figs/NAR_fig4.png, id=1227, 420.6114pt x 707.5233pt>
+<Chapter1/Figs/NAR_fig4.png, id=1229, 420.6114pt x 707.5233pt>
 File: Chapter1/Figs/NAR_fig4.png Graphic file (type png)
 
 <use Chapter1/Figs/NAR_fig4.png>
@@ -2082,7 +2082,7 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 [50] [51 <./Chapter1/Figs/NAR_fig4.png>]
-<Chapter1/Figs/NAR_fig5.png, id=1250, 450.9648pt x 393.6306pt>
+<Chapter1/Figs/NAR_fig5.png, id=1252, 450.9648pt x 393.6306pt>
 File: Chapter1/Figs/NAR_fig5.png Graphic file (type png)
 
 <use Chapter1/Figs/NAR_fig5.png>
@@ -2096,7 +2096,7 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 [52] [53 <./Chapter1/Figs/NAR_fig5.png>]
-<Chapter1/Figs/NAR_fig6.png, id=1267, 453.3738pt x 590.6868pt>
+<Chapter1/Figs/NAR_fig6.png, id=1269, 453.3738pt x 590.6868pt>
 File: Chapter1/Figs/NAR_fig6.png Graphic file (type png)
 
 <use Chapter1/Figs/NAR_fig6.png>
@@ -2110,7 +2110,7 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 [54] [55 <./Chapter1/Figs/NAR_fig6.png>]
-<Chapter1/Figs/comTAR_find_targets.png, id=1283, 1146.2825pt x 767.86874pt>
+<Chapter1/Figs/comTAR_find_targets.png, id=1285, 1146.2825pt x 767.86874pt>
 File: Chapter1/Figs/comTAR_find_targets.png Graphic file (type png)
 
 <use Chapter1/Figs/comTAR_find_targets.png>
@@ -2118,17 +2118,12 @@ Package pdftex.def Info: Chapter1/Figs/comTAR_find_targets.png used on input li
 ne 393.
 (pdftex.def)             Requested size: 437.46112pt x 293.04684pt.
 
-<Chapter1/Figs/comTAR_fig2.png, id=1284, 1619.04875pt x 914.41624pt>
+<Chapter1/Figs/comTAR_fig2.png, id=1286, 1619.04875pt x 914.41624pt>
 File: Chapter1/Figs/comTAR_fig2.png Graphic file (type png)
 
 <use Chapter1/Figs/comTAR_fig2.png>
-Package pdftex.def Info: Chapter1/Figs/comTAR_fig2.png used on input line 401.
-(pdftex.def)             Requested size: 481.2099pt x 271.77362pt.
-
-Overfull \hbox (43.74878pt too wide) in paragraph at lines 401--402
- [][] 
- []
-
+Package pdftex.def Info: Chapter1/Figs/comTAR_fig2.png used on input line 400.
+(pdftex.def)             Requested size: 437.46112pt x 247.06311pt.
 )
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
@@ -2136,29 +2131,23 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[56] [57 <./Chapter1/Figs/comTAR_find_targets.png>]
-
-Package Fancyhdr Warning: \headheight is too small (14.5pt): 
- Make it at least 15.13202pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[58 <./Chapter1/Figs/comTAR_fig2.png>]
+[56] [57 <./Chapter1/Figs/comTAR_find_targets.png> <./Chapter1/Figs/comTAR_fig2
+.png>]
 \openout2 = `Chapter2/chapter2.aux'.
 
- (./Chapter2/chapter2.tex
-<Chapter2/Figs/hairpin_distribution.png, id=1314, 332.9238pt x 280.8894pt>
+ (./Chapter2/chapter2.tex [58
+
+
+
+]
+<Chapter2/Figs/hairpin_distribution.png, id=1316, 332.9238pt x 280.8894pt>
 File: Chapter2/Figs/hairpin_distribution.png Graphic file (type png)
 
 <use Chapter2/Figs/hairpin_distribution.png>
 Package pdftex.def Info: Chapter2/Figs/hairpin_distribution.png used on input l
 ine 29.
 (pdftex.def)             Requested size: 306.22144pt x 258.36995pt.
- [59
-
-
-
-]
+ [59]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -2169,26 +2158,26 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 [60 <./Chapter2/Figs/hairpin_distribution.png>] [61]
-<Chapter2/Figs/GR_fig1C.png, id=1354, 168.1482pt x 179.2296pt>
+<Chapter2/Figs/GR_fig1C.png, id=1356, 168.1482pt x 179.2296pt>
 File: Chapter2/Figs/GR_fig1C.png Graphic file (type png)
 
 <use Chapter2/Figs/GR_fig1C.png>
 Package pdftex.def Info: Chapter2/Figs/GR_fig1C.png used on input line 75.
 (pdftex.def)             Requested size: 218.73056pt x 233.15431pt.
 
-<Chapter2/Figs/GR_fig2A.png, id=1355, 434.5836pt x 218.7372pt>
+<Chapter2/Figs/GR_fig2A.png, id=1357, 434.5836pt x 218.7372pt>
 File: Chapter2/Figs/GR_fig2A.png Graphic file (type png)
 
 <use Chapter2/Figs/GR_fig2A.png>
 Package pdftex.def Info: Chapter2/Figs/GR_fig2A.png used on input line 82.
-(pdftex.def)             Requested size: 437.46112pt x 220.19519pt.
+(pdftex.def)             Requested size: 349.97023pt x 176.15482pt.
 
-<Chapter2/Figs/GR_fig4A.png, id=1356, 408.5664pt x 242.8272pt>
+<Chapter2/Figs/GR_fig4A.png, id=1358, 408.5664pt x 242.8272pt>
 File: Chapter2/Figs/GR_fig4A.png Graphic file (type png)
 
 <use Chapter2/Figs/GR_fig4A.png>
-Package pdftex.def Info: Chapter2/Figs/GR_fig4A.png used on input line 97.
-(pdftex.def)             Requested size: 437.46112pt x 260.00038pt.
+Package pdftex.def Info: Chapter2/Figs/GR_fig4A.png used on input line 96.
+(pdftex.def)             Requested size: 349.97023pt x 208.00104pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
@@ -2204,44 +2193,26 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 [64 <./Chapter2/Figs/GR_fig4A.png>]
-<Chapter2/Figs/GR_fig2C.png, id=1385, 433.62pt x 105.0324pt>
+<Chapter2/Figs/GR_fig2C.png, id=1387, 433.62pt x 105.0324pt>
 File: Chapter2/Figs/GR_fig2C.png Graphic file (type png)
 
 <use Chapter2/Figs/GR_fig2C.png>
-Package pdftex.def Info: Chapter2/Figs/GR_fig2C.png used on input line 134.
+Package pdftex.def Info: Chapter2/Figs/GR_fig2C.png used on input line 133.
 (pdftex.def)             Requested size: 437.46112pt x 105.96808pt.
 
-<Chapter2/Figs/GR_fig4C.png, id=1386, 431.211pt x 109.3686pt>
+<Chapter2/Figs/GR_fig4C.png, id=1388, 431.211pt x 109.3686pt>
 File: Chapter2/Figs/GR_fig4C.png Graphic file (type png)
 
 <use Chapter2/Figs/GR_fig4C.png>
-Package pdftex.def Info: Chapter2/Figs/GR_fig4C.png used on input line 144.
+Package pdftex.def Info: Chapter2/Figs/GR_fig4C.png used on input line 143.
 (pdftex.def)             Requested size: 437.46112pt x 110.95871pt.
- [65]
-
-Package Fancyhdr Warning: \headheight is too small (14.5pt): 
- Make it at least 15.13202pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[66 <./Chapter2/Figs/GR_fig2C.png> <./Chapter2/Figs/GR_fig4C.png>]
-<Chapter2/Figs/mecanismos.png, id=1409, 608.5134pt x 309.89375pt>
+ [65 <./Chapter2/Figs/GR_fig2C.png> <./Chapter2/Figs/GR_fig4C.png>]
+<Chapter2/Figs/mecanismos.png, id=1406, 608.5134pt x 309.89375pt>
 File: Chapter2/Figs/mecanismos.png Graphic file (type png)
 
 <use Chapter2/Figs/mecanismos.png>
-Package pdftex.def Info: Chapter2/Figs/mecanismos.png used on input line 169.
+Package pdftex.def Info: Chapter2/Figs/mecanismos.png used on input line 168.
 (pdftex.def)             Requested size: 437.46112pt x 222.78287pt.
-
-Underfull \vbox (badness 1895) has occurred while \output is active []
-
- [67 <./Chapter2/Figs/mecanismos.png>]
-<Chapter2/Figs/SPARE_tecnica.png, id=1417, 1168.8468pt x 480.8364pt>
-File: Chapter2/Figs/SPARE_tecnica.png Graphic file (type png)
-
-<use Chapter2/Figs/SPARE_tecnica.png>
-Package pdftex.def Info: Chapter2/Figs/SPARE_tecnica.png used on input line 187
-.
-(pdftex.def)             Requested size: 437.46112pt x 179.96103pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
@@ -2249,29 +2220,52 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[68 <./Chapter2/Figs/SPARE_tecnica.png>] [69]
-<Chapter2/Figs/SPARE_estrategia.png, id=1432, 579.6054pt x 628.749pt>
+[66 <./Chapter2/Figs/mecanismos.png>]
+<Chapter2/Figs/SPARE_tecnica.png, id=1415, 1168.8468pt x 480.8364pt>
+File: Chapter2/Figs/SPARE_tecnica.png Graphic file (type png)
+
+<use Chapter2/Figs/SPARE_tecnica.png>
+Package pdftex.def Info: Chapter2/Figs/SPARE_tecnica.png used on input line 186
+.
+(pdftex.def)             Requested size: 437.46112pt x 179.96103pt.
+ [67 <./Chapter2/Figs/SPARE_tecnica.png>]
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 15.13202pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[68] <Chapter2/Figs/SPARE_estrategia.png, id=1429, 579.6054pt x 628.749pt>
 File: Chapter2/Figs/SPARE_estrategia.png Graphic file (type png)
 
 <use Chapter2/Figs/SPARE_estrategia.png>
 Package pdftex.def Info: Chapter2/Figs/SPARE_estrategia.png used on input line 
-247.
+246.
 (pdftex.def)             Requested size: 218.73056pt x 237.27693pt.
-
+ [69 <./Chapter2/Figs/SPARE_estrategia.png>]
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
  Make it at least 15.13202pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[70 <./Chapter2/Figs/SPARE_estrategia.png>] [71]
-<Chapter2/Figs/miR165a_SPARE.png, id=1453, 780.80653pt x 411.83005pt>
+[70] <Chapter2/Figs/miR165a_SPARE.png, id=1451, 780.80653pt x 411.83005pt>
 File: Chapter2/Figs/miR165a_SPARE.png Graphic file (type png)
 
 <use Chapter2/Figs/miR165a_SPARE.png>
-Package pdftex.def Info: Chapter2/Figs/miR165a_SPARE.png used on input line 278
+Package pdftex.def Info: Chapter2/Figs/miR165a_SPARE.png used on input line 277
 .
 (pdftex.def)             Requested size: 612.44289pt x 323.0485pt.
+ [71
+
+ <./Chapter2/Figs/miR165a_SPARE.png>]
+<Chapter2/Figs/miR169d_SPARE.png, id=1457, 780.80653pt x 281.09035pt>
+File: Chapter2/Figs/miR169d_SPARE.png Graphic file (type png)
+
+<use Chapter2/Figs/miR169d_SPARE.png>
+Package pdftex.def Info: Chapter2/Figs/miR169d_SPARE.png used on input line 291
+.
+(pdftex.def)             Requested size: 612.44289pt x 220.49341pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
@@ -2281,45 +2275,20 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
 
 [72
 
- <./Chapter2/Figs/miR165a_SPARE.png>]
-<Chapter2/Figs/miR169d_SPARE.png, id=1459, 780.80653pt x 281.09035pt>
-File: Chapter2/Figs/miR169d_SPARE.png Graphic file (type png)
 
-<use Chapter2/Figs/miR169d_SPARE.png>
-Package pdftex.def Info: Chapter2/Figs/miR169d_SPARE.png used on input line 292
-.
-(pdftex.def)             Requested size: 612.44289pt x 220.49341pt.
- [73
+ <./Chapter2/Figs/miR169d_SPARE.png>] [73
 
-
- <./Chapter2/Figs/miR169d_SPARE.png>]
-
-Package Fancyhdr Warning: \headheight is too small (14.5pt): 
- Make it at least 15.13202pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[74
-
-] <Chapter2/Figs/miR156a_SPARE.png, id=1475, 824.96205pt x 551.4201pt>
+]
+<Chapter2/Figs/miR156a_SPARE.png, id=1473, 824.96205pt x 551.4201pt>
 File: Chapter2/Figs/miR156a_SPARE.png Graphic file (type png)
 
 <use Chapter2/Figs/miR156a_SPARE.png>
-Package pdftex.def Info: Chapter2/Figs/miR156a_SPARE.png used on input line 321
+Package pdftex.def Info: Chapter2/Figs/miR156a_SPARE.png used on input line 320
 .
 (pdftex.def)             Requested size: 612.44289pt x 409.3739pt.
 
 
-LaTeX Warning: Float too large for page by 54.41277pt on input line 330.
-
-[75 <./Chapter2/Figs/miR156a_SPARE.png>]
-<Chapter2/Figs/miR159b_SPARE.png, id=1482, 780.80653pt x 365.708pt>
-File: Chapter2/Figs/miR159b_SPARE.png Graphic file (type png)
-
-<use Chapter2/Figs/miR159b_SPARE.png>
-Package pdftex.def Info: Chapter2/Figs/miR159b_SPARE.png used on input line 338
-.
-(pdftex.def)             Requested size: 612.44289pt x 286.86935pt.
+LaTeX Warning: Float too large for page by 54.41277pt on input line 329.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
@@ -2327,20 +2296,28 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[76
+[74 <./Chapter2/Figs/miR156a_SPARE.png>]
+<Chapter2/Figs/miR159b_SPARE.png, id=1479, 780.80653pt x 365.708pt>
+File: Chapter2/Figs/miR159b_SPARE.png Graphic file (type png)
+
+<use Chapter2/Figs/miR159b_SPARE.png>
+Package pdftex.def Info: Chapter2/Figs/miR159b_SPARE.png used on input line 337
+.
+(pdftex.def)             Requested size: 612.44289pt x 286.86935pt.
+ [75
 
 
 
  <./Chapter2/Figs/miR159b_SPARE.png>])
 \openout2 = `Chapter3/chapter3.aux'.
 
- (./Chapter3/chapter3.tex [77
+(./Chapter3/chapter3.tex [76
 
 
 
 
-]
-<Chapter3/Figs/dicots_species.png, id=1496, 324.7332pt x 279.9258pt>
+] [77]
+<Chapter3/Figs/dicots_species.png, id=1498, 324.7332pt x 279.9258pt>
 File: Chapter3/Figs/dicots_species.png Graphic file (type png)
 
 <use Chapter3/Figs/dicots_species.png>
@@ -2355,12 +2332,12 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 [78 <./Chapter3/Figs/dicots_species.png>] [79]
-<Chapter3/Figs/miR172a_tcoffee.png, id=1510, 732.8178pt x 419.166pt>
+<Chapter3/Figs/miR172a_tcoffee.png, id=1516, 732.8178pt x 419.166pt>
 File: Chapter3/Figs/miR172a_tcoffee.png Graphic file (type png)
 
 <use Chapter3/Figs/miR172a_tcoffee.png>
-Package pdftex.def Info: Chapter3/Figs/miR172a_tcoffee.png used on input line 7
-8.
+Package pdftex.def Info: Chapter3/Figs/miR172a_tcoffee.png used on input line 8
+5.
 (pdftex.def)             Requested size: 612.44289pt x 350.31258pt.
 
 
@@ -2371,19 +2348,26 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
 
 [80
 
- <./Chapter3/Figs/miR172a_tcoffee.png>] [81
-
-]
-<Chapter3/Figs/miR172a_rnafold.png, id=1525, 814.84425pt x 582.4962pt>
+ <./Chapter3/Figs/miR172a_tcoffee.png>]
+<Chapter3/Figs/miR172a_rnafold.png, id=1522, 814.84425pt x 582.4962pt>
 File: Chapter3/Figs/miR172a_rnafold.png Graphic file (type png)
 
 <use Chapter3/Figs/miR172a_rnafold.png>
 Package pdftex.def Info: Chapter3/Figs/miR172a_rnafold.png used on input line 9
-7.
+8.
 (pdftex.def)             Requested size: 612.44289pt x 437.82211pt.
 
 
-LaTeX Warning: Float too large for page by 39.36098pt on input line 103.
+LaTeX Warning: Float too large for page by 39.36098pt on input line 104.
+
+[81 <./Chapter3/Figs/miR172a_rnafold.png>]
+<Chapter3/Figs/miR172a_circos.png, id=1531, 2136.3012pt x 1998.9882pt>
+File: Chapter3/Figs/miR172a_circos.png Graphic file (type png)
+
+<use Chapter3/Figs/miR172a_circos.png>
+Package pdftex.def Info: Chapter3/Figs/miR172a_circos.png used on input line 12
+5.
+(pdftex.def)             Requested size: 437.46112pt x 409.3377pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
@@ -2391,16 +2375,35 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[82 <./Chapter3/Figs/miR172a_rnafold.png>]
-<Chapter3/Figs/miR172a_circos.png, id=1533, 2136.3012pt x 1998.9882pt>
-File: Chapter3/Figs/miR172a_circos.png Graphic file (type png)
+[82
 
-<use Chapter3/Figs/miR172a_circos.png>
-Package pdftex.def Info: Chapter3/Figs/miR172a_circos.png used on input line 12
-4.
-(pdftex.def)             Requested size: 437.46112pt x 409.3377pt.
- [83
 
+
+] [83 <./Chapter3/Figs/miR172a_circos.png>]
+<Chapter3/Figs/miR172_meme.png, id=1543, 1131.2664pt x 632.6034pt>
+File: Chapter3/Figs/miR172_meme.png Graphic file (type png)
+
+<use Chapter3/Figs/miR172_meme.png>
+Package pdftex.def Info: Chapter3/Figs/miR172_meme.png used on input line 144.
+(pdftex.def)             Requested size: 612.44289pt x 342.47914pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 15.13202pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[84
+
+ <./Chapter3/Figs/miR172_meme.png>]
+<Chapter3/Figs/miR390a_circos.png, id=1557, 2068.3674pt x 1997.5428pt>
+File: Chapter3/Figs/miR390a_circos.png Graphic file (type png)
+
+<use Chapter3/Figs/miR390a_circos.png>
+Package pdftex.def Info: Chapter3/Figs/miR390a_circos.png used on input line 17
+7.
+(pdftex.def)             Requested size: 437.46112pt x 422.48341pt.
+ [85
 
 ]
 
@@ -2409,70 +2412,35 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[84 <./Chapter3/Figs/miR172a_circos.png>]
-<Chapter3/Figs/miR172_meme.png, id=1545, 1131.2664pt x 632.6034pt>
-File: Chapter3/Figs/miR172_meme.png Graphic file (type png)
-
-<use Chapter3/Figs/miR172_meme.png>
-Package pdftex.def Info: Chapter3/Figs/miR172_meme.png used on input line 143.
-(pdftex.def)             Requested size: 612.44289pt x 342.47914pt.
- [85
-
- <./Chapter3/Figs/miR172_meme.png>]
-<Chapter3/Figs/miR390a_circos.png, id=1560, 2068.3674pt x 1997.5428pt>
-File: Chapter3/Figs/miR390a_circos.png Graphic file (type png)
-
-<use Chapter3/Figs/miR390a_circos.png>
-Package pdftex.def Info: Chapter3/Figs/miR390a_circos.png used on input line 17
-6.
-(pdftex.def)             Requested size: 437.46112pt x 422.48341pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (14.5pt): 
- Make it at least 15.13202pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[86
-
-] [87 <./Chapter3/Figs/miR390a_circos.png>]
-
-Package Fancyhdr Warning: \headheight is too small (14.5pt): 
- Make it at least 15.13202pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[88] <Chapter3/Figs/miR169b_circos.png, id=1579, 2059.695pt x 2013.4422pt>
+[86 <./Chapter3/Figs/miR390a_circos.png>] [87]
+<Chapter3/Figs/miR169b_circos.png, id=1581, 2059.695pt x 2013.4422pt>
 File: Chapter3/Figs/miR169b_circos.png Graphic file (type png)
 
 <use Chapter3/Figs/miR169b_circos.png>
-Package pdftex.def Info: Chapter3/Figs/miR169b_circos.png used on input line 19
-9.
+Package pdftex.def Info: Chapter3/Figs/miR169b_circos.png used on input line 20
+7.
 (pdftex.def)             Requested size: 295.28424pt x 288.63896pt.
 
-<Chapter3/Figs/miR394b_circos.png, id=1580, 2053.9134pt x 2014.8876pt>
+<Chapter3/Figs/miR394b_circos.png, id=1582, 2053.9134pt x 2014.8876pt>
 File: Chapter3/Figs/miR394b_circos.png Graphic file (type png)
 
 <use Chapter3/Figs/miR394b_circos.png>
-Package pdftex.def Info: Chapter3/Figs/miR394b_circos.png used on input line 20
-5.
+Package pdftex.def Info: Chapter3/Figs/miR394b_circos.png used on input line 21
+3.
 (pdftex.def)             Requested size: 295.28424pt x 289.64552pt.
 
-Overfull \hbox (22.40656pt too wide) in paragraph at lines 197--209
+Overfull \hbox (22.40656pt too wide) in paragraph at lines 205--217
  []$[]$$[]$ 
  []
 
-[89 <./Chapter3/Figs/miR169b_circos.png> <./Chapter3/Figs/miR394b_circos.png>]
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
  Make it at least 15.13202pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[90
-
-
-] <Chapter3/Figs/miR157a_circos.png, id=1595, 2129.0742pt x 1997.5428pt>
+[88 <./Chapter3/Figs/miR169b_circos.png> <./Chapter3/Figs/miR394b_circos.png>]
+<Chapter3/Figs/miR157a_circos.png, id=1589, 2129.0742pt x 1997.5428pt>
 File: Chapter3/Figs/miR157a_circos.png Graphic file (type png)
 
 <use Chapter3/Figs/miR157a_circos.png>
@@ -2480,7 +2448,7 @@ Package pdftex.def Info: Chapter3/Figs/miR157a_circos.png used on input line 23
 0.
 (pdftex.def)             Requested size: 295.28424pt x 277.0328pt.
 
-<Chapter3/Figs/miR160a_circos.png, id=1596, 2094.3846pt x 1997.5428pt>
+<Chapter3/Figs/miR160a_circos.png, id=1590, 2094.3846pt x 1997.5428pt>
 File: Chapter3/Figs/miR160a_circos.png Graphic file (type png)
 
 <use Chapter3/Figs/miR160a_circos.png>
@@ -2492,151 +2460,180 @@ Overfull \hbox (22.40656pt too wide) in paragraph at lines 228--240
  []$[]$$[]$ 
  []
 
-[91 <./Chapter3/Figs/miR157a_circos.png> <./Chapter3/Figs/miR160a_circos.png>]
+[89 <./Chapter3/Figs/miR157a_circos.png> <./Chapter3/Figs/miR160a_circos.png>]
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
  Make it at least 15.13202pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[92
+[90
 
 
-] <Chapter3/Figs/miR319a_circos.png, id=1613, 2269.278pt x 2022.1146pt>
+
+
+] <Chapter3/Figs/miR319a_circos.png, id=1612, 2269.278pt x 2022.1146pt>
 File: Chapter3/Figs/miR319a_circos.png Graphic file (type png)
 
 <use Chapter3/Figs/miR319a_circos.png>
-Package pdftex.def Info: Chapter3/Figs/miR319a_circos.png used on input line 25
-9.
+Package pdftex.def Info: Chapter3/Figs/miR319a_circos.png used on input line 27
+3.
 (pdftex.def)             Requested size: 295.28424pt x 263.10011pt.
 
-<Chapter3/Figs/miR159b_circos.png, id=1614, 2275.0596pt x 2027.8962pt>
+<Chapter3/Figs/miR159b_circos.png, id=1613, 2275.0596pt x 2027.8962pt>
 File: Chapter3/Figs/miR159b_circos.png Graphic file (type png)
 
 <use Chapter3/Figs/miR159b_circos.png>
-Package pdftex.def Info: Chapter3/Figs/miR159b_circos.png used on input line 26
-5.
+Package pdftex.def Info: Chapter3/Figs/miR159b_circos.png used on input line 27
+9.
 (pdftex.def)             Requested size: 295.28424pt x 263.20256pt.
 
-Overfull \hbox (22.40656pt too wide) in paragraph at lines 257--269
+Overfull \hbox (22.40656pt too wide) in paragraph at lines 271--283
  []$[]$$[]$ 
  []
 
-[93 <./Chapter3/Figs/miR319a_circos.png> <./Chapter3/Figs/miR159b_circos.png>]
-
-Package Fancyhdr Warning: \headheight is too small (14.5pt): 
- Make it at least 15.13202pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[94
-
-
-] <Chapter3/Figs/miR171c_circos.png, id=1631, 2105.9478pt x 1996.0974pt>
+[91 <./Chapter3/Figs/miR319a_circos.png> <./Chapter3/Figs/miR159b_circos.png>]
+<Chapter3/Figs/miR171c_circos.png, id=1620, 2105.9478pt x 1996.0974pt>
 File: Chapter3/Figs/miR171c_circos.png Graphic file (type png)
 
 <use Chapter3/Figs/miR171c_circos.png>
 Package pdftex.def Info: Chapter3/Figs/miR171c_circos.png used on input line 29
-7.
+5.
 (pdftex.def)             Requested size: 255.9106pt x 242.53668pt.
 
-<Chapter3/Figs/miR171a_circos.png, id=1632, 2123.2926pt x 1994.652pt>
+<Chapter3/Figs/miR171a_circos.png, id=1621, 2123.2926pt x 1994.652pt>
 File: Chapter3/Figs/miR171a_circos.png Graphic file (type png)
 
 <use Chapter3/Figs/miR171a_circos.png>
 Package pdftex.def Info: Chapter3/Figs/miR171a_circos.png used on input line 30
-3.
+1.
 (pdftex.def)             Requested size: 255.9106pt x 240.38274pt.
- [95 <./Chapter3/Figs/miR171c_circos.png> <./Chapter3/Figs/miR171a_circos.png>]
 
-<Chapter3/Figs/miR164_base_pairing.png, id=1641, 837.8502pt x 394.1124pt>
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 15.13202pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[92 <./Chapter3/Figs/miR171c_circos.png> <./Chapter3/Figs/miR171a_circos.png>]
+<Chapter3/Figs/miR164_base_pairing.png, id=1630, 837.8502pt x 394.1124pt>
 File: Chapter3/Figs/miR164_base_pairing.png Graphic file (type png)
 
 <use Chapter3/Figs/miR164_base_pairing.png>
 Package pdftex.def Info: Chapter3/Figs/miR164_base_pairing.png used on input li
-ne 329.
+ne 327.
 (pdftex.def)             Requested size: 262.47934pt x 123.4665pt.
 
-<Chapter3/Figs/miR164_ss.png, id=1643, 725.109pt x 1170.2922pt>
+<Chapter3/Figs/miR164_ss.png, id=1632, 725.109pt x 1170.2922pt>
 File: Chapter3/Figs/miR164_ss.png Graphic file (type png)
 
 <use Chapter3/Figs/miR164_ss.png>
-Package pdftex.def Info: Chapter3/Figs/miR164_ss.png used on input line 342.
+Package pdftex.def Info: Chapter3/Figs/miR164_ss.png used on input line 340.
 (pdftex.def)             Requested size: 131.23967pt x 211.80423pt.
+ [93
 
 
-Package Fancyhdr Warning: \headheight is too small (14.5pt): 
- Make it at least 15.13202pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[96
 
 
- <./Chapter3/Figs/miR164_base_pairing.png>]
-<Chapter3/Figs/miR164a_circos.png, id=1652, 3494.9772pt x 1997.5428pt>
+ <./Chapter3/Figs/miR164_base_pairing.png>] <Chapter3/Figs/miR164a_circos.png, 
+id=1642, 3494.9772pt x 1997.5428pt>
 File: Chapter3/Figs/miR164a_circos.png Graphic file (type png)
 
 <use Chapter3/Figs/miR164a_circos.png>
-Package pdftex.def Info: Chapter3/Figs/miR164a_circos.png used on input line 36
-1.
+Package pdftex.def Info: Chapter3/Figs/miR164a_circos.png used on input line 35
+9.
 (pdftex.def)             Requested size: 437.46112pt x 250.02751pt.
 
-<Chapter3/Figs/miR394b_base_pairing.png, id=1656, 833.9958pt x 324.2514pt>
+<Chapter3/Figs/miR394b_base_pairing.png, id=1646, 833.9958pt x 324.2514pt>
 File: Chapter3/Figs/miR394b_base_pairing.png Graphic file (type png)
 
 <use Chapter3/Figs/miR394b_base_pairing.png>
 Package pdftex.def Info: Chapter3/Figs/miR394b_base_pairing.png used on input l
-ine 380.
+ine 378.
 (pdftex.def)             Requested size: 262.47934pt x 102.05067pt.
 
-<Chapter3/Figs/miR394b_circos_aliniamientos.png, id=1658, 3844.764pt x 2022.114
+<Chapter3/Figs/miR394b_circos_aliniamientos.png, id=1648, 3844.764pt x 2022.114
 6pt>
 File: Chapter3/Figs/miR394b_circos_aliniamientos.png Graphic file (type png)
  <use Chapter3/Figs/miR394b_circos_aliniamientos.png>
 Package pdftex.def Info: Chapter3/Figs/miR394b_circos_aliniamientos.png used on
- input line 397.
+ input line 395.
 (pdftex.def)             Requested size: 437.46112pt x 230.05446pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [97 <./Chapter3/Figs/miR164_ss.png>]
+
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
  Make it at least 15.13202pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[98 <./Chapter3/Figs/miR164a_circos.png> <./Chapter3/Figs/miR394b_base_pairing.
-png>] [99 <./Chapter3/Figs/miR394b_circos_aliniamientos.png>]
-<Chapter3/Figs/distribucion_precursores.png, id=1681, 341.5962pt x 213.4374pt>
+[94 <./Chapter3/Figs/miR164_ss.png>] [95 <./Chapter3/Figs/miR164a_circos.png> <
+./Chapter3/Figs/miR394b_base_pairing.png>]
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 15.13202pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[96 <./Chapter3/Figs/miR394b_circos_aliniamientos.png>]
+<Chapter3/Figs/distribucion_precursores.png, id=1670, 341.5962pt x 213.4374pt>
 File: Chapter3/Figs/distribucion_precursores.png Graphic file (type png)
 
 <use Chapter3/Figs/distribucion_precursores.png>
 Package pdftex.def Info: Chapter3/Figs/distribucion_precursores.png used on inp
-ut line 434.
+ut line 433.
 (pdftex.def)             Requested size: 262.47934pt x 164.00206pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 454.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 453.
 
+<Chapter3/Figs/hsa-let-7a-1_circos.png, id=1675, 2055.3588pt x 2066.922pt>
+File: Chapter3/Figs/hsa-let-7a-1_circos.png Graphic file (type png)
+
+<use Chapter3/Figs/hsa-let-7a-1_circos.png>
+Package pdftex.def Info: Chapter3/Figs/hsa-let-7a-1_circos.png used on input li
+ne 480.
+(pdftex.def)             Requested size: 437.46112pt x 439.90108pt.
+ [97 <./Chapter3/Figs/distribucion_precursores.png>]
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
  Make it at least 15.13202pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[100 <./Chapter3/Figs/distribucion_precursores.png>]
-<Chapter3/Figs/hsa-let-7a-1_circos.png, id=1691, 2055.3588pt x 2066.922pt>
-File: Chapter3/Figs/hsa-let-7a-1_circos.png Graphic file (type png)
+[98 <./Chapter3/Figs/hsa-let-7a-1_circos.png>]
+<Chapter3/Figs/loop_size.png, id=1690, 348.8232pt x 330.5148pt>
+File: Chapter3/Figs/loop_size.png Graphic file (type png)
 
-<use Chapter3/Figs/hsa-let-7a-1_circos.png>
-Package pdftex.def Info: Chapter3/Figs/hsa-let-7a-1_circos.png used on input li
-ne 481.
-(pdftex.def)             Requested size: 437.46112pt x 439.90108pt.
-) [101 <./Chapter3/Figs/hsa-let-7a-1_circos.png>]
+<use Chapter3/Figs/loop_size.png>
+Package pdftex.def Info: Chapter3/Figs/loop_size.png used on input line 496.
+(pdftex.def)             Requested size: 306.22144pt x 290.1529pt.
+
+Underfull \vbox (badness 4181) has occurred while \output is active []
+
+ [99 <./Chapter3/Figs/loop_size.png>]
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 15.13202pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[100]
+<Chapter3/Figs/animals_vs_plants_circos.png, id=1704, 6569.343pt x 2233.143pt>
+File: Chapter3/Figs/animals_vs_plants_circos.png Graphic file (type png)
+
+<use Chapter3/Figs/animals_vs_plants_circos.png>
+Package pdftex.def Info: Chapter3/Figs/animals_vs_plants_circos.png used on inp
+ut line 510.
+(pdftex.def)             Requested size: 612.44289pt x 208.16402pt.
+ [101
+
+ <./Chapter3/Figs/animals_vs_plants_circos.png>])
 \openout2 = `Conclusiones/conclusiones.aux'.
 
  (./Conclusiones/conclusiones.tex [102
+
 
 
 
@@ -2690,17 +2687,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 172.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 172.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 172.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 8A3C8D3CCDEC54E5950A180CE72A5C2E;19754.
+(rerunfilecheck)             Checksum: 52E218B3B088CC4123DE1C7EA70A2CA2;19754.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 28007 strings out of 494966
- 484766 string characters out of 6179560
- 592415 words of memory out of 5000000
- 29697 multiletter control sequences out of 15000+600000
+ 28021 strings out of 494966
+ 485200 string characters out of 6179560
+ 592512 words of memory out of 5000000
+ 29707 multiletter control sequences out of 15000+600000
  119158 words of font info for 348 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  49i,12n,53p,10420b,2223s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2713,10 +2710,10 @@ type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (137 pages, 15506901 bytes).
+Output written on thesis.pdf (137 pages, 16540924 bytes).
 PDF statistics:
- 2116 PDF objects out of 2487 (max. 8388607)
- 1839 compressed objects within 19 object streams
- 617 named destinations out of 1000 (max. 500000)
- 66840 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 2128 PDF objects out of 2487 (max. 8388607)
+ 1847 compressed objects within 19 object streams
+ 619 named destinations out of 1000 (max. 500000)
+ 66850 words of extra memory for PDF output out of 74296 (max. 10000000)
 
