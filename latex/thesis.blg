@@ -1,5 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: Declaration/declaration.aux
 A level-1 auxiliary file: Divulgacion/divulgacion.aux
@@ -11,49 +10,49 @@ A level-1 auxiliary file: Materials/materials1.aux
 A level-1 auxiliary file: Chapter1/chapter1.aux
 A level-1 auxiliary file: Chapter2/chapter2.aux
 A level-1 auxiliary file: Chapter3/chapter3.aux
-A level-1 auxiliary file: Chapter4/chapter3.aux
+A level-1 auxiliary file: Chapter4/chapter4.aux
 A level-1 auxiliary file: Conclusiones/conclusiones.aux
 The style file: apalike.bst
 A level-1 auxiliary file: Appendix/appendix.aux
 Database file #1: References/references.bib
-You've used 161 entries,
+You've used 162 entries,
             1935 wiz_defined-function locations,
-            1377 strings with 37163 characters,
-and the built_in function-call counts, 78402 in all, are:
-= -- 7499
-> -- 4334
+            1382 strings with 37376 characters,
+and the built_in function-call counts, 78875 in all, are:
+= -- 7544
+> -- 4362
 < -- 51
-+ -- 1551
-- -- 1544
-* -- 7647
-:= -- 13667
-add.period$ -- 484
-call.type$ -- 161
-change.case$ -- 1576
-chr.to.int$ -- 156
-cite$ -- 161
-duplicate$ -- 2313
-empty$ -- 4852
-format.name$ -- 1769
-if$ -- 14839
++ -- 1561
+- -- 1554
+* -- 7694
+:= -- 13751
+add.period$ -- 487
+call.type$ -- 162
+change.case$ -- 1586
+chr.to.int$ -- 157
+cite$ -- 162
+duplicate$ -- 2327
+empty$ -- 4880
+format.name$ -- 1780
+if$ -- 14927
 int.to.chr$ -- 6
 int.to.str$ -- 0
-missing$ -- 161
-newline$ -- 808
-num.names$ -- 485
-pop$ -- 1230
+missing$ -- 162
+newline$ -- 813
+num.names$ -- 488
+pop$ -- 1238
 preamble$ -- 1
-purify$ -- 1576
+purify$ -- 1586
 quote$ -- 0
-skip$ -- 1729
+skip$ -- 1739
 stack$ -- 0
-substring$ -- 5894
-swap$ -- 221
+substring$ -- 5925
+swap$ -- 222
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 966
+type$ -- 972
 warning$ -- 0
-while$ -- 620
+while$ -- 624
 width$ -- 0
-write$ -- 2094
+write$ -- 2107

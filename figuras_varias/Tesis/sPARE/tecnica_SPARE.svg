@@ -13,8 +13,8 @@
    height="4251.9683"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="tecnica_sPARE.svg"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="tecnica_SPARE.svg"
    inkscape:export-filename="/home/uciel/lab/jornada_IBR/Uciel/poster.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -732,16 +732,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="3104.4154"
-     inkscape:cy="2880.1088"
+     inkscape:cx="2938.9638"
+     inkscape:cy="822.98448"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="cm"
-     inkscape:window-width="1366"
-     inkscape:window-height="750"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
      inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-to-guides="false"
      inkscape:snap-grids="false"
@@ -755,7 +755,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -776,7 +776,10 @@
            y="2562.9932" /></flowRegion><flowPara
          id="flowPara3252" /></flowRoot>    <g
        id="g6566"
-       transform="translate(-1645.6841,745.01258)">
+       transform="translate(-1645.6841,745.01258)"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/sRNA_tecnica.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
       <path
          style="fill:none;stroke:#c2c1c1;stroke-width:4.71849251"
          inkscape:connector-curvature="0"
@@ -1724,7 +1727,10 @@
        inkscape:connector-curvature="0"
        id="path203-0"
        d="m 2315.2415,-408.61699 c 8.9787,-35.91857 111.9851,-18.14826 145.1947,-1.54454 115.8025,57.8966 129.6619,11.94608 234.7831,-6.1785 71.5239,-12.33228 119.5792,30.15759 186.8997,7.72304"
-       class="fil0 str0" />
+       class="fil0 str0"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <ellipse
        d="m 42.6535,12.8638 c 0,1.576171 -1.721555,2.85391 -3.8452,2.85391 -2.123645,0 -3.8452,-1.277739 -3.8452,-2.85391 0,-1.576171 1.721555,-2.85391 3.8452,-2.85391 2.123645,0 3.8452,1.277739 3.8452,2.85391 z"
        transform="matrix(5.6352634,0,0,5.6352634,2095.1697,-465.99197)"
@@ -1738,37 +1744,55 @@
        rx="3.8452001"
        cy="12.8638"
        cx="38.8083"
-       class="fil1 str1" />
+       class="fil1 str1"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <text
        style="font-size:15.90384102px;font-weight:normal;fill:#798992;fill-rule:evenodd;font-family:Arial"
        id="text207-4"
        class="fil2 fnt0"
        y="-389.90573"
-       x="2295.7217">m7G</text>
+       x="2295.7217"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">m7G</text>
     <text
        style="font-size:19.88008118px;font-weight:normal;fill:#798992;fill-rule:evenodd;font-family:Arial"
        id="text209-2"
        class="fil2 fnt1"
        y="-412.29407"
-       x="2882.0779">AAAAAAA(A)</text>
+       x="2882.0779"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">AAAAAAA(A)</text>
     <text
        style="font-size:15.90384102px;font-weight:normal;fill:#798992;fill-rule:evenodd;font-family:Arial"
        id="text211-8"
        class="fil2 fnt0"
        y="-412.29407"
-       x="3001.3992">n</text>
+       x="3001.3992"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">n</text>
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text213-1"
        class="fil3 fnt2"
        y="-408.60352"
-       x="2200.7842">ARNm</text>
+       x="2200.7842"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">ARNm</text>
     <path
        style="fill:none;stroke:#c2c1c1;stroke-width:3.94468427"
        inkscape:connector-curvature="0"
        id="path215-0"
        d="m 2315.2415,-276.89842 c 8.9787,-35.91863 111.9851,-18.14832 145.1947,-1.54458 40.2477,20.12249 68.1749,27.69054 91.9056,28.25292"
-       class="fil0 str0" />
+       class="fil0 str0"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <ellipse
        d="m 42.6535,36.237801 c 0,1.576171 -1.721555,2.85391 -3.8452,2.85391 -2.123645,0 -3.8452,-1.277739 -3.8452,-2.85391 0,-1.576171 1.721555,-2.85391 3.8452,-2.85391 2.123645,0 3.8452,1.277739 3.8452,2.85391 z"
        transform="matrix(5.6352634,0,0,5.6352634,2095.1697,-465.99197)"
@@ -1782,193 +1806,289 @@
        rx="3.8452001"
        cy="36.237801"
        cx="38.8083"
-       class="fil1 str1" />
+       class="fil1 str1"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <text
        style="font-size:15.90384102px;font-weight:normal;fill:#798992;fill-rule:evenodd;font-family:Arial"
        id="text219-5"
        class="fil2 fnt0"
        y="-258.18726"
-       x="2295.7217">m7G</text>
+       x="2295.7217"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">m7G</text>
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text221-8"
        class="fil3 fnt2"
        y="-278.78052"
-       x="2200.7842">ARNm</text>
+       x="2200.7842"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">ARNm</text>
     <path
        style="fill:none"
        inkscape:connector-curvature="0"
        id="path223-9"
        d="m 2552.3418,-207.24938 c 44.5484,1.05491 74.2914,-22.60574 142.8775,-34.43145 71.5239,-12.33209 119.5792,30.15774 186.8997,7.72313"
-       class="fil0" />
+       class="fil0"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:#3bb3c2;fill-rule:nonzero;stroke:#c2c1c1;stroke-width:1.97234213"
        inkscape:connector-curvature="0"
        id="path225-3"
        d="m 2552.3418,-208.24958 c 24.0908,0.5754 43.8294,-6.10983 67.7747,-14.22849 20.2678,-6.87098 43.5348,-14.75936 74.9373,-20.1737 33.4007,-5.75866 61.6492,0.35673 89.1114,6.30258 31.4403,6.80626 61.847,13.38923 97.6456,1.45951 l 0.6165,1.86411 c -36.3181,12.10292 -66.9774,5.46507 -98.6779,-1.39749 -27.2793,-5.90577 -55.3389,-11.98061 -88.3643,-6.28684 -31.2573,5.38907 -54.4406,13.24913 -74.6362,20.09595 -24.1721,8.19546 -44.0989,14.94479 -68.4071,14.37272 l 0,-2.00835 z"
-       class="fil4 str2" />
+       class="fil4 str2"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <text
        style="font-size:19.88008118px;font-weight:normal;fill:#798992;fill-rule:evenodd;font-family:Arial"
        id="text227-0"
        class="fil2 fnt1"
        y="-234.03546"
-       x="2882.0779">AAAAAAA(A</text>
+       x="2882.0779"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">AAAAAAA(A</text>
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#798992;fill-rule:evenodd;font-family:Arial"
        id="text229-3"
        class="fil2 fnt2"
        y="-234.03546"
-       x="2994.7781">)</text>
+       x="2994.7781"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">)</text>
     <text
        style="font-size:15.90384102px;font-weight:normal;fill:#798992;fill-rule:evenodd;font-family:Arial"
        id="text231-2"
        class="fil2 fnt0"
        y="-234.03546"
-       x="3002.7227">n</text>
+       x="3002.7227"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">n</text>
     <path
        style="fill:none;stroke:#c84663;stroke-width:3.94468427;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path233-4"
        d="m 2498.026,-171.6789 c 16.6408,0 37.409,5.11726 54.0421,0 19.0342,-5.85678 29.3564,-18.52874 50.9541,-18.52874"
-       class="fil0 str3" />
+       class="fil0 str3"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:none;stroke:#969594;stroke-width:1.97234213"
        inkscape:connector-curvature="0"
        id="path235-6"
        d="m 2586.2791,-207.65955 c 0,16.50626 0,16.50626 0,16.50626"
-       class="fil0 str4" />
+       class="fil0 str4"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:none;stroke:#969594;stroke-width:1.97234213"
        inkscape:connector-curvature="0"
        id="path237-7"
        d="m 2591.2899,-208.96748 c 0,16.21822 0,16.21822 0,16.21822"
-       class="fil0 str4" />
+       class="fil0 str4"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:none;stroke:#969594;stroke-width:1.97234213"
        inkscape:connector-curvature="0"
        id="path239-1"
        d="m 2595.9152,-210.17126 c 0,16.35866 0,16.35866 0,16.35866"
-       class="fil0 str4" />
+       class="fil0 str4"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:none;stroke:#969594;stroke-width:1.97234213"
        inkscape:connector-curvature="0"
        id="path241-6"
        d="m 2600.7341,-211.66448 c 0,17.17453 0,17.17453 0,17.17453"
-       class="fil0 str4" />
+       class="fil0 str4"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:none;stroke:#969594;stroke-width:1.97234213"
        inkscape:connector-curvature="0"
        id="path243-9"
        d="m 2581.0759,-206.49871 c 0,17.9077 0,17.9077 0,17.9077"
-       class="fil0 str4" />
+       class="fil0 str4"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:none;stroke:#969594;stroke-width:1.97234213"
        inkscape:connector-curvature="0"
        id="path245-8"
        d="m 2575.4869,-205.48436 c 0,19.47155 0,19.47155 0,19.47155"
-       class="fil0 str4" />
+       class="fil0 str4"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:none;stroke:#969594;stroke-width:1.97234213"
        inkscape:connector-curvature="0"
        id="path247-4"
        d="m 2569.7052,-204.68582 c 0,21.7668 0,21.7668 0,21.7668"
-       class="fil0 str4" />
+       class="fil0 str4"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:none;stroke:#969594;stroke-width:1.97234213"
        inkscape:connector-curvature="0"
        id="path249-9"
        d="m 2564.3083,-204.15893 c 0,23.94756 0,23.94756 0,23.94756"
-       class="fil0 str4" />
+       class="fil0 str4"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:none;stroke:#969594;stroke-width:1.97234213"
        inkscape:connector-curvature="0"
        id="path251-4"
        d="m 2558.8454,-203.83035 c 0,26.0709 0,26.0709 0,26.0709"
-       class="fil0 str4" />
+       class="fil0 str4"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:none;stroke:#969594;stroke-width:1.97234213"
        inkscape:connector-curvature="0"
        id="path253-4"
        d="m 2553.4586,-203.80061 c 0,28.7337 0,28.7337 0,28.7337"
-       class="fil0 str4" />
+       class="fil0 str4"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text255-5"
        class="fil3 fnt2"
        y="-181.66026"
-       x="2610.123">5´</text>
+       x="2610.123"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">5´</text>
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text257-0"
        class="fil3 fnt2"
        y="-245.53981"
-       x="2557.7341">3´-OH</text>
+       x="2557.7341"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">3´-OH</text>
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text259-0"
        class="fil3 fnt2"
        y="-206.89658"
-       x="2497.8892">5´-P</text>
+       x="2497.8892"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">5´-P</text>
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text261-0"
        class="fil3 fnt2"
        y="-165.24844"
-       x="2353.7852">microARN</text>
+       x="2353.7852"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">microARN</text>
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text263-7"
        class="fil3 fnt2"
        y="-162.96576"
-       x="2478.1062">3´</text>
+       x="2478.1062"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">3´</text>
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text265-0"
        class="fil3 fnt2"
        y="-55.146488"
-       x="2200.7842">ARNm</text>
+       x="2200.7842"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">ARNm</text>
     <path
        style="fill:none"
        inkscape:connector-curvature="0"
        id="path267-5"
        d="m 2552.3418,14.488641 c 44.5484,1.055066 74.2914,-22.6057376 142.8775,-34.431452 71.5239,-12.332092 119.5792,30.157736 186.8997,7.723128"
-       class="fil0" />
+       class="fil0"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:#c2c1c1;fill-rule:nonzero;stroke:#c2c1c1;stroke-width:1.97234213"
        inkscape:connector-curvature="0"
        id="path269-2"
        d="m 2552.3418,13.48844 c 24.0908,0.575401 43.8294,-6.1096728 67.7747,-14.22848497 20.2678,-6.87098653 43.5348,-14.75936103 74.9373,-20.17370103 33.4007,-5.758664 61.6492,0.356718 89.1114,6.302583 31.4403,6.8062577 61.847,13.3893867 97.6456,1.459501 l 0.6165,1.864109 c -36.3181,12.10291851 -66.9774,5.4650747 -98.6779,-1.397487 -27.2793,-5.905772 -55.3389,-11.980609 -88.3643,-6.286835 -31.2573,5.389053 -54.4406,13.2491132 -74.6362,20.0959394 -24.1721,8.1954703 -44.0989,14.9447966 -68.4071,14.3727266 l 0,-2.008351 z"
-       class="fil5 str2" />
+       class="fil5 str2"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <text
        style="font-size:19.88008118px;font-weight:normal;fill:#798992;fill-rule:evenodd;font-family:Arial"
        id="text271-4"
        class="fil2 fnt1"
        y="-12.297417"
-       x="2882.0779">AAAAAAA(A</text>
+       x="2882.0779"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">AAAAAAA(A</text>
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#798992;fill-rule:evenodd;font-family:Arial"
        id="text273-3"
        class="fil2 fnt2"
        y="-12.297417"
-       x="2994.7781">)</text>
+       x="2994.7781"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">)</text>
     <text
        style="font-size:15.90384102px;font-weight:normal;fill:#798992;fill-rule:evenodd;font-family:Arial"
        id="text275-3"
        class="fil2 fnt0"
        y="-12.297417"
-       x="3002.7227">n</text>
+       x="3002.7227"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">n</text>
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text277-6"
        class="fil3 fnt2"
        y="14.841455"
-       x="2497.8892">5´-P</text>
+       x="2497.8892"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">5´-P</text>
     <path
        style="fill:none;stroke:#c2c1c1;stroke-width:3.94468427"
        inkscape:connector-curvature="0"
        id="path279-5"
        d="m 2315.2415,-55.929034 c 8.9787,-35.918631 111.9851,-18.148326 145.1947,-1.544596 115.8025,57.89664131 129.6619,11.946272 234.7831,-6.178532 71.5239,-12.332092 119.5792,30.157735 186.8997,7.723128"
-       class="fil0 str0" />
+       class="fil0 str0"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <ellipse
        d="m 42.6535,75.449699 c 0,1.576171 -1.721555,2.85391 -3.8452,2.85391 -2.123645,0 -3.8452,-1.277739 -3.8452,-2.85391 0,-1.576171 1.721555,-2.85391 3.8452,-2.85391 2.123645,0 3.8452,1.277739 3.8452,2.85391 z"
        transform="matrix(5.6352634,0,0,5.6352634,2095.1697,-465.99197)"
@@ -1982,61 +2102,91 @@
        rx="3.8452001"
        cy="75.449699"
        cx="38.8083"
-       class="fil6 str1" />
+       class="fil6 str1"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <text
        style="font-size:15.90384102px;font-weight:normal;fill:#798992;fill-rule:evenodd;font-family:Arial"
        id="text283-6"
        class="fil2 fnt0"
        y="-37.217632"
-       x="2295.7217">m7G</text>
+       x="2295.7217"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">m7G</text>
     <text
        style="font-size:19.88008118px;font-weight:normal;fill:#798992;fill-rule:evenodd;font-family:Arial"
        id="text285-4"
        class="fil2 fnt1"
        y="-59.605919"
-       x="2882.0779">AAAAAAA(A)</text>
+       x="2882.0779"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">AAAAAAA(A)</text>
     <text
        style="font-size:15.90384102px;font-weight:normal;fill:#798992;fill-rule:evenodd;font-family:Arial"
        id="text287-6"
        class="fil2 fnt0"
        y="-59.605919"
-       x="3001.3992">n</text>
+       x="3001.3992"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">n</text>
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text289-6"
        class="fil3 fnt2"
        y="16.860466"
-       x="2200.7842">ARNm cortado</text>
+       x="2200.7842"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">ARNm cortado</text>
     <path
        style="fill:#c2c1c1;fill-rule:nonzero;stroke:#c2c1c1;stroke-width:1.97234213"
        inkscape:connector-curvature="0"
        id="path291-8"
        d="m 2552.3418,155.27341 c 24.0908,0.57524 43.8294,-6.10984 67.7747,-14.22849 20.2678,-6.87115 43.5348,-14.75936 74.9373,-20.1737 33.4007,-5.75867 61.6492,0.35672 89.1114,6.30242 31.4403,6.80626 61.847,13.38939 97.6456,1.4595 l 0.6165,1.86427 c -36.3181,12.10276 -66.9774,5.46508 -98.6779,-1.39764 -27.2793,-5.90577 -55.3389,-11.98046 -88.3643,-6.28668 -31.2573,5.38905 -54.4406,13.24911 -74.6362,20.09593 -24.1721,8.19532 -44.0989,14.94479 -68.4071,14.37274 l 0,-2.00835 z"
-       class="fil5 str2" />
+       class="fil5 str2"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <text
        style="font-size:19.88008118px;font-weight:normal;fill:#798992;fill-rule:evenodd;font-family:Arial"
        id="text293-0"
        class="fil2 fnt1"
        y="129.48628"
-       x="2882.0779">AAAAAAA(A</text>
+       x="2882.0779"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">AAAAAAA(A</text>
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#798992;fill-rule:evenodd;font-family:Arial"
        id="text295-0"
        class="fil2 fnt2"
        y="129.48628"
-       x="2994.7781">)</text>
+       x="2994.7781"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">)</text>
     <text
        style="font-size:15.90384102px;font-weight:normal;fill:#798992;fill-rule:evenodd;font-family:Arial"
        id="text297-4"
        class="fil2 fnt0"
        y="129.48628"
-       x="3002.7227">n</text>
+       x="3002.7227"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">n</text>
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text299-9"
        class="fil3 fnt2"
        y="121.15728"
-       x="2421.0486">5´</text>
+       x="2421.0486"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">5´</text>
     <ellipse
        d="m 42.6535,75.449699 c 0,1.576171 -1.721555,2.85391 -3.8452,2.85391 -2.123645,0 -3.8452,-1.277739 -3.8452,-2.85391 0,-1.576171 1.721555,-2.85391 3.8452,-2.85391 2.123645,0 3.8452,1.277739 3.8452,2.85391 z"
        transform="matrix(5.6352634,0,0,5.6352634,2095.1697,-465.99197)"
@@ -2050,59 +2200,89 @@
        rx="3.8452001"
        cy="75.449699"
        cx="38.8083"
-       class="fil1 str1" />
+       class="fil1 str1"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <text
        style="font-size:15.90384102px;font-weight:normal;fill:#798992;fill-rule:evenodd;font-family:Arial"
        id="text303-2"
        class="fil2 fnt0"
        y="-37.217632"
-       x="2295.7217">m7G</text>
+       x="2295.7217"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">m7G</text>
     <path
        style="fill:#667ab3;fill-rule:nonzero;stroke:#8e84b7;stroke-width:1.97273755;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        inkscape:connector-curvature="0"
        id="path305-8"
        d="m 2455.1453,124.54996 c 2.0805,0.86279 3.9993,1.73003 5.7299,2.59506 40.1,20.04853 67.9145,27.58399 91.546,28.13347 l 0,2.00835 c -23.8631,-0.54599 -51.943,-8.14632 -92.424,-28.38476 -1.4803,-0.74001 -3.1039,-1.48162 -4.8519,-2.22209 l 0,-2.13003 z"
-       class="fil7 str5" />
+       class="fil7 str5"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text307-4"
        class="fil3 fnt2"
        y="128.70853"
-       x="2200.7842">Ligación de ARN</text>
+       x="2200.7842"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">Ligación de ARN</text>
     <text
        style="font-size:19.88008118px;font-weight:bold;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text309-7"
        class="fil3 fnt3"
        y="189.97531"
-       x="2400.3069">Adaptador de ARN</text>
+       x="2400.3069"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">Adaptador de ARN</text>
     <text
        style="font-size:19.88008118px;font-weight:normal;fill:#5e686e;fill-rule:evenodd;font-family:Arial"
        id="text311-7"
        class="fil8 fnt1"
        y="172.42702"
-       x="2882.0779">TTTTTTTT(T</text>
+       x="2882.0779"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">TTTTTTTT(T</text>
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#5e686e;fill-rule:evenodd;font-family:Arial"
        id="text313-8"
        class="fil8 fnt2"
        y="172.42702"
-       x="2997.9897">)</text>
+       x="2997.9897"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">)</text>
     <path
        style="fill:none;stroke:#42826c;stroke-width:3.94468427;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path315-3"
        d="m 2882.8556,333.4266 c 18.5327,-9.5885 35.066,-21.61746 53.6933,-31.11914 25.1181,-12.81223 39.7557,-12.6748 64.8507,-8.49223"
-       class="fil0 str6" />
+       class="fil0 str6"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:none;stroke:#42826c;stroke-width:3.94468427;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path317-2"
        d="m 3006.0369,166.21709 c 18.5326,-9.5885 35.066,-21.61747 53.6934,-31.11914 25.1179,-12.81223 39.7556,-12.67482 64.8505,-8.49224"
-       class="fil0 str6" />
+       class="fil0 str6"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <g
        transform="matrix(5.6352634,0,0,5.6352634,2095.1697,-465.99197)"
        style="fill-rule:evenodd"
-       id="g319-9">
+       id="g319-9"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">
       <path
          style="fill:#838281;fill-rule:nonzero"
          inkscape:connector-curvature="0"
@@ -2115,83 +2295,125 @@
        inkscape:connector-curvature="0"
        id="path323-3"
        d="m 2552.3418,359.89541 c 24.0908,0.57542 43.8294,-6.10983 67.7747,-14.22849 20.2678,-6.87115 43.5348,-14.75934 74.9373,-20.17369 33.4007,-5.75867 61.6492,0.35673 89.1114,6.30258 31.4403,6.80627 61.847,13.38939 97.6456,1.45951 l 0.6165,1.8641 c -36.3181,12.10292 -66.9774,5.46509 -98.6779,-1.39748 -27.2793,-5.90578 -55.3389,-11.98062 -88.3643,-6.28668 -31.2573,5.38891 -54.4406,13.24897 -74.6362,20.09578 -24.1721,8.19547 -44.0989,14.9448 -68.4071,14.37272 l 0,-2.00835 z"
-       class="fil5 str2" />
+       class="fil5 str2"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text325-8"
        class="fil3 fnt2"
        y="325.77948"
-       x="2421.0486">5´</text>
+       x="2421.0486"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">5´</text>
     <path
        style="fill:#667ab3;fill-rule:nonzero;stroke:#8e84b7;stroke-width:1.97273755;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        inkscape:connector-curvature="0"
        id="path327-5"
        d="m 2455.1453,329.17197 c 2.0805,0.8628 3.9993,1.73004 5.7299,2.59506 40.1,20.04854 67.9145,27.58398 91.546,28.13348 l 0,2.00835 c -23.8631,-0.54599 -51.943,-8.14633 -92.424,-28.38475 -1.4803,-0.74003 -3.1039,-1.48147 -4.8519,-2.22196 l 0,-2.13018 z"
-       class="fil7 str5" />
+       class="fil7 str5"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <text
        style="font-size:19.88008118px;font-weight:bold;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text329-8"
        class="fil3 fnt3"
        y="394.59714"
-       x="2400.3069">Adaptador de ARN</text>
+       x="2400.3069"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">Adaptador de ARN</text>
     <text
        style="font-size:19.88008118px;font-weight:bold;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text331-2"
        class="fil3 fnt3"
        y="271.28085"
-       x="2902.022">secuencia común</text>
+       x="2902.022"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">secuencia común</text>
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text333-1"
        class="fil3 fnt2"
        y="313.42712"
-       x="2200.7842">Sintesis de cDNA</text>
+       x="2200.7842"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">Sintesis de cDNA</text>
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text335-1"
        class="fil3 fnt2"
        y="306.5239"
-       x="3014.9238">3´</text>
+       x="3014.9238"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">3´</text>
     <path
        style="fill:none;stroke:#42826c;stroke-width:3.94468427;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path337-8"
        d="m 2882.8556,491.28157 c 18.5327,-9.58834 35.066,-21.61747 53.6933,-31.11897 25.1181,-12.81239 39.7557,-12.67498 64.8507,-8.4924"
-       class="fil0 str6" />
+       class="fil0 str6"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:#c2c1c1;fill-rule:nonzero;stroke:#c2c1c1;stroke-width:1.97234213"
        inkscape:connector-curvature="0"
        id="path339-0"
        d="m 2552.3418,517.75038 c 24.0908,0.57541 43.8294,-6.10967 67.7747,-14.22847 20.2678,-6.871 43.5348,-14.75936 74.9373,-20.17372 33.4007,-5.75866 61.6492,0.35673 89.1114,6.30259 31.4403,6.80627 61.847,13.3894 97.6456,1.45951 l 0.6165,1.8641 c -36.3181,12.10291 -66.9774,5.46508 -98.6779,-1.39748 -27.2793,-5.90578 -55.3389,-11.98061 -88.3643,-6.28669 -31.2573,5.38891 -54.4406,13.24897 -74.6362,20.09578 -24.1721,8.19547 -44.0989,14.9448 -68.4071,14.37289 l 0,-2.00851 z"
-       class="fil5 str2" />
+       class="fil5 str2"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text341-7"
        class="fil3 fnt2"
        y="483.63455"
-       x="2421.0486">5´</text>
+       x="2421.0486"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">5´</text>
     <path
        style="fill:#667ab3;fill-rule:nonzero;stroke:#8e84b7;stroke-width:1.97273755;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        inkscape:connector-curvature="0"
        id="path343-0"
        d="m 2455.1453,487.02695 c 2.0805,0.86279 3.9993,1.73003 5.7299,2.59504 40.1,20.04854 67.9145,27.58401 91.546,28.13348 l 0,2.00835 c -23.8631,-0.54598 -51.943,-8.14633 -92.424,-28.38475 -1.4803,-0.73986 -3.1039,-1.48146 -4.8519,-2.22195 l 0,-2.13017 z"
-       class="fil7 str5" />
+       class="fil7 str5"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text345-6"
        class="fil3 fnt2"
        y="471.2822"
-       x="2200.7842">Sintesis de ADNdh</text>
+       x="2200.7842"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">Sintesis de ADNdh</text>
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text347-1"
        class="fil3 fnt2"
        y="464.37894"
-       x="3014.9238">3´</text>
+       x="3014.9238"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">3´</text>
     <g
        transform="matrix(5.6352634,0,0,5.6352634,2095.1697,-465.99197)"
        style="fill-rule:evenodd;stroke:#8e84b7;stroke-width:0.20592362;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="g349-6">
+       id="g349-6"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">
       <path
          style="fill:#667ab3;fill-rule:nonzero;stroke:#8e84b7;stroke-width:0.20592362;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          inkscape:connector-curvature="0"
@@ -2210,101 +2432,152 @@
        inkscape:connector-curvature="0"
        id="path354-8"
        d="m 2882.8556,517.53631 c 18.5327,-9.5885 35.066,-21.61746 53.6933,-31.11913 25.1181,-12.81223 39.7557,-12.67481 64.8507,-8.49223"
-       class="fil0 str6" />
+       class="fil0 str6"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:none;stroke:#8e84b7;stroke-width:1.97234213;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path356-5"
        d="m 2553.7855,541.31704 c -9.2644,-11.50381 -9.2644,-11.50381 -9.2644,-11.50381"
-       class="fil0 str5" />
+       class="fil0 str5"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:none;stroke:#8e84b7;stroke-width:1.97273755;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        inkscape:connector-curvature="0"
        id="path358-8"
        d="m 2554.4854,540.73098 c -9.2643,11.50381 -9.2643,11.50381 -9.2643,11.50381"
-       class="fil0 str5" />
+       class="fil0 str5"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:none;stroke:#42826c;stroke-width:1.97234213;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path360-7"
        d="m 2882.8556,518.27442 c 2.3115,-11.71741 2.3115,-11.71741 2.3115,-11.71741"
-       class="fil0 str7" />
+       class="fil0 str7"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:none;stroke:#42826c;stroke-width:1.97234213;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path362-9"
        d="m 2882.0328,518.56196 c 11.5861,0.58034 11.5861,0.58034 11.5861,0.58034"
-       class="fil0 str7" />
+       class="fil0 str7"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:none;stroke:#42826c;stroke-width:3.94468427;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path364-0"
        d="m 2882.8556,656.84567 c 18.5327,-9.5885 35.066,-21.61747 53.6933,-31.11913 25.1181,-12.81224 39.7557,-12.67483 64.8507,-8.49224"
-       class="fil0 str6" />
+       class="fil0 str6"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:#c2c1c1;fill-rule:nonzero;stroke:#c2c1c1;stroke-width:1.97234213"
        inkscape:connector-curvature="0"
        id="path366-5"
        d="m 2552.3418,683.32005 c 24.0908,0.5754 43.8294,-6.10967 67.7747,-14.22849 20.2678,-6.87098 43.5348,-14.75919 74.9373,-20.17369 33.4007,-5.75867 61.6492,0.35673 89.1114,6.30258 31.4403,6.80626 61.847,13.38938 97.6456,1.4595 l 0.6165,1.8641 c -36.3181,12.10293 -66.9774,5.46508 -98.6779,-1.39748 -27.2793,-5.90577 -55.3389,-11.98061 -88.3643,-6.28667 -31.2573,5.3889 -54.4406,13.24896 -74.6362,20.09593 -24.1721,8.19532 -44.0989,14.94465 -68.4071,14.37274 l 0,-2.00852 z"
-       class="fil5 str2" />
+       class="fil5 str2"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text368-5"
        class="fil3 fnt2"
        y="649.20435"
-       x="2421.0486">5´</text>
+       x="2421.0486"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">5´</text>
     <path
        style="fill:#667ab3;fill-rule:nonzero;stroke:#8e84b7;stroke-width:1.97273755;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        inkscape:connector-curvature="0"
        id="path370-7"
        d="m 2455.1453,652.59661 c 2.0805,0.86278 3.9993,1.73004 5.7299,2.59505 40.1,20.04854 67.9145,27.58399 91.546,28.13349 l 0,2.00835 c -23.8631,-0.54599 -51.943,-8.14634 -92.424,-28.38478 -1.4803,-0.73984 -3.1039,-1.48145 -4.8519,-2.22194 l 0,-2.13017 z"
-       class="fil7 str5" />
+       class="fil7 str5"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text372-5"
        class="fil3 fnt2"
        y="629.94867"
-       x="3014.9238">3´</text>
+       x="3014.9238"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">3´</text>
     <path
        style="fill:none;stroke:#42826c;stroke-width:3.94468427;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path374-4"
        d="m 2882.8556,673.99936 c 18.5327,-9.58833 35.066,-21.61745 53.6933,-31.11911 25.1181,-12.81223 39.7557,-12.67483 64.8507,-8.49225"
-       class="fil0 str6" />
+       class="fil0 str6"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <path
        style="fill:#c2c1c1;fill-rule:nonzero;stroke:#c2c1c1;stroke-width:1.97234213"
        inkscape:connector-curvature="0"
        id="path376-3"
        d="m 2552.3418,700.46818 c 24.0908,0.57541 43.8294,-6.10967 67.7747,-14.22848 20.2678,-6.871 43.5348,-14.75936 74.9373,-20.17371 33.4007,-5.75867 61.6492,0.35673 89.1114,6.30258 31.4403,6.80627 61.847,13.3894 97.6456,1.45951 l 0.6165,1.86412 c -36.3181,12.1029 -66.9774,5.46507 -98.6779,-1.39749 -27.2793,-5.90579 -55.3389,-11.98063 -88.3643,-6.28668 -31.2573,5.3889 -54.4406,13.24896 -74.6362,20.09577 -24.1721,8.19547 -44.0989,14.9448 -68.4071,14.37273 l 0,-2.00835 z"
-       class="fil5 str2" />
+       class="fil5 str2"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text378-7"
        class="fil3 fnt2"
        y="684.88647"
-       x="2421.0486">3´</text>
+       x="2421.0486"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">3´</text>
     <path
        style="fill:#667ab3;fill-rule:nonzero;stroke:#8e84b7;stroke-width:1.97273755;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        inkscape:connector-curvature="0"
        id="path380-5"
        d="m 2455.1453,669.74474 c 2.0805,0.8628 3.9993,1.73003 5.7299,2.59505 40.1,20.04854 67.9145,27.58401 91.546,28.13348 l 0,2.00835 c -23.8631,-0.54598 -51.943,-8.14633 -92.424,-28.38475 -1.4803,-0.73987 -3.1039,-1.48146 -4.8519,-2.22194 l 0,-2.13019 z"
-       class="fil7 str5" />
+       class="fil7 str5"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395" />
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text382-8"
        class="fil3 fnt2"
        y="655.53247"
-       x="3014.9238">5´</text>
+       x="3014.9238"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">5´</text>
     <text
        style="font-size:23.85576248px;font-weight:normal;fill:#1f1a17;fill-rule:evenodd;font-family:Arial"
        id="text384-2"
        class="fil3 fnt2"
        y="622.45917"
-       x="2200.7842">Producto final</text>
+       x="2200.7842"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">Producto final</text>
     <g
        transform="matrix(5.6352634,0,0,5.6352634,2095.1705,-465.99197)"
        style="fill-rule:evenodd"
-       id="g386-5">
+       id="g386-5"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">
       <path
          style="fill:#838281;fill-rule:nonzero"
          inkscape:connector-curvature="0"
@@ -2317,11 +2590,17 @@
        id="text390-0"
        class="fil3 fnt4"
        y="821.71069"
-       x="2508.2229">Secuenciación de alto rendimiento</text>
+       x="2508.2229"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">Secuenciación de alto rendimiento</text>
     <g
        transform="matrix(5.6352634,0,0,5.6352634,2095.1705,-465.99197)"
        style="fill-rule:evenodd"
-       id="g392-8">
+       id="g392-8"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">
       <path
          style="fill:#838281;fill-rule:nonzero"
          inkscape:connector-curvature="0"
@@ -2334,11 +2613,17 @@
        id="text396-4"
        class="fil3 fnt4"
        y="973.10242"
-       x="2546.2314">Procesamiento de los datos</text>
+       x="2546.2314"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">Procesamiento de los datos</text>
     <g
        transform="matrix(5.6352634,0,0,5.6352634,2095.1697,-465.99197)"
        style="fill-rule:evenodd"
-       id="g398-6">
+       id="g398-6"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">
       <path
          style="fill:#969594;fill-rule:nonzero"
          inkscape:connector-curvature="0"
@@ -2349,7 +2634,10 @@
     <g
        transform="matrix(5.6352634,0,0,5.6352634,2095.1697,-465.99197)"
        style="fill-rule:evenodd"
-       id="g452-3">
+       id="g452-3"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">
       <path
          style="fill:#969594;fill-rule:nonzero"
          inkscape:connector-curvature="0"
@@ -2360,7 +2648,10 @@
     <g
        transform="matrix(5.6352634,0,0,5.6352634,2095.1697,-465.99197)"
        style="fill-rule:evenodd"
-       id="g456-6">
+       id="g456-6"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">
       <path
          style="fill:#969594;fill-rule:nonzero"
          inkscape:connector-curvature="0"
@@ -2371,7 +2662,10 @@
     <g
        transform="matrix(5.6352634,0,0,5.6352634,2095.1697,-465.99197)"
        style="fill-rule:evenodd"
-       id="g460-5">
+       id="g460-5"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/sPARE/PARE_tecnica.png"
+       inkscape:export-xdpi="149.97395"
+       inkscape:export-ydpi="149.97395">
       <path
          style="fill:#969594;fill-rule:nonzero"
          inkscape:connector-curvature="0"
