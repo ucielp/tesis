@@ -1,0 +1,82 @@
+
+\graphicspath{{Chapter4/Figs/}}
+
+\setcounter{chapter}{7}
+\chapter*{Capítulo 4} 
+\addcontentsline{toc}{chapter}{Capítulo 4}
+\setcounter{figure}{0}
+\setcounter{section}{0}
+
+{\LARGE Estudio bioinformático sobre ARN pequeños y su actividad en \textit{A. thaliana}.}
+
+\section{Introducción}
+
+En plantas existen distintos tipos de ARNs pequeños con distintos tamaño que varían de 20 a 25 nucleótidos, origen y mecanismo de acción.
+Basado en las diferencias en su biogénesis y su modo de acción, los ARN pequeños de plantas con funciones regulatorias en la expresión génica han sido agrupados en cuatro clases diferentes
+\begin{itemize}
+	\item siARNs 	(small interfering RNAs) que es la clase más abundante. 
+	\item miARNs (microRNAs). De 20 a 22 nt de longitud.
+	\item ta-siARN (trans-acting siARNs)
+	\item nat-siARNs y nat-miARNs (natural antisense siRNAs y miRNAs)
+\end{itemize}
+
+\section{Resultados y Discusión}
+
+\subsection{Pipeline automatizado para el análisis genómico de ARN pqueños y su actividad in vivo en plantas}
+
+\begin{table}[!htbp]
+\centering
+\small
+\caption{Bibliotecas de ARN pequeños}
+\label{my-label}
+\begin{tabular}{clcccc}
+\rowcolor[HTML]{ECF4FF} 
+\hline
+Código       & \multicolumn{1}{c}{Muestras de plantas}    & Secuencias totales & \begin{tabular}[c]{@{}c@{}}Lecturas que\\ mapean contra\\ el genoma\end{tabular} & \begin{tabular}[c]{@{}c@{}}Lecturas únicas\\ que mapean\\ contra el genoma\end{tabular} & t/r/sn/snoRNA \\ \hline
+col\_8c\_1s  & Muestra 1 a 8°C   & 26594034           & 15235935                                                                         & 2181244                                                                                 & 7933811       \\ \hline
+col\_8c\_2s  & Muestra 2 a 8°C   & 24503495           & 14064726                                                                         & 2073756                                                                                 & 7191654       \\ \hline
+col\_22c\_1s & Muestra 1 a 22°C  & 13922338           & 6805121                                                                          & 952466                                                                                  & 5420744       \\ \hline
+col\_22c\_2s & Muestra 2 a 22°C  & 23037685           & 12430935                                                                         & 1699845                                                                                 & 7575147       \\ \hline
+col\_37c\_1s & Muestra 1 a 37°C  & 22273823           & 9109248                                                                          & 1388169                                                                                 & 10127406      \\ \hline
+col\_37c\_2s & Muestra 2 a 37°C  & 24307772           & 12748308                                                                         & 1867528                                                                                 & 8511721       \\ \hline
+\end{tabular}
+\end{table}
+
+
+Estudiar si se modifica la biogénesis y actividad de los small RNAs en distintas temperaturas.
+
+
+\begin{figure}[htbp!] 
+    \centering    
+    \includegraphics[width=1\textwidth]{cantidad_lecturas.png}
+    \caption[]{
+    \textbf{}
+   }
+     \label{fig:secuencias_unicas}
+\end{figure}
+
+
+\begin{figure}[htbp!] 
+    \centering    
+    \includegraphics[width=1\textwidth]{cantidad_lecturas.png}
+    \caption[]{
+    \textbf{}
+   }
+     \label{fig:secuencias_unicas}
+\end{figure}
+
+
+\begin{figure}[htbp!] 
+    \centering    
+    \includegraphics[width=.5\textwidth]{sRNA_strategy.png}
+    \caption[]{
+    \textbf{}
+   }
+     \label{fig:sRNA_strategy}
+\end{figure}
+
+
+
+
+
+\subsection{Biogénesis y actividad de ARN pequeños de plantas en distintas temperaturas}
