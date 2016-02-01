@@ -85,7 +85,7 @@ Y observamos que la clase más abundante a distintas temperaturas son las secuen
     \caption[Distribución del tamaño de las lecturas de ARN pequeños que mapean contra el genoma de \textit{A. thaliana}]{
     \textbf{Distribución del tamaño de las lecturas de ARN pequeños que mapean contra el genoma de \textit{A. thaliana}.}
     Distribución del tamaño de las lecturas de ARN pequeños que mapean contra el genoma de \textit{A. thaliana}.
-    Se muestra la distribuciín para las 3 bibliotecas secuenciadas (8\degree C, 22\degree C y 37\degree C).
+    Se muestra la distribución para las 3 bibliotecas secuenciadas (8\degree C, 22\degree C y 37\degree C).
    }
      \label{fig:cantidad_lecturas}
 \end{figure}
@@ -111,7 +111,7 @@ Lo opuesto pasa con los ARNs ribosomales (Figura \ref{fig:distribucion_sRNA}).
 \end{figure}
 
 Entre ellos los más abundantes son miembros de la familia del miR165/166, el miR396 (siendo el miR396b más abundante que el miR396a), el miR398b/c, el miR158, el miR159, el miR156/157, el miR403 y el miR408.
-En cuanto a los ARN pequeños identficados como miARNs, se detectaron una gran cantidad de miARNs conocidos.
+En cuanto a los ARN pequeños identificados como miARNs, se detectaron una gran cantidad de miARNs conocidos.
 La tabla completa para miARNs que tienen más de 100 lecturas, sumando todas las bibliotecas juntas, se muestra en la tabla del anexo \ref{table:abundancia_miARN}.
 
 En total nos quedamos con 1271 ARN pequeños de plantas crecidas a 8\degree C, con 1305 ARN pequeños de plantas crecidas a 22\degree C y con 1129 ARN pequeños de plantas crecidas 37\degree C.
@@ -145,7 +145,7 @@ En nuestro caso utilizamos todos los ARN pequeños más abundantes mapeados de l
     {
     \textbf{Estrategia para el análisis de bibliotecas de ARN pequeños de \textit{A. thaliana}}.
     Las bibliotecas de ARN pequeños fueron filtradas para remover los adaptadores y luego fueron mapeadas contra el genoma de \textit{A. thaliana}.
-    Nos quedamos con los ARN pequeños más abundantes (>100 reads en ambas muestras) que luego fueron clasificados.
+    Nos quedamos con los ARN pequeños más abundantes (>100 lecturas en ambas muestras) que luego fueron clasificados.
     Con estos ARN pequeños hicimos una búsqueda sistematizada de potenciales ARNm blanco que tienen señal de corte por PARE.
     }
      \label{fig:sRNA_strategy}
@@ -157,7 +157,7 @@ A 22 \degree C, se encontraron 67 ARNm con señal por PARE de los cuales son cor
 Y a 37 \degree C, se encontraron 65 ARNm con señal por PARE de los cuales son cortados por ARN pequeños que provienen de distintos ARNs: 11 de ARN ribosomal, 1 de genes que codifican para proteínas, 51 por pre-miARNs y 2 por otros ARN pequeños (Figura \ref{fig:sRNA_results}).
 
 Estos resultados son utilizando parámetros de CleaveLand bien estrictos por simplicidad.
-Donde por ejemplo solo se consideran los genes blanco con señal en el degradoma que están en la categoria 0 de CleaveLand que significa que tiene más de una lectura y además es la más abundante del transcripto y además es la única mayoritaria.
+Donde por ejemplo solo se consideran los genes blanco con señal en el degradoma que están en la categoría 0 de CleaveLand que significa que tiene más de una lectura y además es la más abundante del transcripto y además es la única mayoritaria.
 Esto se hizo para eliminar falsos positivos, pero se podrían relajar los parámetros para obtener mayor cantidad de candidatos y luego estudiarlos en mayor detalle.
 
 \begin{figure}[htbp!] 

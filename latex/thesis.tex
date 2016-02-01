@@ -15,7 +15,7 @@
 
 
 %~ Esto lo saco en el lab y lo pongo en mi laptop
-\usepackage{gensymb}
+%~ \usepackage{gensymb}
 
 
 
@@ -90,8 +90,9 @@
 
 \include{Declaration/declaration}
 \include{Divulgacion/divulgacion}
-\include{Dedication/dedication}
-%~ \include{Acknowledgement/acknowledgement}
+%~ \include{Dedication/dedication}
+\include{Acknowledgement/acknowledgement}
+
 
 % *********************** Adding TOC and List of Figures ***********************
 
@@ -104,9 +105,11 @@
 % \printnomencl[space] space can be set as 2em between symbol and description
 %\printnomencl[3em]
 
-\include{Abstract/abstract}
+\printnomenclature
 
-\printnomencl
+\include{Abstract/abstract}
+\include{Abreviaturas/abreviaturas}
+
 
 % ******************************** Main Matter *********************************
 \mainmatter

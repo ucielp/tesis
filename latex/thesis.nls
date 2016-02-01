@@ -1,0 +1,61 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{A}]\begingroup Adenina\nomeqref {0}\nompageref{1}
+  \item [{ADN}]\begingroup Ácido desoxirribonucleico\nomeqref {0}
+		\nompageref{1}
+  \item [{ADNasa}]\begingroup ADN Nucleasa\nomeqref {0}\nompageref{1}
+  \item [{ADNc}]\begingroup ADN complementario\nomeqref {0}
+		\nompageref{1}
+  \item [{ARN}]\begingroup Ácido ribonucleico\nomeqref {0}
+		\nompageref{1}
+  \item [{ARNsh}]\begingroup ARN doble hebra\nomeqref {0}\nompageref{1}
+  \item [{ARNsh}]\begingroup ARN simple hebra\nomeqref {0}
+		\nompageref{1}
+  \item [{ATP}]\begingroup Adenosín trifosfato\nomeqref {0}
+		\nompageref{1}
+  \item [{C}]\begingroup Citosina\nomeqref {0}\nompageref{1}
+  \item [{Col-0}]\begingroup Ecotipo Columbia-0 de \textit{Arabidopsis thaliana}\nomeqref {0}
+		\nompageref{1}
+  \item [{DCL}]\begingroup Ribonucleasa III tipo Dicer\nomeqref {0}
+		\nompageref{1}
+  \item [{G}]\begingroup Guanina\nomeqref {0}\nompageref{1}
+  \item [{HEN1}]\begingroup Hua enhancer 1\nomeqref {0}\nompageref{1}
+  \item [{HYL1}]\begingroup Hyponastic leaves 1\nomeqref {0}
+		\nompageref{1}
+  \item [{LB}]\begingroup Medio de cultivo para bacterias Luria-Bertani\nomeqref {0}
+		\nompageref{1}
+  \item [{miARN}]\begingroup MicroARN\nomeqref {0}\nompageref{1}
+  \item [{MS}]\begingroup Medio de cultivo para plantas Murashige-Skoog\nomeqref {0}
+		\nompageref{1}
+  \item [{nat-miARN}]\begingroup miARNs naturales\nomeqref {0}
+		\nompageref{1}
+  \item [{nat-siARN}]\begingroup siARNs naturales\nomeqref {0}
+		\nompageref{1}
+  \item [{nt}]\begingroup Nucleótidos\nomeqref {0}\nompageref{1}
+  \item [{PCR}]\begingroup Reacción en cadena de la polimerasa\nomeqref {0}
+		\nompageref{1}
+  \item [{pre-miARN}]\begingroup Precursor de miARN\nomeqref {0}
+		\nompageref{1}
+  \item [{RISC}]\begingroup Complejo de silenciamiento inducido por ARN\nomeqref {0}
+		\nompageref{1}
+  \item [{RT-qPCR}]\begingroup Transcripción reversa seguida de PCR en tiempo real cuantitativa\nomeqref {0}
+		\nompageref{1}
+  \item [{RT}]\begingroup Retrotranscripción\nomeqref {0}
+		\nompageref{1}
+  \item [{SE}]\begingroup Serrate\nomeqref {0}\nompageref{1}
+  \item [{siARN}]\begingroup ARN pequeño interferente\nomeqref {0}
+		\nompageref{1}
+  \item [{ta-siARN}]\begingroup trans-acting siARNs\nomeqref {0}
+		\nompageref{1}
+  \item [{T}]\begingroup Timina\nomeqref {0}\nompageref{1}
+  \item [{U}]\begingroup Uracilo\nomeqref {0}\nompageref{1}
+
+ \nomgroup{I}
+
+  \item [{bulge}]\begingroup \nomeqref {0}\nompageref{1}
+  \item [{loop}]\begingroup \nomeqref {0}\nompageref{1}
+  \item [{mismatch}]\begingroup \nomeqref {0}\nompageref{1}
+
+\end{thenomenclature}

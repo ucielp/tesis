@@ -229,8 +229,8 @@ Los modelos predictivos utilizan entradas que se derivan del conocimiento de los
 La entrada  más utilizada de los modelos predictivos, es la complementariedad de base entre el miARN y ARNm.
 En contraste con el apareamiento de bases casi perfecto en las plantas \citep{Rhoades2002513}, los miARNs de animales por lo general se unen al ARNm con sólo algunas posiciones que están apareadas \citep{pmid15345038}.
 La complementariedad del apareamiento de bases en la región semilla (seed), que comprende los ocho primeros nucleótidos en el extremo 5' del miARN, es particularmente importante.
-Los parametros de entradas de accesibilidad del sitio y de conservación evolutiva se utilizan para aumentar la especificidad.
-La mayoría de los predictores usan softwares existentes, como el Vienna RNA package \citep{pmid22115189}, mFold \citep{pmid12824337}, DINAMelt \citep{pmid15980540} y mFold \citep{pmid15215366}, para el cálculo de la energía libre.
+Los parámetros de entradas de accesibilidad del sitio y de conservación evolutiva se utilizan para aumentar la especificidad.
+La mayoría de los predictores usan software existentes, como el Vienna RNA package \citep{pmid22115189}, mFold \citep{pmid12824337}, DINAMelt \citep{pmid15980540} y mFold \citep{pmid15215366}, para el cálculo de la energía libre.
 El uso de la conservación evolutiva de los genes blanco de miARNs está motivada por la premisa de que las especies 'similares' deben compartir miARNs comunes y genes blanco comunes.
 Sin embargo, esto conduce a la omisión de los genes blanco no conservados \citep{pmid17254305, pmid21674004}.
 
@@ -245,7 +245,7 @@ La herramienta psRNATarget \citep{pmid21622958} utiliza un enfoque de programaci
 Targetfinder \citep{pmid15598838} implementa un programa "FASTA" junto con un sistema de puntuación para "mismatches", "bulges" o "gaps" para alinear las secuencias.
 TAPIR \citep{pmid20430753} está integrado con dos opciones de búsqueda, el motor de búsqueda "FASTA" (para búsquedas rápidas), y el motor de búsqueda "RNA hybrid" (para obtener resultados precisos).
 La herramienta Target-align \citep{pmid20934992} también emplea el método de puntuación basado en el algoritmo de Smith-Waterman para predecir las complementariedades entre los miARNs y los RNAs mensajeros.
-Por último, la herramienta p-TAREF \citep{pmid22206472} implementa asupport vector regression (RVS) y utiliza la información de la "variación de la densidad de dinucleótido" alrededor del sitio target de conjunt de datos de \textit{A. thaliana}, \textit{Oryza sativa}, \textit{Medicago truncatula} y \textit{Solanum lycopersicum}.
+Por último, la herramienta p-TAREF \citep{pmid22206472} implementa "support vector regression" (RVS) y utiliza la información de la "variación de la densidad de dinucleótido" alrededor del sitio blanco de un conjunto de datos de \textit{A. thaliana}, \textit{Oryza sativa}, \textit{Medicago truncatula} y \textit{Solanum lycopersicum}.
 
 Además existen otras herramientas que son utilizadas para predecir genes blanco de miARNs pero que no fueron específicamente diseñadas para esto.
 Por ejemplo, la herramienta  Web miRNA designer, WMD3 \citep{pmid18269576} es utilizada para el diseño del miARNs artificiales para silenciar la expresión de genes blanco específicos.

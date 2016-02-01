@@ -2,6 +2,8 @@ pdflatex thesis.tex
 bibtex thesis
 pdflatex thesis.tex
 pdflatex thesis.tex
+makeindex thesis.nlo -s nomencl.ist -o thesis.nls
+pdflatex thesis.tex
 
 
 # Con esto elimino la doble pagina
@@ -10,3 +12,7 @@ cleardoublepage
 
 ### 
 pandoc -f latex -t odt -o output thesis.tex 
+
+
+#######
+makeindex thesis.nlo -s nomencl.ist -o thesis.nls
