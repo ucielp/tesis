@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.5.2)  1 FEB 2016 12:53
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.5.2)  1 FEB 2016 17:23
 entering extended mode
  %&-line parsing enabled.
 **thesis.tex
@@ -1372,11 +1372,11 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
 ]) [13]
 \openout2 = `Abstract/abstract.aux'.
 
- (./Abstract/abstract.tex)
+ (./Abstract/abstract.tex
 [14
 
 
-] [15]
+]) [15]
 \openout2 = `Abreviaturas/abreviaturas.aux'.
 
  (./Abreviaturas/abreviaturas.tex)
@@ -1400,7 +1400,7 @@ File: Introduccion/Figs/familias_miRNAs_conservados.png Graphic file (type png)
 
  <use Introduccion/Figs/familias_miRNAs_conservados.png> [3 <./Introduccion/Fig
 s/familias_miRNAs_conservados.png>]
-<Introduccion/Figs/procesamiento_animales.png, id=743, 318.27708pt x 459.6372pt
+<Introduccion/Figs/procesamiento_animales.png, id=742, 318.27708pt x 459.6372pt
 >
 File: Introduccion/Figs/procesamiento_animales.png Graphic file (type png)
  <use Introduccion/Figs/procesamiento_animales.png> [4] [5] [6 <./Introduccion/
@@ -1916,7 +1916,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  18706 strings out of 493848
  277901 string characters out of 1152824
- 490045 words of memory out of 3000000
+ 491045 words of memory out of 3000000
  20443 multiletter control sequences out of 15000+50000
  125476 words of font info for 350 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
@@ -1929,7 +1929,7 @@ msfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/urw/symbol/usyr.pfb
 xlive/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/ur
 w/times/utmbi8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb>
 </usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (144 pages, 18352069 bytes).
+Output written on thesis.pdf (144 pages, 18340960 bytes).
 PDF statistics:
  2319 PDF objects out of 2487 (max. 8388607)
  665 named destinations out of 1000 (max. 500000)
