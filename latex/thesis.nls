@@ -55,7 +55,12 @@
  \nomgroup{I}
 
   \item [{bulge}]\begingroup \nomeqref {0}\nompageref{1}
+  \item [{contigs}]\begingroup \nomeqref {0}\nompageref{1}
+  \item [{dataset}]\begingroup \nomeqref {0}\nompageref{1}
   \item [{loop}]\begingroup \nomeqref {0}\nompageref{1}
   \item [{mismatch}]\begingroup \nomeqref {0}\nompageref{1}
+  \item [{scramble}]\begingroup \nomeqref {0}\nompageref{1}
+  \item [{script}]\begingroup \nomeqref {0}\nompageref{1}
+  \item [{software}]\begingroup \nomeqref {0}\nompageref{1}
 
 \end{thenomenclature}

@@ -2,8 +2,9 @@ This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: Declaration/declaration.aux
 A level-1 auxiliary file: Divulgacion/divulgacion.aux
-A level-1 auxiliary file: Dedication/dedication.aux
+A level-1 auxiliary file: Acknowledgement/acknowledgement.aux
 A level-1 auxiliary file: Abstract/abstract.aux
+A level-1 auxiliary file: Abreviaturas/abreviaturas.aux
 A level-1 auxiliary file: Introduccion/introduccion.aux
 A level-1 auxiliary file: Objetivos/objetivos.aux
 A level-1 auxiliary file: Materials/materials1.aux
@@ -15,44 +16,44 @@ A level-1 auxiliary file: Conclusiones/conclusiones.aux
 The style file: apalike.bst
 A level-1 auxiliary file: Appendix/appendix.aux
 Database file #1: References/references.bib
-You've used 162 entries,
+You've used 166 entries,
             1935 wiz_defined-function locations,
-            1382 strings with 37376 characters,
-and the built_in function-call counts, 78875 in all, are:
-= -- 7544
-> -- 4362
-< -- 51
-+ -- 1561
-- -- 1554
-* -- 7694
-:= -- 13751
-add.period$ -- 487
-call.type$ -- 162
-change.case$ -- 1586
-chr.to.int$ -- 157
-cite$ -- 162
-duplicate$ -- 2327
-empty$ -- 4880
-format.name$ -- 1780
-if$ -- 14927
+            1399 strings with 38091 characters,
+and the built_in function-call counts, 80706 in all, are:
+= -- 7728
+> -- 4439
+< -- 53
++ -- 1587
+- -- 1580
+* -- 7870
+:= -- 14061
+add.period$ -- 499
+call.type$ -- 166
+change.case$ -- 1619
+chr.to.int$ -- 161
+cite$ -- 166
+duplicate$ -- 2383
+empty$ -- 5008
+format.name$ -- 1814
+if$ -- 15280
 int.to.chr$ -- 6
 int.to.str$ -- 0
-missing$ -- 162
-newline$ -- 813
-num.names$ -- 488
-pop$ -- 1238
+missing$ -- 166
+newline$ -- 833
+num.names$ -- 500
+pop$ -- 1261
 preamble$ -- 1
-purify$ -- 1586
+purify$ -- 1619
 quote$ -- 0
-skip$ -- 1739
+skip$ -- 1781
 stack$ -- 0
-substring$ -- 5925
-swap$ -- 222
+substring$ -- 6097
+swap$ -- 226
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 972
+type$ -- 996
 warning$ -- 0
-while$ -- 624
+while$ -- 640
 width$ -- 0
-write$ -- 2107
+write$ -- 2159

@@ -39,6 +39,13 @@ Allen, E., Xie, Z., Gustafson, A.~M., Sung, G.~H., Spatafora, J.~W., and
   target gene sequences in {A}rabidopsis thaliana}.
 \newblock {\em Nat. Genet.}, 36(12):1282--1290.
 
+\bibitem[Allen et~al., 2007]{pmid17916625}
+Allen, R.~S., Li, J., Stahle, M.~I., Dubroue, A., Gubler, F., and Millar, A.~A.
+  (2007).
+\newblock {{G}enetic analysis reveals functional redundancy and the major
+  target genes of the {A}rabidopsis mi{R}159 family}.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 104(41):16371--16376.
+
 \bibitem[Altschup et~al., 1990]{Altschup1990}
 Altschup, S.~F., Gish, W., Pennsylvania, T., and Park, U. (1990).
 \newblock {Basic Local Alignment Search Tool}.
@@ -830,6 +837,12 @@ Sunkar, R. and Jagadeeswaran, G. (2008).
   number of diverse plant species}.
 \newblock {\em BMC Plant Biol.}, 8:37.
 
+\bibitem[Sunkar and Zhu, 2004]{pmid15258262}
+Sunkar, R. and Zhu, J.~K. (2004).
+\newblock {{N}ovel and stress-regulated micro{R}{N}{A}s and other small
+  {R}{N}{A}s from {A}rabidopsis}.
+\newblock {\em Plant Cell}, 16(8):2001--2019.
+
 \bibitem[Takeda et~al., 2008]{Takeda2008}
 Takeda, A., Iwasaki, S., and Watanabe, T. (2008).
 \newblock {The Mechanism Selecting the Guide Strand from Small RNA Duplexes is
@@ -895,11 +908,22 @@ Voinnet, O. (2009).
 \newblock {Origin, Biogenesis, and Activity of Plant MicroRNAs}.
 \newblock {\em Cell}, 136(4):669--687.
 
+\bibitem[Weijers and Jurgens, 2004]{pmid15491917}
+Weijers, D. and Jurgens, G. (2004).
+\newblock {{F}unneling auxin action: specificity in signal transduction}.
+\newblock {\em Curr. Opin. Plant Biol.}, 7(6):687--693.
+
 \bibitem[Werner et~al., 2010]{pmid20015654}
 Werner, S., Wollmann, H., Schneeberger, K., and Weigel, D. (2010).
 \newblock {{S}tructure determinants for accurate processing of mi{R}172a in
   {A}rabidopsis thaliana}.
 \newblock {\em Curr. Biol.}, 20(1):42--48.
+
+\bibitem[Wu et~al., 2006]{pmid17021043}
+Wu, M.~F., Tian, Q., and Reed, J.~W. (2006).
+\newblock {{A}rabidopsis micro{R}{N}{A}167 controls patterns of {A}{R}{F}6 and
+  {A}{R}{F}8 expression, and regulates both female and male reproduction}.
+\newblock {\em Development}, 133(21):4211--4218.
 
 \bibitem[Xie and Zhang, 2010]{pmid20934992}
 Xie, F. and Zhang, B. (2010).

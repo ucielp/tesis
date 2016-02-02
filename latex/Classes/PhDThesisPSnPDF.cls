@@ -710,7 +710,7 @@ supported!}
 % type” means exactly (in terms of millimetres baseline distance). The following
 % LaTeX setting has routinely been considered perfectly acceptable:
 
-\renewcommand\baselinestretch{1.2}
+\renewcommand\baselinestretch{1.3}
 
 % ******************************** Justification *******************************
 % Left aligned as per University identity guidelines
@@ -1045,9 +1045,9 @@ wish to left align your text}
 \makenomenclature
 \renewcommand{\nomgroup}[1]{%
 \ifthenelse{\equal{#1}{Z}}{\item[\textbf{Roman Symbols}]}{%
-\ifthenelse{\equal{#1}{I}}{\item[\textbf{Palabras tomadas del inglés}]}{%
+\ifthenelse{\equal{#1}{I}}{\item[\textbf{Lenguaje Especial}]}{%
 \ifthenelse{\equal{#1}{G}}{\item[\textbf{Greek Symbols}]}{%
-\ifthenelse{\equal{#1}{A}}{\item[\textbf{Abreviaturas}]}{%
+\ifthenelse{\equal{#1}{A}}{\item[\textbf{Abreviaturas y símbolos}]}{%
 \ifthenelse{\equal{#1}{R}}{\item[\textbf{Superscripts}]}{%
 \ifthenelse{\equal{#1}{S}}{\item[\textbf{Subscripts}]}{%
 \ifthenelse{\equal{#1}{X}}{\item[\textbf{Other Symbols}]}
