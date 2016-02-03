@@ -1,0 +1,1683 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4251.9683"
+   height="3188.9763"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="interaccion_miRNA_target.svg"
+   inkscape:export-filename="/home/uciel/lab/jornada_IBR/Uciel/poster.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3997"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3384"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3386"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3388"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3390"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3392"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3394"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <clipPath
+       id="clipPath4814"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4816"
+         d="m 5.1637,91.0105 1161.8363,0 0,322.7323 -1161.8363,0 0,-322.7323 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath4808"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4810"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath4778"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4780"
+         d="m 145.875,152.9751 881.0592,0 0,199.4486 -881.0592,0 0,-199.4486 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath4772"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4774"
+         d="m 5.1637,91.0105 1161.8363,0 0,322.7323 -1161.8363,0 0,-322.7323 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath4766"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4768"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath4258"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4260"
+         d="m 5.1637,91.0105 1161.8363,0 0,322.7323 -1161.8363,0 0,-322.7323 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath4252"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4254"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3850"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3852"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3842"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3844"
+         d="m 0,0 1167,0 0,735 L 0,735 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath9696"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9698"
+         d="m 5.1637,91.0105 1161.8363,0 0,322.7323 -1161.8363,0 0,-322.7323 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath9690"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9692"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath9660"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9662"
+         d="m 145.875,152.9751 881.0592,0 0,199.4486 -881.0592,0 0,-199.4486 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath9654"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9656"
+         d="m 5.1637,91.0105 1161.8363,0 0,322.7323 -1161.8363,0 0,-322.7323 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath9648"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9650"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath9140"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9142"
+         d="m 5.1637,91.0105 1161.8363,0 0,322.7323 -1161.8363,0 0,-322.7323 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath9134"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9136"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath8732"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path8734"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath8724"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path8726"
+         d="m 0,0 1167,0 0,735 L 0,735 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath14353"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14355"
+         d="m 5.1637,91.0105 1161.8363,0 0,322.7323 -1161.8363,0 0,-322.7323 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath14347"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14349"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath14317"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14319"
+         d="m 145.875,152.9751 881.0592,0 0,199.4486 -881.0592,0 0,-199.4486 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath14311"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14313"
+         d="m 5.1637,91.0105 1161.8363,0 0,322.7323 -1161.8363,0 0,-322.7323 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath14305"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14307"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath13797"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path13799"
+         d="m 5.1637,91.0105 1161.8363,0 0,322.7323 -1161.8363,0 0,-322.7323 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath13791"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path13793"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath13389"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path13391"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath13381"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path13383"
+         d="m 0,0 1167,0 0,735 L 0,735 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath19808"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path19810"
+         d="m 5.1637,91.0105 1161.8363,0 0,322.7323 -1161.8363,0 0,-322.7323 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath19802"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path19804"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath19772"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path19774"
+         d="m 145.875,152.9751 881.0592,0 0,199.4486 -881.0592,0 0,-199.4486 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath19766"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path19768"
+         d="m 5.1637,91.0105 1161.8363,0 0,322.7323 -1161.8363,0 0,-322.7323 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath19760"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path19762"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath19252"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path19254"
+         d="m 5.1637,91.0105 1161.8363,0 0,322.7323 -1161.8363,0 0,-322.7323 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath19246"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path19248"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath18844"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path18846"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath18836"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path18838"
+         d="m 0,0 1167,0 0,735 L 0,735 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath27163"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path27165"
+         d="m 5.1637,91.0105 1161.8363,0 0,322.7323 -1161.8363,0 0,-322.7323 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath27157"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path27159"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath27127"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path27129"
+         d="m 145.875,152.9751 881.0592,0 0,199.4486 -881.0592,0 0,-199.4486 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath27121"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path27123"
+         d="m 5.1637,91.0105 1161.8363,0 0,322.7323 -1161.8363,0 0,-322.7323 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath27115"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path27117"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath26607"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path26609"
+         d="m 5.1637,91.0105 1161.8363,0 0,322.7323 -1161.8363,0 0,-322.7323 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath26601"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path26603"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath26199"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path26201"
+         d="m 0,0 1167,0 0,734.5387 -1167,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath26191"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path26193"
+         d="m 0,0 1167,0 0,735 L 0,735 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3997-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3997-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3997-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart-81"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3997-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3997-69"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart-71"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3997-64"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3997-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3997-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart-810"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3997-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart-10"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3997-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3997-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4217"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4219"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart-88"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3997-30"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart-55"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3997-26"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4284"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4286"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4288"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4290"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4292"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4294"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4296"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4298"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4300"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4302"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4024">
+      <rect
+         style="opacity:0.92181067;fill:#aab100;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.02881435;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.58823529;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4026"
+         width="168.1904"
+         height="136.87567"
+         x="5598.7705"
+         y="-4301.9526" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4030">
+      <rect
+         style="opacity:0.92181067;fill:#aab100;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.02881435;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.58823529;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4032"
+         width="5291.4287"
+         height="4240"
+         x="3405.7144"
+         y="-2021.925" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4038">
+      <rect
+         style="opacity:0.92181067;fill:#aab100;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.02214709;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.58823529;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4040"
+         width="133.67999"
+         height="106.95052"
+         x="5628.4844"
+         y="-4283.1255" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4064">
+      <rect
+         style="opacity:0.92181067;fill:#aab100;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.06683741;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.58823529;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4066"
+         width="4727.2798"
+         height="4012.6228"
+         x="3554.6143"
+         y="-1982.4115" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4116">
+      <rect
+         style="opacity:0.92181067;fill:#aab100;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.02196712;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.58823529;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4118"
+         width="112.19954"
+         height="104.15286"
+         x="5630.5693"
+         y="-4280.688" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6749">
+      <rect
+         style="opacity:0.92181067;fill:#aab100;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.02881435;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.58823529;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect6751"
+         width="1111.4286"
+         height="531.42859"
+         x="925.71429"
+         y="1255.2177" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1222.421"
+     inkscape:cy="1951.7701"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="cm"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-grids="false"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2136.6156)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3246"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3248"><rect
+           id="rect3250"
+           width="6.0609155"
+           height="12.121831"
+           x="1931.4116"
+           y="2562.9932" /></flowRegion><flowPara
+         id="flowPara3252" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1628.5714"
+       y="1063.3969"
+       id="text3739"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-3199.6075)"><tspan
+         sodipodi:role="line"
+         id="tspan3741"
+         x="1628.5714"
+         y="1063.3969" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28.36846924px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2522.8291"
+       y="-1433.4517"
+       id="text2982-8-3-4-6-9-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/uciel/lab/Datos/sRNAs_PARE/figuras/strategy_09.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="2522.8291"
+         y="-1433.4517"
+         style="font-size:28.36846924px;text-align:center;text-anchor:middle;fill:#4d4d4d"
+         id="tspan3775-0" /></text>
+    <text
+       id="text4850"
+       x="-2278.0735"
+       y="-2060.9558"
+       style="font-size:9.68249989px">
+      <tspan
+         id="tspan4852"
+         y="-2060.9558"
+         x="-2278.0735"
+         style="font-size:9.68249989px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:LiberationSans">­</tspan>
+    </text>
+    <text
+       id="text4862"
+       x="-2002.929"
+       y="-2060.9558"
+       style="font-size:9.68249989px">
+      <tspan
+         id="tspan4864"
+         y="-2060.9558"
+         x="-2002.929"
+         style="font-size:9.68249989px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:LiberationSans">­</tspan>
+    </text>
+    <text
+       id="text4874"
+       x="283.64401"
+       y="-2403.813"
+       style="font-size:9.68249989px">
+      <tspan
+         id="tspan4876"
+         y="-2403.813"
+         x="283.64401"
+         style="font-size:9.68249989px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:LiberationSans">­</tspan>
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m -3012.4598,-3024.3002 1312.7867,0 0,1.3261 -1312.7867,0 0,-1.3261 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path8740" />
+    <text
+       id="text9732"
+       x="-2467.8716"
+       y="-2640.8794"
+       style="font-size:9.68249989px">
+      <tspan
+         id="tspan9734"
+         y="-2640.8794"
+         x="-2467.8716"
+         style="font-size:9.68249989px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:LiberationSans">­</tspan>
+    </text>
+    <text
+       id="text9744"
+       x="-2192.7273"
+       y="-2640.8794"
+       style="font-size:9.68249989px">
+      <tspan
+         id="tspan9746"
+         y="-2640.8794"
+         x="-2192.7273"
+         style="font-size:9.68249989px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:LiberationSans">­</tspan>
+    </text>
+    <text
+       id="text9756"
+       x="-1917.5829"
+       y="-2640.8794"
+       style="font-size:9.68249989px">
+      <tspan
+         id="tspan9758"
+         y="-2640.8794"
+         x="-1917.5829"
+         style="font-size:9.68249989px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:LiberationSans">­</tspan>
+    </text>
+    <text
+       id="text14389"
+       x="-2927.0464"
+       y="-1531.8289"
+       style="font-size:9.68249989px">
+      <tspan
+         id="tspan14391"
+         y="-1531.8289"
+         x="-2927.0464"
+         style="font-size:9.68249989px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:LiberationSans">­</tspan>
+    </text>
+    <text
+       id="text14401"
+       x="-2651.9021"
+       y="-1531.8289"
+       style="font-size:9.68249989px">
+      <tspan
+         id="tspan14403"
+         y="-1531.8289"
+         x="-2651.9021"
+         style="font-size:9.68249989px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:LiberationSans">­</tspan>
+    </text>
+    <text
+       id="text14413"
+       x="-2376.7576"
+       y="-1531.8289"
+       style="font-size:9.68249989px">
+      <tspan
+         id="tspan14415"
+         y="-1531.8289"
+         x="-2376.7576"
+         style="font-size:9.68249989px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:LiberationSans">­</tspan>
+    </text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1793.5714"
+       y="660.53967"
+       id="text18780"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-3199.6075)"><tspan
+         sodipodi:role="line"
+         id="tspan18782"
+         x="-1793.5714"
+         y="660.53967" /></text>
+    <text
+       id="text19870"
+       x="-2160.4832"
+       y="-1920.399"
+       style="font-size:9.68249989px">
+      <tspan
+         id="tspan19872"
+         y="-1920.399"
+         x="-2160.4832"
+         style="font-size:9.68249989px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:LiberationSans">­</tspan>
+    </text>
+    <text
+       id="text19882"
+       x="-1885.3387"
+       y="-1920.399"
+       style="font-size:9.68249989px">
+      <tspan
+         id="tspan19884"
+         y="-1920.399"
+         x="-1885.3387"
+         style="font-size:9.68249989px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:LiberationSans">­</tspan>
+    </text>
+    <text
+       style="font-size:32.49992371px;font-weight:normal;fill:#000000;fill-rule:evenodd;font-family:Arial"
+       id="text29474"
+       class="fil22 fnt22"
+       y="-3947.9846"
+       x="-5526.7285" />
+    <text
+       style="font-size:32.49992371px;font-weight:normal;fill:#000000;fill-rule:evenodd;font-family:Arial"
+       id="text29668"
+       class="fil22 fnt22"
+       y="-3875.3679"
+       x="-2761.9709" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1622.3051"
+       y="235.60175"
+       id="text9415"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-3199.6075)"><tspan
+         sodipodi:role="line"
+         id="tspan9417"
+         x="1622.3051"
+         y="235.60175" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1884.9446"
+       y="441.67285"
+       id="text11512"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-3199.6075)"><tspan
+         sodipodi:role="line"
+         id="tspan11514"
+         x="1884.9446"
+         y="441.67285" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1833.5044"
+       y="-1820.0806"
+       id="text2982-9-96-1-8-6-7-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/uciel/lab/Datos/sRNAs_PARE/figuras/strategy_03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="1833.5044"
+         y="-1820.0806"
+         style="font-size:32px;text-align:center;text-anchor:middle"
+         id="tspan11537-0" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11898"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion11900"><rect
+           id="rect11902"
+           width="2169.8076"
+           height="517.19812"
+           x="-5394.2144"
+           y="-1792.7845" /></flowRegion><flowPara
+         id="flowPara11904" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11918"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion11920"><rect
+           id="rect11922"
+           width="1701.0969"
+           height="844.48755"
+           x="-28.284271"
+           y="-903.85034" /></flowRegion><flowPara
+         id="flowPara11924" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot26001"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion26003"><rect
+           id="rect26005"
+           width="3188.0415"
+           height="101.01525"
+           x="60.609154"
+           y="-14.916085" /></flowRegion><flowPara
+         id="flowPara26007" /></flowRoot>    <g
+       id="g25980-4"
+       transform="matrix(0.49996138,0,0,1,18.483338,1519.4452)" />
+    <g
+       id="g25980-2"
+       transform="matrix(0.0485679,0,0,2.9617272,-1617.675,7800.1569)"
+       style="fill:#002f32;fill-opacity:1">
+      <rect
+         class="fil23 str4"
+         x="-25.916739"
+         y="-4027.4487"
+         width="3188.9763"
+         height="73.904526"
+         id="rect17724-15"
+         style="fill:#002f32;fill-opacity:1;fill-rule:evenodd;stroke:#1f1a17;stroke-width:0.27000001" />
+    </g>
+    <g
+       id="g25980-2-5"
+       transform="matrix(0.0485679,0,0,2.9617272,-1361.5857,7800.1569)"
+       style="fill:#42826c;fill-opacity:1">
+      <rect
+         class="fil23 str4"
+         x="-25.916739"
+         y="-4027.4487"
+         width="3188.9763"
+         height="73.904526"
+         id="rect17724-15-1"
+         style="fill:#42826c;fill-opacity:1;fill-rule:evenodd;stroke:#1f1a17;stroke-width:0.27000001" />
+    </g>
+    <g
+       id="g25980-2-2"
+       transform="matrix(0.0485679,0,0,2.9617272,-1105.4965,7800.1569)"
+       style="fill:#a5c77f;fill-opacity:1">
+      <rect
+         class="fil23 str4"
+         x="-25.916739"
+         y="-4027.4487"
+         width="3188.9763"
+         height="73.904526"
+         id="rect17724-15-9"
+         style="fill:#a5c77f;fill-opacity:1;fill-rule:evenodd;stroke:#1f1a17;stroke-width:0.27000001" />
+    </g>
+    <g
+       id="g25980-2-7"
+       transform="matrix(0.0485679,0,0,2.9617272,-849.4073,7800.1569)"
+       style="fill:#ffc861;fill-opacity:1">
+      <rect
+         class="fil23 str4"
+         x="-25.916739"
+         y="-4027.4487"
+         width="3188.9763"
+         height="73.904526"
+         id="rect17724-15-4"
+         style="fill:#ffc861;fill-opacity:1;fill-rule:evenodd;stroke:#1f1a17;stroke-width:0.27000001" />
+    </g>
+    <g
+       id="g25980-2-4"
+       transform="matrix(0.0485679,0,0,2.9617272,-593.3805,7800.1569)"
+       style="fill:#c84663;fill-opacity:1;stroke:none"
+       inkscape:transform-center-y="-44.446712">
+      <rect
+         class="fil23 str4"
+         x="-25.916739"
+         y="-4027.4487"
+         width="3188.9763"
+         height="73.904526"
+         id="rect17724-15-0"
+         style="fill:#c84663;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1113.8065"
+       y="-4180.2295"
+       id="text8632"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8634"
+         x="-1113.8065"
+         y="-4180.2295">sun splash</tspan></text>
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29166"
+       y2="-924.84546"
+       x2="1103.2562"
+       y1="-1079.5674"
+       x1="1103.2562"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29168"
+       y2="-924.84546"
+       x2="1070.8311"
+       y1="-1079.5674"
+       x1="1070.8311"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29170"
+       y2="-924.84546"
+       x2="1036.6672"
+       y1="-1079.5674"
+       x1="1036.6672"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29172"
+       y2="-924.84546"
+       x2="1003.7803"
+       y1="-1079.5674"
+       x1="1003.7803"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29174"
+       y2="-924.84546"
+       x2="969.61829"
+       y1="-1079.5674"
+       x1="969.61829"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29178"
+       y2="-924.84546"
+       x2="903.0553"
+       y1="-1079.5674"
+       x1="903.0553"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29180"
+       y2="-924.84546"
+       x2="869.2467"
+       y1="-1079.5674"
+       x1="869.2467"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29182"
+       y2="-924.84546"
+       x2="835.08276"
+       y1="-1079.5674"
+       x1="835.08276"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29184"
+       y2="-924.84546"
+       x2="802.68384"
+       y1="-1079.5674"
+       x1="802.68384"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29186"
+       y2="-924.84546"
+       x2="768.49377"
+       y1="-1079.5674"
+       x1="768.49377"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29188"
+       y2="-924.84546"
+       x2="735.82361"
+       y1="-1079.5674"
+       x1="735.82361"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29192"
+       y2="-924.84546"
+       x2="667.85107"
+       y1="-1079.5674"
+       x1="667.85107"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29194"
+       y2="-924.84546"
+       x2="635.4259"
+       y1="-1079.5674"
+       x1="635.4259"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:#ffffff;fill-opacity:1;stroke:#468966;stroke-width:21.64887619;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="line29204"
+       y2="-1081.9052"
+       x2="446.50583"
+       y1="-1081.9052"
+       x1="1121.9413"
+       class="fil10 str31"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29166-5"
+       y2="-920.27826"
+       x2="598.2475"
+       y1="-1075.0002"
+       x1="598.2475"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29170-6"
+       y2="-920.27826"
+       x2="531.65851"
+       y1="-1075.0002"
+       x1="531.65851"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29172-8"
+       y2="-920.27826"
+       x2="498.77158"
+       y1="-1075.0002"
+       x1="498.77158"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#ffb03b;stroke-width:21.57739639;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="line29202"
+       y2="-920.66858"
+       x2="446.43445"
+       y1="-920.66858"
+       x1="1122.0127"
+       class="fil10 str33"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <g
+       id="g5664"
+       transform="translate(0,9.1916809)"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511">
+      <line
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/sPARE/sPARE_tecnica.png"
+         class="fil10 str23"
+         x1="1806.3629"
+         y1="-1088.759"
+         x2="1806.3629"
+         y2="-934.03705"
+         id="line29190-9"
+         style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none" />
+      <line
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/sPARE/sPARE_tecnica.png"
+         class="fil10 str23"
+         x1="1772.1989"
+         y1="-1088.759"
+         x2="1772.1989"
+         y2="-934.03705"
+         id="line29192-2"
+         style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none" />
+      <line
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/sPARE/sPARE_tecnica.png"
+         class="fil10 str23"
+         x1="1739.7738"
+         y1="-1088.759"
+         x2="1739.7738"
+         y2="-934.03705"
+         id="line29194-8"
+         style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none" />
+      <line
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/sPARE/sPARE_tecnica.png"
+         class="fil10 str31"
+         x1="2226.2893"
+         y1="-1091.0969"
+         x2="1550.8536"
+         y2="-1091.0969"
+         id="line29204-4"
+         style="fill:#ffffff;fill-opacity:1;stroke:#468966;stroke-width:21.64887619;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <line
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/sPARE/sPARE_tecnica.png"
+         class="fil10 str23"
+         x1="1702.5953"
+         y1="-1084.1919"
+         x2="1702.5953"
+         y2="-929.46991"
+         id="line29166-5-7"
+         style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none" />
+      <line
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/sPARE/sPARE_tecnica.png"
+         class="fil10 str23"
+         x1="1670.17"
+         y1="-1084.1919"
+         x2="1670.17"
+         y2="-929.46991"
+         id="line29168-0-1"
+         style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none" />
+      <line
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/sPARE/sPARE_tecnica.png"
+         class="fil10 str23"
+         x1="1636.0062"
+         y1="-1084.1919"
+         x2="1636.0062"
+         y2="-929.46991"
+         id="line29170-6-0"
+         style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none" />
+      <line
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/sPARE/sPARE_tecnica.png"
+         class="fil10 str23"
+         x1="1603.1193"
+         y1="-1084.1919"
+         x2="1603.1193"
+         y2="-929.46991"
+         id="line29172-8-6"
+         style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none" />
+      <line
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/sPARE/sPARE_tecnica.png"
+         class="fil10 str33"
+         x1="2226.3606"
+         y1="-929.86017"
+         x2="1550.7823"
+         y2="-929.86017"
+         id="line29202-0"
+         style="fill:none;stroke:#ffb03b;stroke-width:21.57739639;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="335.07678"
+       y="-1059.0302"
+       id="text5422"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511"><tspan
+         sodipodi:role="line"
+         id="tspan5424"
+         x="335.07678"
+         y="-1059.0302"
+         style="font-size:64px">5'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1179.5956"
+       y="-1058.6083"
+       id="text5422-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511"><tspan
+         sodipodi:role="line"
+         id="tspan5424-0"
+         x="1179.5956"
+         y="-1058.6083"
+         style="font-size:64px">3'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="321.22852"
+       y="1235.3413"
+       id="text5447"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-2136.6156)"><tspan
+         sodipodi:role="line"
+         id="tspan5449"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1179.5643"
+       y="-897.79358"
+       id="text5422-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511"><tspan
+         sodipodi:role="line"
+         id="tspan5424-1"
+         x="1179.5643"
+         y="-897.79358"
+         style="font-size:64px">5'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="335.10803"
+       y="-897.3717"
+       id="text5422-9-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511"><tspan
+         sodipodi:role="line"
+         id="tspan5424-0-9"
+         x="335.10803"
+         y="-897.3717"
+         style="font-size:64px">3'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="676.33295"
+       y="-1128.4952"
+       id="text5422-9-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511"><tspan
+         sodipodi:role="line"
+         id="tspan5424-0-0"
+         x="676.33295"
+         y="-1128.4952"
+         style="font-size:64px">miARN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="569.95795"
+       y="-824.4339"
+       id="text5422-9-5-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511"><tspan
+         sodipodi:role="line"
+         id="tspan5424-0-0-1"
+         x="569.95795"
+         y="-824.4339"
+         style="font-size:64px">ARNm blanco</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1452.0353"
+       y="-1059.0302"
+       id="text5422-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511"><tspan
+         sodipodi:role="line"
+         id="tspan5424-7"
+         x="1452.0353"
+         y="-1059.0302"
+         style="font-size:64px">5'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2274.554"
+       y="-1058.6083"
+       id="text5422-9-55"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511"><tspan
+         sodipodi:role="line"
+         id="tspan5424-0-8"
+         x="2274.554"
+         y="-1058.6083"
+         style="font-size:64px">3'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2274.5227"
+       y="-897.79358"
+       id="text5422-8-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511"><tspan
+         sodipodi:role="line"
+         id="tspan5424-1-2"
+         x="2274.5227"
+         y="-897.79358"
+         style="font-size:64px">5'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1452.0665"
+       y="-897.3717"
+       id="text5422-9-0-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511"><tspan
+         sodipodi:role="line"
+         id="tspan5424-0-9-5"
+         x="1452.0665"
+         y="-897.3717"
+         style="font-size:64px">3'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1780.6809"
+       y="-1128.4952"
+       id="text5422-9-5-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511"><tspan
+         sodipodi:role="line"
+         id="tspan5424-0-0-5"
+         x="1780.6809"
+         y="-1128.4952"
+         style="font-size:64px">miARN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1674.3059"
+       y="-824.4339"
+       id="text5422-9-5-5-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511"><tspan
+         sodipodi:role="line"
+         id="tspan5424-0-0-1-8"
+         x="1674.3059"
+         y="-824.4339"
+         style="font-size:64px">ARNm blanco</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="647.94232"
+       y="-1380.9227"
+       id="text5422-9-5-5-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511"><tspan
+         sodipodi:role="line"
+         id="tspan5424-0-0-1-7"
+         x="647.94232"
+         y="-1380.9227"
+         style="font-size:64px;font-weight:bold;-inkscape-font-specification:Sans Bold">Plantas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1640"
+       y="634.69061"
+       id="text5718"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-2136.6156)"><tspan
+         sodipodi:role="line"
+         id="tspan5720"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1724.634"
+       y="-1380.9227"
+       id="text5422-9-5-5-7-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511"><tspan
+         sodipodi:role="line"
+         id="tspan5424-0-0-1-7-9"
+         x="1724.634"
+         y="-1380.9227"
+         style="font-size:64px;font-weight:bold;-inkscape-font-specification:Sans Bold">Animales</tspan></text>
+  </g>
+</svg>
