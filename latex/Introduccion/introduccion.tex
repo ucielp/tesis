@@ -101,7 +101,7 @@ Luego de la transcripción, el complejo formado por la ribonucleasa de tipo III,
 A continuación, el pre-miARN es traslocado desde el núcleo hacia el citoplasma por la proteína de transporte nuclear EXPORTIN-5 (EXP5) \citep{pmid14631048,pmid14681208}.
 En el citoplasma DICER conjuntamente con TRPB, otra proteína de unión a ARNdh, produce un segundo corte sobre el precursor para que liberar el dúplex miARN/miARN*.
 Este segundo corte ocurre a $\sim$21 nt de distancia del sitio donde se había producido el primer corte por DROSHA.
-Finalmente el miARN maduro es incorporado al complejo RISC \citep{pmid19165215} (Figura \ref{fig:procesamiento_animales}).
+Finalmente, el miARN maduro es incorporado al complejo RISC \citep{pmid19165215} (Figura \ref{fig:procesamiento_animales}).
 
 Además de esta ruta canónica de procesamiento, recientemente se han descripto vías alternativas.
 Para algunos precursores, el requerimiento de DROSHA puede ser suplantado por la maquinaria de corte y empalme (splicing) \citep{pmid17599402,pmid17589500}.
@@ -139,49 +139,92 @@ En la mayoría de los miARNs el nucléotido extremo 5' es una U y en general la 
 Complejos RISC similares se encuentran presentes en células animales.
 Más recientemente han sido identificadas proteínas adicionales que regularían la actividad de la maquinaria de procesamiento \citep{Bologna11112012}.
 
-En animales, los miARNs reconocen principalmente a la región 3' no codificante de ARN mensajeros blanco inhibiendo su traducción.
-En plantas es más común que los miARNs se unan a secuencias complementarias en los ARNm blanco en la región codificante señalándolos para su degradación \citep{Jones-Rhoades2006}.
+En animales, los miARNs reconocen principalmente sitios blancos ubicados en la región 3' no codificante de ARN mensajeros blanco inhibiendo su traducción.
+En cambio en plantas, es más común que los miARNs se unan a secuencias complementarias que se localizan dentro los ARNm blanco en la región codificante señalándolos para su degradación \citep{Jones-Rhoades2006}.
 En cualquier caso, es el miARN el que proporciona la especificidad contra las moléculas de ARN blanco \citep{Bartel2004}.
-
 
 \begin{figure}[htbp!] 
     \centering    
     \includegraphics[width=.9\textwidth]{biogenesis_accion.png}
     \caption[Biogénesis y actividad de los miARNs en plantas]{
+    \textbf{Biogenesis y actividad de miARNs en plantas.}
     Los pri-miARNs son transcriptos por la ARN polimerasa II y tienen extensa estructura secundaria en forma de tallo-burbuja (stem-loop).
     Estas estructuras son procesados en el núcleo a través de la acción de una ribonucleasa llamada DICER LIKE 1 (DCL1) en asociación con el cofactor proteico de unión a ARN de doble hebra HYPONASTIC LEAVES 1 (HYL1) y la proteína SERRATE (SE).
     El producto generado a partir de los cortes llevados a cabo por DCL1, es un dúplex miARN-miARN* que luego continúa siendo procesado por otros componentes enzimáticos hasta dar lugar al miARN maduro de 21 nt.
     Luego el miARN maduro se asocia con una proteína Argonauta (AGO), mayormente AGO1 y se incorpora dentro de un complejo de silenciamiento RISC.
-    En el complejo RISC, el miARN principalmente induce el corte dee los ARNm blanco, aunque algunos miARNs también regulan la expresión de sus genes blancos por represión traduccional.
+    En el complejo RISC, el miARN principalmente induce el corte de los ARNm blanco, aunque algunos miARNs también regulan la expresión de sus genes blancos por represión traduccional.
     }
     \label{fig:biogenesis_accion}
 \end{figure}
 
 
-\subsection{Precursores en plantas}
+\section{Estructuras secundarias de precursores de miARNs}
+
+La biogénesis de miARNs involucra el adecuado procesamiento del precursor para liberar el miARN maduro.
+Para que los miARNs puedan actuar de manera correcta en la regulación de la expresión génica, es necesario que el mecanismo de biogénesis sea preciso.
+Si el proceso de biogénesis no fuera preciso, cambiaría la secuencia del miARN maduro y por lo tanto el reconocimiento del sitio blanco de los ARNm por este regulado impidiendo su regulación.
+
+Existen diferencias durante la biogénesis y mecanismo de acción entre los miARNs en plantas y en animales.
+Pero además, además existen diferencias en las estructuras secundarias de los precursores de ambos reinos.
+En animales, existe una marcada homogeneidad en el tamaño de los precursores de miARNs, en cambio los precursores de miARNs de plantas son muy variables en forma y tamaño (Figura \ref{fig:distribucion_precursores}). 
+
+\begin{figure}[htbp!] 
+	\centering    
+	\includegraphics[width=.6\textwidth]{distribucion_precursores.png}
+	\caption[Tamaños de precursores de miARNs]{
+		\textbf{Tamaños de precursores de miARNs}.
+		En línea naranja se muestra la distribución de tamaños de pre-miARNs en \textit{C. elegans} y en verde los pre-miARNs en \textit{A. thaliana}.
+        Figura adaptada de \citep{Bologna2009}.
+	}
+	\label{fig:distribucion_precursores}
+\end{figure}
+
+Trabajos previos que analizaron precursores de animales señalaron que un pri-miARN típico consiste en una estructura de tallo imperfecto secundado por segmentos inestables de ARNsh en sus extremos.
+El tallo imperfecto posee un tamaño de $\sim$65 nt en total que equivale a un dúplex de ARN de $\sim$33 pb  \citep{pmid16751099}
+A su vez señalaron que el pri-miARN puede ser dividido en 4 partes: un loop terminal, un dúplex miARN/miARN*, un tallo inferior y secuencias flanqueantes simple hebra. 
+Donde el dúplex miARN/miARN* posee una longitud de $\sim$22 pb y el tallo inferior, que se encuentra debajo de la posición donde DROSHA produce el corte, posee una longitud aproximada de $\sim$11 pb \citep{pmid16751099}.
+Luego del primer corte llevado a cabo por DROSHA, el pre-miARN liberado está conformado por el dúplex miARN/miARN* y el loop terminal.
+
+En los precursores de plantas, un loop interno seguido por un tallo inferior de $\sim$15nt especifica la posición del primer corte.
+Esta estructura se encuentra en la mayoría de familias de miARNs \citep{Mateos2010,pmid20015653,pmid20015654}.
+Pero existen otros mecanismos en precursores de plantas. 
+Por ejemplo la familia del miR319, donde cuatro cortes secuenciales por DCL1 son los encargados de procesar los precursores.
+En general muestran un tallo largo superior, del cual otros ARNs pequeños son generados \citep{pmid19850910,Bologna2009,Bologna2013} (Figura \ref{fig:ss_precursores}).
+
+\begin{figure}[htbp!] 
+	\centering    
+	\includegraphics[width=1\textwidth]{ss_precursores.png}
+	\caption[Estructuras  de precursores de miARNs]{
+		\textbf{Estructuras secundarias de precursores de miARNs}.
+        Arriba se muestra la estructura secundaria de precursores típicos de animales.
+        Abajo a la izquierda se muestra la estructura secundaria de precursores procesados de abajo en plantas.
+        Abajo a la derecha se muestra la estructura secundaria de precursores que son procesados de arriba secuenciales en plantas.
+        Las flechas indican los cortes necesarios para liberar el miARN maduro.
+    }
+	\label{fig:ss_precursores}
+\end{figure}
 
 \section{Regulación de la expresión génica por miARNs}
 
 \subsection{Regulación por corte del ARN blanco}
 
-En animales existe un gran número de genes blanco mediado por miARNs y un ARNm puede estar regulado por varios miARNs.
-En cambio los miARNs en plantas regulan un número limitado de genes blanco que además tienen un único sitio que es altamente complementario al miARN \citep{Voinnet2009669}.
+En animales existe un gran número de genes blanco mediado por miARNs y un ARNm puede estar regulado por varios miARNs, en cambio los miARNs en plantas regulan un número limitado de genes blanco \citep{Voinnet2009669}.
 
 El ARN pequeño guía al complejo RISC hacia una molécula de ARNm complementario. 
 Luego del reconocimiento de ARNm blanco por complementariedad de bases, la proteína AGO1 del complejo RISC introduce un corte en un enlace fosfodiester del ARNm.
 Este corte ocurre entre las posiciones 10 y 11 desde el extremo 5' del miARN, independientemente de la longitud del miARN \citep{Mallory2004,Llave2002,pmid12931144,Xie2003,pmid15057819}.
 
 Luego del corte mediado por el miARN, los fragmentos 3' son degradados  mediante la actividad de la enzima citoplasmática 5'-3' EXORIBONUCLEASA4 (XRN4) en En \textit{A. thaliana}  \citep{pmid15260969}
-Los fragmentos 5' también pueden ser degradados por un complejo denominado Exosoma, el cual está encargado de diferentes funciones de degradación y procesamiento de ARNs \citep{pmid18160042}.
+Los fragmentos 5' también pueden ser degradados por el complejo denominado Exosoma, el cual está encargado de diferentes funciones de degradación y procesamiento de ARNs \citep{pmid18160042}.
 En Arabidopsis la degradación del fragmento 5', puede ser acelerada por uridilación en el extremo 3' por la enzima una enzima denomina HESO1 \citep{pmid24733911}.
 
 \subsection{Regulación de la traducción por miARNs}
 
-Los miARNs en animales, en general, son parcialmente complementarios a uno o más sitios presentes en la región 3' no traducida de los ARNm blancos \citep{pmid12869753,pmid8252621,Fabian} y raramente sufren el tipo de corte antes mencionado. 
-Además la limitada complementariedad de secuencia, permite que los miARNs de animales regulen generalmente la expresión de muchos genes blanco.
+Los miARNs en animales, en general, son parcialmente complementarios a uno o más sitios presentes en la región 3' no traducida de los ARNm blancos \citep{pmid12869753,pmid8252621,Fabian} y esos ARNm raramente sufren el tipo de corte antes mencionado. 
+Además, la limitada complementariedad de secuencia, permite que los miARNs de animales regulen generalmente la expresión de muchos genes blanco diferentes.
 Un mecanismo que involucra la inhibición de la traducción del ARNm blanco por el miARN explica la represión de la expresión de los blancos de miARNs en animales \citep{Fabian}.
 En otras ocasiones, los miARNs de animales disminuyen la vida media de los transcriptos a los que se unen \citep{pmid20703300}.
-En algunos pocos miARN de plantas también se ha demostrado la existencia de un mecanismo de represión traduccional, además del corte del transcripto \citep{Schwab2005517,pmid19531599,pmid18392778,pmid18483398,pmid12893888,pmid14555699}.
+Existen algunos ejemplos de miARN de plantas también, donde se ha demostrado la existencia de un mecanismo de represión traduccional, además del corte del transcripto \citep{Schwab2005517,pmid19531599,pmid18392778,pmid18483398,pmid12893888,pmid14555699}.
 
 \subsection{Generación de ta-siRNAs y siRNAs secundarios}
 El corte de un transcripto por un miARN puede inducir la generación de ARN pequeños secundarios \citep{Allen2005207, pmid19066226,pmid19066226,pmid20643946,pmid20562854,pmid22308502}.
@@ -190,14 +233,15 @@ Los genes que darán lugar a ta-siRNAs son transcriptos que generalmente son den
 El transcripto es identificado y cortado por acción de un miARN que posee una secuencia complementaria al transcripto \citep{Allen2005207}.
 Los fragmentos de corte de un TAS se estabilizan y por la acción de ARN polimerasas dependientes de ARN, se convierten en un ARN de doble hebra.
 Luego el ARN doble hebra es procesado por una Ribonucleasa de tipo III, llamada DICER- LIKE4 (DCL4), generando ARNs pequeños de 21 nucleótidos, los ta-siARNs.
-Finalmente estos ta-siARNs se incorporan a un complejo RISC y guían el corte de los transcriptos de otros genes de manera similar a la acción de un miARN \citep{Allen2005207,pmid16040244,pmid16131612,Xie2005a}.
+Finalmente, estos ta-siARNs se incorporan a un complejo RISC y guían el corte de los transcriptos de otros genes de manera similar a la acción de un miARN \citep{Allen2005207,pmid16040244,pmid16131612,Xie2005a}.
+
 
 \section{Procesos biológicos regulados por miARNs en plantas}
 Los procesos biológicos regulados por miARNs en plantas son muchos, y algunos miARNs desempeñan papeles importantes en el desarollo, otros en la trasducción de señales hormonales, respuesta a estrés y respuesta a señales del ambiente \citep{Voinnet2009669, pmid21466971, pmid19699140}.
 
 De las 22 familias de miARNs conservados en plantas, 11 regulan factores de transcripción y la mayoría de ellos están involucrados en procesos de desarrollo o diferenciación célular \citep{Jones-Rhoades2006} (Tabla \ref{table:table_consensus}).
-Por ejemplo los genes blanco del miR172 pertenecen a la familia de factores de transcripción AP2 (APETALA2) que está involucrado en el tiempo de floración y en el desarrollo de la hoja \citep{pmid14555699, pmid12893888}.
-La familia del miR319 regula factores de transcripción TCP (TEOSINTE BRANCHED1), la familia del miR165/166 factores de transccripción HD-ZIPIII (HOMEODOMAIN-LEUCINE ZIPPER de clase III) y la familia del miR396 regulan factores de transcripción GRF (GROWTH-REGULATING FACTOR).
+Por ejemplo, los genes blanco del miR172 pertenecen a la familia de factores de transcripción AP2 (APETALA2) que está involucrado en el tiempo de floración y en el desarrollo de la hoja \citep{pmid14555699, pmid12893888}.
+La familia del miR319 regula factores de transcripción TCP (TEOSINTE BRANCHED1,CYCLOIDEA, PCF1/2), la familia del miR165/166 factores de transccripción HD-ZIPIII (HOMEODOMAIN-LEUCINE ZIPPER de clase III) y la familia del miR396 regulan factores de transcripción GRF (GROWTH-REGULATING FACTOR).
 Todas estas familias intervienen en el desarrollo de la hoja regulando distintos factores de transcripción \citep{pmid12931144, pmid15351964, Rodriguez2010}.
 El miR164, participa en el establecimiento del meristema apical del tallo, en el desarollo de la raíz y definición de los bordes de los órganos mediante la regulación de miembros de la familia de factores de transcripción NAC (NAM, ATAF1/2 and CUC2) \citep{laufus}.
 
@@ -205,14 +249,37 @@ Por otra parte, entre los genes blanco que no corresponden a factores de transcr
 Algunos codifican proteínas pertenecientes a la familia F-Box o enzimas E2 conjugantes de ubiquitina, las cuales están implicadas en la marcación de proteínas para la degradación por el proteosoma \citep{pmid19699140}.
 Otros genes con función conocida codifican para proteínas involucradas en la transducción de señales hormonales, o proteínas involucradas en el metabolismo energético, la respuesta a estrés o déficit de nutrientes.
 
-Por otro lado, en otras especies que se han realizados estudios de ARN pequeños por técnicas de alto rendimiento, se han encontrado miARNs no conservados \citep{citeulike:8816489, Rodriguez2010, Rajagopalan2006}.
-Los genes blanco regulados por estos miARNs tienen funciones más variables que los blanco de los miARNs conservados, de todos modos se ha demostrado el rol biológico de un pequeño número de estas interacciones \citep{citeulike:8816489}.
+Por otro lado, en especies en las que se han realizados estudios de ARN pequeños por técnicas de secuenciación de alto rendimiento, se han encontrado miARNs no conservados \citep{citeulike:8816489, Rodriguez2010, Rajagopalan2006}.
+Los genes blanco regulados por estos miARNs tienen funciones más variables que los blanco de los miARNs conservados, no esta clara la importancia biológica de estas interacciones \citep{citeulike:8816489}.
 
 En esta tesis nos enfocaremos principalmente en las familias de miARNs conservadas entre distintas especies de plantas (Tabla \ref{table:table_consensus}).
 Estas familias han sido estudiadas profundamente, por lo que su mayoría se encuentran ampliamente caracterizadas.
 
 
 \section{Predicción de genes blanco de miARNs}
+
+\subsection{Interacción de miARN-ARNm blanco}
+
+Los miARNs reconocen secuencias complementarias en ARNm blancos provocando su corte o el arresto traduccional.
+Originalmente, se creía que los miARNs de plantas tenían complementariedad casi perfecta con los genes blanco regulados por ellos \citep{pmid19167326,pmid12869753,pmid12242443}.
+Sin embargo, en artículos más recientes se ha demostrado que existen genes blanco regulados por miARNs de distintas especies, con un un mayor número de "mismatches" a lo que se creía previamente \citep{German2008} e incluso con interacciones no canónicas como "bulges" de varios nucleótidos \citep{pmid24561804} (Figura \ref{fig:interaccion_miRNA_target}).
+Esto hace que la predicción de genes blanco regulados por miARNs en plantas no sea trivial y que se necesite información extra además de la interacción del par miARN-blanco.
+
+Por otro lado en animales, la especificidad y la función de los miARNs están determinados por los nucleótidos 2 a 7 de la parte 5' del miARN maduro (llamada región "semilla" del miARN) \citep{pmid12672692}.
+Dichos nucleótidos deben ser complementarios al ARNm blanco (Figura \ref{fig:interaccion_miRNA_target}).
+
+\begin{figure}[htbp!] 
+	\centering    
+	\includegraphics[width=.7\textwidth]{interaccion_miRNA_target.png}
+	\caption[Interacción de miARN-ARNm blanco]{
+		\textbf{Interacción de miARN-ARNm blanco.}
+        A la izquierda se muestra una interacción del par miARN-ARNm blanco en plantas.
+        A la derecha se muestra una interacción del par miARN-ARNm blanco en animales.
+        Las líneas verticales grises representan bases apareadas, la ausencia de líneas puede ser "mismatches" o "bules".
+	}
+	\label{fig:interaccion_miRNA_target}
+\end{figure}
+
 
 \subsection{Métodos para predicción de genes blanco de miARNs en animales}
 Existen muchos métodos para la predicción de genes blanco de miARNs que fueron desarrollados por distintos grupos de investigación.
@@ -227,8 +294,7 @@ Los primeros predictores aplican enfoques heurísticos, debido a la falta de una
 
 Los modelos predictivos utilizan entradas que se derivan del conocimiento de los detalles mecanísticos de las interacciones miARN-ARNm.
 La entrada  más utilizada de los modelos predictivos, es la complementariedad de base entre el miARN y ARNm.
-En contraste con el apareamiento de bases casi perfecto en las plantas \citep{Rhoades2002513}, los miARNs de animales por lo general se unen al ARNm con sólo algunas posiciones que están apareadas \citep{pmid15345038}.
-La complementariedad del apareamiento de bases en la región semilla (seed), que comprende los ocho primeros nucleótidos en el extremo 5' del miARN, es particularmente importante.
+Los miARNs de animales por lo general se unen al ARNm con sólo algunas posiciones que están apareadas \citep{pmid15345038}, pero la complementariedad del apareamiento de bases en la región semilla (seed), que comprende los ocho primeros nucleótidos en el extremo 5' del miARN, es particularmente importante.
 Los parámetros de entradas de accesibilidad del sitio y de conservación evolutiva se utilizan para aumentar la especificidad.
 La mayoría de los predictores usan software existentes, como el Vienna RNA package \citep{pmid22115189}, mFold \citep{pmid12824337}, DINAMelt \citep{pmid15980540} y mFold \citep{pmid15215366}, para el cálculo de la energía libre.
 El uso de la conservación evolutiva de los genes blanco de miARNs está motivada por la premisa de que las especies 'similares' deben compartir miARNs comunes y genes blanco comunes.
@@ -245,7 +311,7 @@ La herramienta psRNATarget \citep{pmid21622958} utiliza un enfoque de programaci
 Targetfinder \citep{pmid15598838} implementa un programa "FASTA" junto con un sistema de puntuación para "mismatches", "bulges" o "gaps" para alinear las secuencias.
 TAPIR \citep{pmid20430753} está integrado con dos opciones de búsqueda, el motor de búsqueda "FASTA" (para búsquedas rápidas), y el motor de búsqueda "RNA hybrid" (para obtener resultados precisos).
 La herramienta Target-align \citep{pmid20934992} también emplea el método de puntuación basado en el algoritmo de Smith-Waterman para predecir las complementariedades entre los miARNs y los RNAs mensajeros.
-Por último, la herramienta p-TAREF \citep{pmid22206472} implementa "support vector regression" (RVS) y utiliza la información de la "variación de la densidad de dinucleótido" alrededor del sitio blanco de un conjunto de datos de \textit{A. thaliana}, \textit{Oryza sativa}, \textit{Medicago truncatula} y \textit{Solanum lycopersicum}.
+Por último, la herramienta p-TAREF \citep{pmid22206472} implementa un modelo de regresión de máquinas de vectores de soporte (SVR en ingés "support vector regression") y utiliza la información de la "variación de la densidad de dinucleótido" alrededor del sitio blanco de un conjunto de datos de \textit{A. thaliana}, \textit{Oryza sativa}, \textit{Medicago truncatula} y \textit{Solanum lycopersicum}.
 
 Además existen otras herramientas que son utilizadas para predecir genes blanco de miARNs pero que no fueron específicamente diseñadas para esto.
 Por ejemplo, la herramienta  Web miRNA designer, WMD3 \citep{pmid18269576} es utilizada para el diseño del miARNs artificiales para silenciar la expresión de genes blanco específicos.
@@ -261,12 +327,19 @@ La mayoría de las herramientas específicas de plantas fueron desarrolladas par
 Y los sistemas de puntajes optimizados de Arabidopsis no se pueden utilizar como un umbral en el análisis de organismos no modelos \citep{pmid24885295}.
 Además estas herramientas en general detectan una gran cantidad de potenciales genes blanco (que incluyen los validados experimentalmente), pero su debilidad radica en que predicen una gran número de falsos positivos.
 
-\subsection{identificación de genes blanco regulados por miARNs mediante técnicas de secuenciación de alto rendimiento}
+\subsection{Identificación de genes blanco regulados por miARNs mediante técnicas de secuenciación de alto rendimiento}
 Con los avances de los métodos de secuenciación de alto rendimiento o "next-generation sequencing", la identificación sistemática de genes blanco de miARNs específicos en un tiempo corto ya es un hecho.
 Un método denominado PARE (Construction of Parallel Analysis of RNA Ends) \citep{pmid19247285}.
-La misma consiste en una combinación de la estrategia modificada 5´RACE, para la identificación de genes blanco de miARNs y permite realizar estudios del degradoma de ARN, mediante técnicas de alto rendimiento.
+La misma consiste en una combinación de la estrategia modificada 5´RACE, en donde se secuencian masivamente ARNs que carecen de 5’ CAP.
+Esto implica que se detectan ARNm fragmentados, pero no los intactos.
+Además, el proceso de secuenciación permite identificar el sitio exacto de fragmentación o corte del ARNm.
+Por este motivo se suele referir a las bibliotecas PARE como el degradoma del ARN de las células. 
 
-A partir de este método, se han desarrollado diferentes herramientas como SeqTar \citep{pmid22140118}, que es un método para la identificación de corte guíado por miARNs de degradoma de transcriptos de plantas.
+Un elemento importante es que los miARNs y siARNs guían el corte de sus ARNm blanco entre las posiciones 10-11 del extremo 5' del ARN pequeño.
+Es decir, dada una interacción miARN/sitio blanco, uno puede predecir exactamente donde se producirá el corte del ARNm.
+Y si este corte realmente existe en las células, los fragmentos de ARNm detectados por PARE deberían estar enriquecidos en este lugar preciso del ARNm.
+
+A partir de las bibliotecas de PARE, se han desarrollado diferentes herramientas como SeqTar \citep{pmid22140118}, que es un método para la identificación de corte guíado por miARNs de degradoma de transcriptos de plantas.
 Por otro lado, CleaveLand \citep{pmid19017659} es un pipeline computacional para la detección de cortes de miARNs en datos de degradoma.
 Esta herramienta toma como entrada secuencias de degradoma, ARNs pequeños y una base de datos de ARNm y devuelve los potenciales genes blanco de esos ARNs pequeños. 
 sPARTA (small RNA-PARE target analyzer) \citep{pmid25120269} es un pipeline paralelizado, para el análisis integrado de miARNs en plantas y un conjunto de ARNm.

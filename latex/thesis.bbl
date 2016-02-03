@@ -99,6 +99,11 @@ Bailey, T.~L. and Elkan, C. (1994).
   motifs in biopolymers}.
 \newblock {\em Proc Int Conf Intell Syst Mol Biol}, 2:28--36.
 
+\bibitem[Bartel, 2009]{pmid19167326}
+Bartel, D.~P. (2009).
+\newblock {{M}icro{R}{N}{A}s: target recognition and regulatory functions}.
+\newblock {\em Cell}, 136(2):215--233.
+
 \bibitem[Bartel et~al., 2004]{Bartel2004}
 Bartel, D.~P., Lee, R., and Feinbaum, R. (2004).
 \newblock {MicroRNAs: Genomics , Biogenesis , Mechanism , and Function Genomics
@@ -167,6 +172,12 @@ Brodersen, P., Sakvarelidze-Achard, L., Bruun-Rasmussen, M., Dunoyer, P.,
 \newblock {{W}idespread translational inhibition by plant mi{R}{N}{A}s and
   si{R}{N}{A}s}.
 \newblock {\em Science}, 320(5880):1185--1190.
+
+\bibitem[Brousse et~al., 2014]{pmid24561804}
+Brousse, C., Liu, Q., Beauclair, L., Deremetz, A., Axtell, M.~J., and Bouche,
+  N. (2014).
+\newblock {{A} non-canonical plant micro{R}{N}{A} target site}.
+\newblock {\em Nucleic Acids Res.}, 42(8):5270--5279.
 
 \bibitem[Carrington and Ambros, 2003]{pmid12869753}
 Carrington, J.~C. and Ambros, V. (2003).
@@ -508,11 +519,23 @@ Lewis, B.~P., Shih, I.~H., Jones-Rhoades, M.~W., Bartel, D.~P., and Burge,
 \newblock {{P}rediction of mammalian micro{R}{N}{A} targets}.
 \newblock {\em Cell}, 115(7):787--798.
 
-\bibitem[Llave et~al., 2002]{Llave2002}
-Llave, C., Xie, Z., Kasschau, K.~D., and Carrington, J.~C. (2002).
+\bibitem[Lim et~al., 2003]{pmid12672692}
+Lim, L.~P., Lau, N.~C., Weinstein, E.~G., Abdelhakim, A., Yekta, S., Rhoades,
+  M.~W., Burge, C.~B., and Bartel, D.~P. (2003).
+\newblock {{T}he micro{R}{N}{A}s of {C}aenorhabditis elegans}.
+\newblock {\em Genes Dev.}, 17(8):991--1008.
+
+\bibitem[Llave et~al., 2002a]{Llave2002}
+Llave, C., Xie, Z., Kasschau, K.~D., and Carrington, J.~C. (2002a).
 \newblock {Cleavage of Scarecrow-like mRNA Targets Directed by a Class of
   Arabidopsis miRNA}.
 \newblock {\em Science}, 297(September):2053--2056.
+
+\bibitem[Llave et~al., 2002b]{pmid12242443}
+Llave, C., Xie, Z., Kasschau, K.~D., and Carrington, J.~C. (2002b).
+\newblock {{C}leavage of {S}carecrow-like m{R}{N}{A} targets directed by a
+  class of {A}rabidopsis mi{R}{N}{A}}.
+\newblock {\em Science}, 297(5589):2053--2056.
 
 \bibitem[Lobbes et~al., 2006]{Lobbes2006}
 Lobbes, D., Rallapalli, G., Schmidt, D.~D., Martin, C., and Clarke, J. (2006).
