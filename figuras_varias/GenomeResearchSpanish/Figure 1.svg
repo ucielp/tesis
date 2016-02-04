@@ -34,9 +34,9 @@
    inkscape:window-height="1056"
    id="namedview6777"
    showgrid="false"
-   inkscape:zoom="1.8767677"
-   inkscape:cx="516.70261"
-   inkscape:cy="746.13849"
+   inkscape:zoom="0.93838385"
+   inkscape:cx="252.64431"
+   inkscape:cy="706.87497"
    inkscape:window-x="0"
    inkscape:window-y="24"
    inkscape:window-maximized="1"
@@ -461,12 +461,14 @@
 
 
 
+
   <text
    x="-11646.224"
    y="7548.999"
    class="fil1 fnt1"
    id="text6280"
    style="font-size:317.5px;font-weight:normal;fill:#2b2a29;font-family:Arial">156a</text>
+
 
 
 
@@ -479,12 +481,14 @@
 
 
 
+
   <text
    x="-9335.2236"
    y="7548.999"
    class="fil1 fnt1"
    id="text6284"
    style="font-size:317.5px;font-weight:normal;fill:#2b2a29;font-family:Arial">166a</text>
+
 
 
 
@@ -497,12 +501,14 @@
 
 
 
+
   <text
    x="-10876.224"
    y="7548.999"
    class="fil1 fnt1"
    id="text6288"
    style="font-size:317.5px;font-weight:normal;fill:#2b2a29;font-family:Arial">157a</text>
+
 
 
 
@@ -523,12 +529,14 @@
 
 
 
+
   <text
    x="-15533.224"
    y="7548.999"
    class="fil1 fnt1"
    id="text6294"
    style="font-size:317.5px;font-weight:normal;fill:#2b2a29;font-family:Arial">156a</text>
+
 
 
 
@@ -541,12 +549,14 @@
 
 
 
+
   <text
    x="-13222.224"
    y="7548.999"
    class="fil1 fnt1"
    id="text6298"
    style="font-size:317.5px;font-weight:normal;fill:#2b2a29;font-family:Arial">166a</text>
+
 
 
 
@@ -559,12 +569,14 @@
 
 
 
+
   <text
    x="-14762.224"
    y="7548.999"
    class="fil1 fnt1"
    id="text6302"
    style="font-size:317.5px;font-weight:normal;fill:#2b2a29;font-family:Arial">157a</text>
+
 
 
 
@@ -621,6 +633,7 @@
 
 
 
+
   <text
    x="-16243.224"
    y="6642.999"
@@ -630,12 +643,14 @@
 
 
 
+
   <text
    x="-7003.2241"
    y="6635.999"
    class="fil1 fnt2"
    id="text6322"
    style="font-size:423.32998657px;font-weight:bold;fill:#2b2a29;font-family:Arial">C</text>
+
 
 
 
@@ -720,12 +735,14 @@
 
 
 
+
   <text
    x="-15437.224"
    y="12174.999"
    class="fil1 fnt4"
    id="text6450"
    style="font-size:352.77999878px;font-weight:normal;fill:#2b2a29;font-family:Arial">miRNA/miRNA*</text>
+
 
 
 
@@ -738,12 +755,14 @@
 
 
 
+
   <text
    x="-10612.224"
    y="-858.0011"
    class="fil1 fnt4"
    id="text6454"
    style="font-size:352.77999878px;font-weight:normal;fill:#2b2a29;font-family:Arial">miRNA-specific</text>
+
 
 
 
@@ -756,6 +775,7 @@
 
 
 
+
   <text
    x="-15102.224"
    y="3050.999"
@@ -765,12 +785,14 @@
 
 
 
+
   <text
    x="-15827.224"
    y="3444.999"
    class="fil1 fnt4"
    id="text6460"
    style="font-size:352.77999878px;font-weight:normal;fill:#2b2a29;font-family:Arial">Intermediates</text>
+
 
 
 
@@ -808,12 +830,14 @@
 
 
 
+
   <text
    x="-12514.224"
    y="-2131.001"
    class="fil1 fnt5"
    id="text6473"
    style="font-size:388.04998779px;font-weight:normal;fill:#2b2a29;font-family:Arial">-to-loop direction</text>
+
 
 
 
@@ -826,6 +850,7 @@
 
 
 
+
   <g
    transform="matrix(0,-1,1,0,-27100.534,13488.299)"
    id="g6477">
@@ -835,6 +860,7 @@
    class="fil1 fnt4"
    id="text6479"
    style="font-size:352.77999878px;font-weight:normal;fill:#2b2a29;font-family:Arial">adaptor</text>
+
 
 
 
@@ -1108,6 +1134,7 @@
 
 
 
+
   <ellipse
    class="fil0 str6"
    cx="7799"
@@ -1133,6 +1160,7 @@
    class="fil1 fnt6"
    id="text6559"
    style="font-size:337.70001221px;font-weight:bold;fill:#2b2a29;font-family:Arial">2</text>
+
 
 
 
@@ -1196,6 +1224,7 @@
 
 
 
+
   <ellipse
    class="fil0 str6"
    cx="7093"
@@ -1250,12 +1279,14 @@
 
 
 
+
   <text
    x="-15624.224"
    y="1285.9989"
    class="fil1 fnt4"
    id="text6591"
    style="font-size:352.77999878px;font-weight:normal;fill:#2b2a29;font-family:Arial">RNA ligation</text>
+
 
 
 
@@ -1298,6 +1329,7 @@
 
 
 
+
   <path
    class="fil0 str2"
    d="m -11423.224,5084.9989 6048.0001,0 c 141,0 257,34 257,74 l 0,596 c 0,41 -116,74 -257,74 l -6048.0001,0 c -141,0 -257,-34 -257,-74 l 0,-596 c 0,-41 116,-74 257,-74 z"
@@ -1313,6 +1345,7 @@
 
 
 
+
   <text
    x="-13563.224"
    y="497.99893"
@@ -1322,12 +1355,14 @@
 
 
 
+
   <text
    x="-13387.224"
    y="497.99893"
    class="fil1 fnt1"
    id="text6613"
    style="font-size:317.5px;font-weight:normal;fill:#2b2a29;font-family:Arial">'</text>
+
 
 
 
@@ -1341,12 +1376,14 @@
 
 
 
+
   <text
    x="-7439.2241"
    y="497.99893"
    class="fil1 fnt1"
    id="text6619"
    style="font-size:317.5px;font-weight:normal;fill:#2b2a29;font-family:Arial">'</text>
+
 
 
 
@@ -1359,12 +1396,14 @@
 
 
 
+
   <text
    x="-12773.224"
    y="2614.999"
    class="fil1 fnt1"
    id="text6623"
    style="font-size:317.5px;font-weight:normal;fill:#2b2a29;font-family:Arial">'</text>
+
 
 
 
@@ -1377,12 +1416,14 @@
 
 
 
+
   <text
    x="-8328.2236"
    y="2635.999"
    class="fil1 fnt1"
    id="text6627"
    style="font-size:317.5px;font-weight:normal;fill:#2b2a29;font-family:Arial">'</text>
+
 
 
 
@@ -1640,6 +1681,7 @@
 
 
 
+
     <ellipse
    class="fil0 str6"
    cx="13686"
@@ -1664,6 +1706,7 @@
    class="fil1 fnt6"
    id="text6703"
    style="font-size:337.70001221px;font-weight:bold;fill:#2b2a29;font-family:Arial">1</text>
+
 
 
 
@@ -1725,6 +1768,7 @@
    class="fil1 fnt6"
    id="text6721"
    style="font-size:337.70001221px;font-weight:bold;fill:#2b2a29;font-family:Arial">2</text>
+
 
 
 
@@ -1797,6 +1841,7 @@
 
 
 
+
     <ellipse
    class="fil0 str6"
    cx="14561"
@@ -1857,12 +1902,14 @@
 
 
 
+
     <text
    x="14074"
    y="6265"
    class="fil1 fnt1"
    id="text6759"
    style="font-size:317.5px;font-weight:normal;fill:#2b2a29;font-family:Arial">'</text>
+
 
 
 
@@ -2214,6 +2261,7 @@
    inkscape:export-ydpi="150">3'</text>
 
 
+
 <text
    x="9276.1377"
    y="10129.764"
@@ -2223,6 +2271,7 @@
    inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig1C.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">5</text>
+
 
 
 <text
@@ -2237,12 +2286,14 @@
 
 
 
+
   <text
    x="-9042.2236"
    y="497.99893"
    class="fil1 fnt1"
    id="text6765"
    style="font-size:317.5px;font-weight:normal;fill:#2b2a29;font-family:Arial">3’</text>
+
 
 
 
@@ -2255,12 +2306,14 @@
 
 
 
+
   <text
    x="-10480.224"
    y="10898.999"
    class="fil1 fnt4"
    id="text6769"
    style="font-size:352.77999878px;font-weight:normal;fill:#2b2a29;font-family:Arial">Other cuts</text>
+
 
 
 
@@ -2278,6 +2331,7 @@
    class="fil1 fnt1"
    id="text6773"
    style="font-size:317.5px;font-weight:normal;fill:#2b2a29;font-family:Arial">mw</text>
+
 
 
 
@@ -2309,10 +2363,11 @@
      style="text-align:center;text-anchor:middle">SPARE</tspan></text>
 
 
+
 <text
    xml:space="preserve"
    style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-   x="10211.966"
+   x="10211.965"
    y="5416.1211"
    id="text6787"
    sodipodi:linespacing="125%"
@@ -2321,25 +2376,26 @@
    inkscape:export-ydpi="150"><tspan
      sodipodi:role="line"
      id="tspan6789"
-     x="10256.89"
+     x="10256.889"
      y="5416.1211"
      style="text-align:center;text-anchor:middle">Identificación de </tspan><tspan
      sodipodi:role="line"
-     x="10211.966"
+     x="10211.965"
      y="5768.8989"
      id="tspan6791"
      style="text-align:center;text-anchor:middle">fragmentos de ARN</tspan><tspan
      sodipodi:role="line"
-     x="10211.966"
+     x="10211.965"
      y="6121.6768"
      id="tspan6793"
      style="text-align:center;text-anchor:middle">de precursores</tspan></text>
 
 
+
 <text
    xml:space="preserve"
    style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-   x="10194.464"
+   x="10194.463"
    y="7150.7153"
    id="text6795"
    sodipodi:linespacing="125%"
@@ -2348,19 +2404,20 @@
    inkscape:export-ydpi="150"><tspan
      sodipodi:role="line"
      id="tspan6797"
-     x="10194.464"
+     x="10194.463"
      y="7150.7153"
      style="text-align:center;text-anchor:middle">Mapeo de los cortes</tspan><tspan
      sodipodi:role="line"
-     x="10239.388"
-     y="7503.4927"
+     x="10239.387"
+     y="7503.4932"
      id="tspan6799"
      style="text-align:center;text-anchor:middle">en la estructura de </tspan><tspan
      sodipodi:role="line"
-     x="10194.464"
+     x="10194.463"
      y="7856.271"
      id="tspan6801"
      style="text-align:center;text-anchor:middle">los precursores</tspan></text>
+
 
 
 <text
@@ -2385,6 +2442,7 @@
      style="text-align:center;text-anchor:middle">miARN*</tspan></text>
 
 
+
 <text
    xml:space="preserve"
    style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2400,6 +2458,7 @@
      y="9055.9346"
      id="tspan6813"
      style="font-size:225.777771px;text-align:center;text-anchor:middle">corte distal</tspan></text>
+
 
 
 <text
@@ -2419,11 +2478,12 @@
      style="font-size:225.777771px;text-align:center;text-anchor:middle">corte proximal</tspan></text>
 
 
+
 <text
    xml:space="preserve"
    style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-   x="12089.347"
-   y="4049.2559"
+   x="20390.143"
+   y="3432.7112"
    id="text6843"
    sodipodi:linespacing="125%"
    inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig1C.png"
@@ -2431,21 +2491,22 @@
    inkscape:export-ydpi="150"><tspan
      sodipodi:role="line"
      id="tspan6845"
-     x="12089.347"
-     y="4049.2559"
+     x="20390.143"
+     y="3432.7112"
      style="font-weight:bold;-inkscape-font-specification:Sans Bold">90 conservados</tspan><tspan
      sodipodi:role="line"
-     x="12089.347"
-     y="4402.0337"
+     x="20390.143"
+     y="3785.489"
      id="tspan6847"
      style="font-weight:bold;-inkscape-font-specification:Sans Bold">79 jóvenes</tspan></text>
+
 
 
 <text
    xml:space="preserve"
    style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
-   x="12085.351"
-   y="5585.7578"
+   x="20386.146"
+   y="4969.2134"
    id="text6843-8"
    sodipodi:linespacing="125%"
    inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig1C.png"
@@ -2453,14 +2514,15 @@
    inkscape:export-ydpi="150"><tspan
      sodipodi:role="line"
      id="tspan6845-0"
-     x="12085.351"
-     y="5585.7578"
+     x="20386.146"
+     y="4969.2134"
      style="font-weight:bold;-inkscape-font-specification:Sans Bold">71 conservados</tspan><tspan
      sodipodi:role="line"
-     x="12085.351"
-     y="5938.5356"
+     x="20386.146"
+     y="5321.9912"
      id="tspan6847-1"
      style="font-weight:bold;-inkscape-font-specification:Sans Bold">58 jóvenes</tspan></text>
+
 
 
 <line

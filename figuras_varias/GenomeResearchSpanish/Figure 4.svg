@@ -35,8 +35,8 @@
    id="namedview17525"
    showgrid="false"
    inkscape:zoom="0.95353535"
-   inkscape:cx="549.38615"
-   inkscape:cy="753.24202"
+   inkscape:cx="450.89741"
+   inkscape:cy="716.96397"
    inkscape:window-x="0"
    inkscape:window-y="24"
    inkscape:window-maximized="1"
@@ -958,12 +958,14 @@
    x="21723.312">0</text>
 
 
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#000000;font-family:Arial"
    id="text16244"
    class="fil5 fnt4"
    y="18191"
    x="21566.311">50</text>
+
 
 
 <text
@@ -974,12 +976,14 @@
    x="21410.311">100</text>
 
 
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#000000;font-family:Arial"
    id="text16248"
    class="fil5 fnt4"
    y="16815"
    x="21410.311">150</text>
+
 
 
 <text
@@ -990,12 +994,14 @@
    x="21410.311">300</text>
 
 
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;font-family:Arial"
    id="text16252"
    class="fil1 fnt4"
    y="19100"
    x="21979.316">Base-</text>
+
 
 
 <text
@@ -1006,12 +1012,14 @@
    x="22183.316">to-</text>
 
 
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;font-family:Arial"
    id="text16256"
    class="fil1 fnt4"
    y="19731"
    x="22081.316">loop</text>
+
 
 
 <text
@@ -1022,12 +1030,14 @@
    x="22950.316">Short </text>
 
 
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;font-family:Arial"
    id="text16260"
    class="fil1 fnt4"
    y="19418"
    x="22974.316">loop-</text>
+
 
 
 <text
@@ -1038,12 +1048,14 @@
    x="22895.316">o-base</text>
 
 
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;font-family:Arial"
    id="text16264"
    class="fil1 fnt4"
    y="19734"
    x="22817.316">t</text>
+
 
 
 <g
@@ -1058,535 +1070,83 @@
 
 
 
+
   </g>
-<g
-   id="g16332"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#d9dada;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16334"
-   d="m 7948,4959 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -16,36 -84,-36 z m 100,0 0,22 -16,15 16,-36 z m -267,135 183,-171 68,73 -183,171 -68,-73 z"
-   class="fil9" />
-  </g><text
-   style="font-size:196.38000488px;font-weight:bold;fill:#009846;font-family:Arial"
-   id="text16336"
-   class="fil10 fnt6"
-   y="5849"
-   x="7941"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">26</text>
-
-
-<text
-   style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial"
-   id="text16338"
-   class="fil11 fnt6"
-   y="5676"
-   x="7642"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">3</text>
-
-
-<g
-   id="g16340"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#d9dada;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16342"
-   d="m 8156,4959 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -84,36 -16,-36 z m 16,36 -16,-15 0,-22 16,36 z m 183,171 -183,-171 68,-73 183,171 -68,73 z"
-   class="fil9" />
-  </g><g
-   id="g16344"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#009846;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16346"
-   d="m 8050,4959 130,259 -259,0 130,-259 z m -50,707 0,-451 100,0 0,451 -100,0 z"
-   class="fil12" />
-  </g><text
-   style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial"
-   id="text16348"
-   class="fil11 fnt6"
-   y="5676"
-   x="8370"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">3</text>
-
-
-<g
-   id="g16350"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#d9dada;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16352"
-   d="m 5385,4959 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -38,49 -62,-49 z m 100,0 0,39 -38,9 38,-49 z m -290,9 228,-57 24,97 -228,57 -24,-97 z"
-   class="fil9" />
-  </g><g
-   id="g16354"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#d9dada;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16356"
-   d="m 5511,4959 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -16,36 -84,-36 z m 100,0 0,22 -16,15 16,-36 z m -267,135 183,-171 68,73 -183,171 -68,-73 z"
-   class="fil9" />
-  </g><text
-   style="font-size:196.38000488px;font-weight:bold;fill:#009846;font-family:Arial"
-   id="text16358"
-   class="fil10 fnt6"
-   y="5849"
-   x="5455"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">530</text>
-
-
-<text
-   style="font-size:196.38000488px;font-weight:bold;fill:#9d9e9e;font-family:Arial"
-   id="text16360"
-   class="fil13 fnt6"
-   y="5687"
-   x="5104"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">16</text>
-
-
-<text
-   style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial"
-   id="text16362"
-   class="fil11 fnt6"
-   y="5484"
-   x="5003"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">2</text>
-
-
-<g
-   id="g16364"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#009846;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16366"
-   d="m 5614,4959 130,259 -259,0 130,-259 z m -50,707 0,-451 100,0 0,451 -100,0 z"
-   class="fil12" />
-  </g><g
-   id="g16368"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#d9dada;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16370"
-   d="m 3099,4959 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -16,36 -84,-36 z m 100,0 0,22 -16,15 16,-36 z m -267,135 183,-171 68,73 -183,171 -68,-73 z"
-   class="fil9" />
-  </g><text
-   style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial"
-   id="text16372"
-   class="fil11 fnt6"
-   y="5676"
-   x="2793"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">3</text>
-
-
-<g
-   id="g16374"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#d9dada;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16376"
-   d="m 5719,7149 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -84,36 -16,-36 z m 16,36 -16,-15 0,-22 16,36 z m 183,171 -183,-171 68,-73 183,171 -68,73 z"
-   class="fil9" />
-  </g><g
-   id="g16378"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#d9dada;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16380"
-   d="m 5494,7149 130,259 -259,0 130,-259 z m -50,521 0,-265 100,0 0,265 -100,0 z"
-   class="fil9" />
-  </g>
-<g
-   id="g16384"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#d9dada;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16386"
-   d="m 7811,7149 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -16,36 -84,-36 z m 100,0 0,22 -16,15 16,-36 z m -267,135 183,-171 68,73 -183,171 -68,-73 z"
-   class="fil9" />
-  </g><text
-   style="font-size:196.38000488px;font-weight:bold;fill:#009846;font-family:Arial"
-   id="text16388"
-   class="fil10 fnt6"
-   y="8039"
-   x="7913"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">97</text>
-
-
-<text
-   style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial"
-   id="text16390"
-   class="fil11 fnt6"
-   y="7866"
-   x="7506"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">4</text>
-
-
-<g
-   id="g16392"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#d9dada;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16394"
-   d="m 8128,7149 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -84,36 -16,-36 z m 16,36 -16,-15 0,-22 16,36 z m 183,171 -183,-171 68,-73 183,171 -68,73 z"
-   class="fil9" />
-  </g><g
-   id="g16396"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#009846;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16398"
-   d="m 8023,7149 130,259 -259,0 130,-259 z m -50,707 0,-451 100,0 0,451 -100,0 z"
-   class="fil12" />
-  </g><text
-   style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial"
-   id="text16400"
-   class="fil11 fnt6"
-   y="7866"
-   x="8342"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">5</text>
-
-
-<text
-   style="font-size:196.38000488px;font-weight:bold;fill:#009846;font-family:Arial"
-   id="text16402"
-   class="fil10 fnt6"
-   y="8039"
-   x="5526"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">46</text>
-
-
-<g
-   id="g16404"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#009846;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16406"
-   d="m 5598,7149 130,259 -259,0 130,-259 z m -50,707 0,-451 100,0 0,451 -100,0 z"
-   class="fil12" />
-  </g><text
-   style="font-size:196.38000488px;font-weight:bold;fill:#009846;font-family:Arial"
-   id="text16408"
-   class="fil10 fnt6"
-   y="8039"
-   x="5255"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">51</text>
-
-
-<text
-   style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial"
-   id="text16410"
-   class="fil11 fnt6"
-   y="7826"
-   x="5448"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">9</text>
-
-
-<text
-   style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial"
-   id="text16412"
-   class="fil11 fnt6"
-   y="7866"
-   x="5934"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">3</text>
-
-
-<g
-   id="g16414"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#d9dada;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16416"
-   d="m 6045,7149 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -84,36 -16,-36 z m 16,36 -16,-15 0,-22 16,36 z m 183,171 -183,-171 68,-73 183,171 -68,73 z"
-   class="fil9" />
-  </g><text
-   style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial"
-   id="text16418"
-   class="fil11 fnt6"
-   y="7866"
-   x="6259"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">2</text>
-
-
-<g
-   id="g16420"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#d9dada;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16422"
-   d="m 5273,7149 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -16,36 -84,-36 z m 100,0 0,22 -16,15 16,-36 z m -267,135 183,-171 68,73 -183,171 -68,-73 z"
-   class="fil9" />
-  </g><text
-   style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial"
-   id="text16424"
-   class="fil11 fnt6"
-   y="7866"
-   x="4967"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">3</text>
-
-
-<g
-   id="g16426"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#d9dada;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16428"
-   d="m 5163,7157 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -38,49 -62,-49 z m 100,0 0,39 -38,9 38,-49 z m -290,9 228,-57 24,97 -228,57 -24,-97 z"
-   class="fil9" />
-  </g><text
-   style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial"
-   id="text16430"
-   class="fil11 fnt6"
-   y="7743"
-   x="4811"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">5</text>
-
-
-<g
-   id="g16432"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#d9dada;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16434"
-   d="m 3527,7149 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -16,36 -84,-36 z m 100,0 0,22 -16,15 16,-36 z m -267,135 183,-171 68,73 -183,171 -68,-73 z"
-   class="fil9" />
-  </g><text
-   style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial"
-   id="text16436"
-   class="fil11 fnt6"
-   y="7866"
-   x="3242"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">2</text>
-
-
-<g
-   id="g16438"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#d9dada;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16440"
-   d="m 3202,7149 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -16,36 -84,-36 z m 100,0 0,22 -16,15 16,-36 z m -267,135 183,-171 68,73 -183,171 -68,-73 z"
-   class="fil9" />
-  </g><text
-   style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial"
-   id="text16442"
-   class="fil11 fnt6"
-   y="7866"
-   x="2916"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">2</text>
 
 
 
-<text
-   style="font-size:196.38000488px;font-weight:bold;fill:#009846;font-family:Arial"
-   id="text16446"
-   class="fil10 fnt6"
-   y="10218"
-   x="7980"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">100</text>
 
 
-<g
-   id="g16448"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#009846;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16450"
-   d="m 8137,9328 130,259 -259,0 130,-259 z m -50,707 0,-451 100,0 0,451 -100,0 z"
-   class="fil12" />
-  </g><text
-   style="font-size:196.38000488px;font-weight:bold;fill:#009846;font-family:Arial"
-   id="text16452"
-   class="fil10 fnt6"
-   y="10218"
-   x="5677"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">227</text>
 
 
-<g
-   id="g16454"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#d9dada;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16456"
-   d="m 5715,9338 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -16,36 -84,-36 z m 100,0 0,22 -16,15 16,-36 z m -267,135 183,-171 68,73 -183,171 -68,-73 z"
-   class="fil9" />
-  </g><text
-   style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial"
-   id="text16458"
-   class="fil11 fnt6"
-   y="10055"
-   x="5409"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">8</text>
 
 
-<g
-   id="g16460"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#009846;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16462"
-   d="m 5840,9328 130,259 -259,0 130,-259 z m -50,707 0,-451 100,0 0,451 -100,0 z"
-   class="fil12" />
-  </g><g
-   id="g16464"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#009846;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16466"
-   d="m 8141,2921 130,259 -259,0 130,-259 z m -50,707 0,-451 100,0 0,451 -100,0 z"
-   class="fil12" />
-  </g><text
-   style="font-size:196.38000488px;font-weight:bold;fill:#009846;font-family:Arial"
-   id="text16468"
-   class="fil10 fnt6"
-   y="3801"
-   x="8216"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">7</text>
 
 
-<g
-   id="g16470"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#2b2a29;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16472"
-   d="m 5634,2921 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -16,36 -84,-36 z m 100,0 0,22 -16,15 16,-36 z m -267,135 183,-171 68,73 -183,171 -68,-73 z"
-   class="fil14" />
-  </g><text
-   style="font-size:196.38000488px;font-weight:bold;fill:#009846;font-family:Arial"
-   id="text16474"
-   class="fil10 fnt6"
-   y="3801"
-   x="5629"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">18</text>
 
 
-<text
-   style="font-size:196.38000488px;font-weight:bold;fill:#2b2a29;font-family:Arial"
-   id="text16476"
-   class="fil1 fnt6"
-   y="3640"
-   x="5327"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">4</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1830,6 +1390,7 @@
 
 
 
+
   </g><text
    xml:space="preserve"
    style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
@@ -1844,6 +1405,7 @@
      id="tspan13645"
      x="8061.5547"
      y="16406.088">miARN/miARN*</tspan></text>
+
 
 
 <g
@@ -1861,12 +1423,14 @@
 
 
 
+
    <text
    style="font-size:246.94000244px;font-weight:normal;fill:#2b2a29;font-family:Arial"
    id="text16674"
    class="fil1 fnt12"
    y="13970"
    x="10877">25</text>
+
 
 
 
@@ -1885,12 +1449,14 @@
 
 
 
+
    <text
    style="font-size:246.94000244px;font-weight:normal;fill:#2b2a29;font-family:Arial"
    id="text16680"
    class="fil1 fnt12"
    y="13970"
    x="10877">23</text>
+
 
 
 
@@ -1909,12 +1475,14 @@
 
 
 
+
    <text
    style="font-size:246.94000244px;font-weight:normal;fill:#2b2a29;font-family:Arial"
    id="text16686"
    class="fil1 fnt12"
    y="13970"
    x="10877">21</text>
+
 
 
 
@@ -1933,12 +1501,14 @@
 
 
 
+
    <text
    style="font-size:246.94000244px;font-weight:normal;fill:#2b2a29;font-family:Arial"
    id="text16692"
    class="fil1 fnt12"
    y="13970"
    x="10877">19</text>
+
 
 
 
@@ -1957,12 +1527,14 @@
 
 
 
+
    <text
    style="font-size:246.94000244px;font-weight:normal;fill:#2b2a29;font-family:Arial"
    id="text16698"
    class="fil1 fnt12"
    y="13970"
    x="10877">17</text>
+
 
 
 
@@ -1981,12 +1553,14 @@
 
 
 
+
    <text
    style="font-size:246.94000244px;font-weight:normal;fill:#2b2a29;font-family:Arial"
    id="text16704"
    class="fil1 fnt12"
    y="13970"
    x="10877">15</text>
+
 
 
 
@@ -2005,12 +1579,14 @@
 
 
 
+
    <text
    style="font-size:246.94000244px;font-weight:normal;fill:#2b2a29;font-family:Arial"
    id="text16710"
    class="fil1 fnt12"
    y="13970"
    x="10877">13</text>
+
 
 
 
@@ -2029,12 +1605,14 @@
 
 
 
+
    <text
    style="font-size:246.94000244px;font-weight:normal;fill:#2b2a29;font-family:Arial"
    id="text16716"
    class="fil1 fnt12"
    y="13970"
    x="10877">11</text>
+
 
 
 
@@ -2053,12 +1631,14 @@
 
 
 
+
    <text
    style="font-size:246.94000244px;font-weight:normal;fill:#2b2a29;font-family:Arial"
    id="text16722"
    class="fil1 fnt12"
    y="13970"
    x="10877">9</text>
+
 
 
 
@@ -2077,12 +1657,14 @@
 
 
 
+
    <text
    style="font-size:246.94000244px;font-weight:normal;fill:#2b2a29;font-family:Arial"
    id="text16728"
    class="fil1 fnt12"
    y="13970"
    x="10877">7</text>
+
 
 
 
@@ -2101,12 +1683,14 @@
 
 
 
+
    <text
    style="font-size:246.94000244px;font-weight:normal;fill:#2b2a29;font-family:Arial"
    id="text16734"
    class="fil1 fnt12"
    y="13970"
    x="10877">5</text>
+
 
 
 
@@ -2125,12 +1709,14 @@
 
 
 
+
    <text
    style="font-size:246.94000244px;font-weight:normal;fill:#2b2a29;font-family:Arial"
    id="text16740"
    class="fil1 fnt12"
    y="13970"
    x="10877">3</text>
+
 
 
 
@@ -2149,12 +1735,14 @@
 
 
 
+
    <text
    style="font-size:246.94000244px;font-weight:normal;fill:#2b2a29;font-family:Arial"
    id="text16746"
    class="fil1 fnt12"
    y="13970"
    x="10877">1</text>
+
 
 
 
@@ -2173,6 +1761,7 @@
 
 
 
+
   </g><g
    id="g16752"
    transform="matrix(1.00175,0,0,1,-3372.53,4288.71)"
@@ -2185,6 +1774,7 @@
    class="fil1 fnt12"
    y="13970"
    x="10795">3</text>
+
 
 
 
@@ -2203,6 +1793,7 @@
 
 
 
+
   </g><g
    id="g16760"
    transform="matrix(1.00175,0,0,1,-2547.67,4288.71)"
@@ -2215,6 +1806,7 @@
    class="fil1 fnt12"
    y="13970"
    x="10795">7</text>
+
 
 
 
@@ -2233,6 +1825,7 @@
 
 
 
+
   </g><g
    id="g16768"
    transform="matrix(1.00175,0,0,1,-1771.14,4288.71)"
@@ -2245,6 +1838,7 @@
    class="fil1 fnt12"
    y="13970"
    x="10795">11</text>
+
 
 
 
@@ -2263,6 +1857,7 @@
 
 
 
+
   </g><g
    id="g16776"
    transform="matrix(1.00175,0,0,1,-971.683,4288.71)"
@@ -2275,6 +1870,7 @@
    class="fil1 fnt12"
    y="13970"
    x="10795">15</text>
+
 
 
 
@@ -2293,6 +1889,7 @@
 
 
 
+
   </g><g
    id="g16784"
    transform="matrix(1.00175,0,0,1,-146.832,4288.71)"
@@ -2305,6 +1902,7 @@
    class="fil1 fnt12"
    y="13970"
    x="10795">19</text>
+
 
 
 
@@ -2323,6 +1921,7 @@
 
 
 
+
   </g><g
    id="g16792"
    transform="matrix(1.00175,0,0,1,703.426,4288.71)"
@@ -2335,6 +1934,7 @@
    class="fil1 fnt12"
    y="13970"
    x="10795">23</text>
+
 
 
 
@@ -2353,6 +1953,7 @@
 
 
 
+
   </g><g
    id="g16800"
    transform="matrix(1.00175,0,0,1,1528.28,4288.71)"
@@ -2365,6 +1966,7 @@
    class="fil1 fnt12"
    y="13970"
    x="10795">27</text>
+
 
 
 
@@ -2383,6 +1985,7 @@
 
 
 
+
   </g><g
    id="g16808"
    transform="matrix(1.00175,0,0,1,2353.13,4288.71)"
@@ -2395,6 +1998,7 @@
    class="fil1 fnt12"
    y="13970"
    x="10795">31</text>
+
 
 
 
@@ -2413,6 +2017,7 @@
 
 
 
+
   </g><g
    id="g16816"
    transform="matrix(1.00175,0,0,1,3177.99,4288.71)"
@@ -2425,6 +2030,7 @@
    class="fil1 fnt12"
    y="13970"
    x="10795">35</text>
+
 
 
 
@@ -2443,6 +2049,7 @@
 
 
 
+
   </g><g
    id="g16824"
    transform="matrix(1.00175,0,0,1,4002.84,4288.71)"
@@ -2458,12 +2065,14 @@
 
 
 
+
   </g><text
    style="font-size:423.32998657px;font-weight:bold;fill:#2b2a29;font-family:Arial"
    id="text16828"
    class="fil1 fnt10"
    y="15718.429"
    x="20808.91">D</text>
+
 
 
 <g
@@ -2537,673 +2146,175 @@
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150" />
 
-<text
-   style="font-size:176.38999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16858"
-   class="fil1 fnt14"
-   y="8701"
-   x="2137"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">5’</text>
 
 
-<text
-   style="font-size:176.38999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16860"
-   class="fil1 fnt14"
-   y="9314"
-   x="2133"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">3’</text>
 
 
-<text
-   style="font-size:176.38999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16862"
-   class="fil1 fnt14"
-   y="6480"
-   x="2118"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">5’</text>
 
 
-<text
-   style="font-size:176.38999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16864"
-   class="fil1 fnt14"
-   y="7093"
-   x="2114"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">3’</text>
 
 
-<text
-   style="font-size:176.38999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16866"
-   class="fil1 fnt14"
-   y="4306"
-   x="2239"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">5’</text>
 
 
-<text
-   style="font-size:176.38999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16868"
-   class="fil1 fnt14"
-   y="4920"
-   x="2235"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">3’</text>
 
 
-<text
-   style="font-size:176.38999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16870"
-   class="fil1 fnt14"
-   y="2231"
-   x="2121"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">5’</text>
 
 
-<text
-   style="font-size:176.38999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16872"
-   class="fil1 fnt14"
-   y="2845"
-   x="2117"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">3’</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <g
-   id="g16874"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#009846;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16876"
-   d="m 5396,7149 130,259 -259,0 130,-259 z m -50,707 0,-451 100,0 0,451 -100,0 z"
-   class="fil12" />
-  </g><polygon
-   style="fill:#d2cde7;fill-opacity:0.270588"
-   id="polygon16880"
-   points="10763,2938 8345,2938 8345,2097 10763,2097 "
-   class="fil21"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><text
-   style="font-size:182.19000244px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16882"
-   class="fil1 fnt15"
-   y="2235"
-   x="2347"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">AA   U    AC-      AAC   AA-   A       </text>
-
-
-<text
-   style="font-size:182.19000244px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16884"
-   class="fil1 fnt15"
-   y="2235"
-   x="7376"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">         A   ---      UU    UA </text>
-
-
-<text
-   style="font-size:182.19000244px;font-weight:bold;fill:#e31e24;font-family:Courier New"
-   id="text16886"
-   class="fil20 fnt15"
-   y="2235"
-   x="6611"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">-     -</text>
-
-
-<text
-   style="font-size:182.19000244px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16888"
-   class="fil1 fnt15"
-   y="2441"
-   x="2347"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">  GAG UGGG   AAGAGA   GCA   GAA C</text>
-
-
-<text
-   style="font-size:182.19000244px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16890"
-   class="fil1 fnt15"
-   y="2441"
-   x="8360"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150"> CAA   AGGCAA  UGCA  U</text>
-
-
-<text
-   style="font-size:182.19000244px;font-weight:bold;fill:#e31e24;font-family:Courier New"
-   id="text16892"
-   class="fil20 fnt15"
-   y="2441"
-   x="5955"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">UGACAG AAGAG AGUGAGCAC</text>
-
-
-<text
-   style="font-size:182.19000244px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16894"
-   class="fil1 fnt15"
-   y="2648"
-   x="2347"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">  UUC GUCC   UUCUCU   CGU   CUU </text>
-
-
-<text
-   style="font-size:182.19000244px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16896"
-   class="fil1 fnt15"
-   y="2648"
-   x="8142"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">UG GUU   UUCGUU  ACGU  C</text>
-
-
-<text
-   style="font-size:182.19000244px;font-weight:bold;fill:#00a0e3;font-family:Courier New"
-   id="text16898"
-   class="fil15 fnt15"
-   y="2648"
-   x="5845"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">GACUGUC UUCUC UCACUCG</text>
-
-
-<text
-   style="font-size:182.19000244px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16900"
-   class="fil1 fnt15"
-   y="2854"
-   x="2347"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">C-   U    GGU      AGU   GGC   </text>
-
-
-<text
-   style="font-size:182.19000244px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16902"
-   class="fil1 fnt15"
-   y="2854"
-   x="7376"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">         C   CUC      C-    UA </text>
-
-
-<text
-   style="font-size:182.19000244px;font-weight:bold;fill:#00a0e3;font-family:Courier New"
-   id="text16904"
-   class="fil15 fnt15"
-   y="2854"
-   x="5736"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">A       U     G</text>
-
-
-<polygon
-   style="fill:#d2cde7;fill-opacity:0.270588"
-   id="polygon16906"
-   points="10771,4970 8243,4970 8243,4129 10771,4129 "
-   class="fil21"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><text
-   style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16908"
-   class="fil1 fnt16"
-   y="4302"
-   x="2465"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">GGGACAAAUUUUAAGAGAAAC  AUA   A        </text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16910"
-   class="fil1 fnt16"
-   y="4302"
-   x="7276"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">         A   ---     CUU     GU </text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#e31e24;font-family:Courier New"
-   id="text16912"
-   class="fil20 fnt16"
-   y="4302"
-   x="6620"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">-    -</text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16914"
-   class="fil1 fnt16"
-   y="4508"
-   x="2465"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">                     GC   GAA C</text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16916"
-   class="fil1 fnt16"
-   y="4508"
-   x="8260"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150"> CAA   AGGCA   UGCAU  U</text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#e31e24;font-family:Courier New"
-   id="text16918"
-   class="fil20 fnt16"
-   y="4508"
-   x="5854"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">UGACAGA AGAG AGUGAGCAC</text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16920"
-   class="fil1 fnt16"
-   y="4715"
-   x="2465"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">                     CG   CUU </text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16922"
-   class="fil1 fnt16"
-   y="4715"
-   x="8041"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">UG GUU   UUCGU   ACGUA  \</text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#00a0e3;font-family:Courier New"
-   id="text16924"
-   class="fil15 fnt16"
-   y="4715"
-   x="5745"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">GACUGUCU UCUC UCACUCG</text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16926"
-   class="fil1 fnt16"
-   y="4921"
-   x="2465"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">GCACUGGCCCUGGCUUAGCCU  -GC   </text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16928"
-   class="fil1 fnt16"
-   y="4921"
-   x="7385"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">        C   CUC     -UU     GC</text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#00a0e3;font-family:Courier New"
-   id="text16930"
-   class="fil15 fnt16"
-   y="4921"
-   x="5636"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">A        A    G </text>
-
-
-<polygon
-   style="fill:#d2cde7;fill-opacity:0.270588"
-   id="polygon16932"
-   points="10765,7148 8238,7148 8238,6307 10765,6307 "
-   class="fil21"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><text
-   style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16934"
-   class="fil1 fnt16"
-   y="6474"
-   x="1900"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">    GAUAAAUAUAU   G        AAA     --        </text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16936"
-   class="fil1 fnt16"
-   y="6474"
-   x="7040"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">           A      G  AGU        A </text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#e31e24;font-family:Courier New"
-   id="text16938"
-   class="fil20 fnt16"
-   y="6474"
-   x="6821"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">- </text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16940"
-   class="fil1 fnt16"
-   y="6681"
-   x="1900"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">               GUU AUGGGGGA   GAAGU  </text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16942"
-   class="fil1 fnt16"
-   y="6681"
-   x="8242"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150"> CAAAGG GA   UGUAUAAA \</text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#e31e24;font-family:Courier New"
-   id="text16944"
-   class="fil20 fnt16"
-   y="6681"
-   x="5946"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">UGACAGAA GAGAGUGAGCAC</text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16946"
-   class="fil1 fnt16"
-   y="6887"
-   x="1900"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">               UAA UACUUCCU   CUUCA  </text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16948"
-   class="fil1 fnt16"
-   y="6887"
-   x="8024"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">UG GUUUUC UU   AUAUGUUU G</text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#00a0e3;font-family:Courier New"
-   id="text16950"
-   class="fil15 fnt16"
-   y="6887"
-   x="5946"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">ACUGUUUU CUCUCACUCG</text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16952"
-   class="fil1 fnt16"
-   y="7093"
-   x="1900"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">    CUUAUUCCUUC   G        ---     </text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16954"
-   class="fil1 fnt16"
-   y="7093"
-   x="6930"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">            C      G  GGU        U </text>
-
-
-<text
-   style="font-size:182.19999695px;font-weight:bold;fill:#00a0e3;font-family:Courier New"
-   id="text16956"
-   class="fil15 fnt16"
-   y="7093"
-   x="5727"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">AU        U</text>
-
-
-<polygon
-   style="fill:#d2cde7;fill-opacity:0.270588"
-   id="polygon16958"
-   points="10467,9411 8366,9411 8366,8570 10467,8570 "
-   class="fil21"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><text
-   style="font-size:181.88999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16960"
-   class="fil1 fnt17"
-   y="8695"
-   x="2360"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">--  U-      A           UAUAUAU      </text>
-
-
-<text
-   style="font-size:181.88999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16962"
-   class="fil1 fnt17"
-   y="8695"
-   x="7600"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">        A   U   CC     AG </text>
-
-
-<text
-   style="font-size:181.88999939px;font-weight:bold;fill:#e31e24;font-family:Courier New"
-   id="text16964"
-   class="fil20 fnt17"
-   y="8695"
-   x="6399"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">C       CU </text>
-
-
-<text
-   style="font-size:181.88999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16966"
-   class="fil1 fnt17"
-   y="8901"
-   x="2360"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">  CA  AUGUAG UGUAUAUGUAU       GUA</text>
-
-
-<text
-   style="font-size:181.88999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16968"
-   class="fil1 fnt17"
-   y="8901"
-   x="8364"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">U UGC GAG  CAUCG  \</text>
-
-
-<text
-   style="font-size:181.88999939px;font-weight:bold;fill:#e31e24;font-family:Courier New"
-   id="text16970"
-   class="fil20 fnt17"
-   y="8901"
-   x="6071"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">UGC UGGCUCC  GUAUGCCA</text>
-
-
-<text
-   style="font-size:181.88999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16972"
-   class="fil1 fnt17"
-   y="9107"
-   x="2360"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">  GU  UGUAUU AUAUAUACAUA       U</text>
-
-
-<text
-   style="font-size:181.88999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16974"
-   class="fil1 fnt17"
-   y="9107"
-   x="8145"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">GUA GUG CUC  GUAGC  U</text>
-
-
-<text
-   style="font-size:181.88999939px;font-weight:bold;fill:#00a0e3;font-family:Courier New"
-   id="text16976"
-   class="fil15 fnt17"
-   y="9107"
-   x="5853"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">AUACG ACCGAGG  UAUGCG</text>
-
-
-<text
-   style="font-size:181.88999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16978"
-   class="fil1 fnt17"
-   y="9313"
-   x="2360"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">UG  UU      A           CUCC---      </text>
-
-
-<text
-   style="font-size:181.88999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New"
-   id="text16980"
-   class="fil1 fnt17"
-   y="9313"
-   x="7491"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">         G   C   CA     UA </text>
-
-
-<text
-   style="font-size:181.88999939px;font-weight:bold;fill:#00a0e3;font-family:Courier New"
-   id="text16982"
-   class="fil15 fnt17"
-   y="9313"
-   x="6399"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">U       AG</text>
-
-
-<g
-   id="g16984"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-   <path
-   style="fill:#009846;fill-rule:nonzero"
-   inkscape:connector-curvature="0"
-   id="path16986"
-   d="m 5737,2921 130,259 -259,0 130,-259 z m -50,707 0,-451 100,0 0,451 -100,0 z"
-   class="fil12" />
-  </g><g
    id="g16988"
    inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4C.png"
    inkscape:export-xdpi="150"
@@ -4434,6 +3545,7 @@
      y="16421.809">Tallo inferior</tspan></text>
 
 
+
 <line
    style="fill:none;stroke:#000000;stroke-width:21.17000008;stroke-linecap:round;stroke-linejoin:round"
    id="line17521"
@@ -4485,6 +3597,7 @@
      id="tspan13728">miARNs conservados</tspan></text>
 
 
+
 <text
    xml:space="preserve"
    style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
@@ -4508,6 +3621,7 @@
      style="font-size:197.55555725px;text-align:center;text-anchor:middle">apareamiento</tspan></text>
 
 
+
 <text
    xml:space="preserve"
    style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
@@ -4523,6 +3637,7 @@
      x="543.38867"
      y="18116.584"
      style="font-size:225.777771px">Apareado</tspan></text>
+
 
 
 <text
@@ -4542,468 +3657,457 @@
      style="font-size:225.777771px">Desapareado</tspan></text>
 
 
-<text
-   xml:space="preserve"
-   style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
-   x="14144.967"
-   y="8199.0566"
-   id="text6787"
-   sodipodi:linespacing="125%"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150"><tspan
-     sodipodi:role="line"
-     x="14144.967"
-     y="8199.0566"
-     id="tspan6793"
-     style="text-align:center;text-anchor:middle">32 miARNs conservados</tspan></text>
 
-<text
-   xml:space="preserve"
-   style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
-   x="14309.293"
-   y="4398.4658"
-   id="text6787-0"
-   sodipodi:linespacing="125%"
+
+
+
+
+
+
+
+
+
+
+
+<g
+   id="g3833"
+   transform="translate(0,320.77851)"
    inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
    inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150"><tspan
-     sodipodi:role="line"
-     x="14309.293"
+   inkscape:export-ydpi="150"><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     sodipodi:linespacing="125%"
+     id="text6787-0"
      y="4398.4658"
-     style="text-align:center;text-anchor:middle"
-     id="tspan9651">Detección de ambos cortes,</tspan><tspan
-     sodipodi:role="line"
      x="14309.293"
-     y="4751.2437"
-     style="text-align:center;text-anchor:middle"
-     id="tspan13586">proximal y distal</tspan></text>
-
+     style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+     xml:space="preserve"><tspan
+       id="tspan9651"
+       style="text-align:center;text-anchor:middle"
+       y="4398.4658"
+       x="14309.293"
+       sodipodi:role="line">Detección de ambos cortes,</tspan><tspan
+       id="tspan13586"
+       style="text-align:center;text-anchor:middle"
+       y="4751.2437"
+       x="14309.293"
+       sodipodi:role="line">proximal y distal</tspan></text>
 <path
-   class="fil3 str4"
-   d="m 13878.908,5248.528 c 0,-166 131,-250.9999 229,-250.9999"
-   id="path6356"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><path
-   class="fil3 str4"
-   d="m 13878.908,5248.528 c 0,84 93,207.0001 140,207.0001 0,0 0,57.9999 0,149.9999 -1,2.0001 -1,5.0001 -2,7 -29,32 -12,53 1,85 0,3 0,5 0,8 0,43 0,91 0,140 0,3 0,5 0,8 -26,37 -13,58 0,97 0,3 0,6 0,8 0,178.0001 0,374.0001 0,533.0001 0,2.9999 0,5 0,8 -26,32 -26,53 0,88 0,2.0001 0,5 0,6.9999 0,130.0001 0,217.0001 0,217.0001"
-   id="path6358"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><path
-   class="fil3 str4"
-   d="m 14347.908,5249.528 c 0,-166 -142,-251.9999 -239,-251.9999"
-   id="path6360"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><path
-   class="fil3 str4"
-   d="m 14347.908,5249.528 c 0,84 -101,207 -148,207 0,0 0,55.0001 0,142 0,4 1,8 2,13 29,24 4,54 -2,85 0,3 0,5 0,8 0,44 0,92 0,143 0,3 0,5 0,8 3,3 5,7 7,10 3,3 6,5 8,8 8,26 4,51 -12,70 -2,5 -3,11 -3,19 0,5 0,9 0,13 0,178.0001 0,372.0001 0,527.0001 0,3 0,5 0,8 27,35 27,52 2,83.9999 -1,2.0002 -1,5.0001 -2,7.0001 0,119.9999 0,200 0,200"
-   id="path6362"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><path
-   class="fil3 str4"
-   d="m 14199.908,6801.5281 c 0,78.9999 64,142 142,142"
-   id="path6364"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14341.908"
-   y1="6943.5278"
-   x2="14809.908"
-   y2="6943.5278"
-   id="line6366"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><path
-   class="fil3 str4"
-   d="m 14018.908,6811.5281 c 0,78 -63,141 -141,141"
-   id="path6368"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="13877.908"
-   y1="6952.5278"
-   x2="13440.908"
-   y2="6952.5278"
-   id="line6370"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="6750.5278"
-   x2="14199.908"
-   y2="6750.5278"
-   id="line6372"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="6700.5278"
-   x2="14199.908"
-   y2="6700.5278"
-   id="line6374"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="6650.5278"
-   x2="14199.908"
-   y2="6650.5278"
-   id="line6376"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="6600.5278"
-   x2="14199.908"
-   y2="6600.5278"
-   id="line6378"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><path
-   class="fil3 str4"
-   d="m 14018.908,6499.5281 c 8,-2.0001 21,-2.0001 28,0 2,0 4,0 7,0 52,0 146,0 146,0"
-   id="path6380"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="6450.5278"
-   x2="14199.908"
-   y2="6450.5278"
-   id="line6382"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="6400.5278"
-   x2="14199.908"
-   y2="6400.5278"
-   id="line6384"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="6349.5278"
-   x2="14199.908"
-   y2="6349.5278"
-   id="line6386"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="6299.5278"
-   x2="14199.908"
-   y2="6299.5278"
-   id="line6388"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="6250.5278"
-   x2="14199.908"
-   y2="6250.5278"
-   id="line6390"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="6199.5278"
-   x2="14199.908"
-   y2="6199.5278"
-   id="line6392"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="6149.5278"
-   x2="14199.908"
-   y2="6149.5278"
-   id="line6394"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="6099.5278"
-   x2="14199.908"
-   y2="6099.5278"
-   id="line6396"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="6049.5278"
-   x2="14199.908"
-   y2="6049.5278"
-   id="line6398"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="5999.5278"
-   x2="14199.908"
-   y2="5999.5278"
-   id="line6400"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><path
-   class="fil3 str4"
-   d="m 14018.908,5949.528 c 0,0 75,0 128,0 4,0 9,0 13,0 4,0 8,0 13,0 5,0 10,0 14,0 5,0 9,-0.9999 13,-0.9999"
-   id="path6402"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="5849.5278"
-   x2="14199.908"
-   y2="5849.5278"
-   id="line6404"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="5799.5278"
-   x2="14199.908"
-   y2="5799.5278"
-   id="line6406"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="5749.5278"
-   x2="14199.908"
-   y2="5749.5278"
-   id="line6408"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="5699.5278"
-   x2="14199.908"
-   y2="5699.5278"
-   id="line6410"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="5599.5278"
-   x2="14199.908"
-   y2="5599.5278"
-   id="line6412"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="5549.5278"
-   x2="14199.908"
-   y2="5549.5278"
-   id="line6414"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil3 str4"
-   x1="14018.908"
-   y1="5499.5278"
-   x2="14199.908"
-   y2="5499.5278"
-   id="line6416"
-   style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil0 str5"
-   x1="14200.908"
-   y1="5948.5278"
-   x2="14199.908"
-   y2="6502.5278"
-   id="line6418"
-   style="fill:none;stroke:#e31e24;stroke-width:75;stroke-linecap:round;stroke-opacity:1"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil0 str6"
-   x1="14541.908"
-   y1="6560.5278"
-   x2="14185.908"
-   y2="6542.5278"
-   id="line6420"
-   style="fill:none;stroke:#009846;stroke-width:50;stroke-opacity:1"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil0 str7"
-   x1="14018.908"
-   y1="5885.5278"
-   x2="14017.908"
-   y2="6438.5278"
-   id="line6422"
-   style="fill:none;stroke:#00a0e3;stroke-width:75;stroke-linecap:round;stroke-dasharray:1411.11111111, 3527.77777778"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><line
-   class="fil0 str6"
-   x1="14541.908"
-   y1="5935.5278"
-   x2="14185.908"
-   y2="5917.5278"
-   id="line6434"
-   style="fill:none;stroke:#009846;stroke-width:50;stroke-opacity:1"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><text
-   x="14893.908"
-   y="7084.5278"
-   class="fil1 fnt7"
-   id="text6615"
-   style="font-size:258.64001465px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">3'</text>
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     inkscape:connector-curvature="0"
+     id="path6356"
+     d="m 13878.908,5248.528 c 0,-166 131,-250.9999 229,-250.9999"
+     class="fil3 str4" /><path
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     inkscape:connector-curvature="0"
+     id="path6358"
+     d="m 13878.908,5248.528 c 0,84 93,207.0001 140,207.0001 0,0 0,57.9999 0,149.9999 -1,2.0001 -1,5.0001 -2,7 -29,32 -12,53 1,85 0,3 0,5 0,8 0,43 0,91 0,140 0,3 0,5 0,8 -26,37 -13,58 0,97 0,3 0,6 0,8 0,178.0001 0,374.0001 0,533.0001 0,2.9999 0,5 0,8 -26,32 -26,53 0,88 0,2.0001 0,5 0,6.9999 0,130.0001 0,217.0001 0,217.0001"
+     class="fil3 str4" /><path
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     inkscape:connector-curvature="0"
+     id="path6360"
+     d="m 14347.908,5249.528 c 0,-166 -142,-251.9999 -239,-251.9999"
+     class="fil3 str4" /><path
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     inkscape:connector-curvature="0"
+     id="path6362"
+     d="m 14347.908,5249.528 c 0,84 -101,207 -148,207 0,0 0,55.0001 0,142 0,4 1,8 2,13 29,24 4,54 -2,85 0,3 0,5 0,8 0,44 0,92 0,143 0,3 0,5 0,8 3,3 5,7 7,10 3,3 6,5 8,8 8,26 4,51 -12,70 -2,5 -3,11 -3,19 0,5 0,9 0,13 0,178.0001 0,372.0001 0,527.0001 0,3 0,5 0,8 27,35 27,52 2,83.9999 -1,2.0002 -1,5.0001 -2,7.0001 0,119.9999 0,200 0,200"
+     class="fil3 str4" /><path
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     inkscape:connector-curvature="0"
+     id="path6364"
+     d="m 14199.908,6801.5281 c 0,78.9999 64,142 142,142"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6366"
+     y2="6943.5278"
+     x2="14809.908"
+     y1="6943.5278"
+     x1="14341.908"
+     class="fil3 str4" /><path
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     inkscape:connector-curvature="0"
+     id="path6368"
+     d="m 14018.908,6811.5281 c 0,78 -63,141 -141,141"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6370"
+     y2="6952.5278"
+     x2="13440.908"
+     y1="6952.5278"
+     x1="13877.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6372"
+     y2="6750.5278"
+     x2="14199.908"
+     y1="6750.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6374"
+     y2="6700.5278"
+     x2="14199.908"
+     y1="6700.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6376"
+     y2="6650.5278"
+     x2="14199.908"
+     y1="6650.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6378"
+     y2="6600.5278"
+     x2="14199.908"
+     y1="6600.5278"
+     x1="14018.908"
+     class="fil3 str4" /><path
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     inkscape:connector-curvature="0"
+     id="path6380"
+     d="m 14018.908,6499.5281 c 8,-2.0001 21,-2.0001 28,0 2,0 4,0 7,0 52,0 146,0 146,0"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6382"
+     y2="6450.5278"
+     x2="14199.908"
+     y1="6450.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6384"
+     y2="6400.5278"
+     x2="14199.908"
+     y1="6400.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6386"
+     y2="6349.5278"
+     x2="14199.908"
+     y1="6349.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6388"
+     y2="6299.5278"
+     x2="14199.908"
+     y1="6299.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6390"
+     y2="6250.5278"
+     x2="14199.908"
+     y1="6250.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6392"
+     y2="6199.5278"
+     x2="14199.908"
+     y1="6199.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6394"
+     y2="6149.5278"
+     x2="14199.908"
+     y1="6149.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6396"
+     y2="6099.5278"
+     x2="14199.908"
+     y1="6099.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6398"
+     y2="6049.5278"
+     x2="14199.908"
+     y1="6049.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6400"
+     y2="5999.5278"
+     x2="14199.908"
+     y1="5999.5278"
+     x1="14018.908"
+     class="fil3 str4" /><path
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     inkscape:connector-curvature="0"
+     id="path6402"
+     d="m 14018.908,5949.528 c 0,0 75,0 128,0 4,0 9,0 13,0 4,0 8,0 13,0 5,0 10,0 14,0 5,0 9,-0.9999 13,-0.9999"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6404"
+     y2="5849.5278"
+     x2="14199.908"
+     y1="5849.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6406"
+     y2="5799.5278"
+     x2="14199.908"
+     y1="5799.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6408"
+     y2="5749.5278"
+     x2="14199.908"
+     y1="5749.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6410"
+     y2="5699.5278"
+     x2="14199.908"
+     y1="5699.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6412"
+     y2="5599.5278"
+     x2="14199.908"
+     y1="5599.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6414"
+     y2="5549.5278"
+     x2="14199.908"
+     y1="5549.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#2b2a29;stroke-width:17.63999939;stroke-linecap:round"
+     id="line6416"
+     y2="5499.5278"
+     x2="14199.908"
+     y1="5499.5278"
+     x1="14018.908"
+     class="fil3 str4" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#e31e24;stroke-width:75;stroke-linecap:round;stroke-opacity:1"
+     id="line6418"
+     y2="6502.5278"
+     x2="14199.908"
+     y1="5948.5278"
+     x1="14200.908"
+     class="fil0 str5" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#009846;stroke-width:50;stroke-opacity:1"
+     id="line6420"
+     y2="6542.5278"
+     x2="14185.908"
+     y1="6560.5278"
+     x1="14541.908"
+     class="fil0 str6" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#00a0e3;stroke-width:75;stroke-linecap:round;stroke-dasharray:1411.11111111, 3527.77777778"
+     id="line6422"
+     y2="6438.5278"
+     x2="14017.908"
+     y1="5885.5278"
+     x1="14018.908"
+     class="fil0 str7" /><line
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="fill:none;stroke:#009846;stroke-width:50;stroke-opacity:1"
+     id="line6434"
+     y2="5917.5278"
+     x2="14185.908"
+     y1="5935.5278"
+     x1="14541.908"
+     class="fil0 str6" /><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="font-size:258.64001465px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
+     id="text6615"
+     class="fil1 fnt7"
+     y="7084.5278"
+     x="14893.908">3'</text>
 <text
-   x="13212.908"
-   y="7084.5278"
-   class="fil1 fnt7"
-   id="text6761"
-   style="font-size:258.64001465px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">5</text>
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="font-size:258.64001465px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
+     id="text6761"
+     class="fil1 fnt7"
+     y="7084.5278"
+     x="13212.908">5</text>
 <text
-   x="13356.908"
-   y="7084.5278"
-   class="fil1 fnt7"
-   id="text6763"
-   style="font-size:258.64001465px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">'</text>
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     style="font-size:258.64001465px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
+     id="text6763"
+     class="fil1 fnt7"
+     y="7084.5278"
+     x="13356.908">'</text>
 <text
-   xml:space="preserve"
-   style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
-   x="13111.283"
-   y="6092.8501"
-   id="text6803"
-   sodipodi:linespacing="125%"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150"><tspan
-     sodipodi:role="line"
-     id="tspan6805"
-     x="13111.283"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     sodipodi:linespacing="125%"
+     id="text6803"
      y="6092.8501"
-     style="text-align:center;text-anchor:middle">miARN/</tspan><tspan
-     sodipodi:role="line"
      x="13111.283"
-     y="6445.6279"
-     id="tspan6807"
-     style="text-align:center;text-anchor:middle">miARN*</tspan></text>
-
+     style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+     xml:space="preserve"><tspan
+       style="text-align:center;text-anchor:middle"
+       y="6092.8501"
+       x="13111.283"
+       id="tspan6805"
+       sodipodi:role="line">miARN/</tspan><tspan
+       style="text-align:center;text-anchor:middle"
+       id="tspan6807"
+       y="6445.6279"
+       x="13111.283"
+       sodipodi:role="line">miARN*</tspan></text>
 <text
-   xml:space="preserve"
-   style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
-   x="15258.854"
-   y="6010.6987"
-   id="text6809"
-   sodipodi:linespacing="125%"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150"><tspan
-     sodipodi:role="line"
-     x="15258.854"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     sodipodi:linespacing="125%"
+     id="text6809"
      y="6010.6987"
-     id="tspan6813"
-     style="font-size:225.777771px;text-align:center;text-anchor:middle">corte distal</tspan></text>
-
+     x="15258.854"
+     style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+     xml:space="preserve"><tspan
+       style="font-size:225.777771px;text-align:center;text-anchor:middle"
+       id="tspan6813"
+       y="6010.6987"
+       x="15258.854"
+       sodipodi:role="line">corte distal</tspan></text>
 <text
-   xml:space="preserve"
-   style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
-   x="15442.078"
-   y="6613.8149"
-   id="text6809-5"
-   sodipodi:linespacing="125%"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150"><tspan
-     sodipodi:role="line"
-     x="15442.078"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     sodipodi:linespacing="125%"
+     id="text6809-5"
      y="6613.8149"
-     id="tspan6813-9"
-     style="font-size:225.777771px;text-align:center;text-anchor:middle">corte proximal</tspan></text>
+     x="15442.078"
+     style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+     xml:space="preserve"><tspan
+       style="font-size:225.777771px;text-align:center;text-anchor:middle"
+       id="tspan6813-9"
+       y="6613.8149"
+       x="15442.078"
+       sodipodi:role="line">corte proximal</tspan></text>
+</g>
 
-<line
-   class="fil1 str1"
-   x1="14148.756"
-   y1="7259.7368"
-   x2="14148.756"
-   y2="7746.1733"
-   id="line5322-1-5-0"
-   style="fill:none;stroke:#323f57;stroke-width:17.160429;stroke-miterlimit:4;stroke-dasharray:none"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150" /><g
+<g
    transform="translate(-29693.833,-7745.8497)"
    style="fill-rule:evenodd"
    clip-path="url(#id0-4)"
@@ -5034,6 +4138,7 @@
    y="13970"
    x="10795">MIR159/MIR319 family</text>
 
+
 </g><g
    style="fill-rule:evenodd"
    id="g16222"
@@ -5044,6 +4149,7 @@
    y="13970"
    x="10795">MIR156 family</text>
 
+
 </g><g
    style="fill-rule:evenodd"
    id="g16226"
@@ -5053,6 +4159,7 @@
    class="fil5 fnt3"
    y="13970"
    x="10795">loop-to-base average</text>
+
 
 </g><polyline
    transform="translate(-29693.833,-7745.8497)"
@@ -5089,6 +4196,7 @@
    class="fil1 fnt0"
    y="3940.1501"
    x="-28862.834">B</text>
+
 
 <polygon
    transform="translate(-29693.833,-7745.8497)"
@@ -5247,12 +4355,14 @@
    y="2795.1501"
    x="-27641.834">GAUGUUUUA- UAUGU-</text>
 
+
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#2b2a29;fill-rule:evenodd;font-family:Courier New"
    id="text16482"
    class="fil1 fnt7"
    y="2795.1501"
    x="-22426.834">C UCGUGAU AG- U AC C AA C GCCAAAA</text>
+
 
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#00a0e3;fill-rule:evenodd;font-family:Courier New"
@@ -5261,12 +4371,14 @@
    y="2795.1501"
    x="-24599.834">A G U</text>
 
+
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#2b2a29;fill-rule:evenodd;font-family:Courier New"
    id="text16486"
    class="fil1 fnt7"
    y="3000.1501"
    x="-27641.834">GGAAUAUA AGAG</text>
+
 
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#2b2a29;fill-rule:evenodd;font-family:Courier New"
@@ -5275,12 +4387,14 @@
    y="3000.1501"
    x="-22317.834">A AGG AUGAUUCAAUU CU CCG UCAUUCAU CA UA CGAGUC U</text>
 
+
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#00a0e3;fill-rule:evenodd;font-family:Courier New"
    id="text16490"
    class="fil15 fnt7"
    y="3000.1501"
    x="-24490.834">GAGCUUCCUU AGUCCA UC</text>
+
 
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#2b2a29;fill-rule:evenodd;font-family:Courier New"
@@ -5289,12 +4403,14 @@
    y="3205.1501"
    x="-27641.834">CCUUAUGU UC</text>
 
+
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#2b2a29;fill-rule:evenodd;font-family:Courier New"
    id="text16494"
    class="fil1 fnt7"
    y="3205.1501"
    x="-24599.834" />
+
 
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#2b2a29;fill-rule:evenodd;font-family:Courier New"
@@ -5303,12 +4419,14 @@
    y="3205.1501"
    x="-23404.834" />
 
+
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#2b2a29;fill-rule:evenodd;font-family:Courier New"
    id="text16498"
    class="fil1 fnt7"
    y="3205.1501"
    x="-22643.834">AGU UCU UACUAGGUUAA GA GGC AGUAAGUA GU AU GCUCAG U</text>
+
 
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#ff0000;fill-rule:evenodd;font-family:Courier New"
@@ -5317,12 +4435,14 @@
    y="3205.1501"
    x="-24816.834">UC</text>
 
+
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#ff0000;fill-rule:evenodd;font-family:Courier New"
    id="text16502"
    class="fil16 fnt7"
    y="3205.1501"
    x="-24490.834">CUCGAGGGAA</text>
+
 
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#ff0000;fill-rule:evenodd;font-family:Courier New"
@@ -5331,12 +4451,14 @@
    y="3205.1501"
    x="-23295.834">UCAGGU</text>
 
+
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#2b2a29;fill-rule:evenodd;font-family:Courier New"
    id="text16506"
    class="fil1 fnt7"
    y="3410.1501"
    x="-27641.834">GUUCUUUUAA UUUCUC</text>
+
 
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#2b2a29;fill-rule:evenodd;font-family:Courier New"
@@ -5345,12 +4467,14 @@
    y="3410.1501"
    x="-24490.834" />
 
+
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#2b2a29;fill-rule:evenodd;font-family:Courier New"
    id="text16510"
    class="fil1 fnt7"
    y="3410.1501"
    x="-23295.834" />
+
 
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#2b2a29;fill-rule:evenodd;font-family:Courier New"
@@ -5359,12 +4483,14 @@
    y="3410.1501"
    x="-22535.834">U CUUAGU- ACA U GU A AA U AUCAAAC</text>
 
+
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#ff0000;fill-rule:evenodd;font-family:Courier New"
    id="text16514"
    class="fil16 fnt7"
    y="3410.1501"
    x="-24599.834">C</text>
+
 
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#ff0000;fill-rule:evenodd;font-family:Courier New"
@@ -5373,12 +4499,14 @@
    y="3410.1501"
    x="-23404.834">G</text>
 
+
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#ff0000;fill-rule:evenodd;font-family:Courier New"
    id="text16518"
    class="fil16 fnt7"
    y="3410.1501"
    x="-22643.834">U</text>
+
 
 <text
    style="font-size:181.00997925px;font-weight:bold;fill:#2b2a29;fill-rule:evenodd;font-family:Courier New"
@@ -5387,12 +4515,14 @@
    y="3615.1501"
    x="-27641.834" />
 
+
 <text
    style="font-size:317.5px;font-style:italic;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
    id="text16522"
    class="fil1 fnt8"
    y="2516.1501"
    x="-27846.834">MIR319a</text>
+
 
 <g
    transform="translate(-29693.833,-7745.8497)"
@@ -5408,6 +4538,7 @@
    class="fil10 fnt9"
    y="4352.1504"
    x="-17650.834">8</text>
+
 
 <g
    transform="translate(-29693.833,-7745.8497)"
@@ -5432,12 +4563,14 @@
    y="4352.1504"
    x="-20145.834">8</text>
 
+
 <text
    style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;fill-rule:evenodd;font-family:Arial"
    id="text16540"
    class="fil11 fnt9"
    y="4208.1499"
    x="-20599.834">5</text>
+
 
 <g
    transform="translate(-29693.833,-7745.8497)"
@@ -5454,6 +4587,7 @@
    y="4352.1504"
    x="-22593.834">11</text>
 
+
 <g
    transform="translate(-29693.833,-7745.8497)"
    style="fill-rule:evenodd"
@@ -5469,12 +4603,14 @@
    y="4352.1504"
    x="-24842.834">1</text>
 
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
    id="text16614"
    class="fil1 fnt11"
    y="4634.1504"
    x="-28462.834">0.5</text>
+
 
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
@@ -5483,12 +4619,14 @@
    y="6561.1504"
    x="-28225.834">0</text>
 
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
    id="text16618"
    class="fil1 fnt11"
    y="7195.1504"
    x="-28359.834">-25</text>
+
 
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
@@ -5497,12 +4635,14 @@
    y="7195.1504"
    x="-27639.834">-20</text>
 
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
    id="text16622"
    class="fil1 fnt11"
    y="7195.1504"
    x="-26920.834">-15</text>
+
 
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
@@ -5511,12 +4651,14 @@
    y="7195.1504"
    x="-26179.834">-10</text>
 
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
    id="text16626"
    class="fil1 fnt11"
    y="7195.1504"
    x="-25332.834">-5</text>
+
 
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
@@ -5525,12 +4667,14 @@
    y="7170.1499"
    x="-24464.834">1</text>
 
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
    id="text16630"
    class="fil1 fnt11"
    y="7170.1499"
    x="-23819.834">5</text>
+
 
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
@@ -5539,12 +4683,14 @@
    y="7170.1499"
    x="-23057.834">10</text>
 
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
    id="text16634"
    class="fil1 fnt11"
    y="7170.1499"
    x="-22220.834">15</text>
+
 
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
@@ -5553,12 +4699,14 @@
    y="7170.1499"
    x="-21342.834">20</text>
 
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
    id="text16638"
    class="fil1 fnt11"
    y="7170.1499"
    x="-20442.834">25</text>
+
 
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
@@ -5567,12 +4715,14 @@
    y="7170.1499"
    x="-19564.834">30</text>
 
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
    id="text16642"
    class="fil1 fnt11"
    y="7170.1499"
    x="-18601.834">35</text>
+
 
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
@@ -5581,12 +4731,14 @@
    y="7170.1499"
    x="-17648.834">40</text>
 
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
    id="text16646"
    class="fil1 fnt11"
    y="7170.1499"
    x="-16675.834">45</text>
+
 
 <g
    style="fill-rule:evenodd"
@@ -5598,12 +4750,14 @@
    y="13970"
    x="10795">Cleavage frequency</text>
 
+
 </g><text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
    id="text16652"
    class="fil1 fnt11"
    y="7170.1499"
    x="-15743.833">50</text>
+
 
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
@@ -5612,12 +4766,14 @@
    y="7170.1499"
    x="-14876.833">55</text>
 
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
    id="text16656"
    class="fil1 fnt11"
    y="7170.1499"
    x="-13965.834">60</text>
+
 
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
@@ -5626,12 +4782,14 @@
    y="7170.1499"
    x="-13055.834">65</text>
 
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;fill-rule:evenodd;font-family:Arial"
    id="text16660"
    class="fil1 fnt11"
    y="7170.1499"
    x="-12124.833">70</text>
+
 
 <text
    style="font-size:176.38999939px;font-weight:bold;fill:#2b2a29;fill-rule:evenodd;font-family:Courier New"
@@ -5640,12 +4798,14 @@
    y="2796.1501"
    x="-27861.834">5’</text>
 
+
 <text
    style="font-size:176.38999939px;font-weight:bold;fill:#2b2a29;fill-rule:evenodd;font-family:Courier New"
    id="text16856"
    class="fil1 fnt14"
    y="3410.1501"
    x="-27865.834">3’</text>
+
 
 <g
    style="fill-rule:evenodd"
@@ -5657,6 +4817,7 @@
    y="13970"
    x="10795">Precursor lengt</text>
 
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#2b2a29;font-family:Arial"
    id="text17497"
@@ -5664,64 +4825,1105 @@
    y="13970"
    x="12709">h</text>
 
-</g><text
-   xml:space="preserve"
-   style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
-   x="2104.3257"
-   y="4041.6746"
-   id="text9653-9-0"
-   sodipodi:linespacing="125%"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150"><tspan
-     sodipodi:role="line"
-     id="tspan9655-5-4"
-     x="2104.3257"
-     y="4041.6746">miR156c</tspan></text>
 
-<text
-   xml:space="preserve"
-   style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
-   x="2104.3257"
-   y="6231.8867"
-   id="text9653-9-3"
-   sodipodi:linespacing="125%"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150"><tspan
-     sodipodi:role="line"
-     id="tspan9655-5-1"
-     x="2104.3257"
-     y="6231.8867">miR156d</tspan></text>
+</g>
 
-<text
-   xml:space="preserve"
-   style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
-   x="2104.3257"
-   y="8422.0977"
-   id="text9653-9-8"
-   sodipodi:linespacing="125%"
-   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150"><tspan
-     sodipodi:role="line"
-     id="tspan9655-5-8"
-     x="2104.3257"
-     y="8422.0977">miR160a</tspan></text>
 
-<text
-   xml:space="preserve"
-   style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
-   x="2104.3257"
-   y="1895.8588"
-   id="text9653-9-7"
-   sodipodi:linespacing="125%"
+
+
+
+<g
+   id="g3883"
    inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
    inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150"><tspan
-     sodipodi:role="line"
-     id="tspan9655-5-9"
+   inkscape:export-ydpi="150"><g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16332">
+   <path
+   class="fil9"
+   d="m 7948,4959 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -16,36 -84,-36 z m 100,0 0,22 -16,15 16,-36 z m -267,135 183,-171 68,73 -183,171 -68,-73 z"
+   id="path16334"
+   inkscape:connector-curvature="0"
+   style="fill:#d9dada;fill-rule:nonzero" />
+  </g><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="7941"
+     y="5849"
+     class="fil10 fnt6"
+     id="text16336"
+     style="font-size:196.38000488px;font-weight:bold;fill:#009846;font-family:Arial">26</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="7642"
+     y="5676"
+     class="fil11 fnt6"
+     id="text16338"
+     style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial">3</text>
+<g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16340">
+   <path
+   class="fil9"
+   d="m 8156,4959 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -84,36 -16,-36 z m 16,36 -16,-15 0,-22 16,36 z m 183,171 -183,-171 68,-73 183,171 -68,73 z"
+   id="path16342"
+   inkscape:connector-curvature="0"
+   style="fill:#d9dada;fill-rule:nonzero" />
+  </g><g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16344">
+   <path
+   class="fil12"
+   d="m 8050,4959 130,259 -259,0 130,-259 z m -50,707 0,-451 100,0 0,451 -100,0 z"
+   id="path16346"
+   inkscape:connector-curvature="0"
+   style="fill:#009846;fill-rule:nonzero" />
+  </g><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="8370"
+     y="5676"
+     class="fil11 fnt6"
+     id="text16348"
+     style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial">3</text>
+<g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16350">
+   <path
+   class="fil9"
+   d="m 5385,4959 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -38,49 -62,-49 z m 100,0 0,39 -38,9 38,-49 z m -290,9 228,-57 24,97 -228,57 -24,-97 z"
+   id="path16352"
+   inkscape:connector-curvature="0"
+   style="fill:#d9dada;fill-rule:nonzero" />
+  </g><g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16354">
+   <path
+   class="fil9"
+   d="m 5511,4959 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -16,36 -84,-36 z m 100,0 0,22 -16,15 16,-36 z m -267,135 183,-171 68,73 -183,171 -68,-73 z"
+   id="path16356"
+   inkscape:connector-curvature="0"
+   style="fill:#d9dada;fill-rule:nonzero" />
+  </g><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5455"
+     y="5849"
+     class="fil10 fnt6"
+     id="text16358"
+     style="font-size:196.38000488px;font-weight:bold;fill:#009846;font-family:Arial">530</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5104"
+     y="5687"
+     class="fil13 fnt6"
+     id="text16360"
+     style="font-size:196.38000488px;font-weight:bold;fill:#9d9e9e;font-family:Arial">16</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5003"
+     y="5484"
+     class="fil11 fnt6"
+     id="text16362"
+     style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial">2</text>
+<g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16364">
+   <path
+   class="fil12"
+   d="m 5614,4959 130,259 -259,0 130,-259 z m -50,707 0,-451 100,0 0,451 -100,0 z"
+   id="path16366"
+   inkscape:connector-curvature="0"
+   style="fill:#009846;fill-rule:nonzero" />
+  </g><g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16368">
+   <path
+   class="fil9"
+   d="m 3099,4959 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -16,36 -84,-36 z m 100,0 0,22 -16,15 16,-36 z m -267,135 183,-171 68,73 -183,171 -68,-73 z"
+   id="path16370"
+   inkscape:connector-curvature="0"
+   style="fill:#d9dada;fill-rule:nonzero" />
+  </g><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2793"
+     y="5676"
+     class="fil11 fnt6"
+     id="text16372"
+     style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial">3</text>
+<g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16374">
+   <path
+   class="fil9"
+   d="m 5719,7149 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -84,36 -16,-36 z m 16,36 -16,-15 0,-22 16,36 z m 183,171 -183,-171 68,-73 183,171 -68,73 z"
+   id="path16376"
+   inkscape:connector-curvature="0"
+   style="fill:#d9dada;fill-rule:nonzero" />
+  </g><g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16378">
+   <path
+   class="fil9"
+   d="m 5494,7149 130,259 -259,0 130,-259 z m -50,521 0,-265 100,0 0,265 -100,0 z"
+   id="path16380"
+   inkscape:connector-curvature="0"
+   style="fill:#d9dada;fill-rule:nonzero" />
+  </g><g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16384">
+   <path
+   class="fil9"
+   d="m 7811,7149 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -16,36 -84,-36 z m 100,0 0,22 -16,15 16,-36 z m -267,135 183,-171 68,73 -183,171 -68,-73 z"
+   id="path16386"
+   inkscape:connector-curvature="0"
+   style="fill:#d9dada;fill-rule:nonzero" />
+  </g><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="7913"
+     y="8039"
+     class="fil10 fnt6"
+     id="text16388"
+     style="font-size:196.38000488px;font-weight:bold;fill:#009846;font-family:Arial">97</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="7506"
+     y="7866"
+     class="fil11 fnt6"
+     id="text16390"
+     style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial">4</text>
+<g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16392">
+   <path
+   class="fil9"
+   d="m 8128,7149 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -84,36 -16,-36 z m 16,36 -16,-15 0,-22 16,36 z m 183,171 -183,-171 68,-73 183,171 -68,73 z"
+   id="path16394"
+   inkscape:connector-curvature="0"
+   style="fill:#d9dada;fill-rule:nonzero" />
+  </g><g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16396">
+   <path
+   class="fil12"
+   d="m 8023,7149 130,259 -259,0 130,-259 z m -50,707 0,-451 100,0 0,451 -100,0 z"
+   id="path16398"
+   inkscape:connector-curvature="0"
+   style="fill:#009846;fill-rule:nonzero" />
+  </g><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="8342"
+     y="7866"
+     class="fil11 fnt6"
+     id="text16400"
+     style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial">5</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5526"
+     y="8039"
+     class="fil10 fnt6"
+     id="text16402"
+     style="font-size:196.38000488px;font-weight:bold;fill:#009846;font-family:Arial">46</text>
+<g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16404">
+   <path
+   class="fil12"
+   d="m 5598,7149 130,259 -259,0 130,-259 z m -50,707 0,-451 100,0 0,451 -100,0 z"
+   id="path16406"
+   inkscape:connector-curvature="0"
+   style="fill:#009846;fill-rule:nonzero" />
+  </g><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5255"
+     y="8039"
+     class="fil10 fnt6"
+     id="text16408"
+     style="font-size:196.38000488px;font-weight:bold;fill:#009846;font-family:Arial">51</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5448"
+     y="7826"
+     class="fil11 fnt6"
+     id="text16410"
+     style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial">9</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5934"
+     y="7866"
+     class="fil11 fnt6"
+     id="text16412"
+     style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial">3</text>
+<g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16414">
+   <path
+   class="fil9"
+   d="m 6045,7149 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -84,36 -16,-36 z m 16,36 -16,-15 0,-22 16,36 z m 183,171 -183,-171 68,-73 183,171 -68,73 z"
+   id="path16416"
+   inkscape:connector-curvature="0"
+   style="fill:#d9dada;fill-rule:nonzero" />
+  </g><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="6259"
+     y="7866"
+     class="fil11 fnt6"
+     id="text16418"
+     style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial">2</text>
+<g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16420">
+   <path
+   class="fil9"
+   d="m 5273,7149 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -16,36 -84,-36 z m 100,0 0,22 -16,15 16,-36 z m -267,135 183,-171 68,73 -183,171 -68,-73 z"
+   id="path16422"
+   inkscape:connector-curvature="0"
+   style="fill:#d9dada;fill-rule:nonzero" />
+  </g><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="4967"
+     y="7866"
+     class="fil11 fnt6"
+     id="text16424"
+     style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial">3</text>
+<g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16426">
+   <path
+   class="fil9"
+   d="m 5163,7157 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -38,49 -62,-49 z m 100,0 0,39 -38,9 38,-49 z m -290,9 228,-57 24,97 -228,57 -24,-97 z"
+   id="path16428"
+   inkscape:connector-curvature="0"
+   style="fill:#d9dada;fill-rule:nonzero" />
+  </g><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="4811"
+     y="7743"
+     class="fil11 fnt6"
+     id="text16430"
+     style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial">5</text>
+<g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16432">
+   <path
+   class="fil9"
+   d="m 3527,7149 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -16,36 -84,-36 z m 100,0 0,22 -16,15 16,-36 z m -267,135 183,-171 68,73 -183,171 -68,-73 z"
+   id="path16434"
+   inkscape:connector-curvature="0"
+   style="fill:#d9dada;fill-rule:nonzero" />
+  </g><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="3242"
+     y="7866"
+     class="fil11 fnt6"
+     id="text16436"
+     style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial">2</text>
+<g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16438">
+   <path
+   class="fil9"
+   d="m 3202,7149 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -16,36 -84,-36 z m 100,0 0,22 -16,15 16,-36 z m -267,135 183,-171 68,73 -183,171 -68,-73 z"
+   id="path16440"
+   inkscape:connector-curvature="0"
+   style="fill:#d9dada;fill-rule:nonzero" />
+  </g><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2916"
+     y="7866"
+     class="fil11 fnt6"
+     id="text16442"
+     style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial">2</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="7980"
+     y="10218"
+     class="fil10 fnt6"
+     id="text16446"
+     style="font-size:196.38000488px;font-weight:bold;fill:#009846;font-family:Arial">100</text>
+<g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16448">
+   <path
+   class="fil12"
+   d="m 8137,9328 130,259 -259,0 130,-259 z m -50,707 0,-451 100,0 0,451 -100,0 z"
+   id="path16450"
+   inkscape:connector-curvature="0"
+   style="fill:#009846;fill-rule:nonzero" />
+  </g><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5677"
+     y="10218"
+     class="fil10 fnt6"
+     id="text16452"
+     style="font-size:196.38000488px;font-weight:bold;fill:#009846;font-family:Arial">227</text>
+<g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16454">
+   <path
+   class="fil9"
+   d="m 5715,9338 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -16,36 -84,-36 z m 100,0 0,22 -16,15 16,-36 z m -267,135 183,-171 68,73 -183,171 -68,-73 z"
+   id="path16456"
+   inkscape:connector-curvature="0"
+   style="fill:#d9dada;fill-rule:nonzero" />
+  </g><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5409"
+     y="10055"
+     class="fil11 fnt6"
+     id="text16458"
+     style="font-size:196.38000488px;font-weight:bold;fill:#b2b3b3;font-family:Arial">8</text>
+<g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16460">
+   <path
+   class="fil12"
+   d="m 5840,9328 130,259 -259,0 130,-259 z m -50,707 0,-451 100,0 0,451 -100,0 z"
+   id="path16462"
+   inkscape:connector-curvature="0"
+   style="fill:#009846;fill-rule:nonzero" />
+  </g><g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16464">
+   <path
+   class="fil12"
+   d="m 8141,2921 130,259 -259,0 130,-259 z m -50,707 0,-451 100,0 0,451 -100,0 z"
+   id="path16466"
+   inkscape:connector-curvature="0"
+   style="fill:#009846;fill-rule:nonzero" />
+  </g><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="8216"
+     y="3801"
+     class="fil10 fnt6"
+     id="text16468"
+     style="font-size:196.38000488px;font-weight:bold;fill:#009846;font-family:Arial">7</text>
+<g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16470">
+   <path
+   class="fil14"
+   d="m 5634,2921 130,259 -259,0 130,-259 z m -50,388 0,-132 100,0 0,132 -16,36 -84,-36 z m 100,0 0,22 -16,15 16,-36 z m -267,135 183,-171 68,73 -183,171 -68,-73 z"
+   id="path16472"
+   inkscape:connector-curvature="0"
+   style="fill:#2b2a29;fill-rule:nonzero" />
+  </g><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5629"
+     y="3801"
+     class="fil10 fnt6"
+     id="text16474"
+     style="font-size:196.38000488px;font-weight:bold;fill:#009846;font-family:Arial">18</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5327"
+     y="3640"
+     class="fil1 fnt6"
+     id="text16476"
+     style="font-size:196.38000488px;font-weight:bold;fill:#2b2a29;font-family:Arial">4</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2137"
+     y="8701"
+     class="fil1 fnt14"
+     id="text16858"
+     style="font-size:176.38999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New">5’</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2133"
+     y="9314"
+     class="fil1 fnt14"
+     id="text16860"
+     style="font-size:176.38999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New">3’</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2118"
+     y="6480"
+     class="fil1 fnt14"
+     id="text16862"
+     style="font-size:176.38999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New">5’</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2114"
+     y="7093"
+     class="fil1 fnt14"
+     id="text16864"
+     style="font-size:176.38999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New">3’</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2239"
+     y="4306"
+     class="fil1 fnt14"
+     id="text16866"
+     style="font-size:176.38999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New">5’</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2235"
+     y="4920"
+     class="fil1 fnt14"
+     id="text16868"
+     style="font-size:176.38999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New">3’</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2121"
+     y="2231"
+     class="fil1 fnt14"
+     id="text16870"
+     style="font-size:176.38999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New">5’</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2117"
+     y="2845"
+     class="fil1 fnt14"
+     id="text16872"
+     style="font-size:176.38999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New">3’</text>
+<g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16874">
+   <path
+   class="fil12"
+   d="m 5396,7149 130,259 -259,0 130,-259 z m -50,707 0,-451 100,0 0,451 -100,0 z"
+   id="path16876"
+   inkscape:connector-curvature="0"
+   style="fill:#009846;fill-rule:nonzero" />
+  </g><polygon
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     class="fil21"
+     points="10763,2938 8345,2938 8345,2097 10763,2097 "
+     id="polygon16880"
+     style="fill:#d2cde7;fill-opacity:0.270588" /><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2347"
+     y="2235"
+     class="fil1 fnt15"
+     id="text16882"
+     style="font-size:182.19000244px;font-weight:bold;fill:#2b2a29;font-family:Courier New">AA   U    AC-      AAC   AA-   A       </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="7376"
+     y="2235"
+     class="fil1 fnt15"
+     id="text16884"
+     style="font-size:182.19000244px;font-weight:bold;fill:#2b2a29;font-family:Courier New">         A   ---      UU    UA </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="6611"
+     y="2235"
+     class="fil20 fnt15"
+     id="text16886"
+     style="font-size:182.19000244px;font-weight:bold;fill:#e31e24;font-family:Courier New">-     -</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2347"
+     y="2441"
+     class="fil1 fnt15"
+     id="text16888"
+     style="font-size:182.19000244px;font-weight:bold;fill:#2b2a29;font-family:Courier New">  GAG UGGG   AAGAGA   GCA   GAA C</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="8360"
+     y="2441"
+     class="fil1 fnt15"
+     id="text16890"
+     style="font-size:182.19000244px;font-weight:bold;fill:#2b2a29;font-family:Courier New"> CAA   AGGCAA  UGCA  U</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5955"
+     y="2441"
+     class="fil20 fnt15"
+     id="text16892"
+     style="font-size:182.19000244px;font-weight:bold;fill:#e31e24;font-family:Courier New">UGACAG AAGAG AGUGAGCAC</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2347"
+     y="2648"
+     class="fil1 fnt15"
+     id="text16894"
+     style="font-size:182.19000244px;font-weight:bold;fill:#2b2a29;font-family:Courier New">  UUC GUCC   UUCUCU   CGU   CUU </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="8142"
+     y="2648"
+     class="fil1 fnt15"
+     id="text16896"
+     style="font-size:182.19000244px;font-weight:bold;fill:#2b2a29;font-family:Courier New">UG GUU   UUCGUU  ACGU  C</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5845"
+     y="2648"
+     class="fil15 fnt15"
+     id="text16898"
+     style="font-size:182.19000244px;font-weight:bold;fill:#00a0e3;font-family:Courier New">GACUGUC UUCUC UCACUCG</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2347"
+     y="2854"
+     class="fil1 fnt15"
+     id="text16900"
+     style="font-size:182.19000244px;font-weight:bold;fill:#2b2a29;font-family:Courier New">C-   U    GGU      AGU   GGC   </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="7376"
+     y="2854"
+     class="fil1 fnt15"
+     id="text16902"
+     style="font-size:182.19000244px;font-weight:bold;fill:#2b2a29;font-family:Courier New">         C   CUC      C-    UA </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5736"
+     y="2854"
+     class="fil15 fnt15"
+     id="text16904"
+     style="font-size:182.19000244px;font-weight:bold;fill:#00a0e3;font-family:Courier New">A       U     G</text>
+<polygon
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     class="fil21"
+     points="10771,4970 8243,4970 8243,4129 10771,4129 "
+     id="polygon16906"
+     style="fill:#d2cde7;fill-opacity:0.270588" /><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2465"
+     y="4302"
+     class="fil1 fnt16"
+     id="text16908"
+     style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New">GGGACAAAUUUUAAGAGAAAC  AUA   A        </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="7276"
+     y="4302"
+     class="fil1 fnt16"
+     id="text16910"
+     style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New">         A   ---     CUU     GU </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="6620"
+     y="4302"
+     class="fil20 fnt16"
+     id="text16912"
+     style="font-size:182.19999695px;font-weight:bold;fill:#e31e24;font-family:Courier New">-    -</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2465"
+     y="4508"
+     class="fil1 fnt16"
+     id="text16914"
+     style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New">                     GC   GAA C</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="8260"
+     y="4508"
+     class="fil1 fnt16"
+     id="text16916"
+     style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New"> CAA   AGGCA   UGCAU  U</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5854"
+     y="4508"
+     class="fil20 fnt16"
+     id="text16918"
+     style="font-size:182.19999695px;font-weight:bold;fill:#e31e24;font-family:Courier New">UGACAGA AGAG AGUGAGCAC</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2465"
+     y="4715"
+     class="fil1 fnt16"
+     id="text16920"
+     style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New">                     CG   CUU </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="8041"
+     y="4715"
+     class="fil1 fnt16"
+     id="text16922"
+     style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New">UG GUU   UUCGU   ACGUA  \</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5745"
+     y="4715"
+     class="fil15 fnt16"
+     id="text16924"
+     style="font-size:182.19999695px;font-weight:bold;fill:#00a0e3;font-family:Courier New">GACUGUCU UCUC UCACUCG</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2465"
+     y="4921"
+     class="fil1 fnt16"
+     id="text16926"
+     style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New">GCACUGGCCCUGGCUUAGCCU  -GC   </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="7385"
+     y="4921"
+     class="fil1 fnt16"
+     id="text16928"
+     style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New">        C   CUC     -UU     GC</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5636"
+     y="4921"
+     class="fil15 fnt16"
+     id="text16930"
+     style="font-size:182.19999695px;font-weight:bold;fill:#00a0e3;font-family:Courier New">A        A    G </text>
+<polygon
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     class="fil21"
+     points="10765,7148 8238,7148 8238,6307 10765,6307 "
+     id="polygon16932"
+     style="fill:#d2cde7;fill-opacity:0.270588" /><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="1900"
+     y="6474"
+     class="fil1 fnt16"
+     id="text16934"
+     style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New">    GAUAAAUAUAU   G        AAA     --        </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="7040"
+     y="6474"
+     class="fil1 fnt16"
+     id="text16936"
+     style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New">           A      G  AGU        A </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="6821"
+     y="6474"
+     class="fil20 fnt16"
+     id="text16938"
+     style="font-size:182.19999695px;font-weight:bold;fill:#e31e24;font-family:Courier New">- </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="1900"
+     y="6681"
+     class="fil1 fnt16"
+     id="text16940"
+     style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New">               GUU AUGGGGGA   GAAGU  </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="8242"
+     y="6681"
+     class="fil1 fnt16"
+     id="text16942"
+     style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New"> CAAAGG GA   UGUAUAAA \</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5946"
+     y="6681"
+     class="fil20 fnt16"
+     id="text16944"
+     style="font-size:182.19999695px;font-weight:bold;fill:#e31e24;font-family:Courier New">UGACAGAA GAGAGUGAGCAC</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="1900"
+     y="6887"
+     class="fil1 fnt16"
+     id="text16946"
+     style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New">               UAA UACUUCCU   CUUCA  </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="8024"
+     y="6887"
+     class="fil1 fnt16"
+     id="text16948"
+     style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New">UG GUUUUC UU   AUAUGUUU G</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5946"
+     y="6887"
+     class="fil15 fnt16"
+     id="text16950"
+     style="font-size:182.19999695px;font-weight:bold;fill:#00a0e3;font-family:Courier New">ACUGUUUU CUCUCACUCG</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="1900"
+     y="7093"
+     class="fil1 fnt16"
+     id="text16952"
+     style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New">    CUUAUUCCUUC   G        ---     </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="6930"
+     y="7093"
+     class="fil1 fnt16"
+     id="text16954"
+     style="font-size:182.19999695px;font-weight:bold;fill:#2b2a29;font-family:Courier New">            C      G  GGU        U </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5727"
+     y="7093"
+     class="fil15 fnt16"
+     id="text16956"
+     style="font-size:182.19999695px;font-weight:bold;fill:#00a0e3;font-family:Courier New">AU        U</text>
+<polygon
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     class="fil21"
+     points="10467,9411 8366,9411 8366,8570 10467,8570 "
+     id="polygon16958"
+     style="fill:#d2cde7;fill-opacity:0.270588" /><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2360"
+     y="8695"
+     class="fil1 fnt17"
+     id="text16960"
+     style="font-size:181.88999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New">--  U-      A           UAUAUAU      </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="7600"
+     y="8695"
+     class="fil1 fnt17"
+     id="text16962"
+     style="font-size:181.88999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New">        A   U   CC     AG </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="6399"
+     y="8695"
+     class="fil20 fnt17"
+     id="text16964"
+     style="font-size:181.88999939px;font-weight:bold;fill:#e31e24;font-family:Courier New">C       CU </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2360"
+     y="8901"
+     class="fil1 fnt17"
+     id="text16966"
+     style="font-size:181.88999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New">  CA  AUGUAG UGUAUAUGUAU       GUA</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="8364"
+     y="8901"
+     class="fil1 fnt17"
+     id="text16968"
+     style="font-size:181.88999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New">U UGC GAG  CAUCG  \</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="6071"
+     y="8901"
+     class="fil20 fnt17"
+     id="text16970"
+     style="font-size:181.88999939px;font-weight:bold;fill:#e31e24;font-family:Courier New">UGC UGGCUCC  GUAUGCCA</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2360"
+     y="9107"
+     class="fil1 fnt17"
+     id="text16972"
+     style="font-size:181.88999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New">  GU  UGUAUU AUAUAUACAUA       U</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="8145"
+     y="9107"
+     class="fil1 fnt17"
+     id="text16974"
+     style="font-size:181.88999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New">GUA GUG CUC  GUAGC  U</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="5853"
+     y="9107"
+     class="fil15 fnt17"
+     id="text16976"
+     style="font-size:181.88999939px;font-weight:bold;fill:#00a0e3;font-family:Courier New">AUACG ACCGAGG  UAUGCG</text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="2360"
+     y="9313"
+     class="fil1 fnt17"
+     id="text16978"
+     style="font-size:181.88999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New">UG  UU      A           CUCC---      </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="7491"
+     y="9313"
+     class="fil1 fnt17"
+     id="text16980"
+     style="font-size:181.88999939px;font-weight:bold;fill:#2b2a29;font-family:Courier New">         G   C   CA     UA </text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     x="6399"
+     y="9313"
+     class="fil15 fnt17"
+     id="text16982"
+     style="font-size:181.88999939px;font-weight:bold;fill:#00a0e3;font-family:Courier New">U       AG</text>
+<g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     id="g16984">
+   <path
+   class="fil12"
+   d="m 5737,2921 130,259 -259,0 130,-259 z m -50,707 0,-451 100,0 0,451 -100,0 z"
+   id="path16986"
+   inkscape:connector-curvature="0"
+   style="fill:#009846;fill-rule:nonzero" />
+  </g><text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     sodipodi:linespacing="125%"
+     id="text9653-9-0"
+     y="4041.6746"
      x="2104.3257"
-     y="1895.8588">miR156a</tspan></text>
+     style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+     xml:space="preserve"><tspan
+       y="4041.6746"
+       x="2104.3257"
+       id="tspan9655-5-4"
+       sodipodi:role="line">miR156c</tspan></text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     sodipodi:linespacing="125%"
+     id="text9653-9-3"
+     y="6231.8867"
+     x="2104.3257"
+     style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+     xml:space="preserve"><tspan
+       y="6231.8867"
+       x="2104.3257"
+       id="tspan9655-5-1"
+       sodipodi:role="line">miR156d</tspan></text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     sodipodi:linespacing="125%"
+     id="text9653-9-8"
+     y="8422.0977"
+     x="2104.3257"
+     style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+     xml:space="preserve"><tspan
+       y="8422.0977"
+       x="2104.3257"
+       id="tspan9655-5-8"
+       sodipodi:role="line">miR160a</tspan></text>
+<text
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/GenomeResearchSpanish/GR_fig4A.png"
+     sodipodi:linespacing="125%"
+     id="text9653-9-7"
+     y="1895.8588"
+     x="2104.3257"
+     style="font-size:282.222229px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+     xml:space="preserve"><tspan
+       y="1895.8588"
+       x="2104.3257"
+       id="tspan9655-5-9"
+       sodipodi:role="line">miR156a</tspan></text>
+</g>
 
 </svg>
