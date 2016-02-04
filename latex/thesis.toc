@@ -1,7 +1,7 @@
 \thispagestyle {empty}
-\contentsline {chapter}{\IeC {\'I}ndice de figuras}{ix}{section*.5}
-\contentsline {chapter}{\IeC {\'I}ndice de tablas}{xii}{section*.7}
-\contentsline {chapter}{Nomenclatura}{xiii}{chapter*.8}
+\contentsline {chapter}{\IeC {\'I}ndice de figuras}{x}{section*.5}
+\contentsline {chapter}{\IeC {\'I}ndice de tablas}{xiii}{section*.7}
+\contentsline {chapter}{Nomenclatura}{xiv}{chapter*.8}
 \contentsline {chapter}{Introducci\IeC {\'o}n}{1}{chapter*.10}
 \contentsline {section}{\numberline {1.1}Silenciamiento g\IeC {\'e}nico y ARN peque\IeC {\~n}os en plantas}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Variedades de ARN peque\IeC {\~n}os en plantas}{1}{subsection.1.1.1}
@@ -77,14 +77,14 @@
 \contentsline {subsection}{\numberline {4.2.3}Primera b\IeC {\'u}squeda general de potenciales genes blanco}{47}{subsection.4.2.3}
 \contentsline {subsection}{\numberline {4.2.4}Par\IeC {\'a}metros emp\IeC {\'\i }ricos y de conservaci\IeC {\'o}n evolutiva pueden actuar de manera sin\IeC {\'e}rgica para identificar genes blanco regulados por miARNs.}{49}{subsection.4.2.4}
 \contentsline {subsection}{\numberline {4.2.5}Identificaci\IeC {\'o}n de nuevos genes blanco en \textit {A. thaliana} por conservaci\IeC {\'o}n de la secuencia del gen blanco.}{54}{subsection.4.2.5}
-\contentsline {subsection}{\numberline {4.2.6}Identificaci\IeC {\'o}n de nuevos genes blanco permitiendo interacciones G-U.}{57}{subsection.4.2.6}
-\contentsline {subsection}{\numberline {4.2.7}Identificaci\IeC {\'o}n de genes blanco espec\IeC {\'\i }ficos de \textit {Solanaceae}.}{57}{subsection.4.2.7}
+\contentsline {subsection}{\numberline {4.2.6}Identificaci\IeC {\'o}n de nuevos genes blanco permitiendo interacciones G-U.}{56}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}Identificaci\IeC {\'o}n de genes blanco espec\IeC {\'\i }ficos de \textit {Solanaceae}.}{59}{subsection.4.2.7}
 \contentsline {subsection}{\numberline {4.2.8}comTAR: una herramienta para la predicci\IeC {\'o}n de genes blanco regulados por miARNs en plantas.}{59}{subsection.4.2.8}
-\contentsline {subsubsection}{Realizar la b\IeC {\'u}squeda de potenciales genes blanco de miARN}{61}{subsection.4.2.8}
-\contentsline {subsubsection}{Realizar la b\IeC {\'u}squeda de familias de potenciales genes blanco de miARN}{61}{subsection.4.2.8}
-\contentsline {subsubsection}{Realizar la b\IeC {\'u}squeda de un gen de inter\IeC {\'e}s para ver si es potencial gen blanco de algun miARN conservado}{61}{subsection.4.2.8}
-\contentsline {subsubsection}{Realizar la b\IeC {\'u}squeda de un miARN nuevo}{62}{subsection.4.2.8}
-\contentsline {section}{\numberline {4.3}Conclusiones}{62}{section.4.3}
+\contentsline {subsubsection}{Realizar la b\IeC {\'u}squeda de potenciales genes blanco a partir de un miARN}{61}{subsection.4.2.8}
+\contentsline {subsubsection}{Realizar la b\IeC {\'u}squeda de familias de potenciales genes blanco de un miARN}{61}{figure.caption.39}
+\contentsline {subsubsection}{Realizar la b\IeC {\'u}squeda de un gen de inter\IeC {\'e}s para ver si es potencial gen blanco de algun miARN conservado}{63}{figure.caption.39}
+\contentsline {subsubsection}{Realizar la b\IeC {\'u}squeda de un miARN nuevo}{63}{figure.caption.39}
+\contentsline {section}{\numberline {4.3}Conclusiones}{63}{section.4.3}
 \contentsline {chapter}{Cap\IeC {\'\i }tulo 2}{65}{chapter*.40}
 \contentsline {section}{\numberline {5.1}Introducci\IeC {\'o}n}{65}{section.5.1}
 \contentsline {subsection}{\numberline {5.1.1}Construcci\IeC {\'o}n de bibliotecas de SPARE para estudios gen\IeC {\'o}micos de biog\IeC {\'e}nesis de miARNs en plantas}{66}{subsection.5.1.1}
@@ -101,27 +101,30 @@
 \contentsline {section}{\numberline {5.3}Conclusiones}{76}{section.5.3}
 \contentsline {chapter}{Cap\IeC {\'\i }tulo 3}{79}{chapter*.51}
 \contentsline {section}{\numberline {6.1}Introducci\IeC {\'o}n}{79}{section.6.1}
-\contentsline {section}{\numberline {6.2}Resultados y Discusi\IeC {\'o}n}{79}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Estrategia}{80}{subsection.6.2.1}
+\contentsline {section}{\numberline {6.2}Resultados y Discusi\IeC {\'o}n}{80}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Estrategia bioinform\IeC {\'a}tico para el estudio de la evoluci\IeC {\'o}n y biog\IeC {\'e}nesis de miARNs en plantas}{80}{subsection.6.2.1}
 \contentsline {subsection}{\numberline {6.2.2}B\IeC {\'u}squeda de ort\IeC {\'o}logos de precursores de miARNs}{80}{subsection.6.2.2}
 \contentsline {subsection}{\numberline {6.2.3}Alineamiento de los precursores en base a su secuencia primaria}{81}{subsection.6.2.3}
-\contentsline {subsection}{\numberline {6.2.4}Mecanismo de base a loop cortos}{88}{subsection.6.2.4}
-\contentsline {subsection}{\numberline {6.2.5}Mecanismo de base a loop secuenciales}{90}{subsection.6.2.5}
-\contentsline {subsection}{\numberline {6.2.6}Mecanismo de loop a base cortos}{90}{subsection.6.2.6}
-\contentsline {subsection}{\numberline {6.2.7}Mecanismo de loop a base secuenciales}{93}{subsection.6.2.7}
-\contentsline {subsection}{\numberline {6.2.8}Procesamiento mixto de miembros de la familia del miR170/miR171}{93}{subsection.6.2.8}
-\contentsline {subsection}{\numberline {6.2.9}Mutaciones puntuales afectan el procesamiento de miARNs en plantas}{96}{subsection.6.2.9}
-\contentsline {subsection}{\numberline {6.2.10}Precursores de plantas conservados en monocotiled\IeC {\'o}neas}{99}{subsection.6.2.10}
-\contentsline {subsection}{\numberline {6.2.11}Precursores de animales}{100}{subsection.6.2.11}
-\contentsline {chapter}{Cap\IeC {\'\i }tulo 4}{107}{chapter*.72}
-\contentsline {section}{\numberline {7.1}Introducci\IeC {\'o}n}{107}{section.7.1}
-\contentsline {section}{\numberline {7.2}Resultados y Discusi\IeC {\'o}n}{108}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Biog\IeC {\'e}nesis y actividad de ARN peque\IeC {\~n}os de plantas en distintas temperaturas}{108}{subsection.7.2.1}
-\contentsline {subsubsection}{Mapeo y ARN peque\IeC {\~n}os en condiciones de estr\IeC {\'e}s dependientes de la temperatura}{108}{subsection.7.2.1}
-\contentsline {subsubsection}{Perfil comparativo de ARN peque\IeC {\~n}os a distintas temperaturas y asignaci\IeC {\'o}n a trav\IeC {\'e}s de las caracter\IeC {\'\i }sticas gen\IeC {\'o}micas de \textit {A. thaliana}}{109}{figure.caption.75}
-\contentsline {subsection}{\numberline {7.2.2}Pipeline automatizado para el an\IeC {\'a}lisis gen\IeC {\'o}mico de ARN peque\IeC {\~n}os y su actividad in vivo en plantas}{110}{subsection.7.2.2}
-\contentsline {chapter}{Conclusiones}{114}{chapter*.80}
-\contentsline {section}{\numberline {8.1}Aplicaciones bioinform\IeC {\'a}ticas para el estudio de interacciones miARN-gen blanco}{114}{section.8.1}
-\contentsline {section}{\numberline {8.2}Estudios gen\IeC {\'o}micos sobre la biog\IeC {\'e}nesis de miARNs}{115}{section.8.2}
-\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{116}{section*.82}
-\contentsline {chapter}{Anexo}{128}{chapter*.84}
+\contentsline {subsection}{\numberline {6.2.4}Dise\IeC {\~n}o de una implementaci\IeC {\'o}n gr\IeC {\'a}fica para la visualizaci\IeC {\'o}n integral de los precursores}{85}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.5}Visualizaci\IeC {\'o}n por Circos de precursores que se procesan de abajo cortos}{85}{subsection.6.2.5}
+\contentsline {subsection}{\numberline {6.2.6}Visualizaci\IeC {\'o}n por Circos de precursores que se procesan de abajo secuenciales}{87}{subsection.6.2.6}
+\contentsline {subsection}{\numberline {6.2.7}Visualizaci\IeC {\'o}n por Circos de precursores que se procesan de arriba cortos}{90}{subsection.6.2.7}
+\contentsline {subsection}{\numberline {6.2.8}Visualizaci\IeC {\'o}n por Circos de precursores que se procesan de arriba secuenciales}{90}{subsection.6.2.8}
+\contentsline {subsection}{\numberline {6.2.9}El tama\IeC {\~n}o del loop es muy variable en precursores que se procesan desde abajo}{93}{subsection.6.2.9}
+\contentsline {subsection}{\numberline {6.2.10}Procesamiento mixto de miembros de la familia del miR170/miR171}{95}{subsection.6.2.10}
+\contentsline {subsection}{\numberline {6.2.11}Mutaciones puntuales afectan el procesamiento de miARNs en plantas}{97}{subsection.6.2.11}
+\contentsline {subsection}{\numberline {6.2.12}Visualizaci\IeC {\'o}n por Circos de precursores de plantas conservados en monocotiled\IeC {\'o}neas}{100}{subsection.6.2.12}
+\contentsline {subsection}{\numberline {6.2.13}Estrategia bioinform\IeC {\'a}tica para estudiar precursores de miARNs en animales}{101}{subsection.6.2.13}
+\contentsline {section}{\numberline {6.3}Conclusiones}{107}{section.6.3}
+\contentsline {chapter}{Cap\IeC {\'\i }tulo 4}{108}{chapter*.72}
+\contentsline {section}{\numberline {7.1}Introducci\IeC {\'o}n}{108}{section.7.1}
+\contentsline {section}{\numberline {7.2}Resultados y Discusi\IeC {\'o}n}{109}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Biog\IeC {\'e}nesis y actividad de ARN peque\IeC {\~n}os de plantas en distintas temperaturas}{109}{subsection.7.2.1}
+\contentsline {subsubsection}{Mapeo y ARN peque\IeC {\~n}os en condiciones de estr\IeC {\'e}s dependientes de la temperatura}{109}{subsection.7.2.1}
+\contentsline {subsubsection}{Perfil comparativo de ARN peque\IeC {\~n}os a distintas temperaturas y asignaci\IeC {\'o}n a trav\IeC {\'e}s de las caracter\IeC {\'\i }sticas gen\IeC {\'o}micas de \textit {A. thaliana}}{110}{figure.caption.75}
+\contentsline {subsection}{\numberline {7.2.2}Pipeline automatizado para el an\IeC {\'a}lisis gen\IeC {\'o}mico de ARN peque\IeC {\~n}os y su actividad in vivo en plantas}{111}{subsection.7.2.2}
+\contentsline {chapter}{Conclusiones}{115}{chapter*.80}
+\contentsline {section}{\numberline {8.1}Aplicaciones bioinform\IeC {\'a}ticas para el estudio de interacciones miARN-gen blanco}{115}{section.8.1}
+\contentsline {section}{\numberline {8.2}Estudios gen\IeC {\'o}micos sobre la biog\IeC {\'e}nesis de miARNs}{116}{section.8.2}
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{117}{section*.82}
+\contentsline {chapter}{Anexo}{129}{chapter*.84}

@@ -41,8 +41,8 @@
      id="namedview6505"
      showgrid="false"
      inkscape:zoom="0.22250293"
-     inkscape:cx="1463.5743"
-     inkscape:cy="1207.9814"
+     inkscape:cx="2156.368"
+     inkscape:cy="1479.1772"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -14368,8 +14368,8 @@
        id="path6503" />
   </g>
   <path
-     style="fill:none;stroke:#468966;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="M 211.23317,1830.3525 C 164.08169,1628.6312 151.82924,1424.582 194.37946,1216.8774"
+     style="color:#000000;fill:none;stroke:#468966;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 198.42775,1830.3525 C 151.27628,1628.6312 139.02383,1424.582 181.57404,1216.8774"
      id="path10791"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc"
@@ -14633,8 +14633,8 @@
   <text
      xml:space="preserve"
      style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#468966;fill-opacity:1;stroke:none;font-family:Sans"
-     x="-1634.6941"
-     y="104.60361"
+     x="-1634.3938"
+     y="91.801712"
      id="text414368-4"
      sodipodi:linespacing="125%"
      inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/monocots/circos_monocots_miR396e.png"
@@ -14645,8 +14645,8 @@
      inkscape:transform-center-y="103.36942"><tspan
        sodipodi:role="line"
        id="tspan414370-1"
-       x="-1634.6941"
-       y="104.60361"
+       x="-1634.3938"
+       y="91.801712"
        style="font-size:72px;fill:#468966;fill-opacity:1">miARN</tspan></text>
   <path
      style="fill:none;stroke:#468966;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -14688,4 +14688,12 @@
        x="1267.028"
        y="2110"
        style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#468966;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans">osa-miR396e</tspan></text>
+  <path
+     id="path5-4-9-1"
+     d="m 217.34311,1598.4479 c -0.81525,2.2411 0.34093,4.7189 2.58215,5.5337 l 26.93055,9.7939 -66.87838,31.2071 c -2.1611,1.0084 -3.09523,3.5782 -2.08718,5.7386 1.00842,2.1611 3.57771,3.0954 5.73887,2.087 l 66.87839,-31.2071 -9.7933,26.9302 c -0.81473,2.2414 0.34123,4.7187 2.58215,5.5337 2.24122,0.8152 4.71855,-0.3407 5.53358,-2.5822 l 13.35612,-36.7267 c 0.40729,-1.1199 0.32208,-2.3001 -0.14529,-3.3017 -0.46721,-1.0013 -1.31658,-1.8238 -2.43686,-2.2319 l -36.72736,-13.3567 c -2.24093,-0.8151 -4.71811,0.3408 -5.53344,2.5821 z"
+     inkscape:connector-curvature="0"
+     style="fill:#468966;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/miR164_miR394/miR164a_circos.png"
+     inkscape:export-xdpi="50"
+     inkscape:export-ydpi="50" />
 </svg>

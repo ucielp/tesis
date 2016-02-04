@@ -429,13 +429,6 @@ Kakrana, A., Hammond, R., Patel, P., Nakano, M., and Meyers, B.~C. (2014).
   target-identification software}.
 \newblock {\em Nucleic Acids Res.}, 42(18):e139.
 
-\bibitem[Kasschau et~al., 2003]{Kasschau2003}
-Kasschau, K.~D., Xie, Z., Allen, E., Llave, C., Chapman, E.~J., Krizan, K.~a.,
-  and Carrington, J.~C. (2003).
-\newblock {P1/HC-Pro, a Viral Suppressor of RNA Silencing, Interferes with
-  Arabidopsis Development and miRNA Function}.
-\newblock {\em Developmental Cell}, 4(2):205--217.
-
 \bibitem[Katiyar-Agarwal et~al., 2006]{pmid17071740}
 Katiyar-Agarwal, S., Morgan, R., Dahlbeck, D., Borsani, O., Villegas, A., Zhu,
   J.~K., Staskawicz, B.~J., and Jin, H. (2006).
@@ -984,6 +977,15 @@ Yan, T., Yoo, D., Berardini, T.~Z., Mueller, L.~A., Weems, D.~C., Weng, S.,
   sequences.
 \newblock {\em Nucleic Acids Research}, 33(suppl 2):W262--W266.
 
+\bibitem[Yang et~al., 2015]{pmid26103992}
+Yang, C.~Y., Huang, Y.~H., Lin, C.~P., Lin, Y.~Y., Hsu, H.~C., Wang, C.~N.,
+  Liu, L.~Y., Shen, B.~N., and Lin, S.~S. (2015).
+\newblock {{M}icro{R}{N}{A}396-{T}argeted {S}{H}{O}{R}{T}
+  {V}{E}{G}{E}{T}{A}{T}{I}{V}{E} {P}{H}{A}{S}{E} {I}s {R}equired to {R}epress
+  {F}lowering and {I}s {R}elated to the {D}evelopment of {A}bnormal {F}lower
+  {S}ymptoms by the {P}hyllody {S}ymptoms1 {E}ffector}.
+\newblock {\em Plant Physiol.}, 168(4):1702--1716.
+
 \bibitem[Yang et~al., 2006]{pmid16889646}
 Yang, L., Liu, Z., Lu, F., Dong, A., and Huang, H. (2006).
 \newblock {{S}{E}{R}{R}{A}{T}{E} is a novel nuclear regulator in primary
@@ -1044,13 +1046,6 @@ Zheng, Y., Li, Y.~F., Sunkar, R., and Zhang, W. (2012).
   guided cleavage sites from degradome of polyadenylated transcripts in
   plants}.
 \newblock {\em Nucleic Acids Res.}, 40(4):e28.
-
-\bibitem[Zhu et~al., 2013]{pmid23934148}
-Zhu, H., Zhou, Y., Castillo-Gonzalez, C., Lu, A., Ge, C., Zhao, Y.~T., Duan,
-  L., Li, Z., Axtell, M.~J., Wang, X.~J., and Zhang, X. (2013).
-\newblock {{B}idirectional processing of pri-mi{R}{N}{A}s with branched
-  terminal loops by {A}rabidopsis {D}icer-like1}.
-\newblock {\em Nat. Struct. Mol. Biol.}, 20(9):1106--1115.
 
 \bibitem[Zuker, 2003]{pmid12824337}
 Zuker, M. (2003).
