@@ -24,33 +24,33 @@
 \contentsline {figure}{\numberline {5.3}{\ignorespaces T\IeC {\'e}cnica de SPARE}}{67}{figure.caption.43}
 \contentsline {figure}{\numberline {5.4}{\ignorespaces Identificaci\IeC {\'o}n y caracterizaci\IeC {\'o}n de precursores de miARNs procesados de base a loop}}{68}{figure.caption.44}
 \contentsline {figure}{\numberline {5.5}{\ignorespaces Identificaci\IeC {\'o}n y caracterizaci\IeC {\'o}n de precursores de miARNs procesados de loop a base}}{69}{figure.caption.45}
-\contentsline {figure}{\numberline {5.6}{\ignorespaces An\IeC {\'a}lisis inform\IeC {\'a}tico utilizado para procesar los datos de SPARE}}{70}{figure.caption.46}
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Captura de pantalla de la herramienta de SPARE para el miR165a}}{72}{figure.caption.47}
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Captura de pantalla de la herramienta de SPARE para el miR169d}}{73}{figure.caption.48}
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Captura de pantalla de la herramienta de SPARE para el miR156a}}{75}{figure.caption.49}
-\contentsline {figure}{\numberline {5.10}{\ignorespaces Captura de pantalla de la herramienta de SPARE para el miR159b}}{76}{figure.caption.50}
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Especies detectadas}}{80}{figure.caption.52}
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Alineamiento del precursor del miR172a.}}{82}{figure.caption.53}
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Estructura secundaria del miR172a en distintas especies}}{83}{figure.caption.54}
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Circos del miR172a}}{85}{figure.caption.55}
-\contentsline {figure}{\numberline {6.5}{\ignorespaces MEME del miR172a}}{86}{figure.caption.56}
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Circos del miR172a}}{88}{figure.caption.57}
-\contentsline {figure}{\numberline {6.7}{\ignorespaces Circos de precursores con mecanismos de procesamientos secuenciales de base a loop\relax }}{90}{figure.caption.58}
-\contentsline {figure}{\numberline {6.8}{\ignorespaces Circos de precursores con mecanismos de procesamientos cortos de loop a base\relax }}{91}{figure.caption.59}
-\contentsline {figure}{\numberline {6.9}{\ignorespaces Circos de precursores con mecanismos de procesamientos secuenciales de loop a base\relax }}{93}{figure.caption.60}
-\contentsline {figure}{\numberline {6.10}{\ignorespaces Procesamiento mixto de miembros de la familia del miR170/miR171\relax }}{94}{figure.caption.61}
-\contentsline {figure}{\numberline {6.11}{\ignorespaces Apareamiento de bases en el precursor del miR164a}}{95}{figure.caption.62}
-\contentsline {figure}{\numberline {6.12}{\ignorespaces Estructura secundaria predicha del precursor del miR164a}}{96}{figure.caption.63}
-\contentsline {figure}{\numberline {6.13}{\ignorespaces Circos del miR164a}}{97}{figure.caption.64}
-\contentsline {figure}{\numberline {6.14}{\ignorespaces Apareamiento de bases en el precursor del miR394b}}{97}{figure.caption.65}
-\contentsline {figure}{\numberline {6.15}{\ignorespaces Circos del miR394b}}{98}{figure.caption.66}
-\contentsline {figure}{\numberline {6.16}{\ignorespaces Circos del miR172a}}{100}{figure.caption.67}
-\contentsline {figure}{\numberline {6.17}{\ignorespaces Circos del miARN hsa-let-7a-1}}{102}{figure.caption.69}
-\contentsline {figure}{\numberline {6.18}{\ignorespaces Tama\IeC {\~n}o del loop terminal en precursores de distintos reinos}}{103}{figure.caption.70}
-\contentsline {figure}{\numberline {6.19}{\ignorespaces Circos de animales vs plantas}}{105}{figure.caption.71}
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Distribuci\IeC {\'o}n del tama\IeC {\~n}o de las lecturas totales de ARN peque\IeC {\~n}os}}{107}{figure.caption.73}
-\contentsline {figure}{\numberline {7.2}{\ignorespaces Distribuci\IeC {\'o}n del tama\IeC {\~n}o de las lecturas de ARN peque\IeC {\~n}os que mapean contra el genoma de \textit {A. thaliana}}}{108}{figure.caption.75}
-\contentsline {figure}{\numberline {7.3}{\ignorespaces Distribuci\IeC {\'o}n de ARN peque\IeC {\~n}os en el genoma de \textit {A. thaliana}}}{109}{figure.caption.76}
-\contentsline {figure}{\numberline {7.4}{\ignorespaces Diagrama de Venn de ARN peque\IeC {\~n}os m\IeC {\'a}s abundantes a diferente temperaturas}}{110}{figure.caption.77}
-\contentsline {figure}{\numberline {7.5}{\ignorespaces Estrategia para el an\IeC {\'a}lisis de bibliotecas de ARN peque\IeC {\~n}os de \textit {A. thaliana}}}{111}{figure.caption.78}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Captura de pantalla de la herramienta de SPARE para el miR165a}}{72}{figure.caption.46}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Captura de pantalla de la herramienta de SPARE para el miR159b}}{74}{figure.caption.47}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Estructura secundaria de precursores de base a loop}}{75}{figure.caption.48}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Estructura secundaria de precursores de loop a base}}{76}{figure.caption.49}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Mecanismos de procesamiento}}{78}{figure.caption.50}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Especies detectadas}}{81}{figure.caption.52}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Alineamiento del precursor del miR172a.}}{83}{figure.caption.53}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Estructura secundaria del miR172a en distintas especies}}{84}{figure.caption.54}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Circos del miR172a}}{86}{figure.caption.55}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces MEME del miR172a}}{87}{figure.caption.56}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Circos del miR172a}}{89}{figure.caption.57}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Circos de precursores con mecanismos de procesamientos secuenciales de base a loop\relax }}{91}{figure.caption.58}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Circos de precursores con mecanismos de procesamientos cortos de loop a base\relax }}{92}{figure.caption.59}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Circos de precursores con mecanismos de procesamientos secuenciales de loop a base\relax }}{94}{figure.caption.60}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Procesamiento mixto de miembros de la familia del miR170/miR171\relax }}{95}{figure.caption.61}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Apareamiento de bases en el precursor del miR164a}}{96}{figure.caption.62}
+\contentsline {figure}{\numberline {6.12}{\ignorespaces Estructura secundaria predicha del precursor del miR164a}}{97}{figure.caption.63}
+\contentsline {figure}{\numberline {6.13}{\ignorespaces Circos del miR164a}}{98}{figure.caption.64}
+\contentsline {figure}{\numberline {6.14}{\ignorespaces Apareamiento de bases en el precursor del miR394b}}{98}{figure.caption.65}
+\contentsline {figure}{\numberline {6.15}{\ignorespaces Circos del miR394b}}{99}{figure.caption.66}
+\contentsline {figure}{\numberline {6.16}{\ignorespaces Circos del miR172a}}{101}{figure.caption.67}
+\contentsline {figure}{\numberline {6.17}{\ignorespaces Circos del miARN hsa-let-7a-1}}{103}{figure.caption.69}
+\contentsline {figure}{\numberline {6.18}{\ignorespaces Tama\IeC {\~n}o del loop terminal en precursores de distintos reinos}}{104}{figure.caption.70}
+\contentsline {figure}{\numberline {6.19}{\ignorespaces Circos de animales vs plantas}}{106}{figure.caption.71}
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Distribuci\IeC {\'o}n del tama\IeC {\~n}o de las lecturas totales de ARN peque\IeC {\~n}os}}{108}{figure.caption.73}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Distribuci\IeC {\'o}n del tama\IeC {\~n}o de las lecturas de ARN peque\IeC {\~n}os que mapean contra el genoma de \textit {A. thaliana}}}{109}{figure.caption.75}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Distribuci\IeC {\'o}n de ARN peque\IeC {\~n}os en el genoma de \textit {A. thaliana}}}{110}{figure.caption.76}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Diagrama de Venn de ARN peque\IeC {\~n}os m\IeC {\'a}s abundantes a diferente temperaturas}}{111}{figure.caption.77}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Estrategia para el an\IeC {\'a}lisis de bibliotecas de ARN peque\IeC {\~n}os de \textit {A. thaliana}}}{112}{figure.caption.78}
 \contentsline {figure}{\numberline {7.6}{\ignorespaces ARNm blanco con se\IeC {\~n}al de corte en PARE a distintas temperaturas}}{112}{figure.caption.79}

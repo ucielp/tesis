@@ -90,34 +90,38 @@
 \contentsline {subsection}{\numberline {5.1.1}Construcci\IeC {\'o}n de bibliotecas de SPARE para estudios gen\IeC {\'o}micos de biog\IeC {\'e}nesis de miARNs en plantas}{66}{subsection.5.1.1}
 \contentsline {subsection}{\numberline {5.1.2}Visualizaci\IeC {\'o}n de precursores que se procesan desde la base}{68}{subsection.5.1.2}
 \contentsline {subsection}{\numberline {5.1.3}Visualizaci\IeC {\'o}n de precursores que se procesan desde el loop}{68}{subsection.5.1.3}
-\contentsline {section}{\numberline {5.2}Resultados y Discusi\IeC {\'o}n}{68}{section.5.2}
-\contentsline {subsubsection}{Desarrollo de herramienta para el an\IeC {\'a}lisis de intermediarios de procesamiento en plantas}{68}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Identificaci\IeC {\'o}n de intermediarios de procesamiento en plantas mutantes en prote\IeC {\'\i }nas de procesamiento}{77}{subsection.5.2.1}
-\contentsline {subsubsection}{Construcci\IeC {\'o}n de bibliotecas multiplex}{77}{subsection.5.2.1}
-\contentsline {subsubsection}{Dise\IeC {\~n}o experimental}{77}{subsection.5.2.1}
-\contentsline {chapter}{Cap\IeC {\'\i }tulo 3}{78}{chapter*.51}
-\contentsline {section}{\numberline {6.1}Introducci\IeC {\'o}n}{78}{section.6.1}
-\contentsline {section}{\numberline {6.2}Resultados y Discusi\IeC {\'o}n}{78}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Estrategia}{79}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}B\IeC {\'u}squeda de ort\IeC {\'o}logos de precursores de miARNs}{79}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {6.2.3}Alineamiento de los precursores en base a su secuencia primaria}{80}{subsection.6.2.3}
-\contentsline {subsection}{\numberline {6.2.4}Mecanismo de base a loop cortos}{87}{subsection.6.2.4}
-\contentsline {subsection}{\numberline {6.2.5}Mecanismo de base a loop secuenciales}{89}{subsection.6.2.5}
-\contentsline {subsection}{\numberline {6.2.6}Mecanismo de loop a base cortos}{89}{subsection.6.2.6}
-\contentsline {subsection}{\numberline {6.2.7}Mecanismo de loop a base secuenciales}{92}{subsection.6.2.7}
-\contentsline {subsection}{\numberline {6.2.8}Procesamiento mixto de miembros de la familia del miR170/miR171}{92}{subsection.6.2.8}
-\contentsline {subsection}{\numberline {6.2.9}Mutaciones puntuales afectan el procesamiento de miARNs en plantas}{95}{subsection.6.2.9}
-\contentsline {subsection}{\numberline {6.2.10}Precursores de plantas conservados en monocotiled\IeC {\'o}neas}{98}{subsection.6.2.10}
-\contentsline {subsection}{\numberline {6.2.11}Precursores de animales}{99}{subsection.6.2.11}
-\contentsline {chapter}{Cap\IeC {\'\i }tulo 4}{106}{chapter*.72}
-\contentsline {section}{\numberline {7.1}Introducci\IeC {\'o}n}{106}{section.7.1}
-\contentsline {section}{\numberline {7.2}Resultados y Discusi\IeC {\'o}n}{107}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Biog\IeC {\'e}nesis y actividad de ARN peque\IeC {\~n}os de plantas en distintas temperaturas}{107}{subsection.7.2.1}
-\contentsline {subsubsection}{Mapeo y ARN peque\IeC {\~n}os en condiciones de estr\IeC {\'e}s dependientes de la temperatura}{107}{subsection.7.2.1}
-\contentsline {subsubsection}{Perfil comparativo de ARN peque\IeC {\~n}os a distintas temperaturas y asignaci\IeC {\'o}n a trav\IeC {\'e}s de las caracter\IeC {\'\i }sticas gen\IeC {\'o}micas de \textit {A. thaliana}}{108}{figure.caption.75}
+\contentsline {section}{\numberline {5.2}Resultados y Discusi\IeC {\'o}n}{69}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Desarrollo de herramienta para el an\IeC {\'a}lisis de intermediarios de procesamiento en \textit {A. thaliana}}{69}{subsection.5.2.1}
+\contentsline {subsubsection}{An\IeC {\'a}lisis de las bibliotecas de SPARE y dise\IeC {\~n}o de la herramienta}{69}{subsection.5.2.1}
+\contentsline {subsubsection}{Precursores procesados desde la base}{70}{subsection.5.2.1}
+\contentsline {subsubsection}{Precursores procesados desde el loop}{73}{figure.caption.46}
+\contentsline {subsection}{\numberline {5.2.2}An\IeC {\'a}lisis estructural de precursores de miARNs en plantas}{75}{subsection.5.2.2}
+\contentsline {subsubsection}{Estructuras secundarias de precursores procesados desde la base}{75}{subsection.5.2.2}
+\contentsline {subsubsection}{Estructuras secundarias de precursores procesados desde el loop}{76}{figure.caption.48}
+\contentsline {section}{\numberline {5.3}Conclusiones}{76}{section.5.3}
+\contentsline {chapter}{Cap\IeC {\'\i }tulo 3}{79}{chapter*.51}
+\contentsline {section}{\numberline {6.1}Introducci\IeC {\'o}n}{79}{section.6.1}
+\contentsline {section}{\numberline {6.2}Resultados y Discusi\IeC {\'o}n}{79}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Estrategia}{80}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}B\IeC {\'u}squeda de ort\IeC {\'o}logos de precursores de miARNs}{80}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Alineamiento de los precursores en base a su secuencia primaria}{81}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Mecanismo de base a loop cortos}{88}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.5}Mecanismo de base a loop secuenciales}{90}{subsection.6.2.5}
+\contentsline {subsection}{\numberline {6.2.6}Mecanismo de loop a base cortos}{90}{subsection.6.2.6}
+\contentsline {subsection}{\numberline {6.2.7}Mecanismo de loop a base secuenciales}{93}{subsection.6.2.7}
+\contentsline {subsection}{\numberline {6.2.8}Procesamiento mixto de miembros de la familia del miR170/miR171}{93}{subsection.6.2.8}
+\contentsline {subsection}{\numberline {6.2.9}Mutaciones puntuales afectan el procesamiento de miARNs en plantas}{96}{subsection.6.2.9}
+\contentsline {subsection}{\numberline {6.2.10}Precursores de plantas conservados en monocotiled\IeC {\'o}neas}{99}{subsection.6.2.10}
+\contentsline {subsection}{\numberline {6.2.11}Precursores de animales}{100}{subsection.6.2.11}
+\contentsline {chapter}{Cap\IeC {\'\i }tulo 4}{107}{chapter*.72}
+\contentsline {section}{\numberline {7.1}Introducci\IeC {\'o}n}{107}{section.7.1}
+\contentsline {section}{\numberline {7.2}Resultados y Discusi\IeC {\'o}n}{108}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Biog\IeC {\'e}nesis y actividad de ARN peque\IeC {\~n}os de plantas en distintas temperaturas}{108}{subsection.7.2.1}
+\contentsline {subsubsection}{Mapeo y ARN peque\IeC {\~n}os en condiciones de estr\IeC {\'e}s dependientes de la temperatura}{108}{subsection.7.2.1}
+\contentsline {subsubsection}{Perfil comparativo de ARN peque\IeC {\~n}os a distintas temperaturas y asignaci\IeC {\'o}n a trav\IeC {\'e}s de las caracter\IeC {\'\i }sticas gen\IeC {\'o}micas de \textit {A. thaliana}}{109}{figure.caption.75}
 \contentsline {subsection}{\numberline {7.2.2}Pipeline automatizado para el an\IeC {\'a}lisis gen\IeC {\'o}mico de ARN peque\IeC {\~n}os y su actividad in vivo en plantas}{110}{subsection.7.2.2}
-\contentsline {chapter}{Conclusiones}{113}{chapter*.80}
-\contentsline {section}{\numberline {8.1}Aplicaciones bioinform\IeC {\'a}ticas para el estudio de interacciones miARN-gen blanco}{113}{section.8.1}
-\contentsline {section}{\numberline {8.2}Estudios gen\IeC {\'o}micos sobre la biog\IeC {\'e}nesis de miARNs}{114}{section.8.2}
-\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{115}{section*.82}
-\contentsline {chapter}{Anexo}{127}{chapter*.84}
+\contentsline {chapter}{Conclusiones}{114}{chapter*.80}
+\contentsline {section}{\numberline {8.1}Aplicaciones bioinform\IeC {\'a}ticas para el estudio de interacciones miARN-gen blanco}{114}{section.8.1}
+\contentsline {section}{\numberline {8.2}Estudios gen\IeC {\'o}micos sobre la biog\IeC {\'e}nesis de miARNs}{115}{section.8.2}
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{116}{section*.82}
+\contentsline {chapter}{Anexo}{128}{chapter*.84}
