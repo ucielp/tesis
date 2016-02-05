@@ -104,7 +104,7 @@
 \contentsline {section}{\numberline {6.2}Resultados y Discusi\IeC {\'o}n}{80}{section.6.2}
 \contentsline {subsection}{\numberline {6.2.1}Estrategia bioinform\IeC {\'a}tico para el estudio de la evoluci\IeC {\'o}n y biog\IeC {\'e}nesis de miARNs en plantas}{80}{subsection.6.2.1}
 \contentsline {subsection}{\numberline {6.2.2}B\IeC {\'u}squeda de ort\IeC {\'o}logos de precursores de miARNs}{80}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {6.2.3}Alineamiento de los precursores en base a su secuencia primaria}{81}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.3}Alineamiento de los precursores en base a su secuencia primaria}{82}{subsection.6.2.3}
 \contentsline {subsection}{\numberline {6.2.4}Dise\IeC {\~n}o de una implementaci\IeC {\'o}n gr\IeC {\'a}fica para la visualizaci\IeC {\'o}n integral de los precursores}{85}{subsection.6.2.4}
 \contentsline {subsection}{\numberline {6.2.5}Visualizaci\IeC {\'o}n por Circos de precursores que se procesan de abajo cortos}{85}{subsection.6.2.5}
 \contentsline {subsection}{\numberline {6.2.6}Visualizaci\IeC {\'o}n por Circos de precursores que se procesan de abajo secuenciales}{87}{subsection.6.2.6}
@@ -112,7 +112,7 @@
 \contentsline {subsection}{\numberline {6.2.8}Visualizaci\IeC {\'o}n por Circos de precursores que se procesan de arriba secuenciales}{90}{subsection.6.2.8}
 \contentsline {subsection}{\numberline {6.2.9}El tama\IeC {\~n}o del loop es muy variable en precursores que se procesan desde abajo}{93}{subsection.6.2.9}
 \contentsline {subsection}{\numberline {6.2.10}Procesamiento mixto de miembros de la familia del miR170/miR171}{95}{subsection.6.2.10}
-\contentsline {subsection}{\numberline {6.2.11}Mutaciones puntuales afectan el procesamiento de miARNs en plantas}{97}{subsection.6.2.11}
+\contentsline {subsection}{\numberline {6.2.11}Visualizaci\IeC {\'o}n por Circos de precursores con mutaciones puntuales que afectan el procesamiento de miARNs en plantas}{97}{subsection.6.2.11}
 \contentsline {subsection}{\numberline {6.2.12}Visualizaci\IeC {\'o}n por Circos de precursores de plantas conservados en monocotiled\IeC {\'o}neas}{100}{subsection.6.2.12}
 \contentsline {subsection}{\numberline {6.2.13}Estrategia bioinform\IeC {\'a}tica para estudiar precursores de miARNs en animales}{101}{subsection.6.2.13}
 \contentsline {section}{\numberline {6.3}Conclusiones}{107}{section.6.3}

@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,9 +40,9 @@
      inkscape:window-height="1056"
      id="namedview6505"
      showgrid="false"
-     inkscape:zoom="0.22250293"
-     inkscape:cx="2156.368"
-     inkscape:cy="1479.1772"
+     inkscape:zoom="0.44500586"
+     inkscape:cx="1700.8924"
+     inkscape:cy="916.58788"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -14693,7 +14693,7 @@
      d="m 217.34311,1598.4479 c -0.81525,2.2411 0.34093,4.7189 2.58215,5.5337 l 26.93055,9.7939 -66.87838,31.2071 c -2.1611,1.0084 -3.09523,3.5782 -2.08718,5.7386 1.00842,2.1611 3.57771,3.0954 5.73887,2.087 l 66.87839,-31.2071 -9.7933,26.9302 c -0.81473,2.2414 0.34123,4.7187 2.58215,5.5337 2.24122,0.8152 4.71855,-0.3407 5.53358,-2.5822 l 13.35612,-36.7267 c 0.40729,-1.1199 0.32208,-2.3001 -0.14529,-3.3017 -0.46721,-1.0013 -1.31658,-1.8238 -2.43686,-2.2319 l -36.72736,-13.3567 c -2.24093,-0.8151 -4.71811,0.3408 -5.53344,2.5821 z"
      inkscape:connector-curvature="0"
      style="fill:#468966;fill-opacity:1;fill-rule:evenodd;stroke:none"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/miR164_miR394/miR164a_circos.png"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/monocots/circos_monocots_miR396e.png"
      inkscape:export-xdpi="50"
      inkscape:export-ydpi="50" />
 </svg>

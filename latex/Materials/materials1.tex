@@ -226,7 +226,7 @@ La metodología aplicada es la siguiente.
 \subsection{MiARN consensos}
 Las 22 familias de miARNs conservadas en angiospermas fueron consideradas para esta parte del trabajo \citep{Fahlgren2010,Axtell2008343}.
 MiR319 y miR159 que codifican para miARNs similares, fueron considerados como familias diferentes ya que regulan a genes blanco distintos \citep{Palatnik2007}.
-Consideramos todos los miembros de estas familia, obtenidos de miRBASE\footnote{http://mirbase.org}, pertenecientes a \textit{A. thaliana}, \textit{Populus trichocarpa} y \textit{Oryza Sativa}.
+Consideramos todos los miembros de estas familia, obtenidos de miRBase\footnote{http://mirbase.org}, pertenecientes a \textit{A. thaliana}, \textit{Populus trichocarpa} y \textit{Oryza Sativa}.
 Variaciones en las posiciones 1, 20 y 21 son muy comunes en las familias de miARNs \citep{10.1371/journal.pgen.1002419}. 
 Por esto, definimos como secuencia consenso, a las secuencias más comunes (posiciones 2-19) de distintos miembros de cada familia (tabla \ref{table:table_consensus}).
 
@@ -523,8 +523,8 @@ Obtuvimos las estructuras secundarias para cada precursor calculada a partir de 
 El lado proximal del duplex miARN/miARN* fue definido como la posición +1.
 Analizamos la estructura secuendaria y consideremos las posiciones que había un match como un 0, mientras que bulges y "mismatches" los consideramos como 1.
 Además hicimos un promedio para todos los precursores siguiendo la misma estrategia.
-Implementamos un pipeline bioinformático utilizando "in-house" scripts y datos públicos de miRBASE, para asistir con el análisis de las bibliotecas de secuenciación masiva.
-Las secuencias de los ARN pequeños fueron obtenidas de la base de datos de nueva generación de Arabidopsis\footnote{https://http://mpss.udel.edu/} \citep{pmid25120269} y  de la base de datos de miRBASE \citep{Kozomara2014}.
+Implementamos un pipeline bioinformático utilizando "in-house" scripts y datos públicos de miRBase, para asistir con el análisis de las bibliotecas de secuenciación masiva.
+Las secuencias de los ARN pequeños fueron obtenidas de la base de datos de nueva generación de Arabidopsis\footnote{https://http://mpss.udel.edu/} \citep{pmid25120269} y  de la base de datos de miRBase \citep{Kozomara2014}.
 
 \subsubsection{Acceso a los datos}
 Los datos de secuenciación masiva con los resultados del SPARE de la primer parte del trabajo, están accesibles mediante el NCBI Gene Expression Omnibus (GEO\footnote{http://ncbi.nlm.nih.gov/geo} con el código de acceso GSE46429.
@@ -532,12 +532,12 @@ Los datos de secuenciación masiva con los resultados del SPARE de la primer par
 \section{Estrategia bioinformática para caracterizar la relación entre la evolución de los precursores de miARNs en plantas y los mecanismos de procesamientos} \label{ref_evolution}
 
 \subsubsection{Búsqueda de ortólogos y extensión de la secuencia}
-De la base de datos biológica miRBASE (release 19), obtuvimos las secuencias de 92 precursores que incluye cada miembro de las familias de \textit{A. thaliana} conservados en dicotiledóneas.
+De la base de datos biológica miRBase (release 19), obtuvimos las secuencias de 92 precursores que incluye cada miembro de las familias de \textit{A. thaliana} conservados en dicotiledóneas.
 Además obtuvimos las secuencias de 117 precursores que incluye cada miembro de las familias de \text{O. Sativa} conservados en monocotiledóneas.
 Con estas secuencias de \textit{A. thaliana} y de \text{O. Sativa}, buscamos los ortólogos en dicotiledóneas y monocotiledóneas respectivamente.
-Esto lo hicimos utilizando la técnica de blast recíproco, mediante un script desarrollado por nosotros que utiliza el blast del paquete de BLAST+ del NCBI (versión 2.2.25).
+Esto lo hicimos utilizando la técnica de Blast recíproco, mediante un script desarrollado por nosotros que utiliza el blast del paquete de BLAST+ del NCBI (versión 2.2.25).
 Los datos genómicos para la búsqueda de ortólogos, fueron extraídos de la base de datos de Phytozome y utilizamos 30 especies de dicotiledóneas y 6 especies de monocotiledóneas (Figura \ref{fig:treePhytozome}).
-Además extendimos las secuencias, obteniendo más bases de las que originalmente están definidas en miRBASE y empezamos nuestro análisis con una definición arbitraria de los precursores de plantas incluyendo 150 nt fuera del par miARN/miARN*.
+Además extendimos las secuencias, obteniendo más bases de las que originalmente están definidas en miRBase y empezamos nuestro análisis con una definición arbitraria de los precursores de plantas incluyendo 150 nt fuera del par miARN/miARN*.
 Esta definición se basa en que todos los determinantes estructurales validados experimentalmente necesarios para el procesamiento de miARNs están dentro de este rango.
 
 \begin{figure}[htbp!] 

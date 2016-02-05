@@ -13,7 +13,7 @@
 
 \section{Introducción}
 
-En el capítulo anterior vimos que los precursores de plantas pueden ser procesados por cuatro mecanismos con distintas características (Figura \ref{fig:mecanismos}).
+En el capítulo anterior, vimos que los precursores de plantas pueden ser procesados por cuatro mecanismos con distintas características (Figura \ref{fig:mecanismos}).
 Esto contribuye a la complejidad del sistema de procesamiento, respecto al de animales.
 
 Los estudios que dan origen a estos modelos de procesamiento se basan principalmente en datos de secuenciación masiva de ARN en los que se detectan los intermediarios de procesamiento de los distintos precursores.
@@ -22,10 +22,11 @@ Como se mostró anteriormente, a partir de los intermediarios de procesamiento e
 En estudios previos que consideran a los precursores de miARNs en plantas como un solo grupo de moléculas, se han encontrado pocos elementos comunes en sus estructuras \citep{Mateos2010}.
 En el capítulo anterior, utilizamos los precursores de \textit{A. thaliana} para estudiar la biogénesis de precursores de miARNs.
 En este capítulo, aprovechamos los datos genómicos generados por nuestro laboratorio a partir del estudio del procesamiento de miARNs en plantas, y agrupamos los precursores por mecanismo de procesamiento y estudiamos en detalle a cada uno por separado.
+Además, incluimos en el análisis distintas especies de plantas para poder estudiar el procesamiento de miARNs mediante un enfoque evolutivo.
 
 Que los precursores de miARNs en plantas sean procesados de diferentes maneras \citep{Bologna2013}, nos llevó a especular que su patrón de evolución también puede ser diferente y podrían estar vinculados a su mecanismo de procesamiento.
 Queremos encontrar patrones comunes entre los precursores de plantas que sirvan de guía durante el proceso de biogénesis de miARNs.
-Es por esto que elaboramos una estrategia bioinformática para caracterizar la relación entre la evolución de los precursores de miARNs en plantas y los mecanismos de procesamiento determinados previamente.
+Es por esto, que elaboramos una estrategia bioinformática para caracterizar la relación entre la evolución de los precursores de miARNs en plantas y los mecanismos de procesamiento determinados previamente.
 
 \section{Resultados y Discusión}
 
@@ -46,12 +47,12 @@ Brevemente, la misma consta de los siguientes pasos:
 
 \subsection{Búsqueda de ortólogos de precursores de miARNs}
 
-Las secuencias de los precursores de miARNs en miRBASE rara vez son validadas experimentalmente, de hecho muchas de ellas son el resultado de predicciones computacionales de estructuras en forma de tallo y burbuja que incluye el miARN maduro, pero que no se extiende muchas bases más allá de el mismo \cite{Kozomara2014}.
+Las secuencias de los precursores de miARNs en miRBase\footnote{http://mirbase.org} (base de datos biológica que contiene secuencias y anotaciones de miARNs) rara vez son validadas experimentalmente, de hecho muchas de ellas son el resultado de predicciones computacionales de estructuras en forma de tallo y burbuja que incluye el miARN maduro, pero que no se extiende muchas bases más allá de el mismo \cite{Kozomara2014}.
 Esto lleva a anotaciones erróneas de los precursores de miARNs.
-Además para cada miembro de cada familia de \textit{A. thaliana} no es trivial asignarle un ortólogo en otra especie teniendo en cuenta la anotación de miRBASE.
+Además, para cada miembro de cada familia de \textit{A. thaliana} no es trivial asignarle un ortólogo en otra especie teniendo en cuenta la anotación de miRBase.
 
-Por esto, primero realizamos una búsqueda de ortólogos para cada miembro de cada familia de \textit{A. thaliana} y empezamos nuestro análisis con una definición arbitraria de los precursores de plantas incluyendo 150 nt fuera del par miARN/miARN*.
-Para la búsqueda de ortólogos, extensión de la secuencia y el posterior análisis de los precursores, utilizamos datos genómicos de plantas extraídos de Phytozome. 
+Por esto, primero realizamos una búsqueda de ortólogos para cada miembro de cada familia de \textit{A. thaliana} (utilizando la técnica de Blast recíproco) y empezamos nuestro análisis con una definición arbitraria de los precursores de plantas incluyendo 150 nt fuera del par miARN/miARN*.
+Para la búsqueda de ortólogos, extensión de la secuencia y el posterior análisis de los precursores, utilizamos datos genómicos de plantas extraídos de Phytozome\footnote{http://phytozome.jgi.doe.gov}. 
 
 Para la mayoría de los miembros de cada familia de precursores pudimos detectar ortólogos en otras especies. 
 Teniendo en cuenta las 30 dicotiledóneas utilizadas en este estudio, en promedio, se encontraron ortólogos para cerca de 20 especies para cada precursor de miARN de \textit{A. thaliana} (Figura \ref{fig:dicots_species}).
@@ -70,21 +71,26 @@ Teniendo en cuenta las 30 dicotiledóneas utilizadas en este estudio, en promedi
 
 Algunos familias de miARNs se han diversificado durante la evolución, donde en algunas especies un miARN puede encontrarse como un único gen y en otras especie el mismo miARN puede encontrarse en múltiples miembros.
 Por ejemplo, el miR396 en Arabidopsis está constituido por dos miembros, miR396a y miR396b mientras que en en el caso de arroz existen 8 miembros, nombrados del miR396a al miR396h.
-Por esto, agrupamos a los miembros por familias y vimos la distribución de la cantidad de especies donde se detecta un ortólogo de los precursores de miARNs pertenecientes a \textit{A. thaliana} y en este caso vimos un alto número de especies detectadas para la mayoría de las familias de miARNs (Figura \ref{fig:dicots_species}).
+Por esto, agrupamos a los miembros por familias y vimos la distribución de la cantidad de especies donde se detecta un ortólogo de los precursores de miARNs pertenecientes a \textit{A. thaliana}.
+Y agrupando por familia, vimos un alto número de especies promedio detectadas para la mayoría de las familias de miARNs (Figura \ref{fig:dicots_species}).
+Es decir que con esta estrategia pudimos detectar ortólogos en la mayoría de las especies, para al menos un miembro de todas las familias de miARNs conservados en dicotiledóneas. 
 
 \subsection{Alineamiento de los precursores en base a su secuencia primaria}
 
-Comenzamos con los alineamientos múltiple de cada miembro de las familias de precursores de miARNs conservadas en dicotiledóneas.
+Comenzamos con los alineamientos múltiples de cada miembro de las familias de precursores de miARNs conservadas en dicotiledóneas.
 Primero, realizamos el alineamiento en base a su secuencia primaria utilizando la herramienta T-Coffee \citep{pmid10964570}.
-En la Figura \ref{fig:miR172a_tcoffee} se muestra el alineamiento del precursor del miR172a en distintas especies coloreado en base a la conservación evolutiva de la secuencia primaria.
-Se puede observar que el miR172a maduro y el miR172a* están muy conservados en las distintas especies, pero además se puede ver una cola de conservación que podría corresponder al tallo inferior del precusor (Figura \ref{fig:miR172a_tcoffee}).
 
+En la Figura \ref{fig:miR172a_tcoffee} se muestra el alineamiento del precursor del miR172a en distintas especies, coloreado en base a la conservación evolutiva de la secuencia primaria.
+Se puede observar que el miR172a maduro y el miR172a* están muy conservados en las distintas especies, pero además se puede ver una cola de conservación hacia la izquierda del miARN y hacia la derecha del miARN* (Figura \ref{fig:miR172a_tcoffee}).
+
+Esta cola de conservación podría corresponder al tallo inferior del precursor, pero no es claro visualizarlo de esta forma.
 Para poder corroborar esto y obtener información adicional sobre la conservación de los precursores, realizamos la predicción de estructura secundaria utilizando la herramienta RNAfold \citep{pmid22115189} (Figura \ref{fig:miR172a_rnafold}).
-Además realizamos nuevamente los alineamientos pero considerando la estructura secundaria de los precursores, utilizando la herramienta R-Coffee \citep{pmid18292307}.
+Además realizamos nuevamente los alineamientos pero considerando la estructura secundaria de los precursores, y para esto utilizamos la herramienta R-Coffee \citep{pmid18292307}.
 
-En la Figura \ref{fig:miR172a_rnafold} se puede observar que existe un patrón que comparten los precursores en la región debajo del miARN/miARN*.
-No es simple reconocer patrones similares mirando los precursores de esta manera.
-Además la cantidad de precursores estudiados en esta parte del trabajo de Tesis dificulta aún más este tipo de análisis.
+En la Figura \ref{fig:miR172a_rnafold} se puede observar que existe un patrón estructural que comparten los precursores, en la región inmediata por debajo del dúplex miARN/miARN*.
+Pero, no es trivial reconocer patrones similares mirando los precursores de esta manera.
+Además, no es simple poder asociar el patrón de conservación en base a la secuencia primaria, observado en la Figura \ref{fig:miR172a_tcoffee} con el patrón estructural observado en la Figura \ref{fig:miR172a_rnafold}.
+Asimismo, la cantidad de precursores estudiados en esta parte del trabajo de Tesis dificulta aún más este tipo de análisis.
 
 \begin{landscape}
     \begin{figure}[htbp!] 
@@ -106,6 +112,7 @@ Además la cantidad de precursores estudiados en esta parte del trabajo de Tesis
         \caption[Estructura secundaria del miR172a en distintas especies]{
         \textbf{Estructura secundaria del miR172a en distintas especies.}
         Se muestra la estructura secundaria de los precursores del miR172a en distintas especies, calculados con la herramienta RNAfold.
+        Se puede observar que existe un patrón estructural que comparten los precursores, en la región inmediata por debajo del dúplex miARN/miARN*.
         }
         \label{fig:miR172a_rnafold}
     \end{figure}
@@ -115,19 +122,19 @@ Además la cantidad de precursores estudiados en esta parte del trabajo de Tesis
 \subsection{Diseño de una implementación gráfica para la visualización integral de los precursores}
 
 Para poder reconocer fácilmente la región conservada dentro del precursor y poder analizar más en detalle estos patrones de conservación, decidimos agrupar toda esta información 
-generada a partir de los alineamientos de secuencia primaria y estructura secundaria en un gráfico circular como se muestra en la figura \ref{fig:miR172a_circos}.
+generada a partir de los alineamientos de secuencia primaria y estructura secundaria en un gráfico circular como se muestra en la Figura \ref{fig:miR172a_circos}.
 Estos gráficos se hicieron utilizando el paquete Circos \citep{pmid19541911}.
  
-En dicha figura se muestra el Circos del miR172a a modo de ejemplo.
+En dicha Figura, se muestra el Circos del precursor del miR172a a modo de ejemplo.
 Para representar el precursor, se tomaron 60 nt por debajo del dúplex miARN/miARN*.
-En el anillo exterior se representa en colores el grado de conservación de la secuencia consenso a partir de los alineamientos en base a su secuencia primaria.
-Además se muestran las bases del precursor de \textit {A. thaliana}.
+En el anillo exterior se representa, en colores, el grado de conservación de la secuencia consenso a partir de los alineamientos en base a su secuencia primaria.
+Además se muestran las bases del precursor de \textit {A. thaliana} que corresponden a la posición consenso.
 Luego en el anillo interior se representa, mediante un histograma, la frecuencia de bases apareadas y desapareadas para cada posición del precursor en las distintas especies.
 Con líneas de distinto espesor se muestra la interacción de las bases del precursor considerando la estructura secundaria. 
-Fuera del anillo exterior se marca la secuencia del miARN y miARN*.
+Y Fuera del anillo exterior se marca la secuencia del miARN y miARN*.
 
-Realizamos los Circos para visualizar de manera simple los precursores de miARNs en distintas especies de plantas.
-Y los utilizamos para caracterizar la relación entre los patrones de conservación y los mecanismos de procesamiento determinados previamente.
+Estos gráficos denominados Circos, los realizamos para visualizar de manera simple los precursores de miARNs en distintas especies de plantas.
+Y fueron utilizados para caracterizar la relación entre los patrones de conservación y los mecanismos de procesamiento en plantas determinados previamente.
 
 
 \begin{figure}[htbp!] 
@@ -151,18 +158,15 @@ En los precursores con un mecanismo corto de base a loop, un loop interno seguid
 A pesar de que el tallo puede contener bulges, la transición de un loop interno (simple hebra) al tallo inferior es bastante marcada, y tres pares de bases apareadas generalmente definen el comienzo del tallo inferior del precursor \citep{Mateos2010,Bologna2013}.
 El segundo corte procede a una distancia fija de $\sim$21 nt desde la posición del primer corte.
 
-Para la mayoría de los precursores procesados con este mecanismo pudimos observar el mismo patrón de conservación de estructura primaria y similares patrones de estructura secundaria.
-Para los precursores del miR172a (Figura \ref{fig:miR172a_circos} y el miR390a \ref{fig:miR390a_circos}), mediante la estrategia pudimos encontrar precursores en las 30 especies utilizadas.
-En ambos casos, se pudo observar que la región con mayor conservación conincide con el dúplex miARN/miARN* pero además se puede ver una región conservada por debajo del dúplex, que coincide con el tallo inferior.
+Para la mayoría de los precursores procesados con este mecanismo, pudimos observar el mismo patrón de conservación de estructura primaria y similares patrones de estructura secundaria.
+Mediante la estrategia, para el caso del precursor del miR172a (Figura \ref{fig:miR172a_circos}) y del precursor del miR390a (Figura \ref{fig:miR390a_circos}), pudimos encontrar ortólogos en las 30 especies utilizadas.
+En ambos casos, se pudo observar que la región con mayor conservación coincide con el dúplex miARN/miARN*, pero además, se puede ver una región conservada por debajo del dúplex, que coincide con el tallo inferior del precursor.
 
-Otra ventaja de esta forma de representar a los precursores con la conservación entre especies, es que visualmente se puede reconocer facilmente las posiciones donde existen "mismatches" conservados. 
-Por ejemplo en el Circos del miR172, se puede observar un mismatch en la primer posición del miARN con la posición 19 del miARN*.
+Otra ventaja de esta forma de representar a los precursores con la conservación entre especies, es que visualmente se puede reconocer fácilmente las posiciones donde existen "mismatches" conservados. 
+Por ejemplo en el Circos del miR172, se puede observar un "mismatch" en la base que está en la primer posición del miARN con la base en la posición 19 del miARN*.
 Esta interacción es A-A y se mantiene sin variaciones en todas las especies (Figura \ref{fig:miR172a_circos}).
-Esto podría ser interesante estudiarlo en detalle donde se podría generar un precursor mutante donde esas bases en particular estén apareadas y luego ver si esto afecto o no el procesamiento del precursor.  
+Esto podría ser interesante estudiarlo en detalle, donde se podría generar un precursor mutante con esas bases en particular estén apareadas y luego ver si esto afecta o no el procesamiento del precursor.  
 Además notamos que este patrón de conservación se puede observar independientemente si el miARN maduro está en la hebra 5' (Figura \ref{fig:miR172a_circos}) o si está en la hebra 3' (Figura \ref{fig:miR390a_circos}).
-
-A diferencia de los precursores que tienen un mecanismo de loop a base, donde el tallo superior es fundamental para el su procesamiento, los precursores que se procesan cortos de base a loop no tienen el tallo superior conservado.
-%~ Y mediante la búsqueda de motivos conservados, pudimos observar que el tamaño del tallo superior y del loop es muy variado en un mismo precursor en distintas especies, donde los mismos puede ir desde los 40nt hasta 115nt (Figura \ref{fig:miR172_meme}).
 
 
 \begin{figure}[htbp!] 
@@ -178,13 +182,13 @@ A diferencia de los precursores que tienen un mecanismo de loop a base, donde el
 
 \subsection{Visualización por Circos de precursores que se procesan de abajo secuenciales}
 
-En estos precursores, con un mecanismo secuencial de base a loop, el primer corte procede como en los cortos de base a loop, pero luego son necesario dos cortes más para liberar el miARN, generando en el proceso niveles bajos de ARN pequeños adicionales \citep{Bologna2013}.
+En estos precursores, con un mecanismo secuencial de base a loop, el primer corte procede como en los precursores cortos de base a loop, pero luego son necesario dos cortes más para liberar el miARN, generando en el proceso niveles bajos de ARN pequeños adicionales \citep{Bologna2013}.
 Este es el caso de algunos miembros de la  familias del miR169, que tiene en total 14 miembros siendo la familia más grande de \textit{A. thaliana}.
 Un estudio en detalle de los precursores del miR169b/d/e/f/g mostró que los sitios de cortes del precursor estaban localizados 21 nt por debajo del lado proximal del dúplex miARN/miARN*.
 Esta es la distancia esperada entre dos cortes de DCL1, sugiriendo que estos precursores eran procesados por más de dos cortes de la encima \citep{Bologna2013}.
 
-La familia del miR394 también es procesada de la misma manera y comparten similares patrones de estructura secundaria, donde se ve el tallo inferior largo bien estructurado (Figura \ref{fig:seqBTL_circos}).
-Si observamos el patrón de conservación de secuencia primaria podemos ver que la región del dúplex miARN/miARN* está muy conservada, pero además podemos observar que debajo del dúplex existe otra región conservada que coincide con el tallo inferior largo estructurado que presentan estos precursores (Figura \ref{fig:seqBTL_circos}).
+Además. la familia del miR394 también es procesada de la misma manera y comparten similares patrones de estructura secundaria, donde se ve el tallo inferior largo bien estructurado (Figura \ref{fig:seqBTL_circos}).
+Si observamos el patrón de conservación de secuencia primaria podemos ver que la región del dúplex miARN/miARN* está muy conservada, pero además podemos observar que debajo del dúplex existe otra región conservada y estructurada, que coincide con el tallo inferior largo estructurado que presentan estos precursores (Figura \ref{fig:seqBTL_circos}).
 
 \begin{landscape}
 	\begin{figure}
@@ -214,7 +218,7 @@ Si observamos el patrón de conservación de secuencia primaria podemos ver que 
 
 \subsection{Visualización por Circos de precursores que se procesan de arriba cortos}
 
-En los precursores con un mecanismo \textbf{cortos de loop a base}, el procesamiento es guiado por un tallo superior, y son necesarios dos cortes para liberar el miARN maduro.
+En los precursores con un mecanismo cortos de loop a base, el procesamiento es guiado por un tallo superior, y son necesarios dos cortes para liberar el miARN maduro.
 La región terminal de estos precursores tienen una largo conservado de $\sim$42, donde incluye un loop pequeño \citep{Bologna2013} a diferencia de los precursores procesados dee base a loop, donde esta región es variable en tamaño.
 
 En este caso mostramos los Circos para el precursor del miR157a, que fue encontrado en 30 especies, y para el precursor del miR160a también encontrado en 30 especies (Figura \ref{fig:srLTB_circos})). 
@@ -224,13 +228,14 @@ A diferencia de los precursores que se procesan de la base al loop, estos precur
 
 \subsection{Visualización por Circos de precursores que se procesan de arriba secuenciales}
 
-En los precursores con un mecanismo \textbf{secuencial de loop a base}, cuatro cortes secuenciales por DCL1 son los encargados de procesar los precursores de miARNs.
+En los precursores con un mecanismo secuencial de loop a base, cuatro cortes secuenciales por DCL1 son los encargados de procesar los precursores de miARNs.
 En general, estos precursores muestran un tallo largo superior, del cual otros ARNs pequeños son generados \citep{pmid19850910,Bologna2009,Bologna2013}.
 
-En este caso estudiamos la familia del miR319 y del miR159 y en particular mostramos al miR319a (Figura \ref{subfig:miR319a_circos}) y al miR159b (Figura \ref{subfig:miR159b_circos}).
+En este caso estudiamos la familia del miR319 y la familia del miR159, y en particular mostramos al miR319a (Figura \ref{subfig:miR319a_circos}) y al miR159b (Figura \ref{subfig:miR159b_circos}).
 Observamos que la región que coincide con el tallo superior está conservada y además el tallo superior es estructurado.
 Además observamos que los ARNs pequeños, que se originan del procesamiento de estos precursores, están conservados de la misma manera que el miARN y el miARN* (Figura \ref{fig:seqLTB_circos}).
 
+Este patrón de conservación, difiere con el patrón observado para los precursores secuenciales que se procesan desde la base.
 
 \begin{landscape}
 	\begin{figure}
@@ -286,10 +291,15 @@ Además observamos que los ARNs pequeños, que se originan del procesamiento de 
 
 Para cada precursor en distintas especies, realizamos una búsqueda de motivos conservados con la herramienta MEME \citep{pmid22115189} (Figura \ref{fig:miR172_meme}).
 Hicimos esto para poder ver de manera visual cuáles eran los patrones comunes entre las distintas especies y donde se localizaban dentro del precursor.
-Esta búsqueda de motivos la hicimos de diferentes maneras, la primera permitiendo encontrar hasta 2 motivos conservados en los precursores de distintas especies.
+Para los precursores procesados cortos, esta búsqueda de motivos la hicimos permitiendo encontrar hasta 2 motivos conservados en los precursores de distintas especies.
 
 A diferencia de los precursores que tienen un mecanismo de loop a base, donde el tallo superior es fundamental para el su procesamiento, los precursores que se procesan cortos de base a loop no tienen el tallo superior conservado.
-Y mediante la búsqueda de motivos conservados, pudimos observar que el tamaño del tallo superior y del loop es muy variado en un mismo precursor en distintas especies, donde los mismos puede ir desde los 40nt hasta 115nt (Figura \ref{fig:miR172_meme}).
+Y mediante la búsqueda de motivos conservados, pudimos observar que el tamaño de la región que comprende al tallo superior y al loop es muy variado en un mismo precursor en distintas especies.
+Para el miR172a esta región puede variar entre 40nt hasta 115nt (Figura \ref{fig:miR172_meme}).
+
+Además, utilizando la identificación de motivos se puede determinar cuáles son los motivos más conservados dentro del precursor y se observó que no siempre los primeros dos motivos conservados coinciden exactamente con la secuencia del miARN maduro y del miARN*.
+Por otro lado, en el caso de los precursores que se procesan de forma secuencial, permitimos detectar hasta cuatro motivos conservados.
+Y se pudo observar que los cuatro motivos conservados coinciden con parte de la secuencia del miARN, miARN*, RNA1 y RNA1*.
 
 \begin{landscape}
     \begin{figure}[htbp!] 
@@ -300,6 +310,7 @@ Y mediante la búsqueda de motivos conservados, pudimos observar que el tamaño 
         Se muestra el MEME donde se pueden observar los motivos conservados dentro de los precursores del miR172a en distintas especies.
         En color rojo el primer motivo conservado comprende parte del miR172 (logo 1).
         El segundo motivo más conservado comprende parte del miR172* (logo 2).
+        Se puede observar que la el tamaño de la región que comprende al tallo superior y al loop es muy variado en distintas especies.
         }
         \label{fig:miR172_meme}
     \end{figure}
@@ -311,13 +322,17 @@ Y mediante la búsqueda de motivos conservados, pudimos observar que el tamaño 
 En general, se sabe que diferentes miembros de una misma familia de miARNs comparten la misma vía de biogenésis. 
 Esta observación no sorprende ya que se cree que las familias de miARNs se expanden por eventos de duplicación de un gen ancestral \citep{pmid15565108}.
 Sin embargo, ciertos el procesamiento de miembros de ciertas familias pueden variar de uno a otro \citep{Bologna2013}.
-Esto sucede, por ejemplo,en la familia del miR171 donde en \textit{A. thaliana} existen 4 miembros. 
+Esto sucede, por ejemplo,en la familia del miR171 donde en \textit{A. thaliana} existen tres miembros. 
 El precursor del miR171a es procesado de base a loop, mientras que los precursores del miR171b y miR171c son procesados de loop a base.
 
-Nos pusimos a analizar esta familia en detalle para ver si los patrones de conservación y estructura secundaria eran diferentes o no (Figura \ref{fig:familia_miR171_circos}).
-Observamos que el miR171a, que es procesado corto de base a loop, tiene un patrón de conservación similar a los precursores procesados de base a loop, donde el tallo inferior es estructurado y conservado (Figura \ref{subfig:miR171a_circos}).
+Nos pusimos a analizar esta familia en detalle para ver si los patrones de conservación y estructura secundaria eran similares o diferentes (Figura \ref{fig:familia_miR171_circos}).
+Observamos que el miR171a, que es procesado corto de base a loop, tiene un patrón de conservación similar a los precursores procesados de base a loop, donde el tallo inferior es estructurado y conservado, como era de esperarse (Figura \ref{subfig:miR171a_circos}).
 Por el contrario el miR171c, que es procesado corto de loop a base, muestra conservación en el tallo superior, que además es estructurado, y no así el tallo inferior (Figura \ref{subfig:miR171c_circos}).
 
+
+Esta familia mixta, presenta dos patrones claros y diferentes de conservación de secuencia primaria y de estructura secundaria.
+Demostrando que este análisis es sensible a la selección de ortólogos para miembros de una misma familia.
+Donde para el Circos del precursor del miR171a se incluyen 24 especies y para el Circos del precursor del miR171c se incluyen las 30 especies estudiadas.
 
 \begin{landscape}
 	\begin{figure}
@@ -345,10 +360,7 @@ Por el contrario el miR171c, que es procesado corto de loop a base, muestra cons
 \end{landscape}
 
 
-\subsection{Mutaciones puntuales afectan el procesamiento de miARNs en plantas}
-%~ Natural Variation in Biogenesis
-%~ Efficiency of Individual
-%~ Arabidopsis thaliana MicroRNAs
+\subsection{Visualización por Circos de precursores con mutaciones puntuales que afectan el procesamiento de miARNs en plantas}
 
 Se ha demostrado recientemente que un polimorfismo de origen natural que ocurre en el gen del miR164a afecta a la forma de la hoja y la arquitectura del vástago en \textit{A. thaliana}, con los efectos de ser modificados por loci adicionales en el genoma \citep{pmid22206705}.
 Una sustitución única en un par de bases en la secuencia complementaria del miARN altera la estabilidad predicha del dúplex miARN/miARN*.
@@ -443,12 +455,6 @@ Esto sugiere que esta base es importante para el procesamiento y que no sólo mu
 La metodología empleada y la visualización por medio de los Circos permite deducir cuales son las bases o apareamientos importantes para el procesamiento del precursor y la liberación del miARN maduro.
 La misma podría ser utilizada para ayudar en el diseño de miARNs artificiales en distintas especies.
 
-%~ Por otro lado, se seleccionaron todos los precursores que codifican para miARNs de la misma familia y luego los analizamos en conjunto.
-%~ \subsubsection{Procesamiento central?????}
-%~ miR166b 
-%~ \subsubsection{Compensatory mutation}
-%~ miR164a
-%~ miR394b
 
 \subsection{Visualización por Circos de precursores de plantas conservados en monocotiledóneas}
 
@@ -492,7 +498,7 @@ Por otro lado, los precursores de miARNs de plantas presentan tamaños que varí
 
 Para esta parte del trabajo de Tesis, utilizamos genomas de distintos especies de \textit{Metazoa} entre ellos humano, mono, rana, vaca y pez (Tabla \ref{table:db_metazoa}).
 Y estudiamos que sucede con los precursores de miARNs conservados en animales.
-Para esto partimos de los precursores de humanos definidos en miRBASE y realizamos la búsqueda de ortólogos en otras especies al igual que lo hicimos en plantas.
+Para esto partimos de los precursores de humanos definidos en miRBase y realizamos la búsqueda de ortólogos en otras especies al igual que lo hicimos en plantas.
 
 \begin{table}[!htbp]
 \centering
@@ -575,6 +581,6 @@ Esta metodología de búsqueda de ortólogos, alineamientos y posterior visualiz
 \section{Conclusiones}
 
 Realizamos un enfoque bioinformático para el estudio de la evolución y biogénesis de miARNs en plantas.
-De esta manera estudiamos la evolución en plantas con distintos mecanismos de procesamiento.
+De esta manera estudiamos la evolución de precursores de miARNs en plantas con distintos mecanismos de procesamiento.
 Pudimos caracterizar la relación entre patrones de conservación y mecanismos de procesamiento determinados previamente. 
 Además, esta metodología y visualización con Circos, permite comparar precursores de miARNs no solo de distintas familias sino que también precursores de miARNs de distintos reinos.
