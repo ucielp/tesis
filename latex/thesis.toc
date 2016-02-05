@@ -93,13 +93,13 @@
 \contentsline {section}{\numberline {5.2}Resultados y Discusi\IeC {\'o}n}{69}{section.5.2}
 \contentsline {subsection}{\numberline {5.2.1}Desarrollo de herramienta para el an\IeC {\'a}lisis de intermediarios de procesamiento en \textit {A. thaliana}}{69}{subsection.5.2.1}
 \contentsline {subsubsection}{An\IeC {\'a}lisis de las bibliotecas de SPARE y dise\IeC {\~n}o de la herramienta}{69}{subsection.5.2.1}
-\contentsline {subsubsection}{Precursores procesados desde la base}{70}{subsection.5.2.1}
-\contentsline {subsubsection}{Precursores procesados desde el loop}{73}{figure.caption.46}
+\contentsline {subsubsection}{Precursores procesados desde la base}{70}{table.caption.46}
+\contentsline {subsubsection}{Precursores procesados desde el loop}{73}{figure.caption.47}
 \contentsline {subsection}{\numberline {5.2.2}An\IeC {\'a}lisis estructural de precursores de miARNs en plantas}{75}{subsection.5.2.2}
 \contentsline {subsubsection}{Estructuras secundarias de precursores procesados desde la base}{75}{subsection.5.2.2}
-\contentsline {subsubsection}{Estructuras secundarias de precursores procesados desde el loop}{76}{figure.caption.48}
+\contentsline {subsubsection}{Estructuras secundarias de precursores procesados desde el loop}{76}{figure.caption.49}
 \contentsline {section}{\numberline {5.3}Conclusiones}{76}{section.5.3}
-\contentsline {chapter}{Cap\IeC {\'\i }tulo 3}{79}{chapter*.51}
+\contentsline {chapter}{Cap\IeC {\'\i }tulo 3}{79}{chapter*.52}
 \contentsline {section}{\numberline {6.1}Introducci\IeC {\'o}n}{79}{section.6.1}
 \contentsline {section}{\numberline {6.2}Resultados y Discusi\IeC {\'o}n}{80}{section.6.2}
 \contentsline {subsection}{\numberline {6.2.1}Estrategia bioinform\IeC {\'a}tico para el estudio de la evoluci\IeC {\'o}n y biog\IeC {\'e}nesis de miARNs en plantas}{80}{subsection.6.2.1}
@@ -116,15 +116,15 @@
 \contentsline {subsection}{\numberline {6.2.12}Visualizaci\IeC {\'o}n por Circos de precursores de plantas conservados en monocotiled\IeC {\'o}neas}{100}{subsection.6.2.12}
 \contentsline {subsection}{\numberline {6.2.13}Estrategia bioinform\IeC {\'a}tica para estudiar precursores de miARNs en animales}{101}{subsection.6.2.13}
 \contentsline {section}{\numberline {6.3}Conclusiones}{107}{section.6.3}
-\contentsline {chapter}{Cap\IeC {\'\i }tulo 4}{108}{chapter*.72}
+\contentsline {chapter}{Cap\IeC {\'\i }tulo 4}{108}{chapter*.73}
 \contentsline {section}{\numberline {7.1}Introducci\IeC {\'o}n}{108}{section.7.1}
 \contentsline {section}{\numberline {7.2}Resultados y Discusi\IeC {\'o}n}{109}{section.7.2}
 \contentsline {subsection}{\numberline {7.2.1}Biog\IeC {\'e}nesis y actividad de ARN peque\IeC {\~n}os de plantas en distintas temperaturas}{109}{subsection.7.2.1}
 \contentsline {subsubsection}{Mapeo y ARN peque\IeC {\~n}os en condiciones de estr\IeC {\'e}s dependientes de la temperatura}{109}{subsection.7.2.1}
-\contentsline {subsubsection}{Perfil comparativo de ARN peque\IeC {\~n}os a distintas temperaturas y asignaci\IeC {\'o}n a trav\IeC {\'e}s de las caracter\IeC {\'\i }sticas gen\IeC {\'o}micas de \textit {A. thaliana}}{110}{figure.caption.75}
+\contentsline {subsubsection}{Perfil comparativo de ARN peque\IeC {\~n}os a distintas temperaturas y asignaci\IeC {\'o}n a trav\IeC {\'e}s de las caracter\IeC {\'\i }sticas gen\IeC {\'o}micas de \textit {A. thaliana}}{110}{figure.caption.76}
 \contentsline {subsection}{\numberline {7.2.2}Pipeline automatizado para el an\IeC {\'a}lisis gen\IeC {\'o}mico de ARN peque\IeC {\~n}os y su actividad in vivo en plantas}{111}{subsection.7.2.2}
-\contentsline {chapter}{Conclusiones}{115}{chapter*.80}
+\contentsline {chapter}{Conclusiones}{115}{chapter*.81}
 \contentsline {section}{\numberline {8.1}Aplicaciones bioinform\IeC {\'a}ticas para el estudio de interacciones miARN-gen blanco}{115}{section.8.1}
 \contentsline {section}{\numberline {8.2}Estudios gen\IeC {\'o}micos sobre la biog\IeC {\'e}nesis de miARNs}{116}{section.8.2}
-\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{117}{section*.82}
-\contentsline {chapter}{Anexo}{129}{chapter*.84}
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{117}{section*.83}
+\contentsline {chapter}{Anexo}{129}{chapter*.85}

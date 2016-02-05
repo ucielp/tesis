@@ -41,8 +41,8 @@
      id="namedview195"
      showgrid="false"
      inkscape:zoom="1.4833529"
-     inkscape:cx="3.7398341"
-     inkscape:cy="204.70394"
+     inkscape:cx="48.392564"
+     inkscape:cy="208.59795"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -165,7 +165,7 @@
   </defs>
   <path
      style="fill:none;stroke:#000000;stroke-width:0.80000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 49.224219,298.39442 286.016941,0.38136"
+     d="m 49.224219,375.80967 286.016941,0.38136"
      id="path3193"
      inkscape:connector-curvature="0"
      inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/hairpin_distribution.png"
@@ -238,7 +238,7 @@
   <path
      inkscape:connector-curvature="0"
      id="path109"
-     d="m 244.00143,298.90852 0,6"
+     d="m 244.00143,376.32377 0,6"
      style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
      inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/hairpin_distribution.png"
      inkscape:export-xdpi="150.07088"
@@ -390,7 +390,7 @@
   <path
      inkscape:connector-curvature="0"
      id="path111"
-     d="m 122.20105,298.80078 0,6"
+     d="m 122.20105,376.21603 0,6"
      style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
      inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/hairpin_distribution.png"
      inkscape:export-xdpi="150.07088"
@@ -398,8 +398,8 @@
   <path
      inkscape:connector-curvature="0"
      id="path141"
-     d="m 49.199219,297.98686 0,-248.221235"
-     style="fill:none;stroke:#000000;stroke-width:0.80213404;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+     d="m 49.199219,375.77714 0,-326.011515"
+     style="fill:none;stroke:#000000;stroke-width:0.91957659;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
      inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/hairpin_distribution.png"
      inkscape:export-xdpi="150.07088"
      inkscape:export-ydpi="150.07088" />
@@ -638,7 +638,7 @@
      xml:space="preserve"
      style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
      x="122.20339"
-     y="321.70837"
+     y="399.12363"
      id="text26952"
      sodipodi:linespacing="125%"
      inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/hairpin_distribution.png"
@@ -646,14 +646,14 @@
      inkscape:export-ydpi="150.07088"><tspan
        sodipodi:role="line"
        x="122.20339"
-       y="321.70837"
+       y="399.12363"
        id="tspan27019"
        style="text-align:center;text-anchor:middle">miR319</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
      x="243.88658"
-     y="321.70837"
+     y="399.12363"
      id="text26956"
      sodipodi:linespacing="125%"
      inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/hairpin_distribution.png"
@@ -661,14 +661,14 @@
      inkscape:export-ydpi="150.07088"><tspan
        sodipodi:role="line"
        x="243.88658"
-       y="321.70837"
+       y="399.12363"
        id="tspan27032"
        style="text-align:center;text-anchor:middle">miR160</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:7.19999981px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
      x="-229.69568"
-     y="-14.070443"
+     y="-262.15704"
      id="text3117-0"
      sodipodi:linespacing="125%"
      transform="matrix(0,-1,1,0,0,0)"
@@ -678,6 +678,70 @@
        sodipodi:role="line"
        id="tspan3119-1"
        x="-229.69568"
-       y="-14.070443"
+       y="-262.15704"
        style="font-size:9.60000038px">Precursor length (nt)</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path143-6"
+     d="m 49.085087,320.88743 -6,0"
+     style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/hairpin_distribution.png"
+     inkscape:export-xdpi="150.07088"
+     inkscape:export-ydpi="150.07088" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path145-8"
+     d="m 49.085087,266.63743 -6,0"
+     style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/hairpin_distribution.png"
+     inkscape:export-xdpi="150.07088"
+     inkscape:export-ydpi="150.07088" />
+  <use
+     transform="translate(-0.11413207,54.117898)"
+     style="fill:#000000;fill-opacity:1"
+     xlink:href="#glyph1-1"
+     x="34.331055"
+     y="264.15039"
+     id="use159-5"
+     width="360"
+     height="360"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/hairpin_distribution.png"
+     inkscape:export-xdpi="150.07088"
+     inkscape:export-ydpi="150.07088" />
+  <use
+     transform="translate(-0.11413207,54.117898)"
+     style="fill:#000000;fill-opacity:1"
+     xlink:href="#glyph1-0"
+     x="34.331055"
+     y="221.01953"
+     id="use163-9"
+     width="360"
+     height="360"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/hairpin_distribution.png"
+     inkscape:export-xdpi="150.07088"
+     inkscape:export-ydpi="150.07088" />
+  <use
+     transform="translate(-0.11413207,54.117898)"
+     style="fill:#000000;fill-opacity:1"
+     xlink:href="#glyph1-1"
+     x="34.331055"
+     y="209.90039"
+     id="use167-8"
+     width="360"
+     height="360"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/hairpin_distribution.png"
+     inkscape:export-xdpi="150.07088"
+     inkscape:export-ydpi="150.07088" />
+  <use
+     style="fill:#000000;fill-opacity:1"
+     xlink:href="#glyph1-2"
+     x="34.331055"
+     y="215.45996"
+     id="use165-1"
+     width="360"
+     height="360"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/hairpin_distribution.png"
+     inkscape:export-xdpi="150.07088"
+     inkscape:export-ydpi="150.07088"
+     transform="translate(-0.11413207,108.35227)" />
 </svg>
