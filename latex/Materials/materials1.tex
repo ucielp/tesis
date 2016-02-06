@@ -516,9 +516,9 @@ El protocolo de bibliotecas de ARN pequeños se preparó como se detalla en cat�
 
 \subsection{Procesamiento de precursores de miARNs en plantas}
 
-\subsubsection{Análisis bioinformático}
+\subsubsection{Análisis bioinformático}\label{sec:estruc_sec}
 
-Obtuvimos las estructuras secundarias para cada precursor calculada a partir de la herramienta mfold \citep{pmid12824337} con los parámetros por default a 37 \degree C de temperatura.
+Obtuvimos las estructuras secundarias para cada precursor calculada a partir de la herramienta Mfold \citep{pmid12824337} con los parámetros por default a 37 \degree C de temperatura.
 El lado proximal del duplex miARN/miARN* fue definido como la posición +1.
 Analizamos la estructura secuendaria y consideremos las posiciones que había un match como un 0, mientras que bulges y "mismatches" los consideramos como 1.
 Además hicimos un promedio para todos los precursores siguiendo la misma estrategia.
@@ -530,13 +530,18 @@ Los datos de secuenciación masiva con los resultados del SPARE de la primer par
 
 \section{Estrategia bioinformática para caracterizar la relación entre la evolución de los precursores de miARNs en plantas y los mecanismos de procesamientos} \label{ref_evolution}
 
-\subsubsection{Búsqueda de ortólogos y extensión de la secuencia}
+\subsubsection{Búsqueda de ortólogos y extensión de la secuencia}\label{sec:reciprocal_blast}
 De la base de datos biológica miRBase (release 19), obtuvimos las secuencias de 92 precursores que incluye cada miembro de las familias de \textit{A. thaliana} conservados en dicotiledóneas.
 Además obtuvimos las secuencias de 117 precursores que incluye cada miembro de las familias de \text{O. Sativa} conservados en monocotiledóneas.
 Con estas secuencias de \textit{A. thaliana} y de \text{O. Sativa}, buscamos los ortólogos en dicotiledóneas y monocotiledóneas respectivamente.
 Esto lo hicimos utilizando la técnica de Blast recíproco, mediante un script desarrollado por nosotros que utiliza el blast del paquete de BLAST+ del NCBI (versión 2.2.25).
+El Blast recíproco es un método computacional para predecir ortólogos putativos. 
+Se realiza tomando un gen de interés y luego se realiza un Blast de dicho gen sobre una base de datos de un organismo donde se quiere buscar el ortólogo.
+Luego, se toma el gen que se obtiene con mejor puntuación por Blast, y se utiliza para hacer un Blast sobre una base de datos del mismo organismo del gen de interés inicial.
+Si este Blast devuelve con el mejor puntaje al mismo gen inicial, entonces estos dos genes son considerados ortólogos putativos. 
+
 Los datos genómicos para la búsqueda de ortólogos, fueron extraídos de la base de datos de Phytozome y utilizamos 30 especies de dicotiledóneas y 6 especies de monocotiledóneas (Figura \ref{fig:treePhytozome}).
-Además extendimos las secuencias, obteniendo más bases de las que originalmente están definidas en miRBase y empezamos nuestro análisis con una definición arbitraria de los precursores de plantas incluyendo 150 nt fuera del par miARN/miARN*.
+Además extendimos las secuencias obteniendo más bases de las que originalmente están definidas en miRBase y empezamos nuestro análisis con una definición arbitraria de los precursores de plantas incluyendo 150 nt fuera del par miARN/miARN*.
 Esta definición se basa en que todos los determinantes estructurales validados experimentalmente necesarios para el procesamiento de miARNs están dentro de este rango.
 
 \begin{figure}[htbp!] 

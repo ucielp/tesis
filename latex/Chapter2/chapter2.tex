@@ -262,17 +262,20 @@ El análisis de estas nuevas bibliotecas también permitió aumentar el numero d
 
 \subsection{Análisis estructural de precursores de miARNs en plantas}
 
-Para ver si había diferencias estructurales para los precursores con diferentes mecanismos de procesamiento, determinamos la estructura secundaria de precursores detectados por SPARE de la primer secuenciación.
-Obtuvimos las estructuras secundarias para cada precursor de los dos mecanismos de procesamiento, los que se procesan en dirección base a loop (Figura \ref{fig:GR_fig2C}) y los que se procesan loop a base (Figura \ref{fig:GR_fig4C}).
+Una vez que se pudo clasificar a los precursores de acuerdo a su tipo de procesamiento, ya sea desde el loop o desde la base, y sea con dos o mas cortes de DCL1, decidimos ver si había diferencias estructurales para cada grupo.
+Los datos para este primer análisis fueron el SPARE realizado sobre las plantas silvestres y mutantes \textit{fiery}.
+
+Primeramente, obtuvimos las estructuras secundarias para cada precursor  utilizando el programa Mfold\citep{pmid12824337} (Ver Materiales y Métodos sección \ref{sec:estruc_sec}) realizamos un análisis estructural conjunto de los precursores correspondientes a los dos mecanismos de procesamiento, los que se procesan en dirección base a loop (Figura \ref{fig:GR_fig2C}) y los que se procesan loop a base (Figura \ref{fig:GR_fig4C}).
 Definimos a una coincidencia en cada posición con un 0, mientras que "bulges" y "mismatches" los consideramos como 1.
 El lado proximal del duplex miARN/miARN* fue definido como la posición +1 y analizamos desde la posición -25 a la posición +40 (Figura \ref{fig:GR_fig2C} y \ref{fig:GR_fig4C}). 
 
 \subsubsection{Estructuras secundarias de precursores procesados desde la base}
-Consideramos la estructura secundaria de precursores obtenidos a partir de la primer secuenciación, que se procesan de base a loop y todos ellos tienen un claro tallo inferior de 15 nt de largo (Figura \ref{fig:GR_fig2C}).
+
+El análisis de los precursores que se procesan de base a loop mostró que todos ellos tienen un claro tallo inferior de 15 nt de largo (Figura \ref{fig:GR_fig2C}).
 Además este tallo se pudo ver tanto para los precursores validados experimentalmente que se procesan de base a loop como para todos los precursores conservados (Figura \ref{fig:GR_fig2C} en violeta).
-Pero pudimos observar que las bases inmediatamente debajo del duplex miARN/miARN* (posición -2 y -1) tienden a estar desapareadas (Figura \ref{fig:GR_fig2C}).
-Además las posiciones -3 y -4 y las 3 últimas posiciones del stem inferior (-13,-14 y -15) están apareadas casi siempre (Figura \ref{fig:GR_fig2C}).
-En general, nuestros resultados muestran que los precursores procesados en una dirección base a loop son más uniformes de lo que se pensaba previamente y que al menos algunos de los precursores no detectados como base a loop probablemente tengan otros determinantes específicos de ARN.
+También, pudimos observar que las bases inmediatamente debajo del duplex miARN/miARN* (posición -2 y -1) tienden a estar desapareadas (Figura \ref{fig:GR_fig2C}).
+Además, las posiciones -3 y -4 y las 3 últimas posiciones del stem inferior (-13,-14 y -15) están apareadas casi siempre (Figura \ref{fig:GR_fig2C}).
+En general, nuestros resultados muestran que los precursores procesados en una dirección base a loop son más uniformes de lo que se pensaba previamente.
 
 \begin{figure}[htbp!] 
     \centering    
@@ -286,10 +289,10 @@ En general, nuestros resultados muestran que los precursores procesados en una d
 \end{figure}
 
 \subsubsection{Estructuras secundarias de precursores procesados desde el loop}
-Estos precursores, que tienen un procesamiento loop a base, tienen un corte mayoritario que se puede detectar en nuestras bibliotecas.
-Este corte es el esperado en la dirección de procesamiento de precursores con un mecanismo de loop a base.
-Con la excepción de dos miARNs (miR396a y miR162b) estos precursores no tienen una estructura obvia debajo del duplex miARN/miARN* (Figura \ref{fig:GR_fig4C}).
-Estos precursores tienen una región terminal estructurada (Figura \ref{fig:GR_fig4C}), que tiene un tamaño homogéneo de ~42nt que incluye un loop corto en contraste con la misma región en los precursores que se procesan de base a loop donde es más variable (Figura \ref{fig:GR_fig2C} y \ref{fig:GR_fig4C}). 
+%~ Estos precursores, que tienen un procesamiento loop a base, tienen un corte mayoritario que se puede detectar en nuestras bibliotecas.
+%~ Este corte es el esperado en la dirección de procesamiento de precursores con un mecanismo de loop a base.
+Con la excepción de dos miARNs (miR396a y miR162b) estos precursores procesados desde el loop, no tienen una estructura obvia debajo del duplex miARN/miARN* (Figura \ref{fig:GR_fig4C}).
+En cambio, estos precursores tienen una región terminal estructurada (Figura \ref{fig:GR_fig4C}), que tiene un tamaño homogéneo de ~42nt que incluye un loop corto en contraste con la misma región en los precursores que se procesan de base a loop donde es más variable (Figura \ref{fig:GR_fig2C} y \ref{fig:GR_fig4C}). 
 
 \begin{figure}[htbp!] 
     \centering    
@@ -303,10 +306,24 @@ Estos precursores tienen una región terminal estructurada (Figura \ref{fig:GR_f
 
 \section{Conclusiones}
 
-En esta segunda parte del proyecto de tesis presentamos un estrategia y realizamos un análisis sistemático para la identificación de la biogénesis de precursores de miARNs desde un punto de vista genómico.
-Utilizando esta técnica encontramos que los miARNs son procesados por cuatro mecanismos, dependientes de la dirección secuencial de la maquinaria de procesamiento y del número de cortes requeridos para liberar el miARN.
-La clasificación de los precursores, teniendo en cuenta los mecanismos de procesamiento, reveló determinantes estructurales específicos para cada grupo.
-De esta manera pudimos encontrar la dirección de procesamiento de la mayoría de los precursores de miARNs en \textit{A. thaliana}.
+En esta segunda parte del proyecto de Tesis presentamos una estrategia y para el análisis sistemático de las bibliotecas de SPARE y la identificación de la biogénesis de precursores de miARNs desde un punto de vista genómico.
+Utilizando esta técnica encontramos que los miARNs son procesados por cuatro mecanismos, dependientes de la dirección secuencial de la maquinaria de procesamiento y del número de cortes requeridos para liberar el miARN (Figura \ref{fig:mecanismos}).
+
+\begin{figure}[htbp!] 
+    \centering    
+    \includegraphics[width=1\textwidth]{mecanismos.png}
+    \caption[Mecanismos de procesamiento]{
+    \textbf{Distintos mecanismos de procesamientos de miARNs en plantas}
+    A la izquierda se muestra los precursores que son procesado de base a loop.
+    A la derecha se muestra los precursores que son procesado de loop a base.
+    En ambos casos se muestran los precursores cortos y los secuenciales.
+    Se identifica en azul el corte por DCL y con flechas la dirección de procesamiento.
+        }
+    \label{fig:mecanismos}
+\end{figure}
+
+La clasificación de los precursores, teniendo en cuenta los mecanismos de procesamiento y el análisis consiguiente para cada grupo, reveló determinantes estructurales específicos para cada grupo.
+%~ De esta manera pudimos encontrar la dirección de procesamiento de la mayoría de los precursores de miARNs en \textit{A. thaliana}.
 
 Integrando los resultados que se muestran en la introducción junto a los resultados obtenidos en esta Tesis, se pudo demostrar que los precursores de miARNs en plantas se pueden agrupar por cuatro mecanismos de procesamiento con distintas características (Figura \ref{fig:mecanismos}).
 
@@ -322,21 +339,10 @@ Integrando los resultados que se muestran en la introducción junto a los result
         En general muestran un tallo largo superior, del cual otros ARNs pequeños son generados \citep{pmid19850910,Bologna2009,Bologna2013}
 \end{itemize}
 
-\begin{figure}[htbp!] 
-    \centering    
-    \includegraphics[width=1\textwidth]{mecanismos.png}
-    \caption[Mecanismos de procesamiento]{
-    \textbf{Distintos mecanismos de procesamientos de miARNs en plantas}
-    A la izquierda se muestra los precursores que son procesado de base a loop.
-    A la derecha se muestra los precursores que son procesado de loop a base.
-    En ambos casos se muestran los precursores cortos y los secuenciales.
-    Se identifica en azul el corte por DCL y con flechas la dirección de procesamiento.
-        }
-    \label{fig:mecanismos}
-\end{figure}
+
 
 Estos resultados fueron publicado en la revista Genome Research \citep{Bologna2013}.
 Los resultados ofrecen una explicación para la diversidad estructural de los genes de precursores de miARN en plantas y nuevas perspectivas hacia la comprensión de la biogénesis de los ARNs pequeños \citep{Bologna2013}.
 
-Además, utilizando estos datos de SPARE, realizamos un análisis de la estructura secundaria de precursores de \textit{A. thaliana} que tienen distintos mecanismos de procesamiento.
+%~ Además, utilizando estos datos de SPARE, realizamos un análisis de la estructura secundaria de precursores de \textit{A. thaliana} que tienen distintos mecanismos de procesamiento.
 Y con esto, pudimos encontrar determinantes estructurales distintos para precursores que se procesados desde la base y precursores procesados desde el loop. 
