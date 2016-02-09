@@ -119,12 +119,67 @@ En este proyecto las bibliotecas de EST (secuencias parciales de genes que se ex
 Estas bibliotecas cuentan por lo tanto con transcriptos cuya expresión esta validada empíricamente.
 
 De este catalogo de elegimos 41 especies de angiospermas (plantas con semillas) para hacer la búsqueda.
-Además, utilizamos ARNm completos para las especies de \textit{A. thaliana} y \textit{Oryza Sativa}  que se encuentan caracterizados en detalle (para ver la lista completa de especies, ver tabla \ref{table:NAR_table_S2}).
+Además, utilizamos ARNm completos para las especies de \textit{A. thaliana} y \textit{Oryza Sativa}  que se encuentan caracterizados en detalle (para ver la lista completa de especies, ver Tabla \ref{table:NAR_table_S2}).
 
 \subsection{Primera búsqueda general de potenciales genes blanco}
 Utilizando las secuencias consenso de 18nt y permitiendo 3 "mismatches" (Tabla \ref{table:table_consensus}), la búsqueda de genes blanco en las 43 especies seleccionadas (Tabla \ref{table:NAR_table_S2}) arrojó como resultado 38.597 genes (Figura \ref{fig:NAR_fig1}, bin 1).
 En esta búsquedas las interacciones G-U y los "bulges" fueron considerados como "mismatches" en esta primera búsqueda.
 Todos los genes blanco de  \textit{A. thaliana} conocidos hasta ese momento fueron identificados usando esta estrategia con la excepción de CSD2, un gen blanco del miR398 que contiene 4 mismatches (tabla \ref{table:NAR_table_S2}).
+
+
+\begin{table}[!htbp]
+\footnotesize
+\centering
+\caption{Especies y base de datos utilizadas para la búsquedas de genes blanco de miARNs conservados}
+\label{table:NAR_table_S2}
+\begin{tabular}{lc}
+Especie                         & \multicolumn{1}{c}{Base de datos}         \\
+\hline 
+Allium cepa                   & http://compbio.dfci.harvard.edu/tgi/ \\
+Aquilegia                      & http://compbio.dfci.harvard.edu/tgi/ \\
+Arabidopsis thaliana          & http://arabidopsis.org/              \\
+Beta vulgaris                 & http://compbio.dfci.harvard.edu/tgi/ \\
+Brassica napus                 & http://compbio.dfci.harvard.edu/tgi/ \\
+Capsicum annuum               & http://compbio.dfci.harvard.edu/tgi/ \\
+Citrus clementina             & http://compbio.dfci.harvard.edu/tgi/ \\
+Citrus sinensis               & http://compbio.dfci.harvard.edu/tgi/ \\
+Coffea canephora              & http://compbio.dfci.harvard.edu/tgi/ \\
+Euphorbia esula               & http://compbio.dfci.harvard.edu/tgi/ \\
+Festuca arundinacea           & http://compbio.dfci.harvard.edu/tgi/ \\
+Glycine max                   & http://compbio.dfci.harvard.edu/tgi/ \\
+Gossypium                      & http://compbio.dfci.harvard.edu/tgi/ \\
+Gossypium raimondii           & http://compbio.dfci.harvard.edu/tgi/ \\
+Haseolus vulgaris             & http://compbio.dfci.harvard.edu/tgi/ \\
+Helianthus annuus             & http://compbio.dfci.harvard.edu/tgi/ \\
+Hordeum vulgare               & http://compbio.dfci.harvard.edu/tgi/ \\
+Ipomoea nil                   & http://compbio.dfci.harvard.edu/tgi/ \\
+Lactuca sativa                & http://compbio.dfci.harvard.edu/tgi/ \\
+Lactuca serriola              & http://compbio.dfci.harvard.edu/tgi/ \\
+Lotus japonicus               & http://compbio.dfci.harvard.edu/tgi/ \\
+Malus x domestica            & http://compbio.dfci.harvard.edu/tgi/ \\
+Medicago truncatula           & http://compbio.dfci.harvard.edu/tgi/ \\
+Mesembryanthemum crystallinum & http://compbio.dfci.harvard.edu/tgi/ \\
+Nicotiana benthamiana         & http://compbio.dfci.harvard.edu/tgi/ \\
+Nicotiana tabacum             & http://compbio.dfci.harvard.edu/tgi/ \\
+Oryza sativa                  & http://www.jcvi.org/                 \\
+Panicum virgatum              & http://compbio.dfci.harvard.edu/tgi/ \\
+Petunia hybrida               & http://compbio.dfci.harvard.edu/tgi/ \\
+Phaseolus coccineus           & http://compbio.dfci.harvard.edu/tgi/ \\
+Populus                        & http://compbio.dfci.harvard.edu/tgi/ \\
+Prunus persica                & http://compbio.dfci.harvard.edu/tgi/ \\
+Saccharum officinarum         & http://compbio.dfci.harvard.edu/tgi/ \\
+Secale cereale                & http://compbio.dfci.harvard.edu/tgi/ \\
+Solanum lycopersicum          & http://compbio.dfci.harvard.edu/tgi/ \\
+Solanum tuberosum             & http://compbio.dfci.harvard.edu/tgi/ \\
+Sorghum bicolor               & http://compbio.dfci.harvard.edu/tgi/ \\
+Theobroma cacao               & http://compbio.dfci.harvard.edu/tgi/ \\
+triphysaria                    & http://compbio.dfci.harvard.edu/tgi/ \\
+Triphysaria versicolor        & http://compbio.dfci.harvard.edu/tgi/ \\
+Triticum aestivum             & http://compbio.dfci.harvard.edu/tgi/ \\
+Vitis vinifera                & http://compbio.dfci.harvard.edu/tgi/ \\
+Zea mays                      & http://compbio.dfci.harvard.edu/tgi/
+\end{tabular}
+\end{table}
 
 Teniendo en cuenta que la mayoría de los genes blanco arrojados presentan una escasa descripción del tipo genómica funcional, realizamos un BLASTx  contra el proteoma de \textit{A. thaliana}.
 El "locus ID" obtenido como "best hit" se utilizó como "tag" (etiqueta) para identificar al candidato en distintas especies (Figura \ref{fig:NAR_fig1}).
@@ -431,15 +486,14 @@ También, para cada especie detectada, se tiene acceso por pantalla al alineamie
 Debido a que los miARNs en plantas en general regulan genes que codifican a proteínas de una misma familia, la herramienta tiene otra funcionalidad donde permite la búsqueda de genes agrupados por familias en vez de agruparlos por TAG.
 De este modo genes en distintas especies con diferentes etiquetas, pero que pertenecen a la misma familia pueden ser detectados como familias de potenciales genes blanco de miARNs conservados.
 
-\subsubsection{Realizar la búsqueda de un gen de interés para ver si es potencial gen blanco de algun miARN conservado}
+\subsubsection{Realizar la búsqueda de un gen de interés para ver si es potencial gen blanco de algún miARN conservado}
 
-El usuario puede introducir una etiqueta de locus en particular (tanto de Arabidopsis como el "gene ID" del Phytozome) y se identifica si este gen en particular puede ser un potencial gen blanco de algun miARN y además se muestra en cuantas especies se detecta.
+El usuario puede introducir una etiqueta de locus en particular (tanto de Arabidopsis como el "gene ID" del Phytozome) y se identifica si este gen en particular puede ser un potencial gen blanco de algún miARN y además se muestra en cuantas especies se detecta.
 En Arabidopsis se utiliza el LocusID como identificador, mientrás que en Phytozome este identificador varía según la especie y se puede ver la precedencia de cada especie en el sitio de Phytozome.
 
 \subsubsection{Realizar la búsqueda de un miARN nuevo}
 En esta parte del programa el usuario puede realizar la búsqueda de nuevos ARNs pequeños teniendo en cuenta que la secuencia introducida tiene que ser de 18nt de largo (posiciones 2-19).
 Luego de la búsqueda, se da un link al usuario y después de unas horas, cuando haya sido procesado el cálculo, el usuario puede entrar a ese link y navegar los resultados por pantalla.
-
 
 
 \section{Conclusiones}
@@ -465,7 +519,7 @@ Una ventaja de la estrategia presentada es que la interacciones miARN-gen blanco
 Además, esta estrategia puede ser fácilmente modificada para incorporar datos de otras bibliotecas, y/o para realizar la búsqueda de genes blanco presentes en un grupo específico de especies de plantas como se demostró para \textit{Solanacea}.
 
 Por último desarrollamos una herramienta web denominada comTAR\footnote{http://rnabiology.ibr-conicet.gov.ar/comtar} para predecir potenciales genes blanco regulados por miARNs en plantas.
-Esta herramienta, es intuitiva y flexible, y se puede utilizar también potenciales genes blanco para nuevo ARN pequeños o para buscar familias de potenciales genes blanco de miARNs en plantas. 
+Esta herramienta, es intuitiva y flexible, y se puede utilizar también para predecir potenciales genes blanco para nuevo ARN pequeños o para buscar familias de potenciales genes blanco de miARNs en plantas. 
 
 Esta parte del trabajo de Tesis fue publicado en la revista Nucleic Acid Research \citep{Chorostecki05072012} y en la revista Bioinformatics \citep{Chorostecki2014}.
 La validación experimental de los genes blanco regulados por miARNs detectados con la estrategia, fueron realizadas por colegas del laboratorio.

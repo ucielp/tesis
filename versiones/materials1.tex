@@ -81,43 +81,11 @@ El TAG del mejor hit en Arabidopsis es el que determina el número de especies d
     \label{fig:comTAR_fig1}
 \end{figure}
 
+\section{Estudios genómicos sobre la biogénesis de precursores de miARN en plantas}
 
-\section{Análisis bioinformático de los datos obtenidos de la secuenciación por la técnica de SPARE}\label{sec:analisis_spare}
+\subsection{Procesamiento de precursores de miARNs en plantas}
 
-Una vez obtenidos los datos crudos de la secuencias se procedió a hacer el procesamiento de los datos siguiendo los siguientes pasos:
-\begin{itemize}
-	\item Comprobar la calidad de las secuencias.
-	\item Remover secuencias adaptadoras (trimming)
-	\item Agrupar secuencias iguales y determinar abundancia (conversión de archivos fastq file a archivos tag-count).
-	\item Mapear las secuencias únicas con las secuencias de precursores (sub-genoma definido)
-	\item Combinar los resultados del mapeo con la abundancia de cada secuencia
-	\item Analizar y comparar los intermediarios de procesamiento para plantas silvestreste y mutantes de procesamiento
-\end{itemize}
-
-El control de calidad de las secuencias fue realizado con la herramienta FastQC \footnote{http://bioinformatics.babraham.ac.uk/projects/fastqc/} (Versión v0.10.1).
-Luego removimos las secuencias adaptadores con la herramienta cutadapt\footnote{http://cutadapt.readthedocs.org/} (Versión 1.9).
-A continuación, mediante scripts desarrollados por nosotros utilizando comandos de bash en Linux, agrupamos las secuencias y determinamos la abundancia de cada una.
-
-\section {Desarrollo de una herramienta intuitiva para el análisis y visualización de los datos obtenidos por la ténica de SPARE}
-
-La herramienta fue desarrollada para facilitar el análisis de la identificación de los intermediarios de procesamiento en bibliotecas de SPARE.
-En total se obtuvieron cerca de 150 millones de secuencias sumando todas las bibliotecas.
-Esos fragmentos son agrupados y mapeados contra las secuencias únicas de los precursores de \textit{A. thaliana}.
-Nos quedamos con 7158 secuencias únicas, que luego fueron filtradas por largo de la secuencia, quedándonos con las de largo mayor o igual a 30 nt (Figura \ref{fig:SPARE_estrategia}).
-
-\begin{figure}[htbp!] 
-	\centering    
-	\includegraphics[width=.5\textwidth]{SPARE_estrategia.png}
-	\caption[Análisis informático utilizado para procesar los datos de SPARE]{
-	\textbf{Análisis informático utilizado para procesar los datos de SPARE.}
-	Las secuencias únicas mapeadas contra los precursores son las que se utilizan en la herramienta para analizar los intermediarios de procesamiento.
-	}
-	 \label{fig:SPARE_estrategia}
-\end{figure}
-
-Esa información ya procesada fue almacenada en una base de datos, y es la que utilizamos en la herramienta para analizar y comparar los intermediarios de procesamiento para plantas silvestres y para las mutantes de procesamiento.
-
-\section{Análisis estructural de precursores de miARNs en plantas}\label{sec:estruc_sec}
+\subsubsection{Análisis bioinformático}\label{sec:estruc_sec}
 
 Obtuvimos las estructuras secundarias para cada precursor calculada a partir de la herramienta Mfold \citep{pmid12824337} con los parámetros por default a 37 \degree C de temperatura.
 El lado proximal del duplex miARN/miARN* fue definido como la posición +1.
@@ -126,12 +94,10 @@ Además hicimos un promedio para todos los precursores siguiendo la misma estrat
 Implementamos un pipeline bioinformático utilizando "in-house" scripts y datos públicos de miRBase, para asistir con el análisis de las bibliotecas de secuenciación masiva.
 Las secuencias de los ARN pequeños fueron obtenidas de la base de datos de nueva generación de Arabidopsis\footnote{https://http://mpss.udel.edu/} \citep{pmid25120269} y  de la base de datos de miRBase \citep{Kozomara2014}.
 
-Los datos para el primer análisis de SPARE fueron realizados por Nicolás Bologna y Arnaldo Schapire sobre plantas silvestres y mutantes \textit{fiery}.
-Los mismos están accesibles mediante el NCBI Gene Expression Omnibus (GEO\footnote{http://ncbi.nlm.nih.gov/geo} con el código de acceso GSE46429.
+\subsubsection{Acceso a los datos}
+Los datos de secuenciación masiva con los resultados del SPARE de la primer parte del trabajo, están accesibles mediante el NCBI Gene Expression Omnibus (GEO\footnote{http://ncbi.nlm.nih.gov/geo} con el código de acceso GSE46429.
 
-Además, analizamos datos de nuevas bibliotecas de SPARE realizadas por Belén Moro, para precursores de \textit{A. thaliana} de plantas silvestres (Col-0) y en \textit{hyl1}, \textit{se} y \textit{fiery}.
-
-\section{Estrategia bioinformática para caracterizar la relación entre la evolución de los precursores de miARNs en plantas y los mecanismos de procesamientos} \label{sec:ref_evolution}
+\section{Estrategia bioinformática para caracterizar la relación entre la evolución de los precursores de miARNs en plantas y los mecanismos de procesamientos} \label{ref_evolution}
 
 \subsubsection{Búsqueda de ortólogos y extensión de la secuencia}\label{sec:reciprocal_blast}
 De la base de datos biológica miRBase (release 19), obtuvimos las secuencias de 92 precursores que incluye cada miembro de las familias de \textit{A. thaliana} conservados en dicotiledóneas.
@@ -185,7 +151,7 @@ t_coffee -other_pg seq_reformat -in miR.aln -in3 miR.aln -action +3evaluate idma
 
 El plegamiento de los precursores para determinar la estructura secundaria lo realizamos utilizando el paquete RNAfold (versión 2.1.1) \citep{pmid22115189}.
 
-\subsubsection{Búsqueda de motivos conservados} \label{sec:meme}
+\subsubsection{Búsqueda de motivos} \label{sec:meme}
 La búsqueda de motivos conservados la realizamos utilizando la herramienta MEME (versión 4.10.1) \citep{pmid7584402}.
 Hicimos dos búsquedas de motivos, la primera para encontrar como máximo 2 motivos conservados en los precursores, de alrededor de 20nt.
 Utilizamos el comando y los parámetros como se muestra a continuación:
@@ -208,15 +174,9 @@ Por simplicidad en la representación de los precursores, eliminamos los gaps y 
 El archivo de configuración principal se muestra en el anexo en \ref{circos.conf} y los archivos de configuración del histograma y los las relaciones se muestran en el anexo en \ref{histogram.conf} y \ref{inks.conf} respectivamente. 
 Los archivos karyotype.txt, highlight.txt y link.txt son distintos para cada precursor en particular y se realizaron mediante un script, con el formato que se especifica en \url{http://circos.ca/}.
 
-\section{Código fuente de los scripts y herramientas desarrolladas}
+\section{Código fuente}
 Para todo este trabajo de Tesis se utilizaron la mayoría de programas de Software libre y varios de ellos de código abierto en un entorno Linux.
-Algunos de los programas, scripts y algoritmos desarrollados en esta Tesis están disponibles para su uso en los siguientes repositorios:
-
-\begin{itemize}
-	\item La herramienta para la predicción de genes blanco regulados por miARNs en plantas comTAR, se encuentra alojada en https://github.com/ucielp/cluster\_comtar.
-	\item La herramienta para el análisis y visualización de los datos obtenidos por la ténica de SPARE, se encuentra alojada en https://github.com/ucielp/SPARE\_tool.
-	\item Los scripts para caracterizar la relación entre la evolución de los precursores de miARNs en plantas y los mecanismos de procesamiento, se encuentran alojados en https://github.com/ucielp/miRNAs\_evolution.
-\end{itemize}
+Los programas, scripts y algoritmos desarrollados en esta Tesis están disponibles para su uso en el siguiente repositorio....
 
 
 \section{Anexo: Técnicas de Análisis Molecular y bioquímico relacionadas al trabajo de Tesis}
@@ -434,13 +394,12 @@ AVA-P2           & At1g19910         & CTCTAGACTGACCAGCTCGA                 & GG
 \end{tabular}
 \end{table}
 
-
-
 \section{Protocolo de SPARE multiplex}
 
+\subsubsection{Construcción de bibliotecas de SPARE}
 
 La técnica de SPARE (del inglés Specific Parallel Analisys of 5' RNA Ends) fue desarrollada con el objetivo de caracterizar el procesamiento de los precursores de miARNs de \textit{A. thaliana}.
-El esquema de la técnica se muestra en la Figura \ref{fig:SPARE_construccion} y el protocolo se preparó como se describe en Methods\citep{Schapire2013}
+El esquema de la técnica se muestra en la Figura \ref{fig:SPARE_construccion} y se detalla a contunación.
 
 \begin{figure}[htbp!]
 	\centering    
@@ -451,10 +410,176 @@ El esquema de la técnica se muestra en la Figura \ref{fig:SPARE_construccion} y
 	 \label{fig:SPARE_construccion}
 \end{figure}
 
+\subsubsection{Extracción de ARN}
+La extracción de ARN fue realizada como se detalla en sección \ref{sec:extraccion_ARN}.
+Las plántulas de \textit{A. thaliana} fueron crecidas durante 10 días con luz continúa (independizándonos de este modo la variación asociada al ritmo circadiano a la hora de la colecta de muestra).
+
+\subsubsection{Tratamiento con ADNasa}
+
+\begin{enumerate}
+	\item Preparar la siguiente reacción:
+		\begin{itemize}
+			\item ARN (40 $\mu$g de ARN en 89 $\mu$l finales)
+			\item Buffer DNasa 10 $\mu$l
+			\item DNasa (Promega) 1 $\mu$l
+		\end{itemize}
+	\item Incubar 30 minutos a 37 \degree C
+	\item Agregar 1 $\mu$l de DNasa Stop Solution
+	\item Incubar 10 minutos a 65 \degree C
+\end{enumerate}
+
+\subsubsection{Precipitación de ARN}
+
+\begin{enumerate}
+	\item Agregar:
+		\begin{itemize}
+			\item 1 $\mu$l de Glucógeno (20mgr/ul)
+			\item 10 $\mu$l de Acetato Sodio 3M pH 5.2
+			\item 220 $\mu$l de Etanol Abs
+	\end{itemize}
+
+	\item ON -20 \degree C
+	\item Centrifugar 30 minutos a 4 \degree C a máxima velocidad
+	\item Descartar sobrenadante
+	\item Lavar con Etanol 80% 
+	\item Centrifugar 5 minutos a 4 \degree C a máxima velocidad
+	\item Descartar sobrenadante. Repetir desde el paso 5 una vez. 
+	\item Spin y remover excedente.
+	\item Secar 5-10 minutos a 37 \degree C
+	\item Resuspender en 9 $\mu$l de agua
+\end{enumerate}
+
+\subsubsection{Ligación con Oligo ARN}
+
+\begin{enumerate}
+	\item 1. Mezclar 9 $\mu$l de ARN  con 1 $\mu$l 5-ARN  adapter(200 uM) u oligo target.
+	\item Incubar 5 minutos a 65 \degree C
+	\item Poner en hielo aproximadamente 2 minutos
+	\item Agregar a la mezcla de reacción (Vf: 20 $\mu$l)
+		\begin{itemize}
+			\item 2  $\mu$ de 10X Buffer Ligasa
+			\item 2  $\mu$ de 10mM ATP
+			\item 2  $\mu$ de BSA
+			\item 2  $\mu$ de RNAseOut (40U/$\mu$l)
+			\item 2  $\mu$ de T4 RNA ligasa (5U/$\mu$l)
+		\end{itemize}
+	\item Incubar a 37ºC durante 1 hora
+	\item Centrifugar y poner en hielo.
+	\item Inactivación de la ligasa: 72 \degree C durante 15'
+\end{enumerate}
+
+\subsubsection{Purificación de ARNm con dynabeads}
+\begin{enumerate}
+	\item Seguir las instrucciones del kit
+	\item Resuspender en 12 $\mu$l de agua.
+\end{enumerate}
+
+
+\subsubsection{Transcripción Reversa}
+\begin{enumerate}
+	\item Preparar la siguiente reacción:
+	\begin{itemize}
+		\item ARNm-ligado purificado: 12 $\mu$l (dividir en 8 tubos del PCR del strip pipetendo 4 $\mu$l en cada uno)
+		\item dNTP mix 10 mM:1 $\mu$l
+		\item Mix Oligo específico: 0,5 $\mu$l (ver indicaciones de cómo prepararla más abajo)
+	\end{itemize}
+	\item Calentar a 65 \degree C durante 5 minutos
+	\item Incubar en hielo al menos 1 minuto
+	\item Spin down. 
+	\item Agregar:
+	\begin{itemize}
+		\item 5X First Strand Buffer 4 $\mu$l
+		\item DTT 0,1 M 1 $\mu$l
+		\item Inhibidor de RNasa (Invitrogen) 1 $\mu$l
+		\item SuperScript III 0,5 $\mu$l
+	\end{itemize}
+	\item Incubar 60 minutos a 50 \degree C
+	\item Spin down
+	\item Inactivar la reacción 15 minutos a 70 \degree C
+\end{enumerate}
+
+\textbf{Preparación de la mix de oligos}
+Los stocks de oligos están 100 $\mu$M, como en cada reacción de síntesis de ADNc se levantan aproximadamente 15 precursores, conviene trabajar de la siguiente manera: en un eppendorf se coloca 1 $\mu$l de cada oligo (las mix 1-7 tienen 15 oligos y la mix 8 tiene 16 oligos)  y se completa con cantidad suficiente para 20 $\mu$l.
+De esta dilución 1:20 se toman 10 $\mu$l y se lleva a 100 $\mu$l, para obtener una dilución 1:200.
+Esto último se repite para obtener una dilución final 1:2000 de la que se toman 0,5ul para realizar la síntesis de ADNc.  
+
+\subsubsection{PCRs}
+\textbf{PCR1}
+
+La función de esta PCR es enriquecer los intermediarios de procesamiento, sin la interferencia de los oligos indexados, que son de mayor tamaño y por ende dan mayor número de dímero de primer.
+Se toman 2,5uL de cada ADNc para un total de 20 $\mu$L que se emplean como molde de la PCR1. 
+
+\begin{itemize}
+	\item Oligo Fw: 1,5 $\mu$l
+	\item Oligo Rv: 1,5 $\mu$l
+	\item dNTPs 10mM: 1 $\mu$l
+	\item buffer GC: 10 $\mu$L
+	\item Phusion pol: 0,5 $\mu$l
+	\item cDNA:  20 $\mu$l
+	\item DMSO: 1,5 $\mu$L
+	\item H20 csp 50 $\mu$l.
+\end{itemize}
+
+Programa
+\begin{itemize}
+	\item 1' 98 \degree C x 1 ciclo
+	\item 30'' 98 \degree C 
+	\item 30'' 63 \degree C 
+	\item 50'' 72 \degree C  X 20 ciclos
+	\item 10' 72 \degree C  1 ciclo
+\end{itemize}
+
+Nota: la PCR1 se hace en condiciones de no-saturación para poder trabajar en condiciones semi-cuantitativas.
+
+La PCR1 se corre  en un gel de agarosa al 1,5\% conjunto a un marcador de peso molecular 100 (PM100).
+En estas condiciones los productos de PCR no son visibles en el gel.
+Se corta y purifica la región comprendida entre 100-700pb con un kit Wizard SV gel and PCR Clean-up system, eluyendola en un volumen de 35 $\mu$l.
+
+\textbf{PCR2} 
+
+Se realiza con el objetivo de incorporar el oligo indexado al producto de la PCR1.
+De la PCR1 se toman 10 $\mu$l para realizar la segunda PCR. 
+Oligo indexado: 0,75 $\mu$l (no se coloca en la master mix, se pone un oligo indexado diferente por biblioteca).
+
+\begin{itemize}
+	\item 5X GC buffer: 10 $\mu$l
+	\item dNTPs: 1 $\mu$l
+	\item Oligo P5: 0.75 $\mu$l
+	\item Oligo Indexado: 0.75 $\mu$l
+	\item Molde: 10 $\mu$l 
+	\item DMSO: 1,5 $\mu$l
+	\item Phusion: 0,5 $\mu$l
+	\item H2O: 22,5 $\mu$l
+\end{itemize}
+Volumen final: 50 $\mu$l.
+Programa de PCR
+
+\begin{itemize}
+	\item 98 \degree C 1'
+	\item 98 \degree C 30''
+	\item 63 \degree C 30'' x 10 ciclos
+	\item 72 \degree C 50''
+	\item 72 \degree C 10'
+\end{itemize}
+
+Se corre un gel al 2\% conjunto a un marcado de peso de molecular de 100pb y otro de 50pb.
+Se corta la región desde 150-800pb y se purifica por kit Wizard SV gel and PCR Clean-up system eluyendo en un volumen final de de 22 $\mu$L.
+
+\subsubsection{Análisis bioinformático de los datos obtenidos de la secuenciación}\label{sec:analisis_spare}
+
+Una vez obtenidos los datos crudos de la secuencias se procedió a hacer el procesamiento de los datos siguiendo los siguientes pasos:
+\begin{itemize}
+	\item Comprobar la calidad de las secuencias.
+	\item Remover secuencias adaptadoras (trimming)
+	\item Agrupar secuencias iguales y determinar abundancia (conversión de archivos fastq file a archivos tag-count).
+	\item Mapear las secuencias únicas con las secuencias de precursores (sub-genoma definido)
+	\item Combinar los resultados del mapeo con la abundancia de cada secuencia
+	\item Analizar y comparar los intermediarios de procesamiento para plantas silvestreste y mutantes de procesamiento
+\end{itemize}
 
 \section{Protocolo de PARE}
 
-El protocolo de bibliotecas de ARN pequeños se preparó como se describe en Methods \citep{pmid23810899} y muestra en la Figura \ref{fig:PARE_tecnica}.
+El protocolo de bibliotecas de ARN pequeños se preparó como se describió en Methods \citep{pmid23810899} y muestra en la Figura \ref{fig:PARE_tecnica}.
 
 \begin{figure}[htbp!]
 	\centering    
@@ -468,7 +593,7 @@ El protocolo de bibliotecas de ARN pequeños se preparó como se describe en Met
 
 \section{Protocolo de ARN pequeños}
 
-El protocolo de bibliotecas de ARN pequeños se preparó como se detalla en catálogo de ILLUMINA (\# RS\-930\-1012) y como se muestra en el esquema de la Figura \ref{fig:sRNA_tecnica}.
+El protocolo de bibliotecas de ARN pequeños se preparó como se detalla en catálogo de ILLUMINA (\# RS\-930\-1012) y muestra en la Figura \ref{fig:sRNA_tecnica}.
 
 \begin{figure}[htbp!]
 	\centering    

@@ -122,7 +122,7 @@ En la figura se pueden ver los dos cortes por DCL1 de miembros de la familia del
 
 \subsubsection{Análisis de las bibliotecas de SPARE y diseño de la herramienta}
 
-En una primera serie de experimentos, Nicolás Bologna y Arnaldo Schapire realizaron bibliotecas de SPARE en Col-0 para estudiar los intermediarios de procesamiento en \textit{A. thaliana}.
+En una primera serie de experimentos, Nicolás Bologna y Arnaldo Schapire realizaron bibliotecas de SPARE en Col-0 y mutantes en \textit{fiery} para estudiar los intermediarios de procesamiento en \textit{A. thaliana}.
 De esta técnica, se obtienen una gran cantidad de datos para cada biblioteca secuenciada y los primeros análisis se hicieron manualmente.
 
 Por lo tanto se decidió en el laboratorio generar un protocolo bioinformático para el análisis de bibliotecas SPARE. 
@@ -135,10 +135,6 @@ Brevemente, en total se obtuvieron cerca de 150 millones de secuencias sumando t
 Los datos de la secuenciación son procesados y las secuencias correspondientes a fragmentos de precursores son agrupados y mapeados contra la totalidad de los precursores de miARN de \textit{A. thaliana}.
 
 Esa información ya procesada es la que utilizamos en la herramienta para analizar y comparar los intermediarios de procesamiento para plantas silvestres y para las mutantes de procesamiento.
-
-%~ En total se obtuvieron cerca de 150 millones de secuencias (Figura \ref{fig:SPARE_estrategia}).
-%~ Esos fragmentos son agrupados y mapeados contra las secuencias únicas de los precursores de \textit{A. thaliana}.
-%~ Nos quedamos con 7158 secuencias únicas, que luego las filtramos por largo de la secuencia (Figura \ref{fig:SPARE_estrategia}).
 
 \begin{table}[]
     \centering
@@ -174,15 +170,6 @@ Se pueden observar también cortes en las posiciones $\pm 2$ con respecto a las 
 Además se observan en la posición -5, que aparecen fragmentos en todas las bibliotecas aunque en muy baja abundancia (Figura \ref{fig:miR165a_SPARE}).
 Por el momento, no hay una clara explicación para el origen mecanístico de estos cortes, pero muestra la utilidad de la herramienta para poder fácilmente visualizar e identificar elementos comunes e inesperados en distintas bibliotecas.
 
-%~ Por ejemplo, mostramos al precursor del miR169d que es procesado de forma secuencial de base a loop.
-%~ En estos precursores, los sitios de cortes delestán localizados 21 nt por debajo del lado proximal del dúplex miARN/miARN* y luego DCL1 sigue cortando para procesar al precursor.
-%~ En este caso se detecta un fragmento mayoritario en la posición -21, es decir 21nt por debajo del dúplex miARN/miARN* como era esperado para precursores secuenciales de base a loop \ref{fig:miR169d_SPARE}.
-
-%~ El precursor del miR169d tiene una estructura particular donde presenta un loop terminal ramificado.
-%~ Se ha estudiado este tipo de precursores, con esta estructura, donde se demostró que pueden ser procesados por DCl1 de manera bidireccional de base a loop o de loop a base, resultando en un procesamiento productivo y abortivo respectivamente \citep{pmid23934148}.
-%~ Con la herramienta desarrollada por nosotros, se puede observar que este precursor particular presenta fragmentos que provienen del corte secuencial de la base al loop que corresponde a la posición -21 en el gráfico.
-%~ Pero además, en la mutante de \textit{fiery} se pueden observar fragmentos que corresponden a un corte abortivo por DCL1 a partir del reconocimiento de este loop ramificado \ref{fig:miR169d_SPARE}.
-%~ La herramienta permite discriminar este tipo de procesamiento en distintas mutantes de procesamiento. 
 
 \begin{landscape}
     \begin{figure}[htbp!] 
@@ -199,28 +186,6 @@ Por el momento, no hay una clara explicación para el origen mecanístico de est
     \end{figure}
 \end{landscape}
 
-%~ \begin{landscape}                                                                      
-%~ \begin{figure}[htbp!] 
-        %~ \centering    
-        %~ \includegraphics[width=1.4\textwidth]{miR169d_SPARE.png}
-        %~ \caption[Captura de pantalla de la herramienta de SPARE para el miR169d]{
-        %~ \textbf{Captura de pantalla de la herramienta de SPARE para el miR169d.}
-        %~ Porcentaje de fragmentos del precursor (abundancia relativa de los fragmentos eosición dividido la abundancia total de los fragmentos en el precursor).
-        %~ La posición final del duplex miARN/miARN* fue considerada como la posición 0.
-        %~ La tabla muestra los valores absolutos de cada fragmento.
-        %~ Las flechas verdes marcan las posiciones del precursor con los fragmentos de mayor abundancia. 
-        %~ }
-	 %~ \label{fig:miR169d_SPARE}
-    %~ \end{figure}
-%~ \end{landscape}
-
-%~ Vemos el precursor del miR156a, donde los cortes más abundantes corresponden a las posiciones 22 y 0 (Figura \ref{fig:miR156a_SPARE}).
-%~ Estos fragmentos corresponden a los cortes del precursor por DCL1, donde el primer corte se da en la parte distal del dúplex y el segundo en la parte proximal del mismo.
-%~ Además se pueden observar otros fragmentos con abundancias relativas, cercanas a estas posiciones. 
-%~ En algunas bibliotecas se puede observar que acumulan más el primer corte (por ejemplo la biblioteca de Col\_AD) y en otras el segundo es el más abundate (biblioteca de Fiery\_1AB) (Figura \ref{fig:SPARE_tecnica}).
-%~ Esto podría ser interesante para estudiar en un futuro.
-%~ Además se puede observar que en \textit{Hyl} y \textit{Serrate} hay otros fragmentos con abundancia relativa en otras posiciones que las esperadas (posición 3 y posición 14 respectivamente), sugeriendo que tal vez que los cortes podrían estar afectados en estas mutantes de procesamiento (Figura \ref{fig:SPARE_tecnica}).
-
 \subsubsection{Precursores procesados desde el loop}
 
 Para el caso de los precursores cortos de loop a base, los fragmentos del corte por DCL1 detectados, pueden ser más de uno según muestra la técnica de SPARE (Figura \ref{fig:SPARE_tecnica}).
@@ -233,22 +198,6 @@ Por cuestiones de simplicidad, en la tabla solo se muestra los fragmentos con ma
 Estos otros cortes posiblemente sean el resultado del corte improductivo del precursor por ribonucleasas y quizás sean parte de un proceso de degradación de los precursores.
 Los orígenes de estos fragmentos del precursor están en estudio en el laboratorio.
 El análisis de estas nuevas bibliotecas también permitió aumentar el numero de precursores de miARNs de Arabidopsis caracterizados.
-
-%~ \begin{landscape}
-    %~ \begin{figure}[htbp!] 
-        %~ \centering    
-        %~ \includegraphics[width=1.4\textwidth]{miR156a_SPARE.png}
-        %~ \caption[Captura de pantalla de la herramienta de SPARE para el miR156a]{
-        %~ \textbf{Captura de pantalla de la herramienta de SPARE para el miR156a.}
-        %~ Herramienta para analizar los datos de la técnica SPARE.
-        %~ Porcentaje de fragmentos del precursor (abundancia relativa de los fragmentos en esa posición dividido la abundancia total de los fragmentos en el precursor).
-        %~ La posición final del duplex miARN/miARN* fue considerada como la posición 0.
-        %~ La tabla muestra los valores absolutos de cada fragmento.
-        %~ Las flechas verdes marcan las posiciones del precursor con los fragmentos de mayor abundancia. 
-        %~ }
-         %~ \label{fig:miR156a_SPARE}
-    %~ \end{figure}
-%~ \end{landscape}
 
 \begin{landscape}
     \begin{figure}[htbp!] 
@@ -296,8 +245,6 @@ En general, nuestros resultados muestran que los precursores procesados en una d
 \end{figure}
 
 \subsubsection{Estructuras secundarias de precursores procesados desde el loop}
-%~ Estos precursores, que tienen un procesamiento loop a base, tienen un corte mayoritario que se puede detectar en nuestras bibliotecas.
-%~ Este corte es el esperado en la dirección de procesamiento de precursores con un mecanismo de loop a base.
 Con la excepción de dos miARNs (miR396a y miR162b) estos precursores procesados desde el loop, no tienen una estructura obvia debajo del duplex miARN/miARN* (Figura \ref{fig:GR_fig4C}).
 En cambio, estos precursores tienen una región terminal estructurada (Figura \ref{fig:GR_fig4C}), que tiene un tamaño homogéneo de ~42nt que incluye un loop corto en contraste con la misma región en los precursores que se procesan de base a loop donde es más variable (Figura \ref{fig:GR_fig2C} y \ref{fig:GR_fig4C}). 
 
@@ -330,7 +277,6 @@ Utilizando esta técnica encontramos que los miARNs son procesados por cuatro me
 \end{figure}
 
 La clasificación de los precursores, teniendo en cuenta los mecanismos de procesamiento y el análisis consiguiente para cada grupo, reveló determinantes estructurales específicos para cada grupo.
-%~ De esta manera pudimos encontrar la dirección de procesamiento de la mayoría de los precursores de miARNs en \textit{A. thaliana}.
 
 Integrando los resultados que se muestran en la introducción junto a los resultados obtenidos en esta Tesis, se pudo demostrar que los precursores de miARNs en plantas se pueden agrupar por cuatro mecanismos de procesamiento con distintas características (Figura \ref{fig:mecanismos}).
 
@@ -351,5 +297,4 @@ Integrando los resultados que se muestran en la introducción junto a los result
 Estos resultados fueron publicado en la revista Genome Research \citep{Bologna2013}.
 Los resultados ofrecen una explicación para la diversidad estructural de los genes de precursores de miARN en plantas y nuevas perspectivas hacia la comprensión de la biogénesis de los ARNs pequeños \citep{Bologna2013}.
 
-%~ Además, utilizando estos datos de SPARE, realizamos un análisis de la estructura secundaria de precursores de \textit{A. thaliana} que tienen distintos mecanismos de procesamiento.
 Y con esto, pudimos encontrar determinantes estructurales distintos para precursores que se procesados desde la base y precursores procesados desde el loop. 
