@@ -8,6 +8,12 @@
 \setcounter{section}{0}
 
 
+\section{Técnicas de Análisis Molecular y bioquímico relacionadas al trabajo de Tesis}
+Si bien esta Tesis es de carácter bioinformático, el trabajo realizado también fue interdisciplinario interactuando con otros miembros del grupo para concretar objetivos más generales.
+Parte de este trabajo en biología molecular y bioquímica fue realizado para validar las predicciones aquí descriptas.
+Alternativamente, el trabajo aquí presentado trató del análisis informático de datos genómicos como los de las biblitoecas SPARE realizadas experimentalmente por otros miembros del grupo.
+Si bien estas secciones no son parte de los materiales y métodos propiamente realizados, consideramos relevantes mencionarlos ya que contribuyen a un entendimiento general del problema que aquí se trata.
+
 \section{Obtención de Arabidopsis transformadas}
 
 \subsection{Ecotipos utilizados y condiciones de crecimiento}
@@ -582,16 +588,17 @@ t_coffee -other_pg seq_reformat -in miR.aln -in3 miR.aln -action +3evaluate idma
 
 El plegamiento de los precursores para determinar la estructura secundaria lo realizamos utilizando el paquete RNAfold (versión 2.1.1) \citep{pmid22115189}.
 
-\subsubsection{Búsqueda de motivos}
+\subsubsection{Búsqueda de motivos} \label{sec:meme}
 La búsqueda de motivos conservados la realizamos utilizando la herramienta MEME (versión 4.10.1) \citep{pmid7584402}.
 Hicimos dos búsquedas de motivos, la primera para encontrar como máximo 2 motivos conservados en los precursores, de alrededor de 20nt.
 Utilizamos el comando y los parámetros como se muestra a continuación:
 
 \begin{lstlisting}[language=bash]
-meme miR.fasta -dna -oc miR -nostatus -time 18000 -mod zoops -nmotifs 2 -minw 19 -maxw 23 -revcomp
+meme miR.fasta -dna -oc miR -nostatus -time 18000 -mod zoops -nmotifs 2 -minw 20 -maxw 23 -revcomp
 \end{lstlisting}
 
 Y luego hicimos otra búsqueda de motivos, pero esta vez con tamaño más variable (de 5 a 50 nt) y permitimos encontrar hasta 10 motivos con un umbral de corte por e-value.
+Esto lo realizamos para encontrar otros motivos conservados además de los ARN pequeños.
 Utilizamos el comando y los parámetros como se muestra a continuación:
 
 \begin{lstlisting}[language=bash]
