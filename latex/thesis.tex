@@ -2,7 +2,7 @@
 \documentclass[a4paper,12pt,times,numbered,print,index,spanish,oneside]{Classes/PhDThesisPSnPDF}
 %~ Aca agrego ,chapter o ,abstract para solo imprimir el abstract o algun capitulo en particular
 
-%~ \usepackage[spanish]{babel}
+\usepackage[spanish]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage[table,xcdraw]{xcolor}
 \usepackage{listings}
@@ -17,7 +17,7 @@
 
 
 %~ Esto lo saco en el lab y lo pongo en mi laptop
-\usepackage{gensymb}
+%~ \usepackage{gensymb}
 
 
 
@@ -106,8 +106,10 @@
 
 \printnomenclature
 
-\include{Abstract/abstract}
 \include{Abreviaturas/abreviaturas}
+
+\lhead{Resumen}
+\include{Abstract/abstract}
 
 
 % ******************************** Main Matter *********************************
@@ -118,21 +120,32 @@
 %~ \renewcommand{\chaptername}{Introducción}
 
 
+\lhead{Introducción}
 \include{Introduccion/introduccion}
 
-%~ \renewcommand{\chaptername}{Objetivos}
+\lhead{Objetivos}
 \include{Objetivos/objetivos}
 
-%~ \renewcommand{\chaptername}{Materiales y Métodos}
+\lhead{Materiales y Métodos}
 \include{Materials/materials1}
 
 %~ \renewcommand{\chaptername}{Capítulos}
-\include{Chapter1/chapter1}
-\include{Chapter2/chapter2}
-\include{Chapter3/chapter3}
-\include{Chapter4/chapter4}
-\include{Conclusiones/conclusiones}
 
+\lhead{Capítulo 1}
+\include{Chapter1/chapter1}
+
+\lhead{Capítulo 2}
+\include{Chapter2/chapter2}
+
+\lhead{Capítulo 3}
+\include{Chapter3/chapter3}
+
+\lhead{Capítulo 4}
+\include{Chapter4/chapter4}
+
+
+\lhead{Conclusiones}
+\include{Conclusiones/conclusiones}
 
 
 % ********************************** Back Matter *******************************
@@ -150,6 +163,7 @@
 %\bibliographystyle{plainnat} % use this to have URLs listed in References
 %~ \cleardoublepage
 \renewcommand\bibname{Bibliografía}
+\lhead{Bibliografía}
 
 \bibliography{References/references} % Path to your References.bib file
 
@@ -170,6 +184,7 @@
 
 %~ \cleardoublepage
 
+\lhead{Anexo}
 \include{Appendix/appendix}
 
 

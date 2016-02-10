@@ -776,9 +776,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="1222.421"
-     inkscape:cy="1951.7701"
+     inkscape:zoom="0.28504445"
+     inkscape:cx="1590.7877"
+     inkscape:cy="1820.4473"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1310,6 +1310,14 @@
        inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
        inkscape:export-xdpi="100.12511"
        inkscape:export-ydpi="100.12511" />
+    <path
+       style="fill:#666666;stroke:#666666;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 329.13098,-920.66858 910.18522,0"
+       id="path3256"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
     <line
        style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
        id="line29170-6"
@@ -1343,116 +1351,117 @@
        inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
        inkscape:export-xdpi="100.12511"
        inkscape:export-ydpi="100.12511" />
-    <g
-       id="g5664"
-       transform="translate(0,9.1916809)"
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29190-9"
+       y2="-924.8454"
+       x2="1893.2361"
+       y1="-1079.5674"
+       x1="1893.2361"
+       class="fil10 str23"
        inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
        inkscape:export-xdpi="100.12511"
-       inkscape:export-ydpi="100.12511">
-      <line
-         inkscape:export-ydpi="150"
-         inkscape:export-xdpi="150"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/sPARE/sPARE_tecnica.png"
-         class="fil10 str23"
-         x1="1806.3629"
-         y1="-1088.759"
-         x2="1806.3629"
-         y2="-934.03705"
-         id="line29190-9"
-         style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none" />
-      <line
-         inkscape:export-ydpi="150"
-         inkscape:export-xdpi="150"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/sPARE/sPARE_tecnica.png"
-         class="fil10 str23"
-         x1="1772.1989"
-         y1="-1088.759"
-         x2="1772.1989"
-         y2="-934.03705"
-         id="line29192-2"
-         style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none" />
-      <line
-         inkscape:export-ydpi="150"
-         inkscape:export-xdpi="150"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/sPARE/sPARE_tecnica.png"
-         class="fil10 str23"
-         x1="1739.7738"
-         y1="-1088.759"
-         x2="1739.7738"
-         y2="-934.03705"
-         id="line29194-8"
-         style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none" />
-      <line
-         inkscape:export-ydpi="150"
-         inkscape:export-xdpi="150"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/sPARE/sPARE_tecnica.png"
-         class="fil10 str31"
-         x1="2226.2893"
-         y1="-1091.0969"
-         x2="1550.8536"
-         y2="-1091.0969"
-         id="line29204-4"
-         style="fill:#ffffff;fill-opacity:1;stroke:#468966;stroke-width:21.64887619;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <line
-         inkscape:export-ydpi="150"
-         inkscape:export-xdpi="150"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/sPARE/sPARE_tecnica.png"
-         class="fil10 str23"
-         x1="1702.5953"
-         y1="-1084.1919"
-         x2="1702.5953"
-         y2="-929.46991"
-         id="line29166-5-7"
-         style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none" />
-      <line
-         inkscape:export-ydpi="150"
-         inkscape:export-xdpi="150"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/sPARE/sPARE_tecnica.png"
-         class="fil10 str23"
-         x1="1670.17"
-         y1="-1084.1919"
-         x2="1670.17"
-         y2="-929.46991"
-         id="line29168-0-1"
-         style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none" />
-      <line
-         inkscape:export-ydpi="150"
-         inkscape:export-xdpi="150"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/sPARE/sPARE_tecnica.png"
-         class="fil10 str23"
-         x1="1636.0062"
-         y1="-1084.1919"
-         x2="1636.0062"
-         y2="-929.46991"
-         id="line29170-6-0"
-         style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none" />
-      <line
-         inkscape:export-ydpi="150"
-         inkscape:export-xdpi="150"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/sPARE/sPARE_tecnica.png"
-         class="fil10 str23"
-         x1="1603.1193"
-         y1="-1084.1919"
-         x2="1603.1193"
-         y2="-929.46991"
-         id="line29172-8-6"
-         style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none" />
-      <line
-         inkscape:export-ydpi="150"
-         inkscape:export-xdpi="150"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/sPARE/sPARE_tecnica.png"
-         class="fil10 str33"
-         x1="2226.3606"
-         y1="-929.86017"
-         x2="1550.7823"
-         y2="-929.86017"
-         id="line29202-0"
-         style="fill:none;stroke:#ffb03b;stroke-width:21.57739639;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29192-2"
+       y2="-924.8454"
+       x2="1859.072"
+       y1="-1079.5674"
+       x1="1859.072"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29194-8"
+       y2="-924.8454"
+       x2="1826.647"
+       y1="-1079.5674"
+       x1="1826.647"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:#ffffff;fill-opacity:1;stroke:#468966;stroke-width:21.64887619;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="line29204-4"
+       y2="-1081.9053"
+       x2="1637.7268"
+       y1="-1081.9053"
+       x1="2313.1624"
+       class="fil10 str31"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <path
+       style="fill:#666666;stroke:#666666;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1520.352,-920.66852 910.1852,0"
+       id="path3256-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29166-5-7"
+       y2="-920.27826"
+       x2="1789.4685"
+       y1="-1075.0002"
+       x1="1789.4685"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29168-0-1"
+       y2="-920.27826"
+       x2="1757.0432"
+       y1="-1075.0002"
+       x1="1757.0432"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29170-6-0"
+       y2="-920.27826"
+       x2="1722.8794"
+       y1="-1075.0002"
+       x1="1722.8794"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#605d5c;stroke-width:7.05504465;stroke-miterlimit:4;stroke-opacity:0.30196102;stroke-dasharray:none"
+       id="line29172-8-6"
+       y2="-920.27826"
+       x2="1689.9924"
+       y1="-1075.0002"
+       x1="1689.9924"
+       class="fil10 str23"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
+    <line
+       style="fill:none;stroke:#ffb03b;stroke-width:21.57739639;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="line29202-0"
+       y2="-920.66852"
+       x2="1637.6555"
+       y1="-920.66852"
+       x1="2313.2336"
+       class="fil10 str33"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/interaccion_miRNA_target.png"
+       inkscape:export-xdpi="100.12511"
+       inkscape:export-ydpi="100.12511" />
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="335.07678"
+       x="250.22397"
        y="-1059.0302"
        id="text5422"
        sodipodi:linespacing="125%"
@@ -1461,13 +1470,13 @@
        inkscape:export-ydpi="100.12511"><tspan
          sodipodi:role="line"
          id="tspan5424"
-         x="335.07678"
+         x="250.22397"
          y="-1059.0302"
          style="font-size:64px">5'</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1179.5956"
+       x="1258.3875"
        y="-1058.6083"
        id="text5422-9"
        sodipodi:linespacing="125%"
@@ -1476,7 +1485,7 @@
        inkscape:export-ydpi="100.12511"><tspan
          sodipodi:role="line"
          id="tspan5424-0"
-         x="1179.5956"
+         x="1258.3875"
          y="-1058.6083"
          style="font-size:64px">3'</tspan></text>
     <text
@@ -1488,11 +1497,11 @@
        sodipodi:linespacing="125%"
        transform="translate(0,-2136.6156)"><tspan
          sodipodi:role="line"
-         id="tspan5449"></tspan></text>
+         id="tspan5449" /></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1179.5643"
+       x="1258.3562"
        y="-897.79358"
        id="text5422-8"
        sodipodi:linespacing="125%"
@@ -1501,13 +1510,13 @@
        inkscape:export-ydpi="100.12511"><tspan
          sodipodi:role="line"
          id="tspan5424-1"
-         x="1179.5643"
+         x="1258.3562"
          y="-897.79358"
          style="font-size:64px">5'</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="335.10803"
+       x="250.25522"
        y="-897.3717"
        id="text5422-9-0"
        sodipodi:linespacing="125%"
@@ -1516,7 +1525,7 @@
        inkscape:export-ydpi="100.12511"><tspan
          sodipodi:role="line"
          id="tspan5424-0-9"
-         x="335.10803"
+         x="250.25522"
          y="-897.3717"
          style="font-size:64px">3'</tspan></text>
     <text
@@ -1552,7 +1561,7 @@
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1452.0353"
+       x="1447.9948"
        y="-1059.0302"
        id="text5422-3"
        sodipodi:linespacing="125%"
@@ -1561,13 +1570,13 @@
        inkscape:export-ydpi="100.12511"><tspan
          sodipodi:role="line"
          id="tspan5424-7"
-         x="1452.0353"
+         x="1447.9948"
          y="-1059.0302"
          style="font-size:64px">5'</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="2274.554"
+       x="2452.3408"
        y="-1058.6083"
        id="text5422-9-55"
        sodipodi:linespacing="125%"
@@ -1576,13 +1585,13 @@
        inkscape:export-ydpi="100.12511"><tspan
          sodipodi:role="line"
          id="tspan5424-0-8"
-         x="2274.554"
+         x="2452.3408"
          y="-1058.6083"
          style="font-size:64px">3'</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="2274.5227"
+       x="2452.3096"
        y="-897.79358"
        id="text5422-8-3"
        sodipodi:linespacing="125%"
@@ -1591,13 +1600,13 @@
        inkscape:export-ydpi="100.12511"><tspan
          sodipodi:role="line"
          id="tspan5424-1-2"
-         x="2274.5227"
+         x="2452.3096"
          y="-897.79358"
          style="font-size:64px">5'</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1452.0665"
+       x="1448.026"
        y="-897.3717"
        id="text5422-9-0-9"
        sodipodi:linespacing="125%"
@@ -1606,13 +1615,13 @@
        inkscape:export-ydpi="100.12511"><tspan
          sodipodi:role="line"
          id="tspan5424-0-9-5"
-         x="1452.0665"
+         x="1448.026"
          y="-897.3717"
          style="font-size:64px">3'</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1780.6809"
+       x="1867.5541"
        y="-1128.4952"
        id="text5422-9-5-1"
        sodipodi:linespacing="125%"
@@ -1621,13 +1630,13 @@
        inkscape:export-ydpi="100.12511"><tspan
          sodipodi:role="line"
          id="tspan5424-0-0-5"
-         x="1780.6809"
+         x="1867.5541"
          y="-1128.4952"
          style="font-size:64px">miARN</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1674.3059"
+       x="1761.1791"
        y="-824.4339"
        id="text5422-9-5-5-2"
        sodipodi:linespacing="125%"
@@ -1636,7 +1645,7 @@
        inkscape:export-ydpi="100.12511"><tspan
          sodipodi:role="line"
          id="tspan5424-0-0-1-8"
-         x="1674.3059"
+         x="1761.1791"
          y="-824.4339"
          style="font-size:64px">ARNm blanco</tspan></text>
     <text
@@ -1663,11 +1672,11 @@
        sodipodi:linespacing="125%"
        transform="translate(0,-2136.6156)"><tspan
          sodipodi:role="line"
-         id="tspan5720"></tspan></text>
+         id="tspan5720" /></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1724.634"
+       x="1811.5072"
        y="-1380.9227"
        id="text5422-9-5-5-7-3"
        sodipodi:linespacing="125%"
@@ -1676,7 +1685,7 @@
        inkscape:export-ydpi="100.12511"><tspan
          sodipodi:role="line"
          id="tspan5424-0-0-1-7-9"
-         x="1724.634"
+         x="1811.5072"
          y="-1380.9227"
          style="font-size:64px;font-weight:bold;-inkscape-font-specification:Sans Bold">Animales</tspan></text>
   </g>
