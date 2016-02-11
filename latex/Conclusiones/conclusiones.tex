@@ -1,6 +1,6 @@
 \setcounter{chapter}{8}
-\chapter*{Conclusiones} 
-\addcontentsline{toc}{chapter}{Conclusiones}
+\chapter*{Conclusiones finales.} 
+\addcontentsline{toc}{chapter}{Conclusiones finales}
 \setcounter{figure}{0}
 \setcounter{table}{0}
 \setcounter{section}{0}
@@ -9,32 +9,57 @@
 \graphicspath{{Chapter2/Figs/}}
 
 
-\section{Aplicaciones bioinformáticas para el estudio de interacciones miARN-gen blanco}
+\section{Aplicaciones bioinformáticas para el estudio de interacciones miARN-gen blanco.}
 
-En cuanto a la primera parte de la Tesis y mediante diferentes estrategias y estudios, hemos alcanzado las siguientes conclusiones.
+En cuanto a la primera parte de la Tesis, diseñamos una estrategia para identificar genes blanco regulados por miARNs en plantas, basada en la conservación evolutiva del par miARN-gen blanco.
+Los estudios previos sobre la identificación de genes blanco de miARN se basaban en que la interacción entre el ARN pequeño y el ARNm tenga ciertos requerimientos en cuanto al número de "mismatches", su posición relativa y la energía de interacción \citep{pmid19167326,pmid12869753,pmid12242443}.
+En algunos casos, se analizaba la conservación del par miARN/miARN*, fundamentalmente entre Arabidopsis y arroz \citep{15345049}, como elemento confirmatorio.
+En este caso, nosotros hemos basado la búsqueda en la conservación evolutiva como elemento central, haciendo la búsqueda en más de 40 especies, aunque este número es fácilmente ampliable en la medida que haya disponible información genómica de otras especies.
+Si bien nosotros nos hemos enfocado en transcriptos validados experimentalmente, también podría utilizarse como elementos de búsquedas en genomas secuenciados y predicciones de genes teóricos.
 
-Diseñamos una estrategia para identificar genes blanco regulados por miARNs en plantas, basado en la conservación evolutiva del par miARN-gen blanco.
-El enfoque requiere que la interacción miARN-gen blanco, pueda ocurrir en el contexto de un conjunto mínimo de parámetros que interactúan en diferentes especies. Pero la secuencia del gen blanco en sí, no necesariamente tiene que estar conservada.
+El enfoque desarrollado requiere que la interacción miARN-gen blanco, pueda ocurrir en el contexto de un conjunto mínimo de parámetros en diferentes especies.
+La secuencia del gen blanco en sí, no necesariamente tiene que estar conservada.
 Además, nuestro enfoque permite ajustar el número de especies requeridas como un filtro para realizar la búsqueda con diferentes sensibilidades y relaciones señal/ruido.
 Utilizando esta estrategia identificamos y validamos experimentalmente nuevos genes blanco en \textit{A. thaliana}, a pesar de que este sistema ya había sido estudiado en detalles en distintos enfoques genómicos a gran escala (\citep{Allen2005207,JonesRhoades2004787,Addo-quaye2009a,German2008,Rajagopalan2006,Schwab2005517}).
 Tres de los nuevos genes blanco validados tienen bulges. Parámetros empíricos usualmente le otorgan una gran penalidad a ellos, que puede llegar a ser el doble que un mismatch regular \citep{JonesRhoades2004787},  sin embargo es probable que genes blancos con bulges asimétricos sean más frecuente de lo que se pensaba previamente en plantas.
 El enfoque ofrece una estrategia alternativa a otras predicciones que se basan en parámetros empíricos del par miARN-gen blanco \citep{Allen2005207,JonesRhoades2004787,citeulike:8816489,Fahlgren_chapter}.
-Una ventaja de la estrategia presentada es que la interacciones miARN-gen blanco conservadas probablemente participen en procesos biológicos relevantes.
-Además, esta estrategia puede ser fácilmente modificada para incorporar datos de otras bibliotecas, y/o para realizar la búsqueda de genes blanco presentes en un grupo específico de especies de plantas.
+Una ventaja de la estrategia presentada es que la interacciones miARN-gen blanco conservadas probablemente participen en procesos biológicos relevantes, ya que está en duda el rol biológico de la regulación por miARNs en interacciones de aparición reciente \citep{Axtell2008343,citeulike:8816489}.
 
-Por último, en esta parte del trabajo de Tesis, desarrollamos una herramienta web denominada comTAR para predecir potenciales genes blanco regulados por miARNs en plantas. 
-Esta herramienta, es intuitiva y flexible, y puede ser utilizada para buscar familias de potenciales genes blanco de miARNs en plantas e incluso para predecir potenciales genes blanco para nuevo ARN pequeños.
+\section{Desarrollo de la herramienta comTAR.}
 
-\section{Estudios genómicos sobre la biogénesis de miARNs en plantas}
+Como parte del estudio de las redes de miARNs y genes blanco de esta Tesis, desarrollamos una herramienta web denominada comTAR para predecir potenciales genes blanco regulados por miARNs en plantas. 
+Esta herramienta, es intuitiva y flexible, y puede ser utilizada para buscar familias de potenciales genes blanco de miARNs en plantas e incluso para predecir potenciales genes blanco para nuevos ARN pequeños.
+La herramienta cuenta con datos pre-analizados para los miARNs conservados, pero el usuario puede hacer búsquedas con cualquier secuencia.
+Así por ejemplo, un miARN recientemente descubierto en monocotiledóneas puede ser usado para buscar blancos presentes en esas especies.
+En este caso sería de esperar que los blancos para este miARN estén conservados solamente en monocotiledóneas, por lo que búsqueda una búsqueda de potenciales blancos en general puede servir como validación general de la red regulatoria.
+
+La búsqueda de blancos de miARNs también da como resultado la captura de múltiples interacciones en distintas especies.
+Así por ejemplo la búsqueda de genes blanco de miR319 arroja como resultados genes blanco con homología a TCP4 (At3g15030, TAG de Arabidopsis) en 31 especies.
+Si bien las interacciones entre el miR319 y TCP4 están relativamente conservadas, existen variaciones.
+Estas variaciones parecen estar localizadas en posiciones específicas.
+El análisis de estas variaciones es algo que podrá hacerse en el futuro y podría servir para mejorar el conocimiento sobre el apareamiento miARN gen blanco en general, así como ayudar a comprender la co-evolucion de las secuencias de miARNs y sus genes blanco.
+
+\section{Determinantes mecanísticos del procesamiento de miARNs en animales.}
 
 En la segunda parte de esta Tesis, desarrollamos un enfoque genómico a gran escala para estudiar el procesamiento de miARNs en plantas y determinamos, de esta manera, el mecanismo de procesamiento de la mayoría de los miARNs de \textit{A. thaliana} conservados evolutivamente \citep{Bologna2013}.
-Encontramos que los miARNs en plantas pueden ser procesados por cuatro mecanismos, dependientes de la dirección secuencial de la maquinaria de procesamiento y del número de cortes requeridos para liberar el miARN (Figura \ref{fig:mecanismos}) \citep{Bologna2013}.
-Pudimos observar que precursores procesados en el mismo mecanismo comparten determinantes estructurales, explicando el gran rango de tamaño y forma observado en precursores de miARNs en plantas \citep{Bologna2013}.
+Encontramos que los miARNs en plantas pueden ser procesados por cuatro mecanismos, dependientes de la dirección secuencial de la maquinaria de procesamiento y del número de cortes requeridos para liberar el miARN \citep{Bologna2013}.
+Cuando los precursores de miARNs de plantas tratan de ser analizados en forma conjunta resultan ser muy heterogéneos y sin dominios comunes claros.
+Pudimos observar que cuando los precursores procesados con el mismo mecanismo son analizados como un grupo, entonces vemos que comparten determinantes estructurales claros.
+La co-existencia de distintos mecanismos cada uno con perfiles de procesamiento particulares explicaría el rango de tamaños y formas observados en precursores de miARNs en plantas \citep{Bologna2013}.
 
-Además, desarrollamos una estrategia bioinformática y luego una herramienta intuitiva para estudiar a los intermediarios de procesamiento en plantas silvestres y en plantas mutantes en proteínas de procesamiento.
-Esta herramienta puede ser utilizada para determinar la dirección de procesamiento de precursores de miARNs y además puede ser utilizada para observar diferencias en los cortes determinados por DCL1 y precisión de la maquinaria en mutantes de procesamiento.
+Cuando los precursores se procesan desde la base hacia el loop vemos que existe un ARNdh de aproximadamente 15 bases por debajo de la región del miARN/miARN*.
+Sin embargo, si el procesamiento comienza desde el loop, vemos que por arriba de la región del miARN/miARN* existe una región estructurada doble hebra de aproximadamente 17 bases.
+La situación se hace aun más compleja con la posibilidad de múltiples cortes de DCL1, existiendo una o dos regiones estructuradas similares al miARN/miARN* localizadas en forma continua.
 
-También, realizamos un enfoque bioinformático para el estudio de la evolución y biogénesis de miARNs en plantas.
-Para esto, diseñamos una implementación gráfica para la visualización integral de precursores de miARNs en distintas especies.
-Utilizando estos gŕaficos estudiamos caracterizamos la evolución de precursores de miARNs en plantas con distintos mecanismos de procesamiento.
+\section{Desarrollo de una herramienta para el análisis de bibliotecas de SPARE incluyendo una interfaz gráfica.}
+
+Además, desarrollamos una estrategia bioinformática  para analizar las bibliotecas de SPARE y luego una herramienta para visualizar los resultados.
+Esto permite estudiar a los intermediarios de procesamiento en plantas silvestres y/o en plantas mutantes en proteínas de procesamiento o crecidas en distintas condiciones.
+Esta herramienta puede ser utilizada para determinar la dirección de procesamiento de precursores de miARNs y además para buscar diferencias en los cortes determinados por DCL1 en distintas condiciones o la precisión de la maquinaria en determinadas en mutantes.
+
+\section{Análisis de las estructuras de los precursores y su evolución. Visualización de información compleja por adaptación de una herramienta Circos.}
+
+También, realizamos un enfoque bioinformático para el estudio de la evolución y biogénesis de miARNs en plantas, capturando precursores de miARN ortólogos de 40 especies diferentes.
+Para analizar la conservación de la estructura secundaria de los distintos precursores y poder comparar entre precursores de distinto procesamiento, diseñamos una implementación gráfica.
+Utilizando estos gráficos llamados Circos, estudiamos y caracterizamos la evolución de precursores de miARNs en plantas con distintos mecanismos de procesamiento.
 Además, mostramos que este enfoque puede ser utilizado también para estudiar precursores de miARNs en animales.

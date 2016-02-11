@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.5.2)  10 FEB 2016 17:27
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.5.2)  11 FEB 2016 12:38
 entering extended mode
  %&-line parsing enabled.
 **thesis
@@ -1278,7 +1278,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 87.
 \PHD@crest=\box42
 
-<Figs/logo_unr.jpg, id=415, 473.77pt x 473.77pt>
+<Figs/logo_unr.jpg, id=427, 473.77pt x 473.77pt>
 File: Figs/logo_unr.jpg Graphic file (type jpg)
  <use Figs/logo_unr.jpg>
 \PHD@author=\box43
@@ -1420,7 +1420,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 
 
 ] [2]
-<Introduccion/Figs/familias_miRNAs_conservados.png, id=784, 449.5194pt x 178.74
+<Introduccion/Figs/familias_miRNAs_conservados.png, id=799, 449.5194pt x 178.74
 78pt>
 File: Introduccion/Figs/familias_miRNAs_conservados.png Graphic file (type png)
 
@@ -1428,12 +1428,12 @@ File: Introduccion/Figs/familias_miRNAs_conservados.png Graphic file (type png)
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 73.
  [3 <./Introduccion/Figs/familias_miRNAs_conservados.png>] [4]
-<Introduccion/Figs/procesamiento_animales.png, id=850, 318.27708pt x 459.6372pt
+<Introduccion/Figs/procesamiento_animales.png, id=865, 318.27708pt x 459.6372pt
 >
 File: Introduccion/Figs/procesamiento_animales.png Graphic file (type png)
  <use Introduccion/Figs/procesamiento_animales.png> [5] [6 <./Introduccion/Figs
 /procesamiento_animales.png>]
-<Introduccion/Figs/biogenesis_accion.png, id=896, 426.10393pt x 559.94797pt>
+<Introduccion/Figs/biogenesis_accion.png, id=911, 426.10393pt x 559.94797pt>
 File: Introduccion/Figs/biogenesis_accion.png Graphic file (type png)
 
 <use Introduccion/Figs/biogenesis_accion.png>
@@ -1441,17 +1441,17 @@ File: Introduccion/Figs/biogenesis_accion.png Graphic file (type png)
 LaTeX Warning: Float too large for page by 13.60327pt on input line 164.
 
 
-<Introduccion/Figs/distribucion_precursores.png, id=898, 341.5962pt x 213.4374p
+<Introduccion/Figs/distribucion_precursores.png, id=913, 341.5962pt x 213.4374p
 t>
 File: Introduccion/Figs/distribucion_precursores.png Graphic file (type png)
  <use Introduccion/Figs/distribucion_precursores.png> [7] [8 <./Introduccion/Fi
 gs/biogenesis_accion.png>]
-<Introduccion/Figs/ss_precursores.png, id=930, 477.9456pt x 240.9pt>
+<Introduccion/Figs/ss_precursores.png, id=945, 477.9456pt x 240.9pt>
 File: Introduccion/Figs/ss_precursores.png Graphic file (type png)
 
 <use Introduccion/Figs/ss_precursores.png> [9 <./Introduccion/Figs/distribucion
 _precursores.png>] [10 <./Introduccion/Figs/ss_precursores.png>] [11] [12]
-<Introduccion/Figs/interaccion_miRNA_target.png, id=1041, 1808.1954pt x 487.099
+<Introduccion/Figs/interaccion_miRNA_target.png, id=1056, 1808.1954pt x 487.099
 8pt>
 File: Introduccion/Figs/interaccion_miRNA_target.png Graphic file (type png)
  <use Introduccion/Figs/interaccion_miRNA_target.png> [13 <./Introduccion/Figs/
@@ -1490,16 +1490,16 @@ u-la-dos por miARNs
 
 
 ] [21] [22]
-<Materials/Figs/comTAR_fig1.png, id=1194, 858.5676pt x 232.7094pt>
+<Materials/Figs/comTAR_fig1.png, id=1209, 858.5676pt x 232.7094pt>
 File: Materials/Figs/comTAR_fig1.png Graphic file (type png)
 
 <use Materials/Figs/comTAR_fig1.png> [23 <./Materials/Figs/comTAR_fig1.png>]
-<Materials/Figs/SPARE_estrategia.png, id=1204, 579.6054pt x 628.749pt>
+<Materials/Figs/SPARE_estrategia.png, id=1219, 579.6054pt x 628.749pt>
 File: Materials/Figs/SPARE_estrategia.png Graphic file (type png)
 
 <use Materials/Figs/SPARE_estrategia.png> [24] [25 <./Materials/Figs/SPARE_estr
 ategia.png>]
-<Materials/Figs/treePhytozome.png, id=1224, 551.05875pt x 529.37775pt>
+<Materials/Figs/treePhytozome.png, id=1239, 551.05875pt x 529.37775pt>
 File: Materials/Figs/treePhytozome.png Graphic file (type png)
 
 <use Materials/Figs/treePhytozome.png>
@@ -1513,32 +1513,32 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 164.
  [28] [29] [30] [31] [32] [33] [34]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 351.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 350.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 351.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 350.
 
-Overfull \hbox (13.41748pt too wide) in paragraph at lines 373--383
+Overfull \hbox (13.41748pt too wide) in paragraph at lines 372--382
  [][] 
  []
 
 [35]
-<Materials/Figs/identificacion_producto.png, id=1305, 222.01344pt x 320.30064pt
+<Materials/Figs/identificacion_producto.png, id=1320, 222.01344pt x 320.30064pt
 >
 File: Materials/Figs/identificacion_producto.png Graphic file (type png)
  <use Materials/Figs/identificacion_producto.png> [36 <./Materials/Figs/identif
 icacion_producto.png>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 422.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 421.
 
-<Materials/Figs/SPARE_construccion.png, id=1314, 1024.3068pt x 766.5438pt>
+<Materials/Figs/SPARE_construccion.png, id=1329, 1024.3068pt x 766.5438pt>
 File: Materials/Figs/SPARE_construccion.png Graphic file (type png)
 
 <use Materials/Figs/SPARE_construccion.png>
-<Materials/Figs/PARE_tecnica.png, id=1317, 741.972pt x 1127.8938pt>
+<Materials/Figs/PARE_tecnica.png, id=1332, 741.972pt x 1127.8938pt>
 File: Materials/Figs/PARE_tecnica.png Graphic file (type png)
 
 <use Materials/Figs/PARE_tecnica.png>
-<Materials/Figs/sRNA_tecnica.png, id=1319, 929.3922pt x 874.9488pt>
+<Materials/Figs/sRNA_tecnica.png, id=1334, 929.3922pt x 874.9488pt>
 File: Materials/Figs/sRNA_tecnica.png Graphic file (type png)
 
 <use Materials/Figs/sRNA_tecnica.png>) [37] [38 <./Materials/Figs/SPARE_constru
@@ -1551,57 +1551,57 @@ _tecnica.png>]
 
 
 ]
-<Chapter1/Figs/variabilidad_maduro.png, id=1360, 450.483pt x 512.1534pt>
+<Chapter1/Figs/variabilidad_maduro.png, id=1376, 450.483pt x 512.1534pt>
 File: Chapter1/Figs/variabilidad_maduro.png Graphic file (type png)
 
 <use Chapter1/Figs/variabilidad_maduro.png> [42] [43 <./Chapter1/Figs/variabili
 dad_maduro.png>] [44] [45] [46]
-<Chapter1/Figs/NAR_fig1.png, id=1402, 361.35pt x 543.4704pt>
+<Chapter1/Figs/NAR_fig1.png, id=1419, 361.35pt x 543.4704pt>
 File: Chapter1/Figs/NAR_fig1.png Graphic file (type png)
 
 <use Chapter1/Figs/NAR_fig1.png> [47] [48 <./Chapter1/Figs/NAR_fig1.png>]
-[49] <Chapter1/Figs/NAR_fig2.png, id=1437, 432.1746pt x 579.1236pt>
+[49] <Chapter1/Figs/NAR_fig2.png, id=1454, 432.1746pt x 579.1236pt>
 File: Chapter1/Figs/NAR_fig2.png Graphic file (type png)
 
 <use Chapter1/Figs/NAR_fig2.png>
-<Chapter1/Figs/NAR_fig3.png, id=1438, 292.9344pt x 494.8086pt>
+<Chapter1/Figs/NAR_fig3.png, id=1455, 292.9344pt x 494.8086pt>
 File: Chapter1/Figs/NAR_fig3.png Graphic file (type png)
 
 <use Chapter1/Figs/NAR_fig3.png> [50] [51 <./Chapter1/Figs/NAR_fig2.png>]
 [52 <./Chapter1/Figs/NAR_fig3.png>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 275.
+               Default added (so using `tbp') on input line 271.
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 281.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 277.
 [53]
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 319.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 315.
  [54
 
 
-] <Chapter1/Figs/NAR_fig4.png, id=1486, 420.6114pt x 707.5233pt>
+] <Chapter1/Figs/NAR_fig4.png, id=1503, 420.6114pt x 707.5233pt>
 File: Chapter1/Figs/NAR_fig4.png Graphic file (type png)
 
 <use Chapter1/Figs/NAR_fig4.png>
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 377.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 373.
  [55]
-<Chapter1/Figs/NAR_fig5.png, id=1505, 450.9648pt x 393.6306pt>
+<Chapter1/Figs/NAR_fig5.png, id=1522, 450.9648pt x 393.6306pt>
 File: Chapter1/Figs/NAR_fig5.png Graphic file (type png)
 
 <use Chapter1/Figs/NAR_fig5.png> [56] [57 <./Chapter1/Figs/NAR_fig4.png>]
 [58 <./Chapter1/Figs/NAR_fig5.png>]
-<Chapter1/Figs/NAR_fig6.png, id=1527, 453.3738pt x 590.6868pt>
+<Chapter1/Figs/NAR_fig6.png, id=1544, 453.3738pt x 590.6868pt>
 File: Chapter1/Figs/NAR_fig6.png Graphic file (type png)
 
 <use Chapter1/Figs/NAR_fig6.png> [59] [60 <./Chapter1/Figs/NAR_fig6.png>]
-<Chapter1/Figs/comTAR_find_targets.png, id=1541, 1146.2825pt x 767.86874pt>
+<Chapter1/Figs/comTAR_find_targets.png, id=1558, 1146.2825pt x 767.86874pt>
 File: Chapter1/Figs/comTAR_find_targets.png Graphic file (type png)
 
 <use Chapter1/Figs/comTAR_find_targets.png>
-<Chapter1/Figs/comTAR_fig2.png, id=1542, 1619.04875pt x 914.41624pt>
+<Chapter1/Figs/comTAR_fig2.png, id=1559, 1619.04875pt x 914.41624pt>
 File: Chapter1/Figs/comTAR_fig2.png Graphic file (type png)
 
 <use Chapter1/Figs/comTAR_fig2.png> [61] [62 <./Chapter1/Figs/comTAR_find_targe
@@ -1610,7 +1610,7 @@ ts.png (PNG copy)> <./Chapter1/Figs/comTAR_fig2.png (PNG copy)>] [63]) [64]
 
 
 (./Chapter2/chapter2.tex
-<Chapter2/Figs/hairpin_distribution.png, id=1607, 332.9238pt x 358.4592pt>
+<Chapter2/Figs/hairpin_distribution.png, id=1624, 332.9238pt x 358.4592pt>
 File: Chapter2/Figs/hairpin_distribution.png Graphic file (type png)
 
 <use Chapter2/Figs/hairpin_distribution.png> [65
@@ -1618,20 +1618,20 @@ File: Chapter2/Figs/hairpin_distribution.png Graphic file (type png)
 
 
 ]
-<Chapter2/Figs/GR_fig1C.png, id=1623, 103.587pt x 178.266pt>
+<Chapter2/Figs/GR_fig1C.png, id=1640, 103.587pt x 178.266pt>
 File: Chapter2/Figs/GR_fig1C.png Graphic file (type png)
 
 <use Chapter2/Figs/GR_fig1C.png> [66 <./Chapter2/Figs/hairpin_distribution.png>
-] <Chapter2/Figs/SPARE_tecnica.png, id=1630, 1168.8468pt x 480.8364pt>
+] <Chapter2/Figs/SPARE_tecnica.png, id=1647, 1168.8468pt x 480.8364pt>
 File: Chapter2/Figs/SPARE_tecnica.png Graphic file (type png)
 
 <use Chapter2/Figs/SPARE_tecnica.png>
-<Chapter2/Figs/GR_fig2A.png, id=1633, 434.5836pt x 218.7372pt>
+<Chapter2/Figs/GR_fig2A.png, id=1650, 434.5836pt x 218.7372pt>
 File: Chapter2/Figs/GR_fig2A.png Graphic file (type png)
 
 <use Chapter2/Figs/GR_fig2A.png> [67 <./Chapter2/Figs/GR_fig1C.png>] [68 <./Cha
 pter2/Figs/SPARE_tecnica.png> <./Chapter2/Figs/GR_fig2A.png>]
-<Chapter2/Figs/GR_fig4A.png, id=1647, 408.5664pt x 242.8272pt>
+<Chapter2/Figs/GR_fig4A.png, id=1664, 408.5664pt x 242.8272pt>
 File: Chapter2/Figs/GR_fig4A.png Graphic file (type png)
 
 <use Chapter2/Figs/GR_fig4A.png> [69 <./Chapter2/Figs/GR_fig4A.png>]
@@ -1645,7 +1645,7 @@ Overfull \hbox (24.51491pt too wide) in paragraph at lines 144--157
  []
 
 [70] [71]
-<Chapter2/Figs/miR165a_SPARE.png, id=1670, 780.80653pt x 411.83005pt>
+<Chapter2/Figs/miR165a_SPARE.png, id=1687, 780.80653pt x 411.83005pt>
 File: Chapter2/Figs/miR165a_SPARE.png Graphic file (type png)
 
 <use Chapter2/Figs/miR165a_SPARE.png> [72
@@ -1653,23 +1653,23 @@ File: Chapter2/Figs/miR165a_SPARE.png Graphic file (type png)
  <./Chapter2/Figs/miR165a_SPARE.png>]
 [73
 
-] <Chapter2/Figs/miR159b_SPARE.png, id=1684, 780.80653pt x 365.708pt>
+] <Chapter2/Figs/miR159b_SPARE.png, id=1701, 780.80653pt x 365.708pt>
 File: Chapter2/Figs/miR159b_SPARE.png Graphic file (type png)
 
 <use Chapter2/Figs/miR159b_SPARE.png> [74
 
  <./Chapter2/Figs/miR159b_SPARE.png>]
-<Chapter2/Figs/GR_fig2C.png, id=1700, 433.62pt x 105.0324pt>
+<Chapter2/Figs/GR_fig2C.png, id=1717, 433.62pt x 105.0324pt>
 File: Chapter2/Figs/GR_fig2C.png Graphic file (type png)
 
 <use Chapter2/Figs/GR_fig2C.png>
-<Chapter2/Figs/GR_fig4C.png, id=1705, 431.211pt x 109.3686pt>
+<Chapter2/Figs/GR_fig4C.png, id=1722, 431.211pt x 109.3686pt>
 File: Chapter2/Figs/GR_fig4C.png Graphic file (type png)
 
 <use Chapter2/Figs/GR_fig4C.png> [75
 
 ] [76 <./Chapter2/Figs/GR_fig2C.png> <./Chapter2/Figs/GR_fig4C.png>]
-<Chapter2/Figs/mecanismos.png, id=1717, 608.5134pt x 309.89375pt>
+<Chapter2/Figs/mecanismos.png, id=1734, 608.5134pt x 309.89375pt>
 File: Chapter2/Figs/mecanismos.png Graphic file (type png)
 
 <use Chapter2/Figs/mecanismos.png> [77 <./Chapter2/Figs/mecanismos.png>])
@@ -1681,7 +1681,7 @@ File: Chapter2/Figs/mecanismos.png Graphic file (type png)
 
 
 ] [80] [81] [82]
-<Chapter3/Figs/miR172a_rnafold.png, id=1772, 814.84425pt x 582.4962pt>
+<Chapter3/Figs/miR172a_rnafold.png, id=1789, 814.84425pt x 582.4962pt>
 File: Chapter3/Figs/miR172a_rnafold.png Graphic file (type png)
 
 <use Chapter3/Figs/miR172a_rnafold.png>
@@ -1689,7 +1689,7 @@ File: Chapter3/Figs/miR172a_rnafold.png Graphic file (type png)
 LaTeX Warning: Float too large for page by 46.361pt on input line 111.
 
 [83 <./Chapter3/Figs/miR172a_rnafold.png>]
-<Chapter3/Figs/miR172a_tcoffee.png, id=1778, 732.8178pt x 419.166pt>
+<Chapter3/Figs/miR172a_tcoffee.png, id=1795, 732.8178pt x 419.166pt>
 File: Chapter3/Figs/miR172a_tcoffee.png Graphic file (type png)
 
 <use Chapter3/Figs/miR172a_tcoffee.png> [84
@@ -1697,18 +1697,18 @@ File: Chapter3/Figs/miR172a_tcoffee.png Graphic file (type png)
 
 
  <./Chapter3/Figs/miR172a_tcoffee.png>] <Chapter3/Figs/miR172a_circos.png, id=1
-786, 2156.5368pt x 2000.4336pt>
+803, 2156.5368pt x 2000.4336pt>
 File: Chapter3/Figs/miR172a_circos.png Graphic file (type png)
 
 <use Chapter3/Figs/miR172a_circos.png> [85
 
 ] [86 <./Chapter3/Figs/miR172a_circos.png>] <Chapter3/Figs/miR390a_circos.png, 
-id=1802, 2170.9908pt x 2045.241pt>
+id=1819, 2170.9908pt x 2045.241pt>
 File: Chapter3/Figs/miR390a_circos.png Graphic file (type png)
 
 <use Chapter3/Figs/miR390a_circos.png> [87] [88 <./Chapter3/Figs/miR390a_circos
 .png>] [89]
-<Chapter3/Figs/seqBTL_circos.png, id=1820, 4598.781pt x 3382.236pt>
+<Chapter3/Figs/seqBTL_circos.png, id=1837, 4598.781pt x 3382.236pt>
 File: Chapter3/Figs/seqBTL_circos.png Graphic file (type png)
 
 <use Chapter3/Figs/seqBTL_circos.png>
@@ -1719,13 +1719,13 @@ LaTeX Warning: Float too large for page by 62.77577pt on input line 218.
 
 
 ]
-<Chapter3/Figs/srLTB_circos.png, id=1842, 4422.924pt x 2033.196pt>
+<Chapter3/Figs/srLTB_circos.png, id=1859, 4422.924pt x 2033.196pt>
 File: Chapter3/Figs/srLTB_circos.png Graphic file (type png)
 
 <use Chapter3/Figs/srLTB_circos.png> [92
 
  <./Chapter3/Figs/srLTB_circos.png>]
-<Chapter3/Figs/seqLTB_circos.png, id=1848, 4709.595pt x 3269.013pt>
+<Chapter3/Figs/seqLTB_circos.png, id=1865, 4709.595pt x 3269.013pt>
 File: Chapter3/Figs/seqLTB_circos.png Graphic file (type png)
 
 <use Chapter3/Figs/seqLTB_circos.png>
@@ -1737,15 +1737,15 @@ LaTeX Warning: Float too large for page by 45.62526pt on input line 277.
 
 
 ]
-<Chapter3/Figs/miR160a_meme.png, id=1864, 707.66785pt x 554.74452pt>
+<Chapter3/Figs/miR160a_meme.png, id=1881, 707.66785pt x 554.74452pt>
 File: Chapter3/Figs/miR160a_meme.png Graphic file (type png)
 
 <use Chapter3/Figs/miR160a_meme.png>
 
-LaTeX Warning: Float too large for page by 66.36662pt on input line 316.
+LaTeX Warning: Float too large for page by 66.36662pt on input line 312.
 
 [95 <./Chapter3/Figs/miR160a_meme.png>]
-<Chapter3/Figs/miR172_meme.png, id=1870, 1131.2664pt x 633.567pt>
+<Chapter3/Figs/miR172_meme.png, id=1887, 1131.2664pt x 633.567pt>
 File: Chapter3/Figs/miR172_meme.png Graphic file (type png)
 
 <use Chapter3/Figs/miR172_meme.png> [96
@@ -1753,54 +1753,54 @@ File: Chapter3/Figs/miR172_meme.png Graphic file (type png)
 
 
  <./Chapter3/Figs/miR172_meme.png>]
-Overfull \hbox (26.66151pt too wide) in paragraph at lines 335--335
+Overfull \hbox (30.2615pt too wide) in paragraph at lines 331--331
  |[]\T1/ptm/b/n/14.4 Procesamiento mix-to de miem-bros de la fa-mi-lia del miR1
-70/miR171| 
+70/miR171.| 
  []
 
 [97
 
 ]
-<Chapter3/Figs/familia_miR171_circos.png, id=1887, 4483.149pt x 2086.194pt>
+<Chapter3/Figs/familia_miR171_circos.png, id=1904, 4483.149pt x 2086.194pt>
 File: Chapter3/Figs/familia_miR171_circos.png Graphic file (type png)
 
 <use Chapter3/Figs/familia_miR171_circos.png> [98
 
  <./Chapter3/Figs/familia_miR171_circos.png>]
-<Chapter3/Figs/miR164_ss_bp.png, id=1895, 1906.4826pt x 1170.774pt>
+<Chapter3/Figs/miR164_ss_bp.png, id=1912, 1906.4826pt x 1170.774pt>
 File: Chapter3/Figs/miR164_ss_bp.png Graphic file (type png)
 
 <use Chapter3/Figs/miR164_ss_bp.png> [99
 
  <./Chapter3/Figs/miR164_ss_bp.png>]
-<Chapter3/Figs/miR164a_circos.png, id=1905, 3574.956pt x 2112.693pt>
+<Chapter3/Figs/miR164a_circos.png, id=1922, 3574.956pt x 2112.693pt>
 File: Chapter3/Figs/miR164a_circos.png Graphic file (type png)
 
 <use Chapter3/Figs/miR164a_circos.png> [100 <./Chapter3/Figs/miR164a_circos.png
 >]
-<Chapter3/Figs/miR394b_circos_aliniamientos.png, id=1915, 3779.721pt x 2083.785
+<Chapter3/Figs/miR394b_circos_aliniamientos.png, id=1932, 3779.721pt x 2083.785
 pt>
 File: Chapter3/Figs/miR394b_circos_aliniamientos.png Graphic file (type png)
  <use Chapter3/Figs/miR394b_circos_aliniamientos.png> [101] [102 <./Chapter3/Fi
 gs/miR394b_circos_aliniamientos.png>]
-<Chapter3/Figs/circos_monocots_miR396e.png, id=1938, 2286.6228pt x 2013.4422pt>
+<Chapter3/Figs/circos_monocots_miR396e.png, id=1955, 2286.6228pt x 2013.4422pt>
 File: Chapter3/Figs/circos_monocots_miR396e.png Graphic file (type png)
 <use Chapter3/Figs/circos_monocots_miR396e.png>
-Overfull \hbox (5.6227pt too wide) in paragraph at lines 481--481
+Overfull \hbox (5.6227pt too wide) in paragraph at lines 477--477
  |[]\T1/ptm/b/n/14.4 Estrategia bio-in-for-má-ti-ca pa-ra es-tu-diar pre-cur-so
 -res de miARNs
  []
 
 [103 <./Chapter3/Figs/circos_monocots_miR396e.png>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 504.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 500.
 
-<Chapter3/Figs/hsa-let-7a-1_circos.png, id=1952, 2162.3184pt x 2085.7122pt>
+<Chapter3/Figs/hsa-let-7a-1_circos.png, id=1969, 2162.3184pt x 2085.7122pt>
 File: Chapter3/Figs/hsa-let-7a-1_circos.png Graphic file (type png)
 
 <use Chapter3/Figs/hsa-let-7a-1_circos.png> [104] [105 <./Chapter3/Figs/hsa-let
 -7a-1_circos.png>] [106]
-<Chapter3/Figs/animals_vs_plants_circos.png, id=1969, 6593.433pt x 2233.143pt>
+<Chapter3/Figs/animals_vs_plants_circos.png, id=1986, 6593.433pt x 2233.143pt>
 File: Chapter3/Figs/animals_vs_plants_circos.png Graphic file (type png)
 
 <use Chapter3/Figs/animals_vs_plants_circos.png> [107
@@ -1815,33 +1815,33 @@ File: Chapter3/Figs/animals_vs_plants_circos.png Graphic file (type png)
 
 
 ]
-<Chapter4/Figs/distribucion_lecturas_totales.png, id=1986, 976.1268pt x 230.782
+<Chapter4/Figs/distribucion_lecturas_totales.png, id=2003, 976.1268pt x 230.782
 2pt>
 File: Chapter4/Figs/distribucion_lecturas_totales.png Graphic file (type png)
  <use Chapter4/Figs/distribucion_lecturas_totales.png> [110 <./Chapter4/Figs/di
 stribucion_lecturas_totales.png>]
-<Chapter4/Figs/cantidad_lecturas.png, id=1994, 560.8152pt x 217.2918pt>
+<Chapter4/Figs/cantidad_lecturas.png, id=2011, 560.8152pt x 217.2918pt>
 File: Chapter4/Figs/cantidad_lecturas.png Graphic file (type png)
 
 <use Chapter4/Figs/cantidad_lecturas.png>
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 95.
 
-<Chapter4/Figs/distribucion_sRNA.png, id=1998, 442.2924pt x 240.9pt>
+<Chapter4/Figs/distribucion_sRNA.png, id=2015, 442.2924pt x 240.9pt>
 File: Chapter4/Figs/distribucion_sRNA.png Graphic file (type png)
 
 <use Chapter4/Figs/distribucion_sRNA.png> [111 <./Chapter4/Figs/cantidad_lectur
 as.png>]
-<Chapter4/Figs/venn_sRNA_abundantes.png, id=2005, 283.7802pt x 289.5618pt>
+<Chapter4/Figs/venn_sRNA_abundantes.png, id=2022, 283.7802pt x 289.5618pt>
 File: Chapter4/Figs/venn_sRNA_abundantes.png Graphic file (type png)
 
 <use Chapter4/Figs/venn_sRNA_abundantes.png> [112 <./Chapter4/Figs/distribucion
 _sRNA.png>]
-<Chapter4/Figs/sRNA_strategy.png, id=2015, 278.4804pt x 393.6306pt>
+<Chapter4/Figs/sRNA_strategy.png, id=2032, 278.4804pt x 393.6306pt>
 File: Chapter4/Figs/sRNA_strategy.png Graphic file (type png)
 
 <use Chapter4/Figs/sRNA_strategy.png> [113 <./Chapter4/Figs/venn_sRNA_abundante
-s.png>] <Chapter4/Figs/sRNA_results.png, id=2023, 531.9072pt x 381.1038pt>
+s.png>] <Chapter4/Figs/sRNA_results.png, id=2040, 531.9072pt x 381.1038pt>
 File: Chapter4/Figs/sRNA_results.png Graphic file (type png)
 
 <use Chapter4/Figs/sRNA_results.png>) [114 <./Chapter4/Figs/sRNA_strategy.png> 
@@ -1858,13 +1858,13 @@ Overfull \hbox (19.34503pt too wide) in paragraph at lines 12--12
 
 
 
-]) [117] (./thesis.bbl [118
+] [117]) [118] [119] (./thesis.bbl [120
 
 
-] [119] [120] [121] [122] [123] [124] [125]
-[126] [127] [128])
+] [121] [122] [123] [124] [125]
+[126] [127] [128] [129] [130])
 No file thesis.ind.
-[129]
+[131]
 \openout2 = `Appendix/appendix.aux'.
 
  (./Appendix/appendix.tex
@@ -1876,20 +1876,20 @@ Overfull \hbox (5.34338pt too wide) in paragraph at lines 20--21
 ][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[130
+[132
 
 
-]) (./scripts/histogram.conf) (./scripts/links.conf [131]) [132] [133]
+]) (./scripts/histogram.conf) (./scripts/links.conf [133]) [134] [135]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 125.
 
-[134]
+[136]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 197.
 
-[135]) (./thesis.aux (./Declaration/declaration.aux)
+[137]) (./thesis.aux (./Declaration/declaration.aux)
 (./Divulgacion/divulgacion.aux) (./Acknowledgement/acknowledgement.aux)
 (./Abreviaturas/abreviaturas.aux) (./Abstract/abstract.aux)
 (./Introduccion/introduccion.aux) (./Objetivos/objetivos.aux)
@@ -1901,13 +1901,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 19418 strings out of 493848
- 285890 string characters out of 1152824
- 497915 words of memory out of 3000000
- 21021 multiletter control sequences out of 15000+50000
- 145955 words of font info for 440 fonts, out of 3000000 for 9000
+ 19435 strings out of 493848
+ 286108 string characters out of 1152824
+ 497964 words of memory out of 3000000
+ 21032 multiletter control sequences out of 15000+50000
+ 146050 words of font info for 440 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 51i,16n,101p,928b,1846s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,16n,101p,933b,1846s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texli
 ve/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/ty
 pe1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/a
@@ -1916,9 +1916,9 @@ msfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/urw/symbol/usyr.pfb
 xlive/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/ur
 w/times/utmbi8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb>
 </usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (153 pages, 14662646 bytes).
+Output written on thesis.pdf (155 pages, 14675651 bytes).
 PDF statistics:
- 2454 PDF objects out of 2487 (max. 8388607)
- 671 named destinations out of 1000 (max. 500000)
- 73804 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 2485 PDF objects out of 2487 (max. 8388607)
+ 677 named destinations out of 1000 (max. 500000)
+ 73828 words of extra memory for PDF output out of 74296 (max. 10000000)
 

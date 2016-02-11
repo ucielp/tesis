@@ -1,19 +1,16 @@
 \graphicspath{{Chapter1/Figs/}}
 
 \setcounter{chapter}{4}
-\chapter*{Capítulo 1} 
+\chapter*{Capítulo 1.} 
 \addcontentsline{toc}{chapter}{Capítulo 1}
 \setcounter{table}{0}
 \setcounter{figure}{0}
 \setcounter{section}{0}
 
 
-{\LARGE Aplicaciones bioinformáticas para el estudio de interacciones miARN-gen blanco}
+{\LARGE Aplicaciones bioinformáticas para el estudio de interacciones miARN-gen blanco.}
 
-\section{Introducción}
-%~ Los miARNs son ARN pequeños de alrededor de 21 nucleótidos, son importantes reguladores de la expresión de genes en eucariotas y controlan procesos claves como el desarrollo y la respuesta a estrés.
-%~ Los miARNs controlan la expresión génica ajustando los niveles finales de las proteínas o eliminando los transcriptos de ARN en la célula.
-%~ La identidad de los genes blancos está especificada por la molécula de miARN, la cual reconoce una secuencia por complementariedad de bases. 
+\section{Introducción.}
 
 En plantas, los miARNs generalmente regulan más de un gen de una misma familia \citep{Jones-Rhoades2006}, así por ejemplo, miR319 regula a cinco factores de transcripción de la familia TCP, mientras que el miR172 hace lo mismo con seis factores de transcripción con dominio AP2.
 A su vez, los miARNs conservados en plantas se encuentran generalmente codificados como pequeñas familias de genes que codifican ARN pequeños de secuencias similares o idénticas (Figura \ref{fig:variabilidad_maduro}).
@@ -35,7 +32,7 @@ Uno de los mayores desafíos es predecir los genes regulados por estos ARN peque
 A partir de interacciones miARN-ARNm blanco validadas experimentalmente, se han determinado algunos parámetros empíricos para la identificación de genes blanco.
 Por un lado, el hecho de que determinados genes con un número de ``mismatches'' fuesen blancos de regulación por miARNs mientras que otros con igual número no, sugería que debían existir otros factores que afectaran la interacción de los miARN con los ARNm blanco.
 A partir de aquí es que algunas estrategias tienen en cuenta la posición relativa de los mismatches \citep{Schwab2005517}.
-Es por esto que se han utilizado otros enfoques para abordar este problema, por ejemplo el requerimiento de que el sitio complementario al miARN en los ARNm estuviera conservados entre genes homólogos de Arabidopsis y arroz.
+Es por esto que se han utilizado otros enfoques para abordar este problema, por ejemplo el requerimiento de que el sitio complementario al miARN en los ARNm estuviera conservados entre genes homólogos de Arabidopsis y arroz \citep{15345049}.
 
 Más recientemente se desarrolló una tecnología, en este caso experimental, conocida como ``degradoma'', que permite obtener el perfil global de los productos de degradación de los ARN mensajeros \citep{German2008,pmid18472421}.
 Este enfoque permitió detectar in vivo y a nivel genómico la actividad de los miARNs al identificarse los productos de corte de los ARNm mediado por estos ARNs pequeños.
@@ -56,10 +53,9 @@ En esta parte de la Tesis se profundizó esta cuestión y se desarrolló un mét
 \end{figure}
 
 
-\section{Resultados y Discusión}
+\section{Resultados y Discusión.}
 
-%~ \subsection{Diseño de una estrategia para la identificación de genes blanco regulados por miARNs basado en la conservación evolutiva del par miARN-gen blanco.}
-\subsection{Selección de secuencias de miARNs presentes en distintas especies}
+\subsection{Selección de secuencias de miARNs presentes en distintas especies.}
 
 Enfocamos nuestro análisis en 22 miARNs que están conservados en Angiospermas \citep{citeulike:8816489,10.1371/journal.pgen.1002419} (Tabla \ref{table:table_consensus}).
 En general estos miARNs están codificados por pequeñas familias de hasta 32 miembros.
@@ -110,7 +106,7 @@ miR827 & TAGATGACCATCAGCAAA & SPX proteins&  &  \\ \hline
 \end{table}
 
 
-\subsection{Selección de las biblioteca de transcriptos de plantas}
+\subsection{Selección de las biblioteca de transcriptos de plantas.}
 
 Para estudiar la regulación por miARNs de genes en distintas especies vegetales, decidimos recurrir a la información disponible públicamente en el ``Gene Index Project''\footnote{http://compbio.dfci.harvard.edu/tgi/}.
 Este proyecto tiene los ``contigs'' de ESTs, de múltiples especies.
@@ -121,7 +117,7 @@ Estas bibliotecas cuentan por lo tanto con transcriptos cuya expresión esta val
 De este catalogo de elegimos 41 especies de angiospermas (plantas con semillas) para hacer la búsqueda.
 Además, utilizamos ARNm completos para las especies de \textit{A. thaliana} y \textit{Oryza Sativa}  que se encuentan caracterizados en detalle (para ver la lista completa de especies, ver Tabla \ref{table:NAR_table_S2}).
 
-\subsection{Primera búsqueda general de potenciales genes blanco}
+\subsection{Primera búsqueda general de potenciales genes blanco.}
 Utilizando las secuencias consenso de 18nt y permitiendo 3 ``mismatches'' (Tabla \ref{table:table_consensus}), la búsqueda de genes blanco en las 43 especies seleccionadas (Tabla \ref{table:NAR_table_S2}) arrojó como resultado 38.597 genes (Figura \ref{fig:NAR_fig1}, bin 1).
 En esta búsquedas las interacciones G-U y los ``bulges'' fueron considerados como ``mismatches'' en esta primera búsqueda.
 Todos los genes blanco de  \textit{A. thaliana} conocidos hasta ese momento fueron identificados usando esta estrategia con la excepción de CSD2, un gen blanco del miR398 que contiene 4 mismatches (tabla \ref{table:NAR_table_S2}).
@@ -459,7 +455,7 @@ ComTAR permite distintas opciones/parámetros de búsqueda que pueden ser modifi
 Además, con la herramienta comTAR se pueden realizar diferentes búsquedas, pudiendo elegir entre distintas opciones que más se ajustan a la necesidad del usuario.
 Estas opciones de búsqueda incluyen:
 
-\subsubsection{Realizar la búsqueda de potenciales genes blanco a partir de un miARN}
+\subsubsection{Realizar la búsqueda de potenciales genes blanco a partir de un miARN.}
 Esta es la búsqueda por defecto.
 El usuario puede realizar la búsqueda de genes blanco de miARNs conservados.
 En la primer pantalla se muestra los potenciales genes blanco para un miARN dado (Figura \ref{fig:comTAR_find_targets}), con una breve descripción del gen, la familia a la que pertenece y además en cuantas y cuáles especies está presente.
@@ -482,21 +478,21 @@ También, para cada especie detectada, se tiene acceso por pantalla al alineamie
     \label{fig:comTAR_fig2}
 \end{figure}
 
-\subsubsection{Realizar la búsqueda de familias de potenciales genes blanco de un miARN}
+\subsubsection{Realizar la búsqueda de familias de potenciales genes blanco de un miARN.}
 Debido a que los miARNs en plantas en general regulan genes que codifican a proteínas de una misma familia, la herramienta tiene otra funcionalidad donde permite la búsqueda de genes agrupados por familias en vez de agruparlos por TAG.
 De este modo genes en distintas especies con diferentes etiquetas, pero que pertenecen a la misma familia pueden ser detectados como familias de potenciales genes blanco de miARNs conservados.
 
-\subsubsection{Realizar la búsqueda de un gen de interés para ver si es potencial gen blanco de algún miARN conservado}
+\subsubsection{Realizar la búsqueda de un gen de interés para ver si es potencial gen blanco de algún miARN conservado.}
 
 El usuario puede introducir una etiqueta de locus en particular (tanto de Arabidopsis como el ``gene ID'' del Phytozome) y se identifica si este gen en particular puede ser un potencial gen blanco de algún miARN y además se muestra en cuantas especies se detecta.
-En Arabidopsis se utiliza el LocusID como identificador, mientrás que en Phytozome este identificador varía según la especie y se puede ver la precedencia de cada especie en el sitio de Phytozome.
+En Arabidopsis se utiliza el LocusID como identificador, mientras que en Phytozome este identificador varía según la especie y se puede ver la precedencia de cada especie en el sitio de Phytozome.
 
-\subsubsection{Realizar la búsqueda de un miARN nuevo}
+\subsubsection{Realizar la búsqueda de un miARN nuevo.}
 En esta parte del programa el usuario puede realizar la búsqueda de nuevos ARNs pequeños teniendo en cuenta que la secuencia introducida tiene que ser de 18nt de largo (posiciones 2-19).
 Luego de la búsqueda, se da un link al usuario y después de unas horas, cuando haya sido procesado el cálculo, el usuario puede entrar a ese link y navegar los resultados por pantalla.
 
 
-\section{Conclusiones}
+\section{Conclusiones.}
 
 En este primer capítulo diseñamos una estrategia para identificar genes blanco regulados por miARNs en plantas, basado en la conservación evolutiva del par miARN-gen blanco.
 El enfoque requiere que la interacción miARN-gen blanco, pueda ocurrir en el contexto de un conjunto mínimo de parámetros que interactúan en diferentes especies pero la secuencia del gen blanco en sí, no necesariamente tiene que estar conservada.
