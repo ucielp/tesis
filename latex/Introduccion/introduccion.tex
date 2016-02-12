@@ -111,7 +111,7 @@ Por último, existen casos en donde, el procesamiento de ciertos precursores pue
 
 \begin{figure}[htbp!] 
     \centering    
-    \includegraphics[width=.9\textwidth]{procesamiento_animales.png}
+    \includegraphics[width=.7\textwidth]{procesamiento_animales.png}
     \caption[Biogénesis de miARNs en animales]{
     \textbf{Mecanismo de procesamiento de miARNs en animales.}
 
@@ -136,7 +136,7 @@ Al parecer es la estructura secundaria por sobre la secuencia primaria del precu
 El producto generado a partir de los cortes llevados a cabo por DCL1, es un dúplex miARN-miARN* que luego continúa siendo procesado por otros componentes enzimáticos hasta dar lugar al miARN maduro de 21 nt.
 El miARN* es originado por el mismo precursor y es casi complementario al miARN.
 
-El paso final de la biogénesis de los miARN es la incorporación asimétrica, a partir del dúplex miARN-miARN*, del miARN maduro dentro de un complejo de silenciamiento.
+El paso final de la biogénesis de los miARN es la incorporación asimétrica, a partir del dúplex miARN-miARN*, del miARN maduro dentro de un complejo de silenciamiento, mientras que el miARN* en su mayoría se degrada.
 Este complejo se denomina RISC (del inglés RNAi Silencing Complex).
 El componente central de todos los complejos de silenciamiento es un miembro de la familia de proteínas ARGONAUTA (AGO).
 En Arabidopsis existen distintas proteínas AGO que participan en diferentes procesos biológicos \citep{Cellulaire2008} y la incorporación de los ARN pequeños en los distintos complejos depende de la identidad del nucleótido del extremo 5' y de la vía de biogénesis \citep{pmid18342361,Montgomery2008,Takeda2008} (Figura \ref{fig:biogenesis_accion}). 
@@ -193,8 +193,9 @@ Luego del primer corte llevado a cabo por DROSHA, el pre-miARN liberado está co
 
 Muchos precursores en plantas tienen un tallo de $\sim$15 nt debajo del dúplex miARN/miARN* seguido por un loop interno, que sirve como una señal estructural de reconocimiento por la maquinaria de procesamiento \citep{pmid17369351,pmid16751099,Mateos2010,pmid20015654} (Figura \ref{fig:ss_precursores}).
 Sin embargo, este determinante de procesamiento no se encuentra en todos los precursores \citep{Mateos2010}.
-Además, la biogénesis de los miARNs conservados evolutivamente como ser el miR319 y miR159 comienzan con un corte al lado del loop interno y continúa con 3 cortes adicionales en una dirección de burbuja a base hasta que finalmente el miARN es liberado \citep{Bologna2013,pmid19850910} (Figura \ref{fig:ss_precursores}).
-Se ha demostrado que otros precursores de plantas liberan otros ARNs pequeños además del miARN \citep{pmid15314213,pmid20696037}, aunque los mecanismos de procesamiento subyacentes eran desconocidos.
+Además, la biogénesis de los miARNs conservados evolutivamente como ser el miR319 y miR159 comienzan con un corte al lado del loop terminal y continúa con 3 cortes adicionales en una dirección de burbuja a base hasta que finalmente el miARN es liberado \citep{Bologna2013,pmid19850910} (Figura \ref{fig:ss_precursores}).
+Se ha demostrado que otros precursores de plantas liberan otros ARNs pequeños además del miARN \citep{pmid15314213,pmid20696037}, aunque no se conoce función biológica para estos otros miARNs.
+En principio, podrían ser una consecuencia secundaria del mecanismo de biogénesis del miR319.
 
 \begin{figure}[htbp!] 
 	\centering    
@@ -269,7 +270,7 @@ Los miARNs reconocen secuencias complementarias en ARNm blancos provocando su co
 Originalmente, se creía que los miARNs de plantas tenían complementariedad casi perfecta con los genes blanco regulados por ellos \citep{pmid19167326,pmid12869753,pmid12242443}.
 Sin embargo, en artículos más recientes se ha demostrado que existen genes blanco regulados por miARNs de distintas especies, con un un mayor número de ``mismatches'' a lo que se creía previamente \citep{German2008} (Figura \ref{fig:interaccion_miRNA_target}).
 
-Nos referimos como ``mismatches'' a cualquier interacción entre pares de bases que no son interacciones G-C o A-U.
+Nos referimos como desajuste (utilizaremos el término en Inglés: ``mismatches' el resto de la Tesis) a cualquier interacción entre pares de bases que no sean interacciones G-C o A-U 
 En el apareamiento de ARN a menudo se da una interacción no canónica denominada ``wooble'' que se forma cuando interacciona el par G-U.
 Este tipo de interacción, en muchos estudios es considerado un ``mismatch'' pero también puede ser considerado como un apareamiento. 
 Otro tipo de interacción que se puede dar entre dos cadenas de ARN, son los denominados ``bulges'' que se forman cuando hay un núcleotido extra de un lado de la interacción que hace que una base en particular no interacciona con ninguna base enfrentada.
@@ -287,7 +288,7 @@ Dichos nucleótidos deben ser complementarios al ARNm blanco (Figura \ref{fig:in
 		\textbf{Interacción de miARN-ARNm blanco.}
         A la izquierda se muestra una interacción del par miARN-ARNm blanco en plantas.
         A la derecha se muestra una interacción del par miARN-ARNm blanco en animales.
-        Las líneas verticales grises representan bases apareadas, la ausencia de líneas puede ser ``mismatches'' o ``bules''.
+        Las líneas verticales grises representan bases apareadas, la ausencia de líneas representa ``mismatches''.
 	}
 	\label{fig:interaccion_miRNA_target}
 \end{figure}

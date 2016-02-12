@@ -2,11 +2,11 @@
 \documentclass[a4paper,12pt,times,numbered,print,index,spanish,oneside]{Classes/PhDThesisPSnPDF}
 %~ Aca agrego ,chapter o ,abstract para solo imprimir el abstract o algun capitulo en particular
 
-\usepackage[spanish]{babel}
+\usepackage[spanish, es-tabla]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage[table,xcdraw]{xcolor}
 \usepackage{listings}
-\renewcommand*\lstlistingname{Something}
+\renewcommand*\lstlistingname{Código fuente}
 
 \usepackage{color}
 
@@ -89,7 +89,7 @@
 
 \include{Declaration/declaration}
 \include{Divulgacion/divulgacion}
-%~ \include{Dedication/dedication}
+%~ %\include{Dedication/dedication}
 \include{Acknowledgement/acknowledgement}
 
 
@@ -177,6 +177,10 @@
 \printthesisindex % If index is present
 
 %~ \cleardoublepage
+
+%~ \setlength{\voffset}{.35in}
+\setlength{\oddsidemargin}{-1cm}
+
 
 \lhead{Anexo}
 \include{Appendix/appendix}

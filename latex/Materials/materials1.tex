@@ -22,16 +22,16 @@ Por esto, definimos como secuencia consenso, a las secuencias más comunes (posi
 \subsection{Predicción de genes regulados por miARNs.}
 
 \subsubsection{Conjunto de datos de plantas.}
-Los datos de las secuencias pertenecen a librerías extraídas de ``Gene Index Project''\footnote{http://compbio.dfci.harvard.edu/tgi/}, que consiste en una base de datos de ESTs ensamblados.
+Los datos de las secuencias pertenecen a bibliotecas extraídas de ``Gene Index Project''\footnote{http://compbio.dfci.harvard.edu/tgi/}, que consiste en una base de datos de ESTs ensamblados.
 Seleccionamos un conjunto de datos pertenecientes a Angiospermas.
-Además utilizamos secuencias de ARNm completos de \textit{A. thaliana}\footnote{http://arabidopsis.org} y \textit{Oryza Sativa}\footnote{http://rice.plantbiology.msu.edu} (ver tabla \ref{table:NAR_table_S2}).
+Además, utilizamos secuencias de ARNm completos de \textit{A. thaliana}\footnote{http://arabidopsis.org} y \textit{Oryza Sativa}\footnote{http://rice.plantbiology.msu.edu} (ver tabla \ref{table:NAR_table_S2}).
 La búsqueda la realizamos utilizando PatMatch \citep{Yan01072005}, que es un programa de búsqueda de patrones de nucleótidos cortos o péptidos.
 El programa puede ser usado para encontrar coincidencias con un patrón de secuencia específico y permite el uso de códigos de secuencias ambiguas y expresiones regulares y por esto se puede utilizar la búsqueda con ``mismatches'', inserciones y deleciones.
-Realizamos la búsqueda de potenciales genes blanco permitiendo tres ``mismatches'' con las secuencias consensos, mientras que las interacciones G:U y los bulges fueron considerados mismatches.
+Realizamos la primera búsqueda de potenciales genes blanco permitiendo tres ``mismatches'' con las secuencias consensos, mientras que las interacciones G:U y los bulges fueron considerados ``mismatches''.
 Para realizar el alineamiento del par miARN-gen blanco, desarrollamos una versión modificada del algoritmo de programación dinámica Needleman-Wunsch \citep{Needleman1970443}, utilizando el lenguaje Perl\footnote{http://perl.org}.
 Además, desarrollamos scripts para integrar los módulos de Blastx \citep{Altschup1990} utilizando el proteoma de Arabidopsis y el módulo RNAhybrid \citep{Giegerich2004} que es una herramienta que permite encontrar la menor energía libre de hibridación (MFE) de dos secuencias de ARN.
 
-\subsubsection{Filtros.}
+\subsubsection{Filtros.}\label{sec:filtros}
 Las secuencias candidatas fueron etiquetadas con el identificador del locus (locus ID) con mejor puntuación (best hit) en \textit{A. thaliana}, utilizando el módulo de Blastx (Corte del evalue de 10e$^{-5})$.
 De este modo, genes blanco de distintas especies que tenían la misma etiqueta fueron agrupados juntos, ya que tendrían el mismo homólogo en \textit{A. thaliana}.
 El filtro de conservación evolutiva hace referencia al número mínimo de especies donde la misma etiqueta estaba presente para un miARN particular.
@@ -48,7 +48,7 @@ Como un control adicional, seleccionamos dos miARNs que no están conservados du
 
 \section{ComTAR: una herramienta para la predicción de genes blanco regulados por miARNs en plantas.}
 
-A partir de los resultados positivos obtenidos de la estrategia descrita anteriormente, decidimos desarrollar una herramienta web y dejarla disponible para la comunidad científica denominada comTAR que está disponible en un sub-dominio de la página web institucional del IBR: http://rnabiology.ibr-conicet.gov.ar/comtar.
+A partir de los resultados positivos obtenidos de la estrategia descrita anteriormente, decidimos desarrollar una herramienta web y dejarla disponible para la comunidad científica denominada comTAR que está disponible en un sub-dominio de la página web institucional del IBR: \url{http://rnabiology.ibr-conicet.gov.ar/comtar}.
 
 \subsection{MiARN y transcriptos.}
 Como las secuencias del maduro del miARN puede variar en distintas especies, especialmente en la posición 1, 20 y 21 (\citep{Chorostecki05072012}, utilizamos secuencias del 2-19 (18nt) para realizar las búsquedas.
@@ -122,7 +122,7 @@ Esa información ya procesada fue almacenada en una base de datos, y es la que u
 Obtuvimos las estructuras secundarias para cada precursor calculada a partir de la herramienta Mfold \citep{pmid12824337} con los parámetros por default a 37 \degree C de temperatura.
 El lado proximal del dúplex miARN/miARN* fue definido como la posición +1.
 Analizamos la estructura secundaria y consideremos las posiciones que había un match como un 0, mientras que bulges y ``mismatches'' los consideramos como 1.
-Además hicimos un promedio para todos los precursores siguiendo la misma estrategia.
+Además, hicimos un promedio para todos los precursores siguiendo la misma estrategia.
 Implementamos un pipeline bioinformático utilizando ``in-house'' scripts y datos públicos de miRBase, para asistir con el análisis de las bibliotecas de secuenciación masiva.
 Las secuencias de los ARN pequeños fueron obtenidas de la base de datos de nueva generación de Arabidopsis\footnote{https://http://mpss.udel.edu/} \citep{pmid25120269} y  de la base de datos de miRBase \citep{Kozomara2014}.
 
@@ -135,7 +135,7 @@ Además, analizamos datos de nuevas bibliotecas de SPARE realizadas por Belén M
 
 \subsubsection{Búsqueda de ortólogos y extensión de la secuencia.}\label{sec:reciprocal_blast}
 De la base de datos biológica miRBase (release 19), obtuvimos las secuencias de 92 precursores que incluye cada miembro de las familias de \textit{A. thaliana} conservados en dicotiledóneas.
-Además obtuvimos las secuencias de 117 precursores que incluye cada miembro de las familias de \text{O. Sativa} conservados en monocotiledóneas.
+Además, obtuvimos las secuencias de 117 precursores que incluye cada miembro de las familias de \text{O. Sativa} conservados en monocotiledóneas.
 Con estas secuencias de \textit{A. thaliana} y de \text{O. Sativa}, buscamos los ortólogos en dicotiledóneas y monocotiledóneas respectivamente.
 Esto lo hicimos utilizando la técnica de Blast recíproco, mediante un script desarrollado por nosotros que utiliza el blast del paquete de BLAST+ del NCBI (versión 2.2.25).
 El Blast recíproco es un método computacional para predecir ortólogos putativos. 
@@ -144,7 +144,7 @@ Luego, se toma el gen que se obtiene con mejor puntuación por Blast, y se utili
 Si este Blast devuelve con el mejor puntaje al mismo gen inicial, entonces estos dos genes son considerados ortólogos putativos. 
 
 Los datos genómicos para la búsqueda de ortólogos, fueron extraídos de la base de datos de Phytozome y utilizamos 30 especies de dicotiledóneas y 6 especies de monocotiledóneas (Figura \ref{fig:treePhytozome}).
-Además extendimos las secuencias obteniendo más bases de las que originalmente están definidas en miRBase y empezamos nuestro análisis con una definición arbitraria de los precursores de plantas incluyendo 150 nt fuera del par miARN/miARN*.
+Además, extendimos las secuencias obteniendo más bases de las que originalmente están definidas en miRBase y empezamos nuestro análisis con una definición arbitraria de los precursores de plantas incluyendo 150 nt fuera del par miARN/miARN*.
 Esta definición se basa en que todos los determinantes estructurales validados experimentalmente necesarios para el procesamiento de miARNs están dentro de este rango.
 
 \begin{figure}[htbp!] 
@@ -205,7 +205,7 @@ meme miR.fasta -dna -oc miR -nostatus -time 18000 -mod anr -nmotifs 10 -minw 5 -
 \subsubsection{Representación gráfica de los precursores.}
 En base a la información de los alineamientos y estructuras secundarias, representamos los datos utilizando el paquete Circos \citep{pmid19541911}.
 Por simplicidad en la representación de los precursores, eliminamos los gaps y sólo están representadas las bases dentro del precursor. 
-El archivo de configuración principal se muestra en el anexo en \ref{circos.conf} y los archivos de configuración del histograma y los las relaciones se muestran en el anexo en \ref{histogram.conf} y \ref{inks.conf} respectivamente. 
+El archivo de configuración principal se muestra en el anexo en \ref{circos.conf} y los archivos de configuración del histograma y las relaciones se muestran en el anexo en \ref{histogram.conf} y \ref{inks.conf} respectivamente. 
 Los archivos karyotype.txt, highlight.txt y link.txt son distintos para cada precursor en particular y se realizaron mediante un script, con el formato que se especifica en \url{http://circos.ca/}.
 
 \section{Código fuente de los scripts y herramientas desarrolladas.}
@@ -382,7 +382,7 @@ Los oligonucleótidos utilizados en este estudio son que se detallan en la Tabla
 \end{table}
 
 
-\section{Mapeo del sitio de corte.}
+\section{Mapeo del sitio de corte.}\label{sec:5RACE}
 En la Figura \ref{fig:identificacion_producto} se muestra un esquema para la identificación de los productos de corte de miARNs.
 Inicialmente, se realizó una extración 50mg de ARN total de plántulas de Col-0 y se realizó una purificación de ARN utilizando el kit comercial ``PolyATract\textregistered'' de (Promega).
 El ARNm contenido en un volumen de 100 $\mu$l de agua se precipitó mediante el agregado de 2 $\mu$l 10 mg/$\mu$l glucógeno, 10 $\mu$l de 3M Acetato Sodio pH 5.2 y 220 $\mu$l de etanol absoluto, e incubación toda la noche a -20 \degree C.
@@ -442,7 +442,7 @@ El esquema de la técnica se muestra en la Figura \ref{fig:SPARE_construccion} y
 
 \begin{figure}[htbp!]
 	\centering    
-	\includegraphics[width=.8\textwidth]{SPARE_construccion.png}
+	\includegraphics[width=.6\textwidth]{SPARE_construccion.png}
 	\caption[Esquema general para la construcción de bibliotecas de SPARE]{
 		\textbf{Esquema general para la construcción de bibliotecas de SPARE.}
 	}

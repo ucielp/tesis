@@ -73,7 +73,7 @@ Se utilizó esta técnica de SPARE para determinar el mecanismo de procesamiento
 
 En el caso de los precursores que se procesan de base a loop, el único corte que puede ser detectado es el corte proximal (Figura \ref{fig:GR_fig2A}).
 En la Figura se puede ver el primer corte producido por DCL1 de los precursores del miR168a, miR172a y miR395b.
-Las flechas indican la posición en que terminan los fragmentos secuenciados y el número representa el número de veces que ese fragmento se secuenció, y por lo tanto indica la abundancia de ese fragmento en la célula.
+Las flechas indican la posición en la que terminan los fragmentos secuenciados y, debajo de la misma, se representa el número de veces que ese fragmento se secuenció, y por lo tanto indica la abundancia de ese fragmento en la célula.
 Se puede observar que este corte se da en una región de ARNdh ubicada a $\sim$15 nt desde el loop interno.
 Por lo tanto se concluye que estos precursores de miARN tienen un tallo de ARNdh inferior a la región donde se ubica el propio miARN.
 Puede verse que la gran mayoría de los cortes están ubicados en este sitio (Figura \ref{fig:GR_fig2A}).
@@ -125,9 +125,11 @@ En la figura se pueden ver los dos cortes por DCL1 de miembros de la familia del
 En una primera serie de experimentos, Nicolás Bologna y Arnaldo Schapire realizaron bibliotecas de SPARE en Col-0 y mutantes en \textit{fiery} para estudiar los intermediarios de procesamiento en \textit{A. thaliana}.
 De esta técnica, se obtienen una gran cantidad de datos para cada biblioteca secuenciada y los primeros análisis se hicieron manualmente.
 
-Por lo tanto se decidió en el laboratorio generar un protocolo bioinformático para el análisis de bibliotecas SPARE. 
+Por lo tanto, se decidió en el laboratorio generar un protocolo bioinformático para el análisis de bibliotecas SPARE. 
 Como material de partida, Belén Moro realizó nuevas bibliotecas de SPARE para precursores de \textit{A. thaliana} de plantas silvestres (Col-0) y en \textit{hyl1}, \textit{se} y \textit{fiery}.
 El procesamiento y análisis de los datos se hizo a partir de los datos crudos y se detallan en Materiales y Métodos (ver sección \ref{sec:analisis_spare}).
+El análisis de estas nuevas bibliotecas permitió estudiar a plantas mutantes y también permitió aumentar el número de precursores de miARNs de Arabidopsis caracterizados.
+La tabla completa con la dirección de procesamiento de miARNs conservados en \textit{A. thaliana} determinados a partir de los resultados de las bibliotecas de SPARE realizadas por Schapire, Bologna y  Moro, se muestra en el Anexo (Tabla \label{table:mecanismos}).
 
 Para ayudar a analizar estos datos complejos, desarrollamos una herramienta intuitiva para el análisis y visualización de los datos obtenidos por la técnica de SPARE.
 Esto nos permite facilitar el análisis de la identificación de los intermediarios de procesamiento en de este tipo de bibliotecas.
@@ -160,14 +162,14 @@ La herramienta diseñada permite seleccionar un precursor en particular y luego 
 Además, la herramienta permite modificar otros parámetros como la longitud y abundancia de los fragmentos secuenciados a considerar.
 
 \subsubsection{Precursores procesados desde la base.}
-Primero vemos la salida de la herramienta para el precursor del  miR165a, analizando distintas mutantes de procesamiento al mismo tiempo (Figura \ref{fig:miR165a_SPARE}).
-La posición final del dúplex miARN/miARN* fue considerada como la posición 0, y las posiciones positivas son bases hacia (hacia el loop) arriba del dúplex mientras que las posiciones negativas son bases hacia abajo del dúplex.
+Primero, vemos la salida de la herramienta para el precursor del  miR165a, analizando distintas mutantes de procesamiento al mismo tiempo (Figura \ref{fig:miR165a_SPARE}).
+La posición final del dúplex miARN/miARN* fue considerada como la posición 0, y las posiciones positivas son bases hacia el loop del dúplex mientras que las posiciones negativas son bases hacia abajo del dúplex.
 Los fragmentos se muestran en forma porcentual tomando cada biblioteca de forma independiente y en distintos colores se representan las distintas bibliotecas.
 Además, se muestra una tabla con los valores absolutos de cada fragmento y con flechas verdes se marcan las posiciones con los fragmentos de mayor abundancia en promedio de todas las bibliotecas (Figura \ref{fig:miR165a_SPARE}).
  
-En esta figura se muestra un precursor que es procesado con un mecanismo corto de base a loop, donde según se muestra en la Figura \ref{fig:SPARE_tecnica}, los fragmentos detectados corresponden únicamente al primer corte por DCL1 (Figura \ref{fig:miR165a_SPARE}).
+En la Figura \ref{fig:miR165a_SPARE} se muestra un precursor que es procesado con un mecanismo corto de base a loop, donde según se muestra en la Figura \ref{fig:SPARE_tecnica}, los fragmentos detectados corresponden únicamente al primer corte por DCL1.
 Se pueden observar también cortes en las posiciones $\pm 2$ con respecto a las esperadas por actividad ``sloopy'' (poco rigurosa) de DCL1 \citep{pmid17989254}.
-Además se observan en la posición -5, que aparecen fragmentos en todas las bibliotecas aunque en muy baja abundancia (Figura \ref{fig:miR165a_SPARE}).
+Además, se observa que en la posición -5 aparecen fragmentos en todas las bibliotecas aunque en muy baja abundancia (Figura \ref{fig:miR165a_SPARE}).
 Por el momento, no hay una clara explicación para el origen mecanístico de estos cortes, pero muestra la utilidad de la herramienta para poder fácilmente visualizar e identificar elementos comunes e inesperados en distintas bibliotecas.
 
 
@@ -194,10 +196,11 @@ Para ilustrar esto, mostramos  el caso del miR159, que al igual que todos los pr
 El primer corte se da en la posición 71, que de los cuatros cortes es el que tiene fragmentos menos abundantes, y luego DCL1 corta a 21 nucleótidos liberando otros ARN pequeños.
 Luego se pueden observar los fragmentos correspondientes al tercer corte (posición 21) y cuarto corte (posición 0), que son los necesarios para liberar el miARN maduro (Figura \ref{fig:miR159b_SPARE}).
 En este caso se pueden ver otros fragmentos, aunque nunca son tan abundantes como los correspondientes a los cortes por DCL1.
-Por cuestiones de simplicidad, en la tabla solo se muestra los fragmentos con mayor abundancia en promedio de todas las bibliotecas.
 Estos otros cortes posiblemente sean el resultado del corte improductivo del precursor por ribonucleasas y quizás sean parte de un proceso de degradación de los precursores.
 Los orígenes de estos fragmentos del precursor están en estudio en el laboratorio.
-El análisis de estas nuevas bibliotecas también permitió aumentar el número de precursores de miARNs de Arabidopsis caracterizados.
+Por cuestiones de simplicidad, en la tabla solo se muestra los fragmentos con mayor abundancia en promedio de todas las bibliotecas.
+
+%~ El análisis de estas nuevas bibliotecas también permitió aumentar el número de precursores de miARNs de Arabidopsis caracterizados.
 
 \begin{landscape}
     \begin{figure}[htbp!] 
@@ -221,7 +224,7 @@ El análisis de estas nuevas bibliotecas también permitió aumentar el número 
 Una vez que se pudo clasificar a los precursores de acuerdo a su tipo de procesamiento, ya sea desde el loop o desde la base, y sea con dos o mas cortes de DCL1, decidimos ver si había diferencias estructurales para cada grupo.
 Los datos para este primer análisis fueron el SPARE realizado sobre las plantas silvestres y mutantes \textit{fiery}.
 
-Primeramente, obtuvimos las estructuras secundarias para cada precursor  utilizando el programa Mfold\citep{pmid12824337} (Ver Materiales y Métodos sección \ref{sec:estruc_sec}) realizamos un análisis estructural conjunto de los precursores correspondientes a los dos mecanismos de procesamiento, los que se procesan en dirección base a loop (Figura \ref{fig:GR_fig2C}) y los que se procesan loop a base (Figura \ref{fig:GR_fig4C}).
+Primeramente, obtuvimos las estructuras secundarias para cada precursor  utilizando el programa Mfold\citep{pmid12824337} (Ver Materiales y Métodos sección \ref{sec:estruc_sec}) y realizamos un análisis estructural conjunto de los precursores correspondientes a los dos mecanismos de procesamiento, los que se procesan en dirección base a loop (Figura \ref{fig:GR_fig2C}) y los que se procesan loop a base (Figura \ref{fig:GR_fig4C}).
 Definimos a una coincidencia en cada posición con un 0, mientras que ``bulges'' y ``mismatches'' los consideramos como 1.
 El lado proximal del dúplex miARN/miARN* fue definido como la posición +1 y analizamos desde la posición -25 a la posición +40 (Figura \ref{fig:GR_fig2C} y \ref{fig:GR_fig4C}). 
 
@@ -262,6 +265,7 @@ En cambio, estos precursores tienen una región terminal estructurada (Figura \r
 
 En esta segunda parte del proyecto de Tesis presentamos una estrategia y para el análisis sistemático de las bibliotecas de SPARE y la identificación de la biogénesis de precursores de miARNs desde un punto de vista genómico.
 Utilizando esta técnica encontramos que los miARNs son procesados por cuatro mecanismos, dependientes de la dirección secuencial de la maquinaria de procesamiento y del número de cortes requeridos para liberar el miARN (Figura \ref{fig:mecanismos}).
+Y con esto, pudimos determinar la dirección de procesamiento para la mayoría de los miARNs conservados en \textit{A. thaliana}  (Anexo, Tabla \label{table:mecanismos}).
 
 \begin{figure}[htbp!] 
     \centering    
@@ -293,8 +297,8 @@ Integrando los resultados que se muestran en la introducción junto a los result
 \end{itemize}
 
 
-
 Estos resultados fueron publicado en la revista Genome Research \citep{Bologna2013}.
 Los resultados ofrecen una explicación para la diversidad estructural de los genes de precursores de miARN en plantas y nuevas perspectivas hacia la comprensión de la biogénesis de los ARNs pequeños \citep{Bologna2013}.
 
-Y con esto, pudimos encontrar determinantes estructurales distintos para precursores que se procesados desde la base y precursores procesados desde el loop. 
+Además, pudimos encontrar determinantes estructurales distintos para precursores que se procesados desde la base y precursores procesados desde el loop.
+
