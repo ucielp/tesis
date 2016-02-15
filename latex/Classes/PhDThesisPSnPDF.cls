@@ -1023,6 +1023,7 @@ wish to left align your text}
 %\cleardoublepage
 %\setsinglecolumn
 \chapter*{\centering }
+\thispagestyle{empty}
 }
 
 
