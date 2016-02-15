@@ -970,11 +970,11 @@ wish to left align your text}
 \vspace*{3em}
 
 % Author
-{\bfseries{\@author} \par}
+{\@author \par}
 \vspace*{1em}
 
 % lugar
-{\bfseries{\@lugar} \par}
+{\@lugar \par}
 \vspace*{1em}
 
 \end{center}
