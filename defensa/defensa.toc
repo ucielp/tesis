@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.10pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Introducci\IeC {\'o}n}{2}{0}{1}
+\beamer@sectionintoc {2}{Objetivos}{3}{0}{2}
+\beamer@sectionintoc {3}{Resultados}{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{subsection1}{7}{0}{3}
+\beamer@subsectionintoc {3}{2}{subsection1}{7}{0}{3}
+\beamer@subsectionintoc {3}{3}{subsection1}{7}{0}{3}
+\beamer@sectionintoc {4}{Conclusiones}{7}{0}{4}
