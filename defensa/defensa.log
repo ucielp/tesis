@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.3)  7 MAR 2016 18:11
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.3)  11 MAR 2016 17:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1230,14 +1230,14 @@ Package pdftex.def Info: img/logo_ibr.png used on input line 55.
 ]
 File: img/logo_ibr.png Graphic file (type png)
  <use img/logo_ibr.png>
-Package pdftex.def Info: img/logo_ibr.png used on input line 68.
+Package pdftex.def Info: img/logo_ibr.png used on input line 66.
 (pdftex.def)             Requested size: 39.94853pt x 17.86642pt.
  [3
 
 ]
 File: img/logo_ibr.png Graphic file (type png)
  <use img/logo_ibr.png>
-Package pdftex.def Info: img/logo_ibr.png used on input line 68.
+Package pdftex.def Info: img/logo_ibr.png used on input line 66.
 (pdftex.def)             Requested size: 39.94853pt x 17.86642pt.
 
 [4
@@ -1260,36 +1260,48 @@ Package pdftex.def Info: img/logo_ibr.png used on input line 78.
 File: img/logo_ibr.png Graphic file (type png)
 
 <use img/logo_ibr.png>
-Package pdftex.def Info: img/logo_ibr.png used on input line 96.
+Package pdftex.def Info: img/logo_ibr.png used on input line 86.
 (pdftex.def)             Requested size: 39.94853pt x 17.86642pt.
  [7
 
 ]
+<img/variabilidad_maduro.png, id=254, 450.483pt x 512.1534pt>
+File: img/variabilidad_maduro.png Graphic file (type png)
+
+<use img/variabilidad_maduro.png>
+Package pdftex.def Info: img/variabilidad_maduro.png used on input line 92.
+(pdftex.def)             Requested size: 171.14764pt x 194.58124pt.
 File: img/logo_ibr.png Graphic file (type png)
  <use img/logo_ibr.png>
-Package pdftex.def Info: img/logo_ibr.png used on input line 96.
+Package pdftex.def Info: img/logo_ibr.png used on input line 92.
 (pdftex.def)             Requested size: 39.94853pt x 17.86642pt.
  [8
 
-]
-File: img/logo_ibr.png Graphic file (type png)
- <use img/logo_ibr.png>
-Package pdftex.def Info: img/logo_ibr.png used on input line 96.
-(pdftex.def)             Requested size: 39.94853pt x 17.86642pt.
+ <./img/variabilidad_maduro.png>]
+<img/miRNAs_y_genes_blancos.png, id=283, 1104.125pt x 472.76625pt>
+File: img/miRNAs_y_genes_blancos.png Graphic file (type png)
 
-[9
+<use img/miRNAs_y_genes_blancos.png>
+Package pdftex.def Info: img/miRNAs_y_genes_blancos.png used on input line 106.
 
-]
+(pdftex.def)             Requested size: 342.2953pt x 146.56323pt.
 File: img/logo_ibr.png Graphic file (type png)
  <use img/logo_ibr.png>
 Package pdftex.def Info: img/logo_ibr.png used on input line 106.
+(pdftex.def)             Requested size: 39.94853pt x 17.86642pt.
+ [9
+
+ <./img/miRNAs_y_genes_blancos.png>]
+File: img/logo_ibr.png Graphic file (type png)
+ <use img/logo_ibr.png>
+Package pdftex.def Info: img/logo_ibr.png used on input line 115.
 (pdftex.def)             Requested size: 39.94853pt x 17.86642pt.
  [10
 
 ]
 File: img/logo_ibr.png Graphic file (type png)
  <use img/logo_ibr.png>
-Package pdftex.def Info: img/logo_ibr.png used on input line 106.
+Package pdftex.def Info: img/logo_ibr.png used on input line 115.
 (pdftex.def)             Requested size: 39.94853pt x 17.86642pt.
  [11
 
@@ -1297,9 +1309,31 @@ Package pdftex.def Info: img/logo_ibr.png used on input line 106.
 File: img/logo_ibr.png Graphic file (type png)
 
 <use img/logo_ibr.png>
-Package pdftex.def Info: img/logo_ibr.png used on input line 113.
+Package pdftex.def Info: img/logo_ibr.png used on input line 115.
 (pdftex.def)             Requested size: 39.94853pt x 17.86642pt.
  [12
+
+]
+File: img/logo_ibr.png Graphic file (type png)
+ <use img/logo_ibr.png>
+Package pdftex.def Info: img/logo_ibr.png used on input line 128.
+(pdftex.def)             Requested size: 39.94853pt x 17.86642pt.
+ [13
+
+]
+File: img/logo_ibr.png Graphic file (type png)
+ <use img/logo_ibr.png>
+Package pdftex.def Info: img/logo_ibr.png used on input line 128.
+(pdftex.def)             Requested size: 39.94853pt x 17.86642pt.
+
+[14
+
+]
+File: img/logo_ibr.png Graphic file (type png)
+ <use img/logo_ibr.png>
+Package pdftex.def Info: img/logo_ibr.png used on input line 136.
+(pdftex.def)             Requested size: 39.94853pt x 17.86642pt.
+ [15
 
 ]
 \tf@nav=\write6
@@ -1311,28 +1345,28 @@ Package pdftex.def Info: img/logo_ibr.png used on input line 113.
 \tf@snm=\write8
 \openout8 = `defensa.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 138.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 138.
  (./defensa.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 138.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 138.
 Package rerunfilecheck Info: File `defensa.out' has not changed.
-(rerunfilecheck)             Checksum: 10FEFFAAD1AB0E99C8BA41C97E92C6AE;366.
+(rerunfilecheck)             Checksum: E2748C376D417208C74E56F889178C5B;369.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 138.
  ) 
 Here is how much of TeX's memory you used:
- 18685 strings out of 494966
- 337749 string characters out of 6179560
+ 18707 strings out of 494966
+ 338169 string characters out of 6179560
  436899 words of memory out of 5000000
- 21424 multiletter control sequences out of 15000+600000
+ 21438 multiletter control sequences out of 15000+600000
  6063 words of font info for 22 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  49i,17n,57p,1040b,722s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1340,10 +1374,10 @@ Here is how much of TeX's memory you used:
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on defensa.pdf (12 pages, 82368 bytes).
+Output written on defensa.pdf (15 pages, 618572 bytes).
 PDF statistics:
- 411 PDF objects out of 1000 (max. 8388607)
- 375 compressed objects within 4 object streams
- 32 named destinations out of 1000 (max. 500000)
- 134 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 502 PDF objects out of 1000 (max. 8388607)
+ 459 compressed objects within 5 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 144 words of extra memory for PDF output out of 10000 (max. 10000000)
 
