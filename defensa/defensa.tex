@@ -17,13 +17,16 @@
 \makeatother
 
 %~ \usetheme{Berkeley}
-\usetheme{CambridgeUS} %~ Ok
+%~ \usetheme{CambridgeUS} %~ Ok 3
+%~ \usetheme{Boadilla} %~ Ok 2
+\usetheme{boxes} %~ Ok 1
 \setbeamerfont{frametitle}{size=\small}
-%~ \usecolortheme{dolphin}
-%~ \usecolortheme{dove}
-%~ \usecolortheme{default}
-\usecolortheme{seahorse}
+
+\usecolortheme{seahorse} %~ OK
+%~ \usecolortheme{dolphin} 
+%~ \usecolortheme{beaver}
 %~ \usecolortheme{whale}
+%~ \usecolortheme{lily}
 
 
 %~ \usetheme{Frankfurt}
@@ -33,7 +36,7 @@
 %~ \setbeamercovered{transparent}
 
 \logo{%
-	   \includegraphics[scale=.2]{img/logo_ibr.png}
+	   \includegraphics[scale=.25]{img/logoIBR2016_byn.png}
    }
 \title[]{Estudios sobre la regulación de la expresión génica por microARNs en plantas mediante estrategias bioinformáticas}
 
@@ -58,10 +61,9 @@
 
 \begin{frame}{Objetivos}
     \setbeamercovered{transparent=25}
-    \pause
-	\begin{enumerate}
-        \item<1-> Identificar genes regulados por miARNs en plantas.
-        \item<-1> Estudiar la biogénesis de los miARNs en plantas.
+	\begin{enumerate}[<+->]
+        \item Identificar genes regulados por miARNs en plantas.
+        \item Estudiar la biogénesis de los miARNs en plantas.
 	\end{enumerate}
 \end{frame}
 
@@ -69,9 +71,8 @@
     \setbeamercovered{transparent=25}
 		\pause
 		\begin{itemize}
-            \item<-2> Diseñar una estrategia para la identificación de genes blanco regulados por miARNs en plantas, basado en la conservación evolutiva del par miARN-gen blanco.
-            %~ \item<-1> Desarrollar una herramienta web para la predicción de genes blanco de miARNs en diferentes especies de plantas.		
-			\item<-1> Desarrollar herramientas que permitan el análisis de los intermediarios de procesamiento de miARNs en plantas a partir de bibliotecas de secuenciación masiva de ARN.
+            \item<-2> Diseñar una estrategia y una herramienta web para la identificación de genes blancos regulados por miARNs en plantas.
+			\item<-1> Desarrollar herramientas para el análisis de los intermediarios de procesamiento de miARNs en plantas.
 			\item<-1> Identificar y caracterizar precursores de miARNs en distintas especies que tengan mecanismos de procesamiento distintos.
 			\item<-1> Caracterizar la relación entre la evolución de los precursores de miARNs en plantas y los mecanismos de procesamiento determinados previamente.
         \end{itemize}
@@ -91,6 +92,85 @@
 	\end{center}
 \end{frame}
 
+\begin{frame}{22 miARNs que están conservados en Angiospermas}
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/NAR_fig1_01.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{Secuencias consensos de 18 nt (2-19)}
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/NAR_fig1_02.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{Primera búsqueda general de potenciales genes blancos}
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/NAR_fig1_03.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{Filtros de evolución y empíricos de interacción miARN-gen blanco}
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/NAR_fig1_04.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{Mínimo de 4 especies requeridas}
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/NAR_fig1_05.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{Genes blanco en \textit{A. thaliana}}
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/NAR_fig1_06.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{Validación experimental}
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/NAR_fig1_07.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{xxxx}
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/NAR_fig2_01.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{xxxx}
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/NAR_fig2_02.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{xxxx}
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/NAR_fig2_03.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{xxxx}
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/NAR_fig2_04.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{xxxx}
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/NAR_fig2_05.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{xxxx}
+	\begin{center}
+		\includegraphics[width=1\textwidth]{img/NAR_fig2_bis.png}
+	\end{center}
+\end{frame}
+
+
 \subsection{Resultados 2}
 
 \subsection{Resultados 3}
@@ -101,7 +181,7 @@
 
 \begin{frame}{Conclusión I}
 	\begin{center}
-		\includegraphics[width=1\textwidth]{img/miRNAs_y_genes_blancos.png}
+		\includegraphics[width=.8\textwidth]{img/miRNAs_y_genes_blancos.png}
 	\end{center}
 \end{frame}
 
@@ -112,19 +192,6 @@
         %~ \vspace{1cm}
         \item<3-> a
 	\end{itemize}
-\end{frame}
-
-
-
-\begin{frame}{Objetivos específicos}
-    \setbeamercovered{transparent=25}
-		\pause
-		\begin{itemize}
-            \item<-1> Diseñar una estrategia para la identificación de genes blanco regulados por miARNs en plantas, basado en la conservación evolutiva del par miARN-gen blanco.
-			\item<-2> Desarrollar herramientas que permitan el análisis de los intermediarios de procesamiento de miARNs en plantas a partir de bibliotecas de secuenciación masiva de ARN.
-			\item<-1> Identificar y caracterizar precursores de miARNs en distintas especies que tengan mecanismos de procesamiento distintos.
-			\item<-1> Caracterizar la relación entre la evolución de los precursores de miARNs en plantas y los mecanismos de procesamiento determinados previamente.
-        \end{itemize}
 \end{frame}
 
 
