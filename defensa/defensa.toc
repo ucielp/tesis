@@ -4,6 +4,6 @@
 \beamer@sectionintoc {2}{Objetivos}{3}{0}{2}
 \beamer@sectionintoc {3}{Resultados}{7}{0}{3}
 \beamer@subsectionintoc {3}{1}{Resultados 1}{7}{0}{3}
-\beamer@subsectionintoc {3}{2}{Resultados 2}{22}{0}{3}
-\beamer@subsectionintoc {3}{3}{Resultados 3}{22}{0}{3}
-\beamer@sectionintoc {4}{Conclusiones}{22}{0}{4}
+\beamer@subsectionintoc {3}{2}{Resultados 2}{36}{0}{3}
+\beamer@subsectionintoc {3}{3}{Resultados 3}{50}{0}{3}
+\beamer@sectionintoc {4}{Conclusiones}{70}{0}{4}
