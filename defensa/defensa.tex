@@ -11,7 +11,6 @@
 \usepackage{caption}
 \usepackage{subcaption}
 
-
 \makeatletter
 \def\verbatim@font{\ttfamily\tiny}
 \makeatother
@@ -50,12 +49,67 @@
 
 \section{Introducción}
 
-\begin{frame}{miARNs}
+\begin{frame}{}
+    \begin{block}{microARNs}
+        Los microARNs (miARNs) son ARN pequeños de 20-22 nt que regulan la expresión génica en animales y plantas. 
+    \end{block}
+\end{frame}
+
+
+\begin{frame}{miARNs en plantas}
     \begin{itemize}
-        \item Los microARNs (miARNs) son ARN pequeños de 20-22 nt que regulan la expresión génica en animales y plantas. 
-        \item En plantas controlan procesos vitales como el desarrollo, señalización hormonal y respuestas al estrés
+        \item En \textit{A. thaliana} se han identificado más de 300 miARNs.
+        \item Están codificados por familias de genes de 1 a 32 miembros que dan lugar a miARNs maduros idénticos o muy similares.
+        \item 42 familias de miARNs en plantas, las que regulan una amplia variedad de procesos biológicos.
+        \item Muchos de ellos han aparecido recientemente en la evolución y por lo tanto aparecen en un número pequeño de especies.
     \end{itemize}
 \end{frame}
+
+\begin{frame}{22 familias de miARNs que están altamente conservadas en las plantas}
+	\begin{center}
+		\includegraphics[width=1\textwidth]{img/familias_miRNAs_conservados.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{Procesamiento de miARNs en animales}
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/procesamiento_animales.png}
+	\end{center}
+\end{frame}
+
+
+\begin{frame}{Procesamiento de miARNs en plantas}
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/biogenesis_accion.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{Estructuras secundarias de precursores de miARNs}
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/distribucion_precursores.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{Estructuras secundarias de precursores de miARNs}
+	\begin{center}
+		\includegraphics[width=1\textwidth]{img/ss_precursores.png}
+	\end{center}
+\end{frame}
+
+
+\begin{frame}{Regulación de la expresión génica por miARNs}
+    \begin{itemize}
+        \item En animales existe un gran número de genes blanco mediado por miARNs y un ARNm puede estar regulado por varios miARNs, en cambio los miARNs en plantas regulan un número limitado de genes blancos.
+        \item En plantas controlan procesos vitales como el desarrollo, señalización hormonal y respuestas al estrés.
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Predicción de genes blanco de miARNs}
+	\begin{center}
+		\includegraphics[width=1\textwidth]{img/interaccion_miRNA_target.png}
+	\end{center}
+\end{frame}
+
 
 \section{Objetivos}
 
@@ -86,25 +140,25 @@
 \begin{frame}{Aplicaciones bioinformáticas para el estudio de interacciones miARN-gen blanco}
 \end{frame}
 
-\begin{frame}{Conservación y divergencia de miARNs en distintas especies}
-	\begin{center}
-		\includegraphics[width=0.5\textwidth]{img/variabilidad_maduro.png}
-	\end{center}
-\end{frame}
+%~ \begin{frame}{Conservación y divergencia de miARNs en distintas especies}
+	%~ \begin{center}
+		%~ \includegraphics[width=0.5\textwidth]{img/variabilidad_maduro.png}
+	%~ \end{center}
+%~ \end{frame}
+%~ 
+%~ \begin{frame}{22 miARNs que están conservados en Angiospermas}
+	%~ \begin{center}
+		%~ \includegraphics[width=0.5\textwidth]{img/NAR_fig1_01.png}
+	%~ \end{center}
+%~ \end{frame}
+%~ 
+%~ \begin{frame}{Secuencias consensos de 18 nt (2-19)}
+	%~ \begin{center}
+		%~ \includegraphics[width=0.5\textwidth]{img/NAR_fig1_02.png}
+	%~ \end{center}
+%~ \end{frame}
 
-\begin{frame}{22 miARNs que están conservados en Angiospermas}
-	\begin{center}
-		\includegraphics[width=0.5\textwidth]{img/NAR_fig1_01.png}
-	\end{center}
-\end{frame}
-
-\begin{frame}{Secuencias consensos de 18 nt (2-19)}
-	\begin{center}
-		\includegraphics[width=0.5\textwidth]{img/NAR_fig1_02.png}
-	\end{center}
-\end{frame}
-
-\begin{frame}{Primera búsqueda general de potenciales genes blancos}
+\begin{frame}{Búsqueda de potenciales genes blancos}
 	\begin{center}
 		\includegraphics[width=0.5\textwidth]{img/NAR_fig1_03.png}
 	\end{center}
@@ -122,11 +176,11 @@
 	\end{center}
 \end{frame}
 
-\begin{frame}{Genes blancos en \textit{A. thaliana}}
-	\begin{center}
-		\includegraphics[width=0.5\textwidth]{img/NAR_fig1_06.png}
-	\end{center}
-\end{frame}
+%~ \begin{frame}{Genes blancos en \textit{A. thaliana}}
+	%~ \begin{center}
+		%~ \includegraphics[width=0.5\textwidth]{img/NAR_fig1_06.png}
+	%~ \end{center}
+%~ \end{frame}
 
 \begin{frame}{Validación experimental}
 	\begin{center}
@@ -184,6 +238,7 @@
 \end{frame}
 
 \begin{frame}{Nuevos genes blancos con interacciones G-U}
+ESTO NO LO VOY A PONER
 	\begin{center}
 		\includegraphics[width=.6\textwidth]{img/Figure5_retocada.png}
 	\end{center}
@@ -327,26 +382,19 @@ ComTAR, una herramienta para predecir potenciales genes blancos regulados por mi
 
 \begin{frame}{Tallo inferior de 15 nt en precursores procesados desde la base}
 	\begin{center}
-		\includegraphics[width=.8\textwidth]{img/GR_fig2C.png}
+		\includegraphics[width=1\textwidth]{img/GR_fig2C.png}
 	\end{center}
 \end{frame}
 
 \begin{frame}{Región terminal estructurada en precursores procesados desde el loop}
 	\begin{center}
-		\includegraphics[width=.8\textwidth]{img/GR_fig4C.png}
+		\includegraphics[width=1\textwidth]{img/GR_fig4C.png}
 	\end{center}
 \end{frame}
 
 \begin{frame}{Conclusiones II}
 	\begin{center}
 		\includegraphics[width=1\textwidth]{img/mecanismos.png}
-	\end{center}
-\end{frame}
-
-
-\begin{frame}{Búsqueda de ortólogos de precursores de miARNs.}
-	\begin{center}
-		\includegraphics[width=.8\textwidth]{img/GR_fig4C.png}
 	\end{center}
 \end{frame}
 
@@ -389,12 +437,12 @@ VER LO QUE PUSE EN EL SEMINARIO IBR!!!!!
 \end{frame}
 
 
-\begin{frame}{Existe un patrón estructural que comparten los precursores, en la región inmediata por debajo del dúplex miARN/miARN*}
+\begin{frame}{Especies utilizadas de Phytozome (30 dicotiledóneas y 6 monocotiledóneas)}
 	\begin{center}
-		\includegraphics[width=.9\textwidth]{img/miR172a_rnafold.png}
+		\includegraphics[width=.6\textwidth]{img/treePhytozome.png}
 	\end{center}
-    \uncover<2->{Es difícil deducir información concreta a partir de esta figura.}
 \end{frame}
+
 
 
 \begin{frame}{Conservación de la secuencia primaria del miR172a en distintas especies}
@@ -413,6 +461,15 @@ VER LO QUE PUSE EN EL SEMINARIO IBR!!!!!
 	\begin{center}
 		\includegraphics[width=1\textwidth]{img/miR172a_tcoffee_03.png}
 	\end{center}
+\end{frame}
+
+\begin{frame}{Existe un patrón estructural que comparten los precursores, en la región inmediata por debajo del dúplex miARN/miARN*}
+	\begin{center}
+		\includegraphics[width=.8\textwidth]{img/miR172a_rnafold.png}
+	\end{center}
+    \begin{center}
+        \uncover<2->{No es trivial deducir información concreta a partir de estas figuras.}
+    \end{center}
 \end{frame}
 
 \begin{frame}{Conservación del consenso en base al alineamiento de secuencia primaria}
@@ -453,7 +510,7 @@ VER LO QUE PUSE EN EL SEMINARIO IBR!!!!!
 
 \begin{frame}{Mismo patrón de conservación en otros precursores que se procesan desde la base}
 	\begin{center}
-		\includegraphics[width=.7\textwidth]{img/miR390a_circos.png}
+		\includegraphics[width=.8\textwidth]{img/miR390a_circos.png}
 	\end{center}
 \end{frame}
 
@@ -463,33 +520,142 @@ VER LO QUE PUSE EN EL SEMINARIO IBR!!!!!
 	\end{center}
 \end{frame}
 
-\begin{frame}{cortos LTB}
+\begin{frame}{Precursores que se procesan desde el loop cortos}
 	\begin{center}
 		\includegraphics[width=1\textwidth]{img/srLTB_circos.png}
 	\end{center}
 \end{frame}
 
-\begin{frame}{Seq LTB}
+\begin{frame}{Precursores que se procesan desde el loop en forma secuencial}
 	\begin{center}
 		\includegraphics[width=1\textwidth]{img/seqLTB_circos.png}
 	\end{center}
 \end{frame}
 
-\begin{frame}{En precursores que se procesan desde el loop, el tamaño del tallo superior el loop no varía en distintas especies}
+\begin{frame}{En precursores que se procesan desde el loop, el tamaño de la región que comprende al tallo superior y al loop no varía en distintas especies}
+
 	\begin{center}
 		\includegraphics[width=.8\textwidth]{img/miR160a_meme.png}
 	\end{center}
 \end{frame}
 
-\begin{frame}{En precursores que se procesan desde la base, el tamaño del tallo superior y al loop es muy variado en distintas especies}
+\begin{frame}{En precursores que se procesan desde la base, el tamaño de la región que comprende al tallo superior y al loop es muy variado en distintas especies}
 	\begin{center}
 		\includegraphics[width=1\textwidth]{img/miR172_meme.png}
 	\end{center}
 \end{frame}
 
+\begin{frame}{Procesamiento mixto de miembros de la familia del miR170/miR171}
+	\begin{center}
+		\includegraphics[width=1\textwidth]{img/familia_miR171_circos.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{Mutaciones puntuales que afectan el procesamiento de miARNs en plantas}
+	\begin{center}
+		\includegraphics[width=.7\textwidth]{img/miR164_ss_bp.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{Posición *2 del miR164a* está conservada  en dicotiledóneas}
+	\begin{center}
+		\includegraphics[width=.8\textwidth]{img/miR164a_circos.png}
+	\end{center}
+    \begin{center}
+        \uncover<2->{La posición *2 es importante para la estabilidad del precursor y su buen procesamiento.}
+    \end{center}
+\end{frame}
+
+\begin{frame}{Alelo mir394b-1 con un ``mismatch'' en el tallo inferior del precursor del miR394b}
+	\begin{center}
+		\includegraphics[width=.8\textwidth]{img/miR394b_circos_aliniamientos.png}
+	\end{center}
+    \begin{center}
+        \uncover<2->{Mutaciones simples en el precursor puede afectar el reconocimiento de DICER.}
+    \end{center}
+\end{frame}
 
 
-\section{Conclusiones}
+%~ IMPORTANTE
+%~ Esta información también podría ser utilizada para ayudar en el diseño de miARNs artificiales en distintas especies y aumentar su eficiencia
+
+
+\begin{frame}{Variante del miR396 específica de monocotiledóneas}
+	\begin{center}
+		\includegraphics[width=.6\textwidth]{img/circos_monocots_miR396e.png}
+	\end{center}
+    \begin{center}
+        \uncover<2->{El nucleótido extra, que le da identidad a la variante de monocotiledóneas, está conservado.}
+    \end{center}
+\end{frame}
+
+
+\begin{frame}{¿Qué sucede con los precursores de miARNs conservados en animales?}
+\begin{table}[]
+    \centering
+    \tiny
+    \begin{tabular}{c}
+    \textbf{Animales}        \\
+        Bos taurus               \\
+        Canis familiaris         \\
+        Equus caballus           \\
+        Gallus gallus            \\
+        Gorilla gorilla          \\
+        Homo sapiens             \\
+        Macaca mulatta           \\
+        Monodelphis domestica    \\
+        Mus musculus             \\
+        Ornithorhynchus anatinus \\
+        Petromyzon marinus       \\
+        Sus scrofa               \\
+        Xenopus tropicalis      
+    \end{tabular}
+    \end{table}
+\end{frame}
+
+\begin{frame}{
+hsa-let-7-a.
+\uncover<2->{El loop terminal está conservado en algunos precursores de animales.}
+}
+    \begin{center}
+        La riboproteína HnRNP A1 se une al loop terminal del precursor de let-7-a e inhibe su procesamiento por Drosha.
+    \end{center}
+	\begin{center}
+		\uncover<2->{\includegraphics[width=.6\textwidth]{img/hsa-let-7a-1_circos.png}}
+	\end{center}
+\end{frame}
+
+
+%~ % ACA TENGO QUE VER BIEN COMO DECIR LAS COSAS
+
+\begin{frame}{Circos animales vs plantas}
+	\begin{center}
+		\includegraphics[width=1\textwidth]{img/animals_vs_plants_circos.png}
+	\end{center}
+    \begin{center}
+        \uncover<2->{Estructuralmente los precursores en animales comparten patrones similares a los precursores de plantas cortos de loop a base y también a los cortos de la base al loop}
+    \end{center}
+\end{frame}
+
+
+\begin{frame}{Conclusiones III}
+	\begin{itemize}
+        \item<1-> Presentamos un enfoque bioinformático para el estudio de la evolución y biogénesis de miARNs en plantas.
+        \item<2-> Desarrollamos una implementación gráfica para visualizar de manera simple los precursores de miARNs en distintas especies de plantas.
+        \item<3-> Lo utilizamos para caracterizar la evolución de precursores de miARNs en plantas con distintos mecanismos de procesamiento.
+        \item<4-> Estudiamos precursores con mutaciones que afectan al procesamiento de miARNs en plantas. 
+        Esta información podría ser utilizada para ayudar en el diseño de miARNs artificiales en distintas especies y aumentar su eficiencia.
+        \item<5-> Pudimos utilizar este mismo enfoque para estudiar precursores de miARNs en animales.
+
+	\end{itemize}
+\end{frame}
+
+\section{Conclusiones generales}
+
+\begin{frame}{Conclusiones generales}
+	En cuanto a la primera parte de la Tesis, diseñamos una estrategia para identificar genes blanco regulados por miARNs en plantas, basada en la conservación evolutiva del par miARN-gen blanco.
+
+\end{frame}
 
     %~ \vspace{1cm}
 

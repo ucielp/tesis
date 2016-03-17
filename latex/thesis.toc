@@ -98,12 +98,13 @@
 \contentsline {subsubsection}{Dise\IeC {\~n}o de una implementaci\IeC {\'o}n gr\IeC {\'a}fica para la visualizaci\IeC {\'o}n integral de los precursores.}{80}{figure.caption.54}
 \contentsline {subsection}{\numberline {6.2.2}Visualizaci\IeC {\'o}n por Circos de precursores que se procesan desde la base.}{82}{subsection.6.2.2}
 \contentsline {subsection}{\numberline {6.2.3}Visualizaci\IeC {\'o}n por Circos de precursores que se procesan desde la base en forma secuencial.}{84}{subsection.6.2.3}
-\contentsline {subsection}{\numberline {6.2.4}Visualizaci\IeC {\'o}n por Circos de precursores que se procesan de arriba cortos.}{86}{subsection.6.2.4}
-\contentsline {subsection}{\numberline {6.2.5}El tama\IeC {\~n}o del loop es muy variable en precursores que se procesan desde abajo.}{89}{subsection.6.2.5}
-\contentsline {subsection}{\numberline {6.2.6}Procesamiento mixto de miembros de la familia del miR170/miR171.}{92}{subsection.6.2.6}
-\contentsline {subsection}{\numberline {6.2.7}Visualizaci\IeC {\'o}n por Circos de precursores con mutaciones puntuales que afectan el procesamiento de miARNs en plantas.}{94}{subsection.6.2.7}
-\contentsline {subsection}{\numberline {6.2.8}Visualizaci\IeC {\'o}n por Circos de precursores de plantas conservados en monocotiled\IeC {\'o}neas.}{97}{subsection.6.2.8}
-\contentsline {subsection}{\numberline {6.2.9}Estrategia bioinform\IeC {\'a}tica para estudiar precursores de miARNs en animales.}{99}{subsection.6.2.9}
+\contentsline {subsection}{\numberline {6.2.4}Visualizaci\IeC {\'o}n por Circos de precursores que se procesan desde el loop cortos.}{86}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.5}Visualizaci\IeC {\'o}n por Circos de precursores que se procesan desde el loop en forma secuencial.}{86}{subsection.6.2.5}
+\contentsline {subsection}{\numberline {6.2.6}El tama\IeC {\~n}o del loop es muy variable en precursores que se procesan desde abajo.}{89}{subsection.6.2.6}
+\contentsline {subsection}{\numberline {6.2.7}Procesamiento mixto de miembros de la familia del miR170/miR171.}{92}{subsection.6.2.7}
+\contentsline {subsection}{\numberline {6.2.8}Visualizaci\IeC {\'o}n por Circos de precursores con mutaciones puntuales que afectan el procesamiento de miARNs en plantas.}{94}{subsection.6.2.8}
+\contentsline {subsection}{\numberline {6.2.9}Visualizaci\IeC {\'o}n por Circos de precursores de plantas conservados en monocotiled\IeC {\'o}neas.}{97}{subsection.6.2.9}
+\contentsline {subsection}{\numberline {6.2.10}Estrategia bioinform\IeC {\'a}tica para estudiar precursores de miARNs en animales.}{99}{subsection.6.2.10}
 \contentsline {section}{\numberline {6.3}Conclusiones.}{103}{section.6.3}
 \contentsline {chapter}{Conclusiones finales}{104}{chapter*.70}
 \contentsline {section}{\numberline {8.1}Aplicaciones bioinform\IeC {\'a}ticas para el estudio de interacciones miARN-gen blanco.}{104}{section.8.1}
