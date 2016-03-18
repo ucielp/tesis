@@ -61,8 +61,7 @@
         \item Controlan una gran variedad de procesos biológicos, como el desarrollo, la diferenciación y proliferación celular, y respuesta a estrés
         \item En \textit{A. thaliana} se han identificado más de 300 miARNs.
         \item Están codificados por familias de genes de 1 a 32 miembros que dan lugar a miARNs maduros idénticos o muy similares.
-        \item Han sido identificadas unas 42 familias de miARNs en plantas, las que regulan una amplia variedad de procesos biológicos.
-        \item Muchos de ellos han aparecido recientemente en la evolución y por lo tanto aparecen en un número pequeño de especies.
+        \item Muchos de ellas han aparecido recientemente en la evolución y por lo tanto aparecen en un número pequeño de especies.
     \end{itemize}
 \end{frame}
 
@@ -123,20 +122,20 @@ En animales existe un gran número de genes blanco mediado por miARNs y un ARNm 
 \section{Objetivos}
 
 \begin{frame}{Objetivos}
+    Diseñar estrategias computacionales para:
     \setbeamercovered{transparent=25}
-	\begin{enumerate}[<+->]
-        \item Identificar genes regulados por miARNs en plantas.
-        \item Estudiar la biogénesis de los miARNs en plantas.
-	\end{enumerate}
+	\begin{itemize}[<+->]
+        \item identificar redes regulatorias de miARNs en plantas.
+        \item comprender la biogénesis de los miARNs en plantas.
+	\end{itemize}
 \end{frame}
 
 \begin{frame}{Objetivos específicos}
     \setbeamercovered{transparent=25}
 		\pause
 		\begin{itemize}
-            \item<-2> Diseñar una estrategia y una herramienta web para la identificación de genes blancos regulados por miARNs en plantas.
-			\item<-1> Desarrollar herramientas para el análisis de los intermediarios de procesamiento de miARNs en plantas.
-			\item<-1> Identificar y caracterizar precursores de miARNs en distintas especies que tengan mecanismos de procesamiento distintos.
+            \item<-2> Diseñar una estrategia para la identificación de genes blancos regulados por miARNs.
+			\item<-1> Caracterizar precursores de miARNs en distintas especies que tengan mecanismos de procesamiento distintos.
 			\item<-1> Caracterizar la relación entre la evolución de los precursores de miARNs en plantas y los mecanismos de procesamiento determinados previamente.
         \end{itemize}
 \end{frame}
@@ -148,9 +147,11 @@ En animales existe un gran número de genes blanco mediado por miARNs y un ARNm 
 
 %~ Aplicaciones bioinformáticas para el estudio de interacciones miARN-gen blanco
 
-\begin{frame}{La identificación de genes blancos regulados por miARNs en plantas es muy importante para poder conocer el rol de los miARNs}
+%~ La identificación de genes blancos regulados por miARNs en plantas es muy importante para poder conocer el rol de los miARNs
+
+\begin{frame}{Problemáticas y dificultades a la hora de identificar genes regulados por miARNs}
 	\begin{itemize}
-		\item En general, se obtiene de diferentes estrategias computacionales donde tienen en cuenta la complementariedad con sus mensajeros blanco.
+		\item Estrategias computacionales donde tienen en cuenta la complementariedad con sus mensajeros blanco.
         \item Uno de los mayores desafíos es predecir los genes regulados por estos ARN pequeños con una baja frecuencia de predicciones falsas.
 	\end{itemize}
 \end{frame}
@@ -161,59 +162,87 @@ En animales existe un gran número de genes blanco mediado por miARNs y un ARNm 
 	\end{center}
 \end{frame}
 
-\begin{frame}{Búsqueda de potenciales genes blancos}
+\begin{frame}{Esquema de la estrategia para la identificación de nuevos genes blancos}
 	\begin{center}
-		\includegraphics[width=0.5\textwidth]{img/NAR_fig1_03.png}
+		\includegraphics[width=0.7\textwidth]{img/NAR_fig1_01.png}
 	\end{center}
 \end{frame}
 
-\begin{frame}{Filtros de evolución y empíricos de interacción miARN-gen blanco}
+\begin{frame}{Esquema de la estrategia para la identificación de nuevos genes blancos}
 	\begin{center}
-		\includegraphics[width=0.5\textwidth]{img/NAR_fig1_04.png}
-	\end{center}
-\end{frame}
-
-\begin{frame}{Mínimo de 4 especies requeridas}
-	\begin{center}
-		\includegraphics[width=0.5\textwidth]{img/NAR_fig1_05.png}
+		\includegraphics[width=0.7\textwidth]{img/NAR_fig1_02.png}
 	\end{center}
 \end{frame}
 
 
-\begin{frame}{Validación experimental}
+\begin{frame}{Esquema de la estrategia para la identificación de nuevos genes blancos}
 	\begin{center}
-		\includegraphics[width=0.5\textwidth]{img/NAR_fig1_07.png}
+		\includegraphics[width=0.7\textwidth]{img/NAR_fig1_03.png}
+	\end{center}
+\end{frame}
+
+
+\begin{frame}{Esquema de la estrategia para la identificación de nuevos genes blancos}
+	\begin{center}
+		\includegraphics[width=0.7\textwidth]{img/NAR_fig1_04.png}
 	\end{center}
 \end{frame}
 
 \begin{frame}{Conservación de la interacción en distintas especie}
 	\begin{center}
-		\includegraphics[width=0.5\textwidth]{img/NAR_fig2_01.png}
+		\includegraphics[width=1\textwidth]{img/NAR_fig2_01.png}
+	\end{center}
+\end{frame}
+
+
+\begin{frame}{miARN consenso de 18 nt}
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/shuffle_01.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{Control: miARN al azar}
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/shuffle_02.png}
 	\end{center}
 \end{frame}
 
 \begin{frame}{La relación señal/ruido incrementa al aumentar el número de especies}
 	\begin{center}
-		\includegraphics[width=0.5\textwidth]{img/NAR_fig2_02.png}
+		\includegraphics[width=1\textwidth]{img/NAR_fig2_02.png}
 	\end{center}
 \end{frame}
 
+
+\begin{frame}{Parámetros empíricos deducidos de interacciones miARN-gen blanco validadas experimentalmente.}
+	\begin{center}
+		\includegraphics[width=1\textwidth]{img/filtros_empiricos_01.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{Parámetros empíricos deducidos de interacciones miARN-gen blanco validadas experimentalmente. Filtros aplicados en nuestra estrategia.}
+	\begin{center}
+		\includegraphics[width=1\textwidth]{img/filtros_empiricos_02.png}
+	\end{center}
+\end{frame}
+
+
 \begin{frame}{Slección de candidatos teniendo en cuenta los filtros empíricos}
 	\begin{center}
-		\includegraphics[width=0.5\textwidth]{img/NAR_fig2_03.png}
+		\includegraphics[width=1\textwidth]{img/NAR_fig2_03.png}
 	\end{center}
 \end{frame}
 
 \begin{frame}{Al aplicar filtros empíricos y de conservación la relación señal/ruido aumenta}
 	\begin{center}
-		\includegraphics[width=0.5\textwidth]{img/NAR_fig2_04.png}
+		\includegraphics[width=1\textwidth]{img/NAR_fig2_04.png}
 	\end{center}
 \end{frame}
 
 \begin{frame}{Efecto sinérgico al combinar filtro de conservación evolutiva y empíricos}
 %~ pueden estar seleccionando aspectos diferentes de la interacción miARN-gen blanco
 	\begin{center}
-		\includegraphics[width=0.5\textwidth]{img/NAR_fig2_05.png}
+		\includegraphics[width=1\textwidth]{img/NAR_fig2_05.png}
 	\end{center}
 \end{frame}
 
@@ -229,31 +258,16 @@ En animales existe un gran número de genes blanco mediado por miARNs y un ARNm 
 	\end{center}
 \end{frame}
 
-%~ \begin{frame}{Nuevos genes blancos validados en \textit{A. thaliana}}
-	%~ \begin{center}
-		%~ \includegraphics[width=1\textwidth]{img/Figure4_retocada.png}
-	%~ \end{center}
-%~ \end{frame}
-
-\begin{frame}{Validación experimental}
+\begin{frame}{Se validaron 6 nuevos genes blanco en \textit{A. thaliana}}
 	\begin{center}
 		\includegraphics[width=1\textwidth]{img/Figure4_retocada_nueva01.png}
 	\end{center}
 \end{frame}
 
 
-\begin{frame}{Nuevos genes blancos validados en \textit{A. thaliana}}
-	\begin{center}
-		\includegraphics[width=1\textwidth]{img/Figure4_retocada_nueva02.png}
-	\end{center}
-\end{frame}
 
-
-\begin{frame}{Nuevos genes blancos con interacciones G-U}
-ESTO NO LO VOY A PONER
-	\begin{center}
-		\includegraphics[width=.6\textwidth]{img/Figure5_retocada.png}
-	\end{center}
+\begin{frame}{¿Pueden los miARNs en Angiospermas regular genes específicos de Solanaceae?}
+????????
 \end{frame}
 
 \begin{frame}{Identificación de genes blancos específicos de \textit{Solanaceae}}
@@ -263,8 +277,8 @@ ESTO NO LO VOY A PONER
 \end{frame}
 
 
-\begin{frame}{Herramienta para la predicción de genes blancos regulados por miARNs en plantas}
-ComTAR, una herramienta para predecir potenciales genes blancos regulados por miARNs en plantas basada en la conservación evolutiva del par miARN-gen blanco. Permite realiza la búsqueda de:
+\begin{frame}{Herramienta web para la predicción de genes blancos regulados por miARNs en plantas}
+Desarrollamos ComTAR, que permite realizar la búsqueda de:
 
 \begin{itemize}
     \item<2-> potenciales genes blancos a partir de un miARN.
@@ -289,18 +303,28 @@ ComTAR, una herramienta para predecir potenciales genes blancos regulados por mi
 	\end{center}
 \end{frame}
 
-
 \begin{frame}{Conclusiones I}
 	\begin{itemize}
         \item<1-> Diseñamos una estrategia para identificar genes blancos regulados por miARNs en plantas, basado en la conservación evolutiva del par miARN-gen blanco.
         \item<2-> Identificamos nuevos genes blancos en \textit{A. thaliana} y se validaron experimentalmente varios de ellos.
         %~ a pesar de que este sistema ya había sido estudiado en detalles en distintos enfoques genómicos. 
-        \item<3-> Esta estrategia puede ser utilizada para identificar genes blancos presentes en un grupo específico de especies.
-        \item<4-> Interacciones miARN-gen blanco conservadas probablemente participen en procesos biológicos relevantes
-        \item<5-> Desarrollamos una herramienta web denominada comTAR para predecir potenciales genes blancos regulados por miARNs en plantas
+        \uncover<2->{   \begin{center}
+                            \includegraphics[width=.7\textwidth]{img/tabla_targets.png}
+                        \end{center}
+        }
 	\end{itemize}
 \end{frame}
 
+
+\begin{frame}{Conclusiones I}
+	\begin{itemize}
+        \item<1-> Diseñamos una estrategia para identificar genes blancos regulados por miARNs en plantas, basado en la conservación evolutiva del par miARN-gen blanco.
+        \item<1-> Identificamos nuevos genes blancos en \textit{A. thaliana} y se validaron experimentalmente varios de ellos.
+        \item<1-> Esta estrategia puede ser utilizada para identificar genes blancos presentes en un grupo específico de especies.
+        \item<2-> Interacciones miARN-gen blanco conservadas probablemente participen en procesos biológicos relevantes.
+        \item<3-> Desarrollamos una herramienta web denominada comTAR para predecir potenciales genes blancos regulados por miARNs en plantas.
+	\end{itemize}
+\end{frame}
 
 \subsection{Resultados 2}
 
@@ -308,9 +332,8 @@ ComTAR, una herramienta para predecir potenciales genes blancos regulados por mi
     \setbeamercovered{transparent=25}
 		\pause
 		\begin{itemize}
-            \item<-1> Diseñar una estrategia y una herramienta web para la identificación de genes blancos regulados por miARNs en plantas.
-			\item<-2> Desarrollar herramientas para el análisis de los intermediarios de procesamiento de miARNs en plantas.
-			\item<-2> Identificar y caracterizar precursores de miARNs en distintas especies que tengan mecanismos de procesamiento distintos.
+            \item<-1> Diseñar una estrategia para la identificación de genes blancos regulados por miARNs.
+			\item<-2> Caracterizar precursores de miARNs en distintas especies que tengan mecanismos de procesamiento distintos.
 			\item<-1> Caracterizar la relación entre la evolución de los precursores de miARNs en plantas y los mecanismos de procesamiento determinados previamente.
         \end{itemize}
 \end{frame}
@@ -337,18 +360,17 @@ ComTAR, una herramienta para predecir potenciales genes blancos regulados por mi
 \end{frame}
 
 
-\begin{frame}{Visualización de precursores que se procesan desde la base}
+\begin{frame}{Los precursores que se procesan desde la base tienen un sólo pico de señal en las bibliotecas de SPARE}
 	\begin{center}
 		\includegraphics[width=.8\textwidth]{img/GR_fig2A.png}
 	\end{center}
 \end{frame}
 
-\begin{frame}{Visualización de precursores que se procesan desde el loop}
+\begin{frame}{Los precursores que se procesan desde la base tienen al menos dos picos de señal en las bibliotecas de SPARE}
 	\begin{center}
-		\includegraphics[width=.8\textwidth]{img/GR_fig4A.png}
+		\includegraphics[width=.7\textwidth]{img/GR_fig4A.png}
 	\end{center}
 \end{frame}
-
 
 
 \begin{frame}{Bibliotecas de SPARE}
@@ -372,29 +394,18 @@ ComTAR, una herramienta para predecir potenciales genes blancos regulados por mi
 \end{frame}
 
 
-\begin{frame}{Precursores procesados desde la base}
+\begin{frame}{Visualización de precursores procesados desde la base}
 	\begin{center}
 		\includegraphics[width=1\textwidth]{img/miR165a_SPARE.png}
 	\end{center}
 \end{frame}
 
-\begin{frame}{Precursores procesados desde el loop}
+\begin{frame}{Visualización de precursores procesados desde el loop}
 	\begin{center}
 		\includegraphics[width=1\textwidth]{img/miR159b_SPARE.png}
 	\end{center}
 \end{frame}
 
-\begin{frame}{Tallo inferior de 15 nt en precursores procesados desde la base}
-	\begin{center}
-		\includegraphics[width=1\textwidth]{img/GR_fig2C.png}
-	\end{center}
-\end{frame}
-
-\begin{frame}{Región terminal estructurada en precursores procesados desde el loop}
-	\begin{center}
-		\includegraphics[width=1\textwidth]{img/GR_fig4C.png}
-	\end{center}
-\end{frame}
 
 \begin{frame}{Conclusiones II}
 	\begin{center}
@@ -423,20 +434,10 @@ ComTAR, una herramienta para predecir potenciales genes blancos regulados por mi
     \setbeamercovered{transparent=25}
 		\pause
 		\begin{itemize}
-            \item<-1> Diseñar una estrategia y una herramienta web para la identificación de genes blancos regulados por miARNs en plantas.
-			\item<-1> Desarrollar herramientas para el análisis de los intermediarios de procesamiento de miARNs en plantas.
-			\item<-1> Identificar y caracterizar precursores de miARNs en distintas especies que tengan mecanismos de procesamiento distintos.
+            \item<-1> Diseñar una estrategia para la identificación de genes blancos regulados por miARNs.
+			\item<-1> Caracterizar precursores de miARNs en distintas especies que tengan mecanismos de procesamiento distintos.
 			\item<-2> Caracterizar la relación entre la evolución de los precursores de miARNs en plantas y los mecanismos de procesamiento determinados previamente.
         \end{itemize}
-\end{frame}
-
-
-
-\begin{frame}{Estrategia bioinformática para el estudio de la evolución y biogénesis de miARNs en plantas}
-ARMAR UNA INTRO CON ESTO!!!
-    Comenzamos nuestro análisis con una definición arbitraria de los precursores de plantas incluyendo 150 nt fuera del par miARN/miARN*.
-    Para cada miembro de cada familia de A. thaliana no es trivial asignarle un ortólogo en otra especie teniendo en cuenta la anotación de miRBase. 
-    Por esto, realizamos una búsqueda de ortólogos para cada miembro de cada familia de \textit{A. thaliana} utilizando como criterio la técnica de Blast recíproco.
 \end{frame}
 
 
@@ -446,6 +447,27 @@ ARMAR UNA INTRO CON ESTO!!!
 	\end{center}
 \end{frame}
 
+
+\begin{frame}{Dificultades para estudiar precursores de miARNs en distintas especies}
+    Anotación arbitraria en miRBASE (Base de datos de secuencias y anotación de miARNs).
+    \begin{itemize}
+        \item Longitud de precursores.
+        \item Definición de ortólogos
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{¿Cuál es el ortólogo en otras especies?}
+	\begin{center}
+		\includegraphics[width=1\textwidth]{img/ortologos01.png}
+	\end{center}
+\end{frame}
+
+    %~ Comenzamos nuestro análisis con una definición arbitraria de los precursores de plantas incluyendo 150 nt fuera del par miARN/miARN*.
+    %~ Para cada miembro de cada familia de A. thaliana no es trivial asignarle un ortólogo en otra especie teniendo en cuenta la anotación de miRBase. 
+    
+    
+    %~ IMPORTANTE
+    %~ Por esto, realizamos una búsqueda de ortólogos para cada miembro de cada familia de \textit{A. thaliana} utilizando como criterio la técnica de Blast recíproco.
 
 
 \begin{frame}{Conservación de la secuencia primaria del miR172a en distintas especies}
@@ -618,11 +640,11 @@ ARMAR UNA INTRO CON ESTO!!!
 
 \begin{frame}{
 hsa-let-7-a.
-\uncover<2->{El loop terminal está conservado en algunos precursores de animales.}
+\uncover<2->{El loop terminal está conservado en la mayoría de los precursores de animales estudiados.}
 }
-    \begin{center}
-        La riboproteína HnRNP A1 se une al loop terminal del precursor de let-7-a e inhibe su procesamiento por Drosha.
-    \end{center}
+    %~ \begin{center}
+        %~ La riboproteína HnRNP A1 se une al loop terminal del precursor de let-7-a e inhibe su procesamiento por Drosha.
+    %~ \end{center}
 	\begin{center}
 		\uncover<2->{\includegraphics[width=.6\textwidth]{img/hsa-let-7a-1_circos.png}}
 	\end{center}
@@ -635,9 +657,12 @@ hsa-let-7-a.
 	\begin{center}
 		\includegraphics[width=1\textwidth]{img/animals_vs_plants_circos.png}
 	\end{center}
-    \begin{center}
-        \uncover<2->{Estructuralmente los precursores en animales comparten patrones similares a los precursores de plantas cortos de loop a base y también a los cortos de la base al loop}
-    \end{center}
+        %~ Aca tengo que decir:
+            %~ los prec en plantas que se procesan de abajo tienen conservación hacia abajo
+            %~ los prec en plantas que se procesan de arriba tienen conservación hacia arriba
+            %~ en animales: cons abajo -> corte por drosha
+            %~ arriba -> exporte al citoplasma
+            %~ en plantas esto no existe al ser procesado en forma nuclear
 \end{frame}
 
 
@@ -649,7 +674,6 @@ hsa-let-7-a.
         \item<4-> Estudiamos precursores con mutaciones que afectan al procesamiento de miARNs en plantas. 
         Esta información podría ser utilizada para ayudar en el diseño de miARNs artificiales en distintas especies y aumentar su eficiencia.
         \item<5-> Pudimos utilizar este mismo enfoque para estudiar precursores de miARNs en animales.
-
 	\end{itemize}
 \end{frame}
 
@@ -703,5 +727,16 @@ hsa-let-7-a.
 	\end{center}
 \end{frame}
 
+\begin{frame}{Tallo inferior de 15 nt en precursores procesados desde la base}
+	\begin{center}
+		\includegraphics[width=1\textwidth]{img/GR_fig2C.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{Región terminal estructurada en precursores procesados desde el loop}
+	\begin{center}
+		\includegraphics[width=1\textwidth]{img/GR_fig4C.png}
+	\end{center}
+\end{frame}
 
 \end{document}

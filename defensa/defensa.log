@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.5.2)  18 MAR 2016 11:05
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.5.2)  18 MAR 2016 18:05
 entering extended mode
  %&-line parsing enabled.
 **defensa.tex
@@ -1192,12 +1192,12 @@ File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png> [2
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 67.
+LaTeX Font Info:    Try loading font information for U+msa on input line 66.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 67.
+LaTeX Font Info:    Try loading font information for U+msb on input line 66.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
@@ -1298,36 +1298,39 @@ File: img/variabilidad_maduro.png Graphic file (type png)
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png> [18
 
- <./img/variabilidad_maduro.png>] <img/NAR_fig1_03.png, id=520, 397.485pt x 569
-.9694pt>
+ <./img/variabilidad_maduro.png>] <img/NAR_fig1_01.png, id=520, 595.5048pt x 55
+3.1064pt>
+File: img/NAR_fig1_01.png Graphic file (type png)
+
+<use img/NAR_fig1_01.png>
+File: img/logoIBR2016_byn.png Graphic file (type png)
+ <use img/logoIBR2016_byn.png> [19
+
+ <./img/NAR_fig1_01.png>] <img/NAR_fig1_02.png, id=548, 595.5048pt x 553.1064pt
+>
+File: img/NAR_fig1_02.png Graphic file (type png)
+
+<use img/NAR_fig1_02.png>
+File: img/logoIBR2016_byn.png Graphic file (type png)
+ <use img/logoIBR2016_byn.png> [20
+
+ <./img/NAR_fig1_02.png>] <img/NAR_fig1_03.png, id=575, 595.5048pt x 553.1064pt
+>
 File: img/NAR_fig1_03.png Graphic file (type png)
 
 <use img/NAR_fig1_03.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [19
+ <use img/logoIBR2016_byn.png> [21
 
- <./img/NAR_fig1_03.png>] <img/NAR_fig1_04.png, id=548, 397.485pt x 569.9694pt>
+ <./img/NAR_fig1_03.png>] <img/NAR_fig1_04.png, id=602, 595.5048pt x 553.1064pt
+>
 File: img/NAR_fig1_04.png Graphic file (type png)
 
 <use img/NAR_fig1_04.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [20
-
- <./img/NAR_fig1_04.png>] <img/NAR_fig1_05.png, id=575, 397.485pt x 569.9694pt>
-File: img/NAR_fig1_05.png Graphic file (type png)
-
-<use img/NAR_fig1_05.png>
-File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [21
-
- <./img/NAR_fig1_05.png>] <img/NAR_fig1_07.png, id=602, 397.485pt x 569.9694pt>
-File: img/NAR_fig1_07.png Graphic file (type png)
-
-<use img/NAR_fig1_07.png>
-File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png> [22
 
- <./img/NAR_fig1_07.png>] <img/NAR_fig2_01.png, id=629, 436.9926pt x 347.8596pt
+ <./img/NAR_fig1_04.png>] <img/NAR_fig2_01.png, id=629, 653.3208pt x 295.8252pt
 >
 File: img/NAR_fig2_01.png Graphic file (type png)
 
@@ -1335,134 +1338,143 @@ File: img/NAR_fig2_01.png Graphic file (type png)
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png> [23
 
- <./img/NAR_fig2_01.png>] <img/NAR_fig2_02.png, id=656, 436.9926pt x 347.8596pt
->
+ <./img/NAR_fig2_01.png>] <img/shuffle_01.png, id=656, 247.6452pt x 159.9576pt>
+File: img/shuffle_01.png Graphic file (type png)
+
+<use img/shuffle_01.png>
+File: img/logoIBR2016_byn.png Graphic file (type png)
+ <use img/logoIBR2016_byn.png> [24
+
+ <./img/shuffle_01.png>] <img/shuffle_02.png, id=683, 247.6452pt x 159.9576pt>
+File: img/shuffle_02.png Graphic file (type png)
+
+<use img/shuffle_02.png>
+File: img/logoIBR2016_byn.png Graphic file (type png)
+ <use img/logoIBR2016_byn.png> [25
+
+ <./img/shuffle_02.png>] <img/NAR_fig2_02.png, id=711, 653.3208pt x 295.8252pt>
 File: img/NAR_fig2_02.png Graphic file (type png)
 
 <use img/NAR_fig2_02.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [24
+ <use img/logoIBR2016_byn.png> [26
 
- <./img/NAR_fig2_02.png>] <img/NAR_fig2_03.png, id=683, 436.9926pt x 347.8596pt
->
+ <./img/NAR_fig2_02.png>] <img/filtros_empiricos_01.png, id=738, 770.3982pt x 2
+53.4268pt>
+File: img/filtros_empiricos_01.png Graphic file (type png)
+
+<use img/filtros_empiricos_01.png>
+File: img/logoIBR2016_byn.png Graphic file (type png)
+ <use img/logoIBR2016_byn.png> [27
+
+ <./img/filtros_empiricos_01.png>]
+<img/filtros_empiricos_02.png, id=765, 770.3982pt x 253.4268pt>
+File: img/filtros_empiricos_02.png Graphic file (type png)
+
+<use img/filtros_empiricos_02.png>
+File: img/logoIBR2016_byn.png Graphic file (type png)
+ <use img/logoIBR2016_byn.png> [28
+
+ <./img/filtros_empiricos_02.png>] <img/NAR_fig2_03.png, id=792, 653.3208pt x 2
+95.8252pt>
 File: img/NAR_fig2_03.png Graphic file (type png)
 
 <use img/NAR_fig2_03.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [25
+ <use img/logoIBR2016_byn.png> [29
 
- <./img/NAR_fig2_03.png>] <img/NAR_fig2_04.png, id=711, 436.9926pt x 347.8596pt
+ <./img/NAR_fig2_03.png>] <img/NAR_fig2_04.png, id=819, 653.3208pt x 295.8252pt
 >
 File: img/NAR_fig2_04.png Graphic file (type png)
 
 <use img/NAR_fig2_04.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [26
+ <use img/logoIBR2016_byn.png> [30
 
- <./img/NAR_fig2_04.png>] <img/NAR_fig2_05.png, id=738, 436.9926pt x 347.8596pt
+ <./img/NAR_fig2_04.png>] <img/NAR_fig2_05.png, id=846, 653.3208pt x 295.8252pt
 >
 File: img/NAR_fig2_05.png Graphic file (type png)
 
 <use img/NAR_fig2_05.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [27
+ <use img/logoIBR2016_byn.png> [31
 
- <./img/NAR_fig2_05.png>] <img/NAR_fig2_bis.png, id=765, 869.649pt x 355.0866pt
->
+ <./img/NAR_fig2_05.png>] <img/NAR_fig2_bis.png, id=874, 716.9184pt x 441.3288p
+t>
 File: img/NAR_fig2_bis.png Graphic file (type png)
 
 <use img/NAR_fig2_bis.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [28
+ <use img/logoIBR2016_byn.png> [32
 
- <./img/NAR_fig2_bis.png>] <img/NAR_fig01y03.png, id=792, 545.3976pt x 543.4704
+ <./img/NAR_fig2_bis.png>] <img/NAR_fig01y03.png, id=901, 545.3976pt x 543.4704
 pt>
 File: img/NAR_fig01y03.png Graphic file (type png)
 
 <use img/NAR_fig01y03.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [29
+ <use img/logoIBR2016_byn.png> [33
 
- <./img/NAR_fig01y03.png>] <img/Figure4_retocada_nueva01.png, id=819, 860.9766p
-t x 334.851pt>
+ <./img/NAR_fig01y03.png>] <img/Figure4_retocada_nueva01.png, id=928, 458.1918p
+t x 161.403pt>
 File: img/Figure4_retocada_nueva01.png Graphic file (type png)
 
 <use img/Figure4_retocada_nueva01.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [30
+ <use img/logoIBR2016_byn.png> [34
 
  <./img/Figure4_retocada_nueva01.png>]
-<img/Figure4_retocada_nueva02.png, id=846, 860.9766pt x 334.851pt>
-File: img/Figure4_retocada_nueva02.png Graphic file (type png)
-
-<use img/Figure4_retocada_nueva02.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [31
+ <use img/logoIBR2016_byn.png> [35
 
- <./img/Figure4_retocada_nueva02.png>]
-<img/Figure5_retocada.png, id=874, 460.6008pt x 404.2302pt>
-File: img/Figure5_retocada.png Graphic file (type png)
-
-<use img/Figure5_retocada.png>
-File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [32
-
- <./img/Figure5_retocada.png>] <img/Figure6_retocada.png, id=901, 611.886pt x 2
-95.8252pt>
+]
+<img/Figure6_retocada.png, id=980, 611.886pt x 295.8252pt>
 File: img/Figure6_retocada.png Graphic file (type png)
 
 <use img/Figure6_retocada.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [33
+ <use img/logoIBR2016_byn.png> [36
 
  <./img/Figure6_retocada.png>]
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [34
-
-]
-File: img/logoIBR2016_byn.png Graphic file (type png)
-
-<use img/logoIBR2016_byn.png> [35
-
-]
-File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [36
-
-]
-<img/comTAR_find_targets.png, id=1006, 1146.2825pt x 767.86874pt>
-File: img/comTAR_find_targets.png Graphic file (type png)
-
-<use img/comTAR_find_targets.png>
-File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png> [37
 
- <./img/comTAR_find_targets.png (PNG copy)>]
-<img/comTAR_fig2.png, id=1033, 1619.04875pt x 914.41624pt>
-File: img/comTAR_fig2.png Graphic file (type png)
-
-<use img/comTAR_fig2.png>
+]
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [38
 
- <./img/comTAR_fig2.png (PNG copy)>]
+<use img/logoIBR2016_byn.png> [38
+
+]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png> [39
 
 ]
+<img/comTAR_find_targets.png, id=1086, 1146.2825pt x 767.86874pt>
+File: img/comTAR_find_targets.png Graphic file (type png)
+
+<use img/comTAR_find_targets.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
+ <use img/logoIBR2016_byn.png> [40
 
-<use img/logoIBR2016_byn.png> [40
+ <./img/comTAR_find_targets.png (PNG copy)>]
+<img/comTAR_fig2.png, id=1112, 1619.04875pt x 914.41624pt>
+File: img/comTAR_fig2.png Graphic file (type png)
 
-]
+<use img/comTAR_fig2.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png> [41
 
-]
+ <./img/comTAR_fig2.png (PNG copy)>] <img/tabla_targets.png, id=1138, 570.4512p
+t x 270.2898pt>
+File: img/tabla_targets.png Graphic file (type png)
+
+<use img/tabla_targets.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
+ <use img/logoIBR2016_byn.png> [42
 
-<use img/logoIBR2016_byn.png> [42
-
-]
+ <./img/tabla_targets.png>]
+File: img/tabla_targets.png Graphic file (type png)
+ <use img/tabla_targets.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png> [43
 
@@ -1476,24 +1488,38 @@ File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png> [45
 
 ]
-<img/hairpin_distribution.png, id=1237, 332.9238pt x 358.4592pt>
+File: img/logoIBR2016_byn.png Graphic file (type png)
+
+<use img/logoIBR2016_byn.png> [46
+
+]
+File: img/logoIBR2016_byn.png Graphic file (type png)
+ <use img/logoIBR2016_byn.png> [47
+
+]
+File: img/logoIBR2016_byn.png Graphic file (type png)
+
+<use img/logoIBR2016_byn.png> [48
+
+]
+<img/hairpin_distribution.png, id=1316, 332.9238pt x 358.4592pt>
 File: img/hairpin_distribution.png Graphic file (type png)
 
 <use img/hairpin_distribution.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [46
+ <use img/logoIBR2016_byn.png> [49
 
- <./img/hairpin_distribution.png>] <img/GR_fig1C.png, id=1263, 103.587pt x 178.
+ <./img/hairpin_distribution.png>] <img/GR_fig1C.png, id=1344, 103.587pt x 178.
 266pt>
 File: img/GR_fig1C.png Graphic file (type png)
 
 <use img/GR_fig1C.png>
-<img/SPARE_tecnica.png, id=1264, 1168.8468pt x 480.8364pt>
+<img/SPARE_tecnica.png, id=1345, 1168.8468pt x 480.8364pt>
 File: img/SPARE_tecnica.png Graphic file (type png)
 
 <use img/SPARE_tecnica.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [47
+ <use img/logoIBR2016_byn.png> [50
 
  <./img/GR_fig1C.png> <./img/SPARE_tecnica.png>]
 File: img/GR_fig1C.png Graphic file (type png)
@@ -1502,83 +1528,63 @@ File: img/SPARE_tecnica.png Graphic file (type png)
 
 <use img/SPARE_tecnica.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [48
+ <use img/logoIBR2016_byn.png> [51
 
 ]
-<img/GR_fig2A.png, id=1318, 434.5836pt x 218.7372pt>
+<img/GR_fig2A.png, id=1398, 434.5836pt x 218.7372pt>
 File: img/GR_fig2A.png Graphic file (type png)
  <use img/GR_fig2A.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
-<use img/logoIBR2016_byn.png> [49
+<use img/logoIBR2016_byn.png> [52
 
  <./img/GR_fig2A.png>]
-<img/GR_fig4A.png, id=1345, 408.5664pt x 242.8272pt>
+<img/GR_fig4A.png, id=1425, 408.5664pt x 242.8272pt>
 File: img/GR_fig4A.png Graphic file (type png)
  <use img/GR_fig4A.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
-<use img/logoIBR2016_byn.png> [50
+<use img/logoIBR2016_byn.png> [53
 
  <./img/GR_fig4A.png>]
-Overfull \hbox (4.94366pt too wide) in paragraph at lines 372--372
+Overfull \hbox (4.94366pt too wide) in paragraph at lines 394--394
  [] 
  []
 
 File: img/logoIBR2016_byn.png Graphic file (type png)
-<use img/logoIBR2016_byn.png> [51
+<use img/logoIBR2016_byn.png> [54
 
 ]
-<img/miR165a_SPARE.png, id=1398, 780.80653pt x 411.83005pt>
+<img/miR165a_SPARE.png, id=1478, 780.80653pt x 411.83005pt>
 File: img/miR165a_SPARE.png Graphic file (type png)
 
 <use img/miR165a_SPARE.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [52
+ <use img/logoIBR2016_byn.png> [55
 
- <./img/miR165a_SPARE.png>] <img/miR159b_SPARE.png, id=1425, 780.80653pt x 365.
+ <./img/miR165a_SPARE.png>] <img/miR159b_SPARE.png, id=1506, 780.80653pt x 365.
 708pt>
 File: img/miR159b_SPARE.png Graphic file (type png)
 
 <use img/miR159b_SPARE.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [53
+ <use img/logoIBR2016_byn.png> [56
 
- <./img/miR159b_SPARE.png>] <img/GR_fig2C.png, id=1452, 433.62pt x 105.0324pt>
-File: img/GR_fig2C.png Graphic file (type png)
-
-<use img/GR_fig2C.png>
-File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [54
-
- <./img/GR_fig2C.png>]
-<img/GR_fig4C.png, id=1479, 431.211pt x 109.3686pt>
-File: img/GR_fig4C.png Graphic file (type png)
- <use img/GR_fig4C.png>
-File: img/logoIBR2016_byn.png Graphic file (type png)
-
-<use img/logoIBR2016_byn.png> [55
-
- <./img/GR_fig4C.png>]
-<img/mecanismos.png, id=1507, 608.5134pt x 309.89375pt>
+ <./img/miR159b_SPARE.png>] <img/mecanismos.png, id=1532, 614.295pt x 309.67696
+pt>
 File: img/mecanismos.png Graphic file (type png)
 
 <use img/mecanismos.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [56
-
- <./img/mecanismos.png>]
-File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png> [57
 
-]
+ <./img/mecanismos.png>]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png> [58
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
-
-<use img/logoIBR2016_byn.png> [59
+ <use img/logoIBR2016_byn.png> [59
 
 ]
 <img/treePhytozome.png, id=1608, 551.05875pt x 529.37775pt>
@@ -1588,199 +1594,211 @@ File: img/treePhytozome.png Graphic file (type png)
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png> [60
 
- <./img/treePhytozome.png>] <img/miR172a_tcoffee_01.png, id=1635, 732.8178pt x 
-419.166pt>
+ <./img/treePhytozome.png>]
+File: img/logoIBR2016_byn.png Graphic file (type png)
+ <use img/logoIBR2016_byn.png> [61
+
+]
+<img/ortologos01.png, id=1661, 828.2142pt x 260.172pt>
+File: img/ortologos01.png Graphic file (type png)
+
+<use img/ortologos01.png>
+File: img/logoIBR2016_byn.png Graphic file (type png)
+ <use img/logoIBR2016_byn.png> [62
+
+ <./img/ortologos01.png>] <img/miR172a_tcoffee_01.png, id=1688, 732.8178pt x 41
+9.166pt>
 File: img/miR172a_tcoffee_01.png Graphic file (type png)
 
 <use img/miR172a_tcoffee_01.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [61
+ <use img/logoIBR2016_byn.png> [63
 
  <./img/miR172a_tcoffee_01.png>]
-<img/miR172a_tcoffee_02.png, id=1663, 732.8178pt x 419.166pt>
+<img/miR172a_tcoffee_02.png, id=1715, 732.8178pt x 419.166pt>
 File: img/miR172a_tcoffee_02.png Graphic file (type png)
 
 <use img/miR172a_tcoffee_02.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [62
+ <use img/logoIBR2016_byn.png> [64
 
  <./img/miR172a_tcoffee_02.png>]
-<img/miR172a_tcoffee_03.png, id=1690, 732.8178pt x 419.166pt>
+<img/miR172a_tcoffee_03.png, id=1742, 732.8178pt x 419.166pt>
 File: img/miR172a_tcoffee_03.png Graphic file (type png)
 
 <use img/miR172a_tcoffee_03.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [63
+ <use img/logoIBR2016_byn.png> [65
 
  <./img/miR172a_tcoffee_03.png>]
-<img/miR172a_rnafold.png, id=1717, 814.84425pt x 582.4962pt>
+<img/miR172a_rnafold.png, id=1769, 814.84425pt x 582.4962pt>
 File: img/miR172a_rnafold.png Graphic file (type png)
 
 <use img/miR172a_rnafold.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [64
+ <use img/logoIBR2016_byn.png> [66
 
  <./img/miR172a_rnafold.png>]
 File: img/miR172a_rnafold.png Graphic file (type png)
  <use img/miR172a_rnafold.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-[65
+[67
 
-] <img/miR172a_circos01.png, id=1770, 2226.8796pt x 2082.3396pt>
+] <img/miR172a_circos01.png, id=1822, 2226.8796pt x 2082.3396pt>
 File: img/miR172a_circos01.png Graphic file (type png)
 
 <use img/miR172a_circos01.png>
-Overfull \vbox (0.22626pt too high) detected at line 482
- []
-
-File: img/logoIBR2016_byn.png Graphic file (type png)
-<use img/logoIBR2016_byn.png> [66
-
- <./img/miR172a_circos01.png>]
-<img/miR172a_circos02.png, id=1796, 2226.8796pt x 2082.3396pt>
-File: img/miR172a_circos02.png Graphic file (type png)
-
-<use img/miR172a_circos02.png>
-Overfull \vbox (0.22626pt too high) detected at line 488
- []
-
-File: img/logoIBR2016_byn.png Graphic file (type png)
-<use img/logoIBR2016_byn.png> [67
-
- <./img/miR172a_circos02.png>]
-<img/miR172a_circos03.png, id=1824, 2226.8796pt x 2082.3396pt>
-File: img/miR172a_circos03.png Graphic file (type png)
-
-<use img/miR172a_circos03.png>
-Overfull \vbox (0.22626pt too high) detected at line 494
+Overfull \vbox (0.22626pt too high) detected at line 504
  []
 
 File: img/logoIBR2016_byn.png Graphic file (type png)
 <use img/logoIBR2016_byn.png> [68
 
- <./img/miR172a_circos03.png>]
-<img/miR172a_circos04.png, id=1851, 2226.8796pt x 2082.3396pt>
-File: img/miR172a_circos04.png Graphic file (type png)
+ <./img/miR172a_circos01.png>]
+<img/miR172a_circos02.png, id=1849, 2226.8796pt x 2082.3396pt>
+File: img/miR172a_circos02.png Graphic file (type png)
 
-<use img/miR172a_circos04.png>
-Overfull \vbox (0.22626pt too high) detected at line 500
+<use img/miR172a_circos02.png>
+Overfull \vbox (0.22626pt too high) detected at line 510
  []
 
 File: img/logoIBR2016_byn.png Graphic file (type png)
 <use img/logoIBR2016_byn.png> [69
 
- <./img/miR172a_circos04.png>]
-<img/miR172a_circos05.png, id=1878, 2226.8796pt x 2082.3396pt>
-File: img/miR172a_circos05.png Graphic file (type png)
+ <./img/miR172a_circos02.png>]
+<img/miR172a_circos03.png, id=1876, 2226.8796pt x 2082.3396pt>
+File: img/miR172a_circos03.png Graphic file (type png)
 
-<use img/miR172a_circos05.png>
-Overfull \vbox (0.22626pt too high) detected at line 506
+<use img/miR172a_circos03.png>
+Overfull \vbox (0.22626pt too high) detected at line 516
  []
 
 File: img/logoIBR2016_byn.png Graphic file (type png)
 <use img/logoIBR2016_byn.png> [70
 
- <./img/miR172a_circos05.png>]
-<img/miR172a_circos06.png, id=1905, 2226.8796pt x 2082.3396pt>
-File: img/miR172a_circos06.png Graphic file (type png)
+ <./img/miR172a_circos03.png>]
+<img/miR172a_circos04.png, id=1903, 2226.8796pt x 2082.3396pt>
+File: img/miR172a_circos04.png Graphic file (type png)
 
-<use img/miR172a_circos06.png>
-Overfull \vbox (0.22626pt too high) detected at line 512
+<use img/miR172a_circos04.png>
+Overfull \vbox (0.22626pt too high) detected at line 522
  []
 
 File: img/logoIBR2016_byn.png Graphic file (type png)
 <use img/logoIBR2016_byn.png> [71
 
- <./img/miR172a_circos06.png>]
-<img/miR390a_circos.png, id=1932, 2170.9908pt x 2045.241pt>
-File: img/miR390a_circos.png Graphic file (type png)
+ <./img/miR172a_circos04.png>]
+<img/miR172a_circos05.png, id=1930, 2226.8796pt x 2082.3396pt>
+File: img/miR172a_circos05.png Graphic file (type png)
 
-<use img/miR390a_circos.png>
-Overfull \vbox (1.9671pt too high) detected at line 518
+<use img/miR172a_circos05.png>
+Overfull \vbox (0.22626pt too high) detected at line 528
  []
 
 File: img/logoIBR2016_byn.png Graphic file (type png)
 <use img/logoIBR2016_byn.png> [72
 
+ <./img/miR172a_circos05.png>]
+<img/miR172a_circos06.png, id=1957, 2226.8796pt x 2082.3396pt>
+File: img/miR172a_circos06.png Graphic file (type png)
+
+<use img/miR172a_circos06.png>
+Overfull \vbox (0.22626pt too high) detected at line 534
+ []
+
+File: img/logoIBR2016_byn.png Graphic file (type png)
+<use img/logoIBR2016_byn.png> [73
+
+ <./img/miR172a_circos06.png>]
+<img/miR390a_circos.png, id=1985, 2170.9908pt x 2045.241pt>
+File: img/miR390a_circos.png Graphic file (type png)
+
+<use img/miR390a_circos.png>
+Overfull \vbox (1.9671pt too high) detected at line 540
+ []
+
+File: img/logoIBR2016_byn.png Graphic file (type png)
+<use img/logoIBR2016_byn.png> [74
+
  <./img/miR390a_circos.png>]
-<img/seqBTL_circos.png, id=1959, 4598.781pt x 3382.236pt>
+<img/seqBTL_circos.png, id=2012, 4598.781pt x 3382.236pt>
 File: img/seqBTL_circos.png Graphic file (type png)
 
 <use img/seqBTL_circos.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [73
+ <use img/logoIBR2016_byn.png> [75
 
- <./img/seqBTL_circos.png>] <img/srLTB_circos.png, id=1987, 4422.924pt x 2033.1
+ <./img/seqBTL_circos.png>] <img/srLTB_circos.png, id=2039, 4422.924pt x 2033.1
 96pt>
 File: img/srLTB_circos.png Graphic file (type png)
 
 <use img/srLTB_circos.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [74
+ <use img/logoIBR2016_byn.png> [76
 
- <./img/srLTB_circos.png>] <img/seqLTB_circos.png, id=2014, 4709.595pt x 3269.0
+ <./img/srLTB_circos.png>] <img/seqLTB_circos.png, id=2066, 4709.595pt x 3269.0
 13pt>
 File: img/seqLTB_circos.png Graphic file (type png)
 
 <use img/seqLTB_circos.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [75
+ <use img/logoIBR2016_byn.png> [77
 
- <./img/seqLTB_circos.png>] <img/miR160a_meme.png, id=2041, 707.66785pt x 554.7
+ <./img/seqLTB_circos.png>] <img/miR160a_meme.png, id=2093, 707.66785pt x 554.7
 4452pt>
 File: img/miR160a_meme.png Graphic file (type png)
 
 <use img/miR160a_meme.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [76
+ <use img/logoIBR2016_byn.png> [78
 
- <./img/miR160a_meme.png>] <img/miR172_meme.png, id=2068, 1131.2664pt x 633.567
+ <./img/miR160a_meme.png>] <img/miR172_meme.png, id=2120, 1131.2664pt x 633.567
 pt>
 File: img/miR172_meme.png Graphic file (type png)
 
 <use img/miR172_meme.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [77
+ <use img/logoIBR2016_byn.png> [79
 
- <./img/miR172_meme.png>] <img/familia_miR171_circos.png, id=2095, 4483.149pt x
+ <./img/miR172_meme.png>] <img/familia_miR171_circos.png, id=2148, 4483.149pt x
  2881.164pt>
 File: img/familia_miR171_circos.png Graphic file (type png)
 
 <use img/familia_miR171_circos.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [78
+ <use img/logoIBR2016_byn.png> [80
 
  <./img/familia_miR171_circos.png>]
-<img/miR164_ss_bp.png, id=2122, 1897.8102pt x 1170.774pt>
+<img/miR164_ss_bp.png, id=2175, 1897.8102pt x 1170.774pt>
 File: img/miR164_ss_bp.png Graphic file (type png)
 
 <use img/miR164_ss_bp.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [79
+ <use img/logoIBR2016_byn.png> [81
 
- <./img/miR164_ss_bp.png>] <img/miR164a_circos.png, id=2150, 3517.14pt x 2030.7
+ <./img/miR164_ss_bp.png>] <img/miR164a_circos.png, id=2202, 3517.14pt x 2030.7
 87pt>
 File: img/miR164a_circos.png Graphic file (type png)
 
 <use img/miR164a_circos.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [80
+ <use img/logoIBR2016_byn.png> [82
 
  <./img/miR164a_circos.png>]
 File: img/miR164a_circos.png Graphic file (type png)
  <use img/miR164a_circos.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [81
+ <use img/logoIBR2016_byn.png> [83
 
 ]
-<img/miR394b_circos_aliniamientos.png, id=2203, 3779.721pt x 2038.014pt>
+<img/miR394b_circos_aliniamientos.png, id=2254, 3779.721pt x 2038.014pt>
 File: img/miR394b_circos_aliniamientos.png Graphic file (type png)
 
 <use img/miR394b_circos_aliniamientos.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-[82
+[84
 
  <./img/miR394b_circos_aliniamientos.png>]
 File: img/miR394b_circos_aliniamientos.png Graphic file (type png)
@@ -1788,146 +1806,155 @@ File: img/miR394b_circos_aliniamientos.png Graphic file (type png)
 <use img/miR394b_circos_aliniamientos.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-[83
+[85
 
-] <img/circos_monocots_miR396e.png, id=2255, 2286.6228pt x 2013.4422pt>
+] <img/circos_monocots_miR396e.png, id=2307, 2286.6228pt x 2013.4422pt>
 File: img/circos_monocots_miR396e.png Graphic file (type png)
 
 <use img/circos_monocots_miR396e.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [84
+ <use img/logoIBR2016_byn.png> [86
 
  <./img/circos_monocots_miR396e.png>]
 File: img/circos_monocots_miR396e.png Graphic file (type png)
  <use img/circos_monocots_miR396e.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
-<use img/logoIBR2016_byn.png> [85
+<use img/logoIBR2016_byn.png> [87
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [86
+ <use img/logoIBR2016_byn.png> [88
 
 ]
-<img/hsa-let-7a-1_circos.png, id=2332, 2162.3184pt x 2085.7122pt>
+<img/hsa-let-7a-1_circos.png, id=2384, 2162.3184pt x 2085.7122pt>
 File: img/hsa-let-7a-1_circos.png Graphic file (type png)
 
 <use img/hsa-let-7a-1_circos.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [87
+ <use img/logoIBR2016_byn.png> [89
 
  <./img/hsa-let-7a-1_circos.png>]
 File: img/hsa-let-7a-1_circos.png Graphic file (type png)
  <use img/hsa-let-7a-1_circos.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
-<use img/logoIBR2016_byn.png> [88
+<use img/logoIBR2016_byn.png> [90
 
 ]
-<img/animals_vs_plants_circos.png, id=2385, 6593.433pt x 2233.143pt>
+<img/animals_vs_plants_circos.png, id=2436, 6593.433pt x 2233.143pt>
 File: img/animals_vs_plants_circos.png Graphic file (type png)
 
 <use img/animals_vs_plants_circos.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [89
-
- <./img/animals_vs_plants_circos.png>]
-File: img/animals_vs_plants_circos.png Graphic file (type png)
- <use img/animals_vs_plants_circos.png>
-File: img/logoIBR2016_byn.png Graphic file (type png)
-
-<use img/logoIBR2016_byn.png> [90
-
-]
-File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png> [91
 
-]
+ <./img/animals_vs_plants_circos.png>]
 File: img/logoIBR2016_byn.png Graphic file (type png)
-
-<use img/logoIBR2016_byn.png> [92
-
-]
-File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [93
+ <use img/logoIBR2016_byn.png> [92
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
-<use img/logoIBR2016_byn.png> [94
+<use img/logoIBR2016_byn.png> [93
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [95
-
-]
-File: img/logoIBR2016_byn.png Graphic file (type png)
-
-<use img/logoIBR2016_byn.png> [96
-
-]
-File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [97
+ <use img/logoIBR2016_byn.png> [94
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
-<use img/logoIBR2016_byn.png> [98
+<use img/logoIBR2016_byn.png> [95
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [99
-
-]
-File: img/logoIBR2016_byn.png Graphic file (type png)
-
-<use img/logoIBR2016_byn.png> [100
-
-]
-File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [101
+ <use img/logoIBR2016_byn.png> [96
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
-<use img/logoIBR2016_byn.png> [102
+<use img/logoIBR2016_byn.png> [97
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [103
+ <use img/logoIBR2016_byn.png> [98
 
 ]
-<img/extras/NAR_fig3A.png, id=2763, 252.4632pt x 187.902pt>
+File: img/logoIBR2016_byn.png Graphic file (type png)
+
+<use img/logoIBR2016_byn.png> [99
+
+]
+File: img/logoIBR2016_byn.png Graphic file (type png)
+ <use img/logoIBR2016_byn.png> [100
+
+]
+File: img/logoIBR2016_byn.png Graphic file (type png)
+
+<use img/logoIBR2016_byn.png> [101
+
+]
+File: img/logoIBR2016_byn.png Graphic file (type png)
+ <use img/logoIBR2016_byn.png> [102
+
+]
+File: img/logoIBR2016_byn.png Graphic file (type png)
+
+<use img/logoIBR2016_byn.png> [103
+
+]
+File: img/logoIBR2016_byn.png Graphic file (type png)
+ <use img/logoIBR2016_byn.png> [104
+
+]
+<img/extras/NAR_fig3A.png, id=2790, 252.4632pt x 187.902pt>
 File: img/extras/NAR_fig3A.png Graphic file (type png)
 
 <use img/extras/NAR_fig3A.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [104
+ <use img/logoIBR2016_byn.png> [105
 
- <./img/extras/NAR_fig3A.png>] <img/extras/NAR_fig3B.png, id=2790, 230.7822pt x
+ <./img/extras/NAR_fig3A.png>] <img/extras/NAR_fig3B.png, id=2817, 230.7822pt x
  175.3752pt>
 File: img/extras/NAR_fig3B.png Graphic file (type png)
 
 <use img/extras/NAR_fig3B.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [105
+ <use img/logoIBR2016_byn.png> [106
 
- <./img/extras/NAR_fig3B.png>] <img/Figure4_retocada.png, id=2817, 888.921pt x 
+ <./img/extras/NAR_fig3B.png>] <img/Figure4_retocada.png, id=2844, 888.921pt x 
 472.6458pt>
 File: img/Figure4_retocada.png Graphic file (type png)
 
 <use img/Figure4_retocada.png>
 File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png> [106
+ <use img/logoIBR2016_byn.png> [107
 
- <./img/Figure4_retocada.png>]
+ <./img/Figure4_retocada.png>] <img/Figure5_retocada.png, id=2871, 460.6008pt x
+ 404.2302pt>
 File: img/Figure5_retocada.png Graphic file (type png)
- <use img/Figure5_retocada.png>
-File: img/logoIBR2016_byn.png Graphic file (type png)
- <use img/logoIBR2016_byn.png>
-[107
 
-]
+<use img/Figure5_retocada.png>
+File: img/logoIBR2016_byn.png Graphic file (type png)
+ <use img/logoIBR2016_byn.png> [108
+
+ <./img/Figure5_retocada.png>] <img/GR_fig2C.png, id=2898, 433.62pt x 105.0324p
+t>
+File: img/GR_fig2C.png Graphic file (type png)
+
+<use img/GR_fig2C.png>
+File: img/logoIBR2016_byn.png Graphic file (type png)
+ <use img/logoIBR2016_byn.png> [109
+
+ <./img/GR_fig2C.png>] <img/GR_fig4C.png, id=2925, 431.211pt x 109.3686pt>
+File: img/GR_fig4C.png Graphic file (type png)
+ <use img/GR_fig4C.png>
+File: img/logoIBR2016_byn.png Graphic file (type png)
+
+<use img/logoIBR2016_byn.png> [110
+
+ <./img/GR_fig4C.png>]
 \tf@nav=\write6
 \openout6 = `defensa.nav'.
 
@@ -1944,33 +1971,24 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 17929 strings out of 493848
- 327812 string characters out of 1152824
+ 17957 strings out of 493848
+ 328239 string characters out of 1152824
  429101 words of memory out of 3000000
- 20455 multiletter control sequences out of 15000+50000
+ 20475 multiletter control sequences out of 15000+50000
  12515 words of font info for 46 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  49i,15n,58p,906b,579s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Navigation108} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.3.3.58} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.3.2.45} has been referenced but does not e
-xist, replaced by a fixed one
-
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share
-/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-texl
-ive/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texmf-texlive/fonts/t
-ype1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/type1/public/
-amsfonts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/
-cm/cmssi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/ms
-am10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msam7.pf
-b>
-Output written on defensa.pdf (107 pages, 23420351 bytes).
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
+s/cm/cmssi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/
+msam10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msam7.
+pfb>
+Output written on defensa.pdf (110 pages, 23850148 bytes).
 PDF statistics:
- 2947 PDF objects out of 2984 (max. 8388607)
- 225 named destinations out of 1000 (max. 500000)
- 399 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3031 PDF objects out of 3580 (max. 8388607)
+ 228 named destinations out of 1000 (max. 500000)
+ 424 words of extra memory for PDF output out of 10000 (max. 10000000)
 
