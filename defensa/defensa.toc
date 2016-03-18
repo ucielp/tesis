@@ -1,9 +1,9 @@
 \beamer@endinputifotherversion {3.10pt}
 \select@language {spanish}
 \beamer@sectionintoc {1}{Introducci\IeC {\'o}n}{2}{0}{1}
-\beamer@sectionintoc {2}{Objetivos}{11}{0}{2}
-\beamer@sectionintoc {3}{Resultados}{15}{0}{3}
-\beamer@subsectionintoc {3}{1}{Resultados 1}{15}{0}{3}
-\beamer@subsectionintoc {3}{2}{Resultados 2}{40}{0}{3}
-\beamer@subsectionintoc {3}{3}{Resultados 3}{53}{0}{3}
-\beamer@sectionintoc {4}{Conclusiones generales}{92}{0}{4}
+\beamer@sectionintoc {2}{Objetivos}{13}{0}{2}
+\beamer@sectionintoc {3}{Resultados}{17}{0}{3}
+\beamer@subsectionintoc {3}{1}{Resultados 1}{17}{0}{3}
+\beamer@subsectionintoc {3}{2}{Resultados 2}{44}{0}{3}
+\beamer@subsectionintoc {3}{3}{Resultados 3}{57}{0}{3}
+\beamer@sectionintoc {4}{Conclusiones generales}{96}{0}{4}

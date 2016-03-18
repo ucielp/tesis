@@ -20,7 +20,7 @@
    sodipodi:docname="Figure6_retocada.svg"><metadata
    id="metadata756"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -33,9 +33,9 @@
    inkscape:window-height="1056"
    id="namedview754"
    showgrid="false"
-   inkscape:zoom="0.95353535"
-   inkscape:cx="211.37541"
-   inkscape:cy="333.70423"
+   inkscape:zoom="1.3485026"
+   inkscape:cx="306.73375"
+   inkscape:cy="332.67957"
    inkscape:window-x="0"
    inkscape:window-y="24"
    inkscape:window-maximized="1"
@@ -787,6 +787,7 @@
    inkscape:export-ydpi="150">0</text>
 
 
+
 <text
    style="font-size:3.17499995px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text576"
@@ -796,6 +797,7 @@
    inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">10000</text>
+
 
 
 <text
@@ -809,6 +811,7 @@
    inkscape:export-ydpi="150">20000</text>
 
 
+
 <text
    style="font-size:3.17499995px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text580"
@@ -820,6 +823,7 @@
    inkscape:export-ydpi="150">30000</text>
 
 
+
 <text
    style="font-size:3.17499995px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text582"
@@ -829,6 +833,7 @@
    inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">40000</text>
+
 
 
 <polygon
@@ -1028,6 +1033,7 @@
    inkscape:export-ydpi="150">1.6</text>
 
 
+
 <text
    style="font-size:2.32710004px;font-weight:bold;fill:#373435;font-family:Arial"
    id="text640"
@@ -1037,6 +1043,7 @@
    inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">2.7</text>
+
 
 
 <text
@@ -1050,6 +1057,7 @@
    inkscape:export-ydpi="150">2.38</text>
 
 
+
 <text
    style="font-size:2.32710004px;font-weight:bold;fill:#373435;font-family:Arial"
    id="text644"
@@ -1059,6 +1067,7 @@
    inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">6.31</text>
+
 
 
 <line
@@ -1092,6 +1101,7 @@
    inkscape:export-ydpi="150">0</text>
 
 
+
 <text
    style="font-size:3.17499995px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text656"
@@ -1103,6 +1113,7 @@
    inkscape:export-ydpi="150">50</text>
 
 
+
 <text
    style="font-size:3.17499995px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text658"
@@ -1112,6 +1123,7 @@
    inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">100</text>
+
 
 
 <line
@@ -1195,6 +1207,7 @@
    inkscape:export-ydpi="150">150</text>
 
 
+
 <polygon
    style="fill:#5f8e34"
    id="polygon676"
@@ -1263,132 +1276,145 @@
    inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_defensa/Figure6_retocada.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150"><rect
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil1 str1"
-     x="146.55971"
-     y="118.51643"
-     width="43.832802"
-     height="24.3417"
-     id="rect302"
-     style="fill:#d2d3d5;stroke:#d2d3d5;stroke-width:0.17640001" /><text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="116.70641"
-     y="121.55743"
-     class="fil7 fnt22"
-     id="text714"
-     style="font-size:3.52769995px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">Capsicum annuum     </text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil1 str1"
+   x="146.55971"
+   y="118.51643"
+   width="43.832802"
+   height="24.3417"
+   id="rect302"
+   style="fill:#d2d3d5;stroke:#d2d3d5;stroke-width:0.17640001" /><text
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="116.70641"
+   y="121.55743"
+   class="fil7 fnt22"
+   id="text714"
+   style="font-size:3.52769995px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">Capsicum annuum     </text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="110.0332"
-     y="125.49843"
-     class="fil7 fnt22"
-     id="text716"
-     style="font-size:3.52769995px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">Nicotiana benthamiana </text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="110.0332"
+   y="125.49843"
+   class="fil7 fnt22"
+   id="text716"
+   style="font-size:3.52769995px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">Nicotiana benthamiana </text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="116.9011"
-     y="129.43942"
-     class="fil7 fnt22"
-     id="text718"
-     style="font-size:3.52769995px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">Nicotiana tabacum     </text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="116.9011"
+   y="129.43942"
+   class="fil7 fnt22"
+   id="text718"
+   style="font-size:3.52769995px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">Nicotiana tabacum     </text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="121.6035"
-     y="133.38043"
-     class="fil7 fnt22"
-     id="text720"
-     style="font-size:3.52769995px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">Petunia hybrida       </text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="121.6035"
+   y="133.38043"
+   class="fil7 fnt22"
+   id="text720"
+   style="font-size:3.52769995px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">Petunia hybrida       </text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="110.6313"
-     y="137.32143"
-     class="fil7 fnt22"
-     id="text722"
-     style="font-size:3.52769995px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">Solanum lycopersicum  </text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="110.6313"
+   y="137.32143"
+   class="fil7 fnt22"
+   id="text722"
+   style="font-size:3.52769995px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">Solanum lycopersicum  </text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="149.0589"
-     y="137.32143"
-     class="fil7 fnt22"
-     id="text724"
-     style="font-size:3.52769995px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial"> </text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="149.0589"
+   y="137.32143"
+   class="fil7 fnt22"
+   id="text724"
+   style="font-size:3.52769995px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial"> </text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="114.548"
-     y="141.26244"
-     class="fil7 fnt22"
-     id="text726"
-     style="font-size:3.52769995px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">Solanum tuberosum     </text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="114.548"
+   y="141.26244"
+   class="fil7 fnt22"
+   id="text726"
+   style="font-size:3.52769995px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">Solanum tuberosum     </text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="147.1933"
-     y="121.72843"
-     class="fil7 fnt23"
-     id="text728"
-     style="font-size:3.52769995px;font-weight:normal;fill:#373435;font-family:Courier New">GGGGUGGGACCUGAGAAGAC</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="147.1933"
+   y="121.72843"
+   class="fil7 fnt23"
+   id="text728"
+   style="font-size:3.52769995px;font-weight:normal;fill:#373435;font-family:Courier New">GGGGUGGGACCUGAGAAGAC</text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="147.1933"
-     y="125.72543"
-     class="fil7 fnt23"
-     id="text730"
-     style="font-size:3.52769995px;font-weight:normal;fill:#373435;font-family:Courier New">GGGGUGGGACCUGAGAAGAC</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="147.1933"
+   y="125.72543"
+   class="fil7 fnt23"
+   id="text730"
+   style="font-size:3.52769995px;font-weight:normal;fill:#373435;font-family:Courier New">GGGGUGGGACCUGAGAAGAC</text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="147.1933"
-     y="129.72144"
-     class="fil7 fnt23"
-     id="text732"
-     style="font-size:3.52769995px;font-weight:normal;fill:#373435;font-family:Courier New">GGGGUGGGACCUGAGAAGAC</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="147.1933"
+   y="129.72144"
+   class="fil7 fnt23"
+   id="text732"
+   style="font-size:3.52769995px;font-weight:normal;fill:#373435;font-family:Courier New">GGGGUGGGACCUGAGAAGAC</text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="147.1933"
-     y="133.71742"
-     class="fil7 fnt23"
-     id="text734"
-     style="font-size:3.52769995px;font-weight:normal;fill:#373435;font-family:Courier New">GGGGUGGGACCUGAGAAGAC</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="147.1933"
+   y="133.71742"
+   class="fil7 fnt23"
+   id="text734"
+   style="font-size:3.52769995px;font-weight:normal;fill:#373435;font-family:Courier New">GGGGUGGGACCUGAGAAGAC</text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="147.1933"
-     y="137.71342"
-     class="fil7 fnt23"
-     id="text736"
-     style="font-size:3.52769995px;font-weight:normal;fill:#373435;font-family:Courier New">GGGGUGGGACCUGAGAAGAC</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="147.1933"
+   y="137.71342"
+   class="fil7 fnt23"
+   id="text736"
+   style="font-size:3.52769995px;font-weight:normal;fill:#373435;font-family:Courier New">GGGGUGGGACCUGAGAAGAC</text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="147.1933"
-     y="141.71043"
-     class="fil7 fnt23"
-     id="text738"
-     style="font-size:3.52769995px;font-weight:normal;fill:#373435;font-family:Courier New">GGGGUGGGACCUGAGAAGAC </text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="147.1933"
+   y="141.71043"
+   class="fil7 fnt23"
+   id="text738"
+   style="font-size:3.52769995px;font-weight:normal;fill:#373435;font-family:Courier New">GGGGUGGGACCUGAGAAGAC </text>
+
 </g>
 
 
@@ -1399,55 +1425,58 @@
    inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_defensa/Figure6_retocada.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150"><text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="28.132999"
-     y="156.52299"
-     class="fil7 fnt9"
-     id="text506"
-     style="font-size:3.52449989px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">MT2A</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="28.132999"
+   y="156.52299"
+   class="fil7 fnt9"
+   id="text506"
+   style="font-size:3.52449989px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">MT2A</text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="24.1486"
-     y="185.11301"
-     class="fil7 fnt10"
-     id="text508"
-     style="font-size:2.93709993px;font-weight:normal;fill:#373435;font-family:Arial">miR398</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="24.1486"
+   y="185.11301"
+   class="fil7 fnt10"
+   id="text508"
+   style="font-size:2.93709993px;font-weight:normal;fill:#373435;font-family:Arial">miR398</text>
+
 <line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil6 str10"
-     x1="51.377602"
-     y1="162.192"
-     x2="45.820599"
-     y2="176.771"
-     id="line510"
-     style="fill:none;stroke:#d2d3d5;stroke-width:0.25" /><line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil6 str10"
-     x1="55.169899"
-     y1="162.086"
-     x2="81.595596"
-     y2="176.655"
-     id="line512"
-     style="fill:none;stroke:#d2d3d5;stroke-width:0.25" /><g
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     transform="matrix(1.02305,0,0,1,-86.5105,38.7463)"
-     id="g514">
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil6 str10"
+   x1="51.377602"
+   y1="162.192"
+   x2="45.820599"
+   y2="176.771"
+   id="line510"
+   style="fill:none;stroke:#d2d3d5;stroke-width:0.25" /><line
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil6 str10"
+   x1="55.169899"
+   y1="162.086"
+   x2="81.595596"
+   y2="176.655"
+   id="line512"
+   style="fill:none;stroke:#d2d3d5;stroke-width:0.25" /><g
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   transform="matrix(1.02305,0,0,1,-86.5105,38.7463)"
+   id="g514">
    <text
    x="107.95"
    y="139.7"
    class="fil7 fnt11"
    id="text516"
    style="font-size:2.93709993px;font-weight:normal;fill:#373435;font-family:Courier New">5´...GGUGCUU</text>
+
 
 
 
@@ -1460,12 +1489,14 @@
 
 
 
+
    <text
    x="107.95"
    y="143.02699"
    class="fil7 fnt11"
    id="text520"
    style="font-size:2.93709993px;font-weight:normal;fill:#373435;font-family:Courier New">            |||||**||||||||||*||</text>
+
 
 
 
@@ -1478,6 +1509,7 @@
 
 
 
+
    <text
    x="166.119"
    y="146.354"
@@ -1487,12 +1519,13 @@
 
 
 
+
   </g><g
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     transform="matrix(1.02305,0,0,1,-86.5105,38.7463)"
-     id="g526">
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   transform="matrix(1.02305,0,0,1,-86.5105,38.7463)"
+   id="g526">
    <text
    x="129.10201"
    y="139.7"
@@ -1502,18 +1535,20 @@
 
 
 
+
   </g><g
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     transform="matrix(1.02305,0,0,1,-86.5105,38.7463)"
-     id="g530">
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   transform="matrix(1.02305,0,0,1,-86.5105,38.7463)"
+   id="g530">
    <text
    x="164.356"
    y="143.02699"
    class="fil7 fnt11"
    id="text532"
    style="font-size:2.93709993px;font-weight:normal;fill:#373435;font-family:Courier New">|</text>
+
 
 
 
@@ -1526,79 +1561,84 @@
 
 
 
+
   </g><polygon
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil11 str11"
-     points="44.7622,161.712 44.7622,158.961 72.4376,158.961 72.4376,161.712 "
-     id="polygon536"
-     style="fill:#727376;stroke:#373435;stroke-width:0.0762" /><line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil6 str12"
-     x1="36.8815"
-     y1="160.211"
-     x2="44.948399"
-     y2="160.211"
-     id="line538"
-     style="fill:none;stroke:#373435;stroke-width:0.69999999" /><line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil6 str12"
-     x1="72.571503"
-     y1="160.211"
-     x2="80.638397"
-     y2="160.211"
-     id="line540"
-     style="fill:none;stroke:#373435;stroke-width:0.69999999" /><polygon
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil10"
-     points="51.5894,161.769 51.5894,158.908 55.0642,158.908 55.0642,161.769 "
-     id="polygon542"
-     style="fill:#f58634" /><text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="64.871803"
-     y="189.114"
-     class="fil7 fnt12"
-     id="text544"
-     style="font-size:2.93700004px;font-weight:normal;fill:#373435;font-family:Courier New">-35.9 kcal/mol</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil11 str11"
+   points="44.7622,161.712 44.7622,158.961 72.4376,158.961 72.4376,161.712 "
+   id="polygon536"
+   style="fill:#727376;stroke:#373435;stroke-width:0.0762" /><line
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil6 str12"
+   x1="36.8815"
+   y1="160.211"
+   x2="44.948399"
+   y2="160.211"
+   id="line538"
+   style="fill:none;stroke:#373435;stroke-width:0.69999999" /><line
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil6 str12"
+   x1="72.571503"
+   y1="160.211"
+   x2="80.638397"
+   y2="160.211"
+   id="line540"
+   style="fill:none;stroke:#373435;stroke-width:0.69999999" /><polygon
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil10"
+   points="51.5894,161.769 51.5894,158.908 55.0642,158.908 55.0642,161.769 "
+   id="polygon542"
+   style="fill:#f58634" /><text
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="64.871803"
+   y="189.114"
+   class="fil7 fnt12"
+   id="text544"
+   style="font-size:2.93700004px;font-weight:normal;fill:#373435;font-family:Courier New">-35.9 kcal/mol</text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="28.132999"
-     y="197.30901"
-     class="fil7 fnt13"
-     id="text546"
-     style="font-size:3.52449989px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">MT2B</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="28.132999"
+   y="197.30901"
+   class="fil7 fnt13"
+   id="text546"
+   style="font-size:3.52449989px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">MT2B</text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="24.1486"
-     y="225.899"
-     class="fil7 fnt14"
-     id="text548"
-     style="font-size:2.93709993px;font-weight:normal;fill:#373435;font-family:Arial">miR398</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="24.1486"
+   y="225.899"
+   class="fil7 fnt14"
+   id="text548"
+   style="font-size:2.93709993px;font-weight:normal;fill:#373435;font-family:Arial">miR398</text>
+
 <g
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     transform="matrix(1.02305,0,0,1,-86.5105,79.5325)"
-     id="g550">
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   transform="matrix(1.02305,0,0,1,-86.5105,79.5325)"
+   id="g550">
    <text
    x="107.95"
    y="139.7"
    class="fil7 fnt15"
    id="text552"
    style="font-size:2.93709993px;font-weight:normal;fill:#373435;font-family:Courier New">5´...GGUGCUU</text>
+
 
 
 
@@ -1611,12 +1651,14 @@
 
 
 
+
    <text
    x="107.95"
    y="143.02699"
    class="fil7 fnt15"
    id="text556"
    style="font-size:2.93709993px;font-weight:normal;fill:#373435;font-family:Courier New">            |||||**|||||||||||||</text>
+
 
 
 
@@ -1629,6 +1671,7 @@
 
 
 
+
    <text
    x="166.119"
    y="146.354"
@@ -1638,12 +1681,13 @@
 
 
 
+
   </g><g
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     transform="matrix(1.02305,0,0,1,-86.5105,79.5325)"
-     id="g562">
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   transform="matrix(1.02305,0,0,1,-86.5105,79.5325)"
+   id="g562">
    <text
    x="129.10201"
    y="139.7"
@@ -1653,12 +1697,13 @@
 
 
 
+
   </g><g
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     transform="matrix(1.02305,0,0,1,-86.5105,79.5325)"
-     id="g566">
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   transform="matrix(1.02305,0,0,1,-86.5105,79.5325)"
+   id="g566">
    <text
    x="125.577"
    y="146.354"
@@ -1668,70 +1713,72 @@
 
 
 
+
   </g><text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="64.871803"
-     y="229.89999"
-     class="fil7 fnt16"
-     id="text570"
-     style="font-size:2.93700004px;font-weight:normal;fill:#373435;font-family:Courier New">-37.7 kcal/mol</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="64.871803"
+   y="229.89999"
+   class="fil7 fnt16"
+   id="text570"
+   style="font-size:2.93700004px;font-weight:normal;fill:#373435;font-family:Courier New">-37.7 kcal/mol</text>
+
 <line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil6 str10"
-     x1="51.377602"
-     y1="201.774"
-     x2="45.820599"
-     y2="216.35201"
-     id="line742"
-     style="fill:none;stroke:#d2d3d5;stroke-width:0.25" /><line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil6 str10"
-     x1="55.169899"
-     y1="201.668"
-     x2="81.595596"
-     y2="216.237"
-     id="line744"
-     style="fill:none;stroke:#d2d3d5;stroke-width:0.25" /><polygon
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil11 str11"
-     points="44.7622,201.293 44.7622,198.543 72.4376,198.543 72.4376,201.293 "
-     id="polygon746"
-     style="fill:#727376;stroke:#373435;stroke-width:0.0762" /><line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil6 str12"
-     x1="36.8815"
-     y1="199.793"
-     x2="44.948399"
-     y2="199.793"
-     id="line748"
-     style="fill:none;stroke:#373435;stroke-width:0.69999999" /><line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil6 str12"
-     x1="72.571503"
-     y1="199.793"
-     x2="80.638397"
-     y2="199.793"
-     id="line750"
-     style="fill:none;stroke:#373435;stroke-width:0.69999999" /><polygon
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil10"
-     points="51.5894,201.351 51.5894,198.49 55.0642,198.49 55.0642,201.351 "
-     id="polygon752"
-     style="fill:#f58634" /></g>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil6 str10"
+   x1="51.377602"
+   y1="201.774"
+   x2="45.820599"
+   y2="216.35201"
+   id="line742"
+   style="fill:none;stroke:#d2d3d5;stroke-width:0.25" /><line
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil6 str10"
+   x1="55.169899"
+   y1="201.668"
+   x2="81.595596"
+   y2="216.237"
+   id="line744"
+   style="fill:none;stroke:#d2d3d5;stroke-width:0.25" /><polygon
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil11 str11"
+   points="44.7622,201.293 44.7622,198.543 72.4376,198.543 72.4376,201.293 "
+   id="polygon746"
+   style="fill:#727376;stroke:#373435;stroke-width:0.0762" /><line
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil6 str12"
+   x1="36.8815"
+   y1="199.793"
+   x2="44.948399"
+   y2="199.793"
+   id="line748"
+   style="fill:none;stroke:#373435;stroke-width:0.69999999" /><line
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil6 str12"
+   x1="72.571503"
+   y1="199.793"
+   x2="80.638397"
+   y2="199.793"
+   id="line750"
+   style="fill:none;stroke:#373435;stroke-width:0.69999999" /><polygon
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil10"
+   points="51.5894,201.351 51.5894,198.49 55.0642,198.49 55.0642,201.351 "
+   id="polygon752"
+   style="fill:#f58634" /></g>
 <text
    sodipodi:linespacing="125%"
    id="text3740-4"
@@ -1748,6 +1795,7 @@
      x="-62.98785"
      id="tspan3742-92"
      sodipodi:role="line">Número de genes blanco</tspan></text>
+
 
 
 <text
@@ -1778,149 +1826,155 @@
 
 
 
+
 <g
    id="g3394"
    transform="translate(2.3677966,0)"
    inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_defensa/Figure6_retocada.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150"><text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     sodipodi:linespacing="125%"
-     id="text3405-9-3"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   sodipodi:linespacing="125%"
+   id="text3405-9-3"
+   y="157.7243"
+   x="-12.235346"
+   style="font-size:6.77333355px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+   xml:space="preserve"><tspan
+     id="tspan3613"
+     style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
      y="157.7243"
+     x="-12.235345"
+     sodipodi:role="line">Genes blanco de miARNs</tspan><tspan
+     id="tspan4061"
+     style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
+     y="161.95764"
      x="-12.235346"
-     style="font-size:6.77333355px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
-     xml:space="preserve"><tspan
-       id="tspan3613"
-       style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
-       y="157.7243"
-       x="-12.235345"
-       sodipodi:role="line">Genes blanco de miARNs</tspan><tspan
-       id="tspan4061"
-       style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
-       y="161.95764"
-       x="-12.235346"
-       sodipodi:role="line">candidatos</tspan></text>
+     sodipodi:role="line">candidatos</tspan></text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     sodipodi:linespacing="125%"
-     id="text3405-9-5"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   sodipodi:linespacing="125%"
+   id="text3405-9-5"
+   y="181.91037"
+   x="-12.123728"
+   style="font-size:6.77333355px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+   xml:space="preserve"><tspan
+     id="tspan3631"
+     style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
      y="181.91037"
+     x="-11.584639"
+     sodipodi:role="line">Genes blanco presente </tspan><tspan
+     id="tspan4068"
+     style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
+     y="186.14371"
      x="-12.123728"
-     style="font-size:6.77333355px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
-     xml:space="preserve"><tspan
-       id="tspan3631"
-       style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
-       y="181.91037"
-       x="-11.584639"
-       sodipodi:role="line">Genes blanco presente </tspan><tspan
-       id="tspan4068"
-       style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
-       y="186.14371"
-       x="-12.123728"
-       sodipodi:role="line">en al menos tres</tspan><tspan
-       id="tspan4070"
-       style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
-       y="190.37703"
-       x="-12.123727"
-       sodipodi:role="line">especies de <tspan
+     sodipodi:role="line">en al menos tres</tspan><tspan
+     id="tspan4070"
+     style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
+     y="190.37703"
+     x="-12.123727"
+     sodipodi:role="line">especies de <tspan
    id="tspan4072"
    style="font-style:italic;-inkscape-font-specification:Sans Italic">Solanacea</tspan></tspan></text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     sodipodi:linespacing="125%"
-     id="text3405-9-4"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   sodipodi:linespacing="125%"
+   id="text3405-9-4"
+   y="198.53522"
+   x="-28.623428"
+   style="font-size:6.77333355px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+   xml:space="preserve"><tspan
+     style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
+     id="tspan3409-2-2"
      y="198.53522"
      x="-28.623428"
-     style="font-size:6.77333355px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
-     xml:space="preserve"><tspan
-       style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
-       id="tspan3409-2-2"
-       y="198.53522"
-       x="-28.623428"
-       sodipodi:role="line">132</tspan><tspan
-       id="tspan3635"
-       style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
-       y="202.76855"
-       x="-28.623428"
-       sodipodi:role="line">genes</tspan></text>
+     sodipodi:role="line">132</tspan><tspan
+     id="tspan3635"
+     style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
+     y="202.76855"
+     x="-28.623428"
+     sodipodi:role="line">genes</tspan></text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     sodipodi:linespacing="125%"
-     id="text3405-9-8"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   sodipodi:linespacing="125%"
+   id="text3405-9-8"
+   y="211.12186"
+   x="-12.127863"
+   style="font-size:6.77333355px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+   xml:space="preserve"><tspan
+     id="tspan3639"
+     style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
      y="211.12186"
      x="-12.127863"
-     style="font-size:6.77333355px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
-     xml:space="preserve"><tspan
-       id="tspan3639"
-       style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
-       y="211.12186"
-       x="-12.127863"
-       sodipodi:role="line">Genes blanco</tspan><tspan
-       id="tspan3477"
-       style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
-       y="215.35519"
-       x="-12.127863"
-       sodipodi:role="line">específicos de</tspan><tspan
-       id="tspan3481"
-       style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
-       y="219.58852"
-       x="-12.127863"
-       sodipodi:role="line">Solanacea?</tspan><tspan
-       id="tspan3479"
-       style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
-       y="223.82185"
-       x="-11.588775"
-       sodipodi:role="line"> </tspan></text>
+     sodipodi:role="line">Genes blanco</tspan><tspan
+     id="tspan3477"
+     style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
+     y="215.35519"
+     x="-12.127863"
+     sodipodi:role="line">específicos de</tspan><tspan
+     id="tspan3481"
+     style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
+     y="219.58852"
+     x="-12.127863"
+     sodipodi:role="line">Solanacea?</tspan><tspan
+     id="tspan3479"
+     style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
+     y="223.82185"
+     x="-11.588775"
+     sodipodi:role="line"> </tspan></text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     sodipodi:linespacing="125%"
-     id="text3405-9-55"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   sodipodi:linespacing="125%"
+   id="text3405-9-55"
+   y="221.19188"
+   x="-30.601807"
+   style="font-size:6.77333355px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+   xml:space="preserve"><tspan
+     style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
+     id="tspan3409-2-36"
      y="221.19188"
      x="-30.601807"
-     style="font-size:6.77333355px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
-     xml:space="preserve"><tspan
-       style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
-       id="tspan3409-2-36"
-       y="221.19188"
-       x="-30.601807"
-       sodipodi:role="line">41</tspan><tspan
-       id="tspan4074"
-       style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
-       y="225.42522"
-       x="-30.601807"
-       sodipodi:role="line"> genes</tspan></text>
+     sodipodi:role="line">41</tspan><tspan
+     id="tspan4074"
+     style="font-size:3.38666677px;text-align:center;text-anchor:middle;fill:#333333"
+     y="225.42522"
+     x="-30.601807"
+     sodipodi:role="line"> genes</tspan></text>
+
 <line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     style="color:#000000;fill:none;stroke:#323f57;stroke-width:0.26483557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="line5322-1-8"
-     y2="174.67145"
-     x2="-12.124552"
-     y1="166.67146"
-     x1="-12.124552"
-     class="fil1 str1" /><line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     style="color:#000000;fill:none;stroke:#323f57;stroke-width:0.26483557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="line5322-1-7"
-     y2="203.74733"
-     x2="-12.124552"
-     y1="195.74734"
-     x1="-12.124552"
-     class="fil1 str1" /></g><text
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   style="color:#000000;fill:none;stroke:#323f57;stroke-width:0.26483557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="line5322-1-8"
+   y2="174.67145"
+   x2="-12.124552"
+   y1="166.67146"
+   x1="-12.124552"
+   class="fil1 str1" /><line
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   style="color:#000000;fill:none;stroke:#323f57;stroke-width:0.26483557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="line5322-1-7"
+   y2="203.74733"
+   x2="-12.124552"
+   y1="195.74734"
+   x1="-12.124552"
+   class="fil1 str1" /></g><text
    xml:space="preserve"
    style="font-size:2.82222223px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
    x="-73.014336"
@@ -1947,6 +2001,7 @@
      style="font-size:3.38666677px">relación</tspan></text>
 
 
+
 <text
    xml:space="preserve"
    style="font-size:2.82222223px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1967,6 +2022,7 @@
      y="73.912659"
      id="tspan4126"
      style="font-size:2.53999996px;text-align:center;text-anchor:middle">inicial</tspan></text>
+
 
 
 <text
@@ -1991,6 +2047,7 @@
      style="font-size:2.53999996px;text-align:center;text-anchor:middle">empíricos</tspan></text>
 
 
+
 <text
    xml:space="preserve"
    style="font-size:2.82222223px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2011,6 +2068,7 @@
      y="116.50288"
      id="tspan4096"
      style="font-size:2.53999996px;text-align:center;text-anchor:middle">en 3 especies</tspan></text>
+
 
 
 <text
@@ -2035,213 +2093,214 @@
      id="tspan4124">filtros empíricos</tspan></text>
 
 
+
 <g
    id="g3487"
    transform="translate(0,-5.8175635)"
    inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_defensa/Figure6_retocada.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150"><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g304">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g304">
    <polygon
    class="fil2"
    points="150.124,178.465 149.653,178.465 149.653,178.215 150.124,178.215 "
    id="polygon306"
    style="fill:#9dd3af;fill-rule:nonzero" />
   </g><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g308">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g308">
    <polygon
    class="fil2"
    points="142.066,178.34 142.066,174.548 142.257,174.548 142.257,178.34 "
    id="polygon310"
    style="fill:#9dd3af;fill-rule:nonzero" />
   </g><polygon
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil3 str2"
-     points="139.963,174.548 144.36,174.548 144.36,213.875 139.963,213.875 "
-     id="polygon312"
-     style="fill:#9dd3af;stroke:#9dd3af;stroke-width:0.17640001" /><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g314">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil3 str2"
+   points="139.963,174.548 144.36,174.548 144.36,213.875 139.963,213.875 "
+   id="polygon312"
+   style="fill:#9dd3af;stroke:#9dd3af;stroke-width:0.17640001" /><g
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g314">
    <polygon
    class="fil2"
    points="142.257,170.845 142.257,174.548 142.066,174.548 142.066,170.845 "
    id="polygon316"
    style="fill:#9dd3af;fill-rule:nonzero" />
   </g><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g318">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g318">
    <polygon
    class="fil2"
    points="142.397,170.97 141.926,170.97 141.926,170.72 142.397,170.72 "
    id="polygon320"
    style="fill:#9dd3af;fill-rule:nonzero" />
   </g><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g322">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g322">
    <polygon
    class="fil4"
    points="151.808,206.818 151.337,206.818 151.337,206.61 151.808,206.61 "
    id="polygon324"
    style="fill:#537473;fill-rule:nonzero" />
   </g><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g326">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g326">
    <polygon
    class="fil4"
    points="151.414,206.714 151.414,204.987 151.664,204.987 151.664,206.714 "
    id="polygon328"
    style="fill:#537473;fill-rule:nonzero" />
   </g><polygon
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil5 str3"
-     points="149.36,205.714 153.718,205.714 153.718,213.875 149.36,213.875 "
-     id="polygon330"
-     style="fill:#537473;stroke:#537473;stroke-width:0.17640001" /><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g332">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil5 str3"
+   points="149.36,205.714 153.718,205.714 153.718,213.875 149.36,213.875 "
+   id="polygon330"
+   style="fill:#537473;stroke:#537473;stroke-width:0.17640001" /><g
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g332">
    <polygon
    class="fil4"
    points="151.665,203.259 151.665,204.987 151.413,204.987 151.413,203.259 "
    id="polygon334"
    style="fill:#537473;fill-rule:nonzero" />
   </g><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g336">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g336">
    <polygon
    class="fil4"
    points="151.774,203.363 151.303,203.363 151.303,203.155 151.774,203.155 "
    id="polygon338"
    style="fill:#537473;fill-rule:nonzero" />
   </g><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g340">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g340">
    <polygon
    class="fil4"
    points="128.025,211.755 127.553,211.755 127.553,211.698 128.025,211.698 "
    id="polygon342"
    style="fill:#537473;fill-rule:nonzero" />
   </g><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g344">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g344">
    <polygon
    class="fil4"
    points="127.63,211.726 127.63,211.197 127.88,211.197 127.88,211.726 "
    id="polygon346"
    style="fill:#537473;fill-rule:nonzero" />
   </g><polygon
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil5 str3"
-     points="125.594,211.197 129.991,211.197 129.991,213.875 125.594,213.875 "
-     id="polygon348"
-     style="fill:#537473;stroke:#537473;stroke-width:0.17640001" /><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g350">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil5 str3"
+   points="125.594,211.197 129.991,211.197 129.991,213.875 125.594,213.875 "
+   id="polygon348"
+   style="fill:#537473;stroke:#537473;stroke-width:0.17640001" /><g
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g350">
    <polygon
    class="fil4"
    points="127.88,210.667 127.88,211.197 127.63,211.197 127.63,210.667 "
    id="polygon352"
    style="fill:#537473;fill-rule:nonzero" />
   </g><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g354">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g354">
    <polygon
    class="fil4"
    points="127.991,210.696 127.52,210.696 127.52,210.639 127.991,210.639 "
    id="polygon356"
    style="fill:#537473;fill-rule:nonzero" />
   </g><line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil6 str4"
-     x1="133.786"
-     y1="218.6106"
-     x2="133.786"
-     y2="217.6756"
-     id="line358"
-     style="fill:none;stroke:#000000;stroke-width:0.0762;stroke-linecap:round;stroke-linejoin:round" /><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g360">
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil6 str4"
+   x1="133.786"
+   y1="218.6106"
+   x2="133.786"
+   y2="217.6756"
+   id="line358"
+   style="fill:none;stroke:#000000;stroke-width:0.0762;stroke-linecap:round;stroke-linejoin:round" /><g
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g360">
    <polygon
    class="fil2"
    points="164.684,178.465 164.212,178.465 164.212,178.215 164.684,178.215 "
    id="polygon362"
    style="fill:#9dd3af;fill-rule:nonzero" />
   </g><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g364">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g364">
    <polygon
    class="fil2"
    points="164.386,178.34 164.386,174.548 164.577,174.548 164.577,178.34 "
    id="polygon366"
    style="fill:#9dd3af;fill-rule:nonzero" />
   </g><polygon
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil3 str2"
-     points="162.283,174.548 166.68,174.548 166.68,213.875 162.283,213.875 "
-     id="polygon368"
-     style="fill:#9dd3af;stroke:#9dd3af;stroke-width:0.17640001" /><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g370">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil3 str2"
+   points="162.283,174.548 166.68,174.548 166.68,213.875 162.283,213.875 "
+   id="polygon368"
+   style="fill:#9dd3af;stroke:#9dd3af;stroke-width:0.17640001" /><g
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g370">
    <g
    id="g372">
     <polygon
@@ -2259,214 +2318,217 @@
    style="fill:#9dd3af;fill-rule:nonzero" />
    </g>
   </g><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g380">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g380">
    <polygon
    class="fil4"
    points="174.129,204.874 173.657,204.874 173.657,204.624 174.129,204.624 "
    id="polygon382"
    style="fill:#537473;fill-rule:nonzero" />
   </g><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g384">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g384">
    <polygon
    class="fil4"
    points="173.759,204.749 173.759,202.152 173.96,202.152 173.96,204.749 "
    id="polygon386"
    style="fill:#537473;fill-rule:nonzero" />
   </g><polygon
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil5 str3"
-     points="171.68,203.475 176.038,203.475 176.038,213.875 171.68,213.875 "
-     id="polygon388"
-     style="fill:#537473;stroke:#537473;stroke-width:0.17640001" /><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g390">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil5 str3"
+   points="171.68,203.475 176.038,203.475 176.038,213.875 171.68,213.875 "
+   id="polygon388"
+   style="fill:#537473;stroke:#537473;stroke-width:0.17640001" /><g
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g390">
    <polygon
    class="fil4"
    points="173.958,199.555 173.958,202.152 173.761,202.152 173.761,199.555 "
    id="polygon392"
    style="fill:#537473;fill-rule:nonzero" />
   </g><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g394">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g394">
    <polygon
    class="fil4"
    points="174.095,199.68 173.623,199.68 173.623,199.43 174.095,199.43 "
    id="polygon396"
    style="fill:#537473;fill-rule:nonzero" />
   </g><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g442">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g442">
    <polygon
    class="fil8"
    points="110.78,213.875 110.78,167.141 111.028,167.141 111.028,213.875 "
    id="polygon444"
    style="fill:#000000;fill-rule:nonzero" />
   </g><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g446">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g446">
    <polygon
    class="fil2"
    points="118.907,179.876 118.368,179.876 118.368,179.626 118.907,179.626 "
    id="polygon448"
    style="fill:#9dd3af;fill-rule:nonzero" />
   </g><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g450">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g450">
    <polygon
    class="fil2"
    points="118.542,179.751 118.542,174.195 118.733,174.195 118.733,179.751 "
    id="polygon452"
    style="fill:#9dd3af;fill-rule:nonzero" />
   </g><polygon
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil3 str2"
-     points="116.236,174.195 120.594,174.195 120.594,213.875 116.236,213.875 "
-     id="polygon454"
-     style="fill:#9dd3af;stroke:#9dd3af;stroke-width:0.17640001" /><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g456">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil3 str2"
+   points="116.236,174.195 120.594,174.195 120.594,213.875 116.236,213.875 "
+   id="polygon454"
+   style="fill:#9dd3af;stroke:#9dd3af;stroke-width:0.17640001" /><g
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g456">
    <polygon
    class="fil2"
    points="118.51,168.728 118.51,174.195 118.319,174.195 118.319,168.728 "
    id="polygon458"
    style="fill:#9dd3af;fill-rule:nonzero" />
   </g><g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g460">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g460">
    <polygon
    class="fil2"
    points="118.684,168.853 118.145,168.853 118.145,168.603 118.684,168.603 "
    id="polygon462"
    style="fill:#9dd3af;fill-rule:nonzero" />
   </g><text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="116.695"
-     y="223.4946"
-     class="fil7 fnt5"
-     id="text464"
-     style="font-size:3.13050008px;font-weight:normal;fill:#373435;font-family:Arial">wt</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="116.695"
+   y="223.4946"
+   class="fil7 fnt5"
+   id="text464"
+   style="font-size:3.13050008px;font-weight:normal;fill:#373435;font-family:Arial">wt</text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="124.578"
-     y="223.49359"
-     class="fil7 fnt5"
-     id="text466"
-     style="font-size:3.13050008px;font-weight:normal;fill:#373435;font-family:Arial">35S:</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="124.578"
+   y="223.49359"
+   class="fil7 fnt5"
+   id="text466"
+   style="font-size:3.13050008px;font-weight:normal;fill:#373435;font-family:Arial">35S:</text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="122.404"
-     y="226.9906"
-     class="fil7 fnt5"
-     id="text468"
-     style="font-size:3.13050008px;font-weight:normal;fill:#373435;font-family:Arial">miR398</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="122.404"
+   y="226.9906"
+   class="fil7 fnt5"
+   id="text468"
+   style="font-size:3.13050008px;font-weight:normal;fill:#373435;font-family:Arial">miR398</text>
+
 <g
-     transform="translate(0,4.7355932)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     id="g470">
+   transform="translate(0,4.7355932)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   id="g470">
    <polygon
    class="fil8"
    points="180.884,213.692 180.884,214.059 110.904,214.059 110.904,213.692 "
    id="polygon472"
    style="fill:#000000;fill-rule:nonzero" />
   </g><line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil6 str8"
-     x1="109.834"
-     y1="203.0916"
-     x2="111.974"
-     y2="203.0916"
-     id="line474"
-     style="fill:none;stroke:#000000;stroke-width:0.0762" /><line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil6 str8"
-     x1="109.834"
-     y1="210.8506"
-     x2="111.974"
-     y2="210.8506"
-     id="line476"
-     style="fill:none;stroke:#000000;stroke-width:0.0762" /><line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil6 str8"
-     x1="109.834"
-     y1="187.48459"
-     x2="111.974"
-     y2="187.48459"
-     id="line478"
-     style="fill:none;stroke:#000000;stroke-width:0.0762" /><line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil6 str8"
-     x1="109.834"
-     y1="179.6366"
-     x2="111.974"
-     y2="179.6366"
-     id="line480"
-     style="fill:none;stroke:#000000;stroke-width:0.0762" /><line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil6 str8"
-     x1="109.834"
-     y1="195.24359"
-     x2="111.974"
-     y2="195.24359"
-     id="line482"
-     style="fill:none;stroke:#000000;stroke-width:0.0762" /><g
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     transform="matrix(1.0136,0,0,1,13.1462,92.212293)"
-     id="g484">
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil6 str8"
+   x1="109.834"
+   y1="203.0916"
+   x2="111.974"
+   y2="203.0916"
+   id="line474"
+   style="fill:none;stroke:#000000;stroke-width:0.0762" /><line
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil6 str8"
+   x1="109.834"
+   y1="210.8506"
+   x2="111.974"
+   y2="210.8506"
+   id="line476"
+   style="fill:none;stroke:#000000;stroke-width:0.0762" /><line
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil6 str8"
+   x1="109.834"
+   y1="187.48459"
+   x2="111.974"
+   y2="187.48459"
+   id="line478"
+   style="fill:none;stroke:#000000;stroke-width:0.0762" /><line
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil6 str8"
+   x1="109.834"
+   y1="179.6366"
+   x2="111.974"
+   y2="179.6366"
+   id="line480"
+   style="fill:none;stroke:#000000;stroke-width:0.0762" /><line
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil6 str8"
+   x1="109.834"
+   y1="195.24359"
+   x2="111.974"
+   y2="195.24359"
+   id="line482"
+   style="fill:none;stroke:#000000;stroke-width:0.0762" /><g
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   transform="matrix(1.0136,0,0,1,13.1462,92.212293)"
+   id="g484">
    <text
    x="103.178"
    y="139.7"
@@ -2476,171 +2538,199 @@
 
 
 
+
   </g><text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="140.991"
-     y="231.7516"
-     class="fil7 fnt6"
-     id="text488"
-     style="font-size:3.57780004px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">MT2A</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="140.991"
+   y="231.7516"
+   class="fil7 fnt6"
+   id="text488"
+   style="font-size:3.57780004px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">MT2A</text>
+
 <line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil6 str9"
-     x1="111.147"
-     y1="227.85759"
-     x2="132.33299"
-     y2="227.85759"
-     id="line494"
-     style="fill:none;stroke:#373435;stroke-width:0.1763" /><text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="106.671"
-     y="220.11859"
-     class="fil7 fnt8"
-     id="text496"
-     style="font-size:3.17499995px;font-weight:normal;fill:#373435;font-family:Arial">0</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil6 str9"
+   x1="111.147"
+   y1="227.85759"
+   x2="132.33299"
+   y2="227.85759"
+   id="line494"
+   style="fill:none;stroke:#373435;stroke-width:0.1763" /><text
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="106.671"
+   y="220.11859"
+   class="fil7 fnt8"
+   id="text496"
+   style="font-size:3.17499995px;font-weight:normal;fill:#373435;font-family:Arial">0</text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="103.437"
-     y="204.6676"
-     class="fil7 fnt8"
-     id="text498"
-     style="font-size:3.17499995px;font-weight:normal;fill:#373435;font-family:Arial">0.4</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="103.437"
+   y="204.6676"
+   class="fil7 fnt8"
+   id="text498"
+   style="font-size:3.17499995px;font-weight:normal;fill:#373435;font-family:Arial">0.4</text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="103.42"
-     y="189.4276"
-     class="fil7 fnt8"
-     id="text500"
-     style="font-size:3.17499995px;font-weight:normal;fill:#373435;font-family:Arial">0.8</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="103.42"
+   y="189.4276"
+   class="fil7 fnt8"
+   id="text500"
+   style="font-size:3.17499995px;font-weight:normal;fill:#373435;font-family:Arial">0.8</text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="165.075"
-     y="231.67059"
-     class="fil7 fnt6"
-     id="text502"
-     style="font-size:3.57780004px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">MT2B</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="165.075"
+   y="231.67059"
+   class="fil7 fnt6"
+   id="text502"
+   style="font-size:3.57780004px;font-style:italic;font-weight:normal;fill:#373435;font-family:Arial">MT2B</text>
+
 <rect
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil0 str0"
-     x="132.995"
-     y="215.19359"
-     width="2.6458001"
-     height="4.3656001"
-     id="rect694"
-     style="fill:#fefefe;stroke:#fefefe;stroke-width:0.17640001" /><rect
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil0 str0"
-     x="157.07201"
-     y="215.19359"
-     width="2.6458001"
-     height="4.3656001"
-     id="rect696"
-     style="fill:#fefefe;stroke:#fefefe;stroke-width:0.17640001" /><text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="140.37601"
-     y="223.4946"
-     class="fil7 fnt21"
-     id="text698"
-     style="font-size:3.13050008px;font-weight:normal;fill:#373435;font-family:Arial">wt</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil0 str0"
+   x="132.995"
+   y="215.19359"
+   width="2.6458001"
+   height="4.3656001"
+   id="rect694"
+   style="fill:#fefefe;stroke:#fefefe;stroke-width:0.17640001" /><rect
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil0 str0"
+   x="157.07201"
+   y="215.19359"
+   width="2.6458001"
+   height="4.3656001"
+   id="rect696"
+   style="fill:#fefefe;stroke:#fefefe;stroke-width:0.17640001" /><text
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="140.37601"
+   y="223.4946"
+   class="fil7 fnt21"
+   id="text698"
+   style="font-size:3.13050008px;font-weight:normal;fill:#373435;font-family:Arial">wt</text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="148.258"
-     y="223.49359"
-     class="fil7 fnt21"
-     id="text700"
-     style="font-size:3.13050008px;font-weight:normal;fill:#373435;font-family:Arial">35S:</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="148.258"
+   y="223.49359"
+   class="fil7 fnt21"
+   id="text700"
+   style="font-size:3.13050008px;font-weight:normal;fill:#373435;font-family:Arial">35S:</text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="146.08501"
-     y="226.9906"
-     class="fil7 fnt21"
-     id="text702"
-     style="font-size:3.13050008px;font-weight:normal;fill:#373435;font-family:Arial">miR398</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="146.08501"
+   y="226.9906"
+   class="fil7 fnt21"
+   id="text702"
+   style="font-size:3.13050008px;font-weight:normal;fill:#373435;font-family:Arial">miR398</text>
+
 <line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil6 str9"
-     x1="135.621"
-     y1="227.85759"
-     x2="156.80701"
-     y2="227.85759"
-     id="line704"
-     style="fill:none;stroke:#373435;stroke-width:0.1763" /><text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="163.394"
-     y="223.4946"
-     class="fil7 fnt21"
-     id="text706"
-     style="font-size:3.13050008px;font-weight:normal;fill:#373435;font-family:Arial">wt</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil6 str9"
+   x1="135.621"
+   y1="227.85759"
+   x2="156.80701"
+   y2="227.85759"
+   id="line704"
+   style="fill:none;stroke:#373435;stroke-width:0.1763" /><text
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="163.394"
+   y="223.4946"
+   class="fil7 fnt21"
+   id="text706"
+   style="font-size:3.13050008px;font-weight:normal;fill:#373435;font-family:Arial">wt</text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="171.27699"
-     y="223.49359"
-     class="fil7 fnt21"
-     id="text708"
-     style="font-size:3.13050008px;font-weight:normal;fill:#373435;font-family:Arial">35S:</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="171.27699"
+   y="223.49359"
+   class="fil7 fnt21"
+   id="text708"
+   style="font-size:3.13050008px;font-weight:normal;fill:#373435;font-family:Arial">35S:</text>
+
 <text
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     x="169.103"
-     y="226.9906"
-     class="fil7 fnt21"
-     id="text710"
-     style="font-size:3.13050008px;font-weight:normal;fill:#373435;font-family:Arial">miR398</text>
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   x="169.103"
+   y="226.9906"
+   class="fil7 fnt21"
+   id="text710"
+   style="font-size:3.13050008px;font-weight:normal;fill:#373435;font-family:Arial">miR398</text>
+
 <line
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     class="fil6 str9"
-     x1="159.96201"
-     y1="227.85759"
-     x2="181.149"
-     y2="227.85759"
-     id="line712"
-     style="fill:none;stroke:#373435;stroke-width:0.1763" /><text
-     transform="matrix(0,-1,1,0,0,0)"
-     inkscape:export-ydpi="150"
-     inkscape:export-xdpi="150"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
-     xml:space="preserve"
-     style="font-size:6.77333355px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   class="fil6 str9"
+   x1="159.96201"
+   y1="227.85759"
+   x2="181.149"
+   y2="227.85759"
+   id="line712"
+   style="fill:none;stroke:#373435;stroke-width:0.1763" /><text
+   transform="matrix(0,-1,1,0,0,0)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_paper/NAR_español/NAR_fig6.png"
+   xml:space="preserve"
+   style="font-size:6.77333355px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
+   x="-208.71495"
+   y="101.0929"
+   id="text3740-4-7-8"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan3742-92-1-8"
      x="-208.71495"
      y="101.0929"
-     id="text3740-4-7-8"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan3742-92-1-8"
-       x="-208.71495"
-       y="101.0929"
-       style="font-size:2.82222223px">Expresión relativa</tspan></text>
+     style="font-size:2.82222223px">Expresión relativa</tspan></text>
+
 </g>
 
+<text
+   xml:space="preserve"
+   style="font-size:2.82222223px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+   x="123.1403"
+   y="157.3569"
+   id="text3361"
+   sodipodi:linespacing="125%"
+   inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_defensa/Figure6_retocada.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"><tspan
+     sodipodi:role="line"
+     x="123.1403"
+     y="157.3569"
+     id="tspan3365"
+     style="font-size:3.38666654px">Validación experimental</tspan></text>
 </svg>

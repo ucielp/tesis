@@ -49,18 +49,19 @@
 
 \section{Introducción}
 
-\begin{frame}{}
-    \begin{block}{microARNs}
+\begin{frame}{MicroARNs}
+    %~ \begin{block}{microARNs}
         Los microARNs (miARNs) son ARN pequeños de 20-22 nt que regulan la expresión génica en animales y plantas. 
-    \end{block}
+    %~ \end{block}
 \end{frame}
 
 
-\begin{frame}{miARNs en plantas}
+\begin{frame}{MiARNs en plantas}
     \begin{itemize}
+        \item Controlan una gran variedad de procesos biológicos, como el desarrollo, la diferenciación y proliferación celular, y respuesta a estrés
         \item En \textit{A. thaliana} se han identificado más de 300 miARNs.
         \item Están codificados por familias de genes de 1 a 32 miembros que dan lugar a miARNs maduros idénticos o muy similares.
-        \item 42 familias de miARNs en plantas, las que regulan una amplia variedad de procesos biológicos.
+        \item Han sido identificadas unas 42 familias de miARNs en plantas, las que regulan una amplia variedad de procesos biológicos.
         \item Muchos de ellos han aparecido recientemente en la evolución y por lo tanto aparecen en un número pequeño de especies.
     \end{itemize}
 \end{frame}
@@ -77,14 +78,13 @@
 	\end{center}
 \end{frame}
 
-
-\begin{frame}{Procesamiento de miARNs en plantas}
+\begin{frame}{Biogénesis y actividad de miARNs en plantas}
 	\begin{center}
 		\includegraphics[width=0.5\textwidth]{img/biogenesis_accion.png}
 	\end{center}
 \end{frame}
 
-\begin{frame}{Estructuras secundarias de precursores de miARNs}
+\begin{frame}{El tamaño de los precursores es muy variado en plantas}
 	\begin{center}
 		\includegraphics[width=0.5\textwidth]{img/distribucion_precursores.png}
 	\end{center}
@@ -96,11 +96,20 @@
 	\end{center}
 \end{frame}
 
-
 \begin{frame}{Regulación de la expresión génica por miARNs}
+En animales existe un gran número de genes blanco mediado por miARNs y un ARNm puede estar regulado por varios miARNs, en cambio los miARNs en plantas regulan un número limitado de genes blanco.
     \begin{itemize}
-        \item En animales existe un gran número de genes blanco mediado por miARNs y un ARNm puede estar regulado por varios miARNs, en cambio los miARNs en plantas regulan un número limitado de genes blancos.
-        \item En plantas controlan procesos vitales como el desarrollo, señalización hormonal y respuestas al estrés.
+        \item<2-> Regulación por corte del ARN blanco.
+        \begin{itemize}
+            \item Es el mecanismo más común en plantas.
+            \item El corte ocurre entre las posiciones 10 y 11 desde el extremo 5’ del miARN.
+        \end{itemize}
+        \item<3-> Regulación de la traducción por miARNs.
+        \begin{itemize}
+            \item Inhibición de la traducción del ARNm blanco por el miARN explica la represión de la expresión de los blancos de miARNs en animales.
+            \item Otras veces los miARNs de animales disminuyen la vida media de los transcriptos a los que se unen.
+        \end{itemize}
+
     \end{itemize}
 \end{frame}
 
@@ -137,26 +146,20 @@
 
 \subsection{Resultados 1}
 
-\begin{frame}{Aplicaciones bioinformáticas para el estudio de interacciones miARN-gen blanco}
+%~ Aplicaciones bioinformáticas para el estudio de interacciones miARN-gen blanco
+
+\begin{frame}{La identificación de genes blancos regulados por miARNs en plantas es muy importante para poder conocer el rol de los miARNs}
+	\begin{itemize}
+		\item En general, se obtiene de diferentes estrategias computacionales donde tienen en cuenta la complementariedad con sus mensajeros blanco.
+        \item Uno de los mayores desafíos es predecir los genes regulados por estos ARN pequeños con una baja frecuencia de predicciones falsas.
+	\end{itemize}
 \end{frame}
 
-%~ \begin{frame}{Conservación y divergencia de miARNs en distintas especies}
-	%~ \begin{center}
-		%~ \includegraphics[width=0.5\textwidth]{img/variabilidad_maduro.png}
-	%~ \end{center}
-%~ \end{frame}
-%~ 
-%~ \begin{frame}{22 miARNs que están conservados en Angiospermas}
-	%~ \begin{center}
-		%~ \includegraphics[width=0.5\textwidth]{img/NAR_fig1_01.png}
-	%~ \end{center}
-%~ \end{frame}
-%~ 
-%~ \begin{frame}{Secuencias consensos de 18 nt (2-19)}
-	%~ \begin{center}
-		%~ \includegraphics[width=0.5\textwidth]{img/NAR_fig1_02.png}
-	%~ \end{center}
-%~ \end{frame}
+\begin{frame}{Conservación y divergencia de miARNs en distintas especies}
+	\begin{center}
+		\includegraphics[width=0.6\textwidth]{img/variabilidad_maduro.png}
+	\end{center}
+\end{frame}
 
 \begin{frame}{Búsqueda de potenciales genes blancos}
 	\begin{center}
@@ -176,11 +179,6 @@
 	\end{center}
 \end{frame}
 
-%~ \begin{frame}{Genes blancos en \textit{A. thaliana}}
-	%~ \begin{center}
-		%~ \includegraphics[width=0.5\textwidth]{img/NAR_fig1_06.png}
-	%~ \end{center}
-%~ \end{frame}
 
 \begin{frame}{Validación experimental}
 	\begin{center}
@@ -231,11 +229,25 @@
 	\end{center}
 \end{frame}
 
-\begin{frame}{Nuevos genes blancos validados en \textit{A. thaliana}}
+%~ \begin{frame}{Nuevos genes blancos validados en \textit{A. thaliana}}
+	%~ \begin{center}
+		%~ \includegraphics[width=1\textwidth]{img/Figure4_retocada.png}
+	%~ \end{center}
+%~ \end{frame}
+
+\begin{frame}{Validación experimental}
 	\begin{center}
-		\includegraphics[width=1\textwidth]{img/Figure4_retocada.png}
+		\includegraphics[width=1\textwidth]{img/Figure4_retocada_nueva01.png}
 	\end{center}
 \end{frame}
+
+
+\begin{frame}{Nuevos genes blancos validados en \textit{A. thaliana}}
+	\begin{center}
+		\includegraphics[width=1\textwidth]{img/Figure4_retocada_nueva02.png}
+	\end{center}
+\end{frame}
+
 
 \begin{frame}{Nuevos genes blancos con interacciones G-U}
 ESTO NO LO VOY A PONER
@@ -254,16 +266,14 @@ ESTO NO LO VOY A PONER
 \begin{frame}{Herramienta para la predicción de genes blancos regulados por miARNs en plantas}
 ComTAR, una herramienta para predecir potenciales genes blancos regulados por miARNs en plantas basada en la conservación evolutiva del par miARN-gen blanco. Permite realiza la búsqueda de:
 
-%~ con un número relajado de ``mismatches''
-
 \begin{itemize}
-    \item potenciales genes blancos a partir de un miARN.
-    \item familias de potenciales genes blancos de un miARN.
-    \item un gen de interés para ver si es potencial gen blanco de algún miARN conservado
-    \item nuevos ARNs pequeños
+    \item<2-> potenciales genes blancos a partir de un miARN.
+    \item<2-> familias de potenciales genes blancos de un miARN.
+    \item<2-> un gen de interés para ver si es potencial gen blanco de algún miARN conservado
+    \item<2-> nuevos ARNs pequeños
 \end{itemize}
     \begin{center}
-        \uncover<2->{\href{http://rnabiology.ibr-conicet.gov.ar/comtar}{\beamergotobutton{http://rnabiology.ibr-conicet.gov.ar/comtar}}}
+        \uncover<3->{\href{http://rnabiology.ibr-conicet.gov.ar/comtar}{\beamergotobutton{http://rnabiology.ibr-conicet.gov.ar/comtar}}}
     \end{center}
 \end{frame}
 
@@ -279,12 +289,6 @@ ComTAR, una herramienta para predecir potenciales genes blancos regulados por mi
 	\end{center}
 \end{frame}
 
-
-\begin{frame}{Conclusiones I}
-	\begin{center}
-		\includegraphics[width=.8\textwidth]{img/miRNAs_y_genes_blancos.png}
-	\end{center}
-\end{frame}
 
 \begin{frame}{Conclusiones I}
 	\begin{itemize}
@@ -429,8 +433,7 @@ ComTAR, una herramienta para predecir potenciales genes blancos regulados por mi
 
 
 \begin{frame}{Estrategia bioinformática para el estudio de la evolución y biogénesis de miARNs en plantas}
-VER LO QUE PUSE EN EL SEMINARIO IBR!!!!!
-
+ARMAR UNA INTRO CON ESTO!!!
     Comenzamos nuestro análisis con una definición arbitraria de los precursores de plantas incluyendo 150 nt fuera del par miARN/miARN*.
     Para cada miembro de cada familia de A. thaliana no es trivial asignarle un ortólogo en otra especie teniendo en cuenta la anotación de miRBase. 
     Por esto, realizamos una búsqueda de ortólogos para cada miembro de cada familia de \textit{A. thaliana} utilizando como criterio la técnica de Blast recíproco.
@@ -653,8 +656,14 @@ hsa-let-7-a.
 \section{Conclusiones generales}
 
 \begin{frame}{Conclusiones generales}
-	En cuanto a la primera parte de la Tesis, diseñamos una estrategia para identificar genes blanco regulados por miARNs en plantas, basada en la conservación evolutiva del par miARN-gen blanco.
-
+	\begin{itemize}
+        \item<1-> Aplicaciones bioinformáticas para el estudio de interacciones miARN-gen blanco.
+        \item<2-> Desarrollo de la herramienta comTAR
+        \item<3-> Determinantes mecanísticos del procesamiento de miARNs en plantas.
+        \item<4-> Desarrollo de una herramienta para el análisis de bibliotecas de SPARE incluyendo una interfaz gráfica
+        \item<5-> Análisis de las estructuras de los precursores y su evolución. 
+        \item<6-> Visualización de información compleja por adaptación de una herramienta Circos.
+    \end{itemize}
 \end{frame}
 
     %~ \vspace{1cm}
@@ -670,7 +679,6 @@ hsa-let-7-a.
 	\end{center}
 \end{frame}
 
-
 \begin{frame}{}
 	\begin{center}
 		\includegraphics[width=.5\textwidth]{img/extras/NAR_fig3A.png}
@@ -682,5 +690,18 @@ hsa-let-7-a.
 		\includegraphics[width=.5\textwidth]{img/extras/NAR_fig3B.png}
 	\end{center}
 \end{frame}
+
+\begin{frame}{Nuevos genes blancos validados en \textit{A. thaliana}}
+	\begin{center}
+		\includegraphics[width=1\textwidth]{img/Figure4_retocada.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{Nuevos genes blancos con interacciones G-U}
+	\begin{center}
+		\includegraphics[width=.6\textwidth]{img/Figure5_retocada.png}
+	\end{center}
+\end{frame}
+
 
 \end{document}
