@@ -13,7 +13,7 @@
    height="744.09448"
    id="svg7463"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="NAR_fig01y03.svg">
   <defs
      id="defs7465" />
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="-1156.4817"
-     inkscape:cy="284.13684"
+     inkscape:cx="-1322.9103"
+     inkscape:cy="798.42255"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4231"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
+     inkscape:window-width="1366"
+     inkscape:window-height="750"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="18"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7468">
@@ -1027,27 +1027,32 @@
       <text
          xml:space="preserve"
          style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         x="-1288.0149"
-         y="124.85753"
+         x="-1287.7073"
+         y="116.10753"
          id="text3424-7-7-6"
          sodipodi:linespacing="125%"
          inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_defensa/NAR_fig01y03.png"
          inkscape:export-xdpi="150"
          inkscape:export-ydpi="150"><tspan
            sodipodi:role="line"
-           x="-1288.0149"
-           y="124.85753"
+           x="-1287.7073"
+           y="116.10753"
            id="tspan3430-6-9-3"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans">Búsqueda de potenciales</tspan><tspan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans">Búsqueda inicial</tspan><tspan
+           sodipodi:role="line"
+           x="-1287.7073"
+           y="133.60753"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+           id="tspan3145">de potenciales</tspan><tspan
            id="tspan3284"
            sodipodi:role="line"
-           x="-1288.0149"
-           y="142.35753"
+           x="-1287.7073"
+           y="151.10753"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans">genes blancos</tspan><tspan
            id="tspan3282"
            sodipodi:role="line"
-           x="-1288.0149"
-           y="159.85753"
+           x="-1287.7073"
+           y="168.60753"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" /></text>
     </g>
     <g
