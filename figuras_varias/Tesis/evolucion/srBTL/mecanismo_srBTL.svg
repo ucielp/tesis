@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3892"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="mecanismo_srBTL.svg">
+  <defs
+     id="defs3894" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="408.24094"
+     inkscape:cy="769.10424"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="750"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3897">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="translate(-145.38091,-427.46995)"
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/procesamiento/spanish/mecanismos.png"
+       id="g5280-1">
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5860-5"
+         y2="666.24286"
+         x2="697.80762"
+         y1="666.24286"
+         x1="683.82538"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5862-9"
+         y2="680.55798"
+         x2="697.7782"
+         y1="680.52252"
+         x1="683.79596"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5864-6"
+         y2="676.6604"
+         x2="697.78601"
+         y1="676.62494"
+         x1="683.80377"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5866-9"
+         y2="694.80212"
+         x2="696.79956"
+         y1="694.76666"
+         x1="682.81732"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5868-7"
+         y2="691.1524"
+         x2="696.80737"
+         y1="691.11694"
+         x1="682.82513"
+         class="fil27 str47" />
+      <path
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         inkscape:connector-curvature="0"
+         id="path5870-3"
+         d="m 684.05145,556.01078 c -6.56292,6.13063 -5.69374,17.91425 -0.0457,22.20803 -0.006,2.9087 -0.0106,5.27528 -0.0106,5.27528"
+         class="fil27 str47" />
+      <path
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         inkscape:connector-curvature="0"
+         id="path5872-1"
+         d="m 699.34188,555.44385 c 6.15118,4.49398 5.47901,18.03225 -1.35425,22.97481 -0.004,2.06043 -0.007,3.5961 -0.008,4.20661"
+         class="fil27 str47" />
+      <path
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         inkscape:connector-curvature="0"
+         id="path5874-51"
+         d="m 683.99617,582.90448 c -0.0666,0.19134 -0.0893,0.36815 -0.1187,0.54851 -2.21953,2.43566 -0.90709,4.0833 0.10063,6.57602 10e-4,0.20197 0.002,0.40075 0.002,0.60272 -0.007,3.35019 -0.0142,7.00653 -0.022,10.85917 -7.1e-4,0.20197 -10e-4,0.40642 -10e-4,0.61016 -2.0087,2.86795 -1.02543,4.51452 -0.0156,7.54051 -3.5e-4,0.2126 -7.1e-4,0.42803 -10e-4,0.64275 -0.0283,13.80792 -0.0595,28.95272 -0.0847,41.25118 -3.5e-4,0.20906 -0.001,0.41386 -0.001,0.62114 -2.00799,2.48351 -2.01118,4.12831 -0.0138,6.81839 -3.5e-4,0.17716 -7.1e-4,0.35433 -10e-4,0.52795 -0.004,2.04414 -0.007,3.43488 -0.0138,6.73689 -2.00232,1.96583 -1.53213,4.29095 0.0602,6.88642 -0.003,1.57854 -0.0946,9.77882 -0.0978,11.35204 -1.90098,3.45685 -1.90098,3.53091 -0.0128,6.21567 -0.011,5.4567 -0.0181,8.83737 -0.0181,8.83737"
+         class="fil27 str47" />
+      <path
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         inkscape:connector-curvature="0"
+         id="path5876-6"
+         d="m 697.97948,582.40842 c 0.0369,0.32244 0.0734,0.6509 0.17114,0.98504 2.25921,1.86413 0.28063,4.16303 -0.18673,6.56893 -3.6e-4,0.19843 -7.1e-4,0.39508 -10e-4,0.59422 -0.007,3.40015 -0.0145,7.11744 -0.0227,11.0374 -3.6e-4,0.20551 -7.1e-4,0.41315 0.0124,0.62008 0.21968,0.26575 0.39755,0.52795 0.53822,0.78626 0.25335,0.19842 0.45319,0.41137 0.61016,0.6463 0.6091,2.00515 0.27602,3.97807 -0.95315,5.42834 -0.17681,0.37666 -0.26539,0.88229 -0.21508,1.44177 -0.01,0.35646 -0.0124,0.69555 -0.0131,1.03181 -0.028,13.81252 -0.0588,28.80532 -0.0836,40.79764 -3.5e-4,0.19488 -7.1e-4,0.38941 -10e-4,0.58287 2.10118,2.72339 2.0987,4.03902 0.15697,6.52465 -0.0429,0.18425 -0.0751,0.36602 -0.17149,0.56728 -0.004,1.74544 -0.007,3.36331 -0.0128,6.23658 1.37125,2.8063 1.68129,3.36153 0.0616,6.3085 -10e-4,0.70264 -0.0847,4.91102 -0.0861,5.61827 -10e-4,0.70653 0.10807,4.94362 0.10665,5.64768 2.12067,4.76574 1.4113,4.37846 -0.13252,6.86055 -0.0103,5.12822 -0.0177,8.75657 -0.0177,8.75657"
+         class="fil27 str47" />
+      <path
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         inkscape:connector-curvature="0"
+         id="path5878-4"
+         d="m 697.51247,730.62495 c -0.0128,6.08173 4.89897,11.01259 10.97929,11.02535"
+         class="fil27 str47" />
+      <path
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         inkscape:connector-curvature="0"
+         id="path5880-4"
+         d="m 683.69322,730.66038 c -0.0124,6.02185 -4.89508,10.88504 -10.91764,10.87299"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5882-7"
+         y2="676.6604"
+         x2="697.78601"
+         y1="676.62494"
+         x1="683.80377"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5884-9"
+         y2="662.48718"
+         x2="697.81543"
+         y1="662.48718"
+         x1="683.83282"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5886-66"
+         y2="658.802"
+         x2="697.82288"
+         y1="658.802"
+         x1="683.84064"
+         class="fil27 str47" />
+      <path
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         inkscape:connector-curvature="0"
+         id="path5888-8"
+         d="m 683.85408,652.1407 c 0.62894,-0.1311 1.61575,-0.1311 2.18481,0.002 0.1637,3.5e-4 0.33413,7.1e-4 0.5113,10e-4 4.06311,0 11.28614,0.0354 11.28614,0.0354"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5890-1"
+         y2="648.31396"
+         x2="697.84448"
+         y1="648.2785"
+         x1="683.86224"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5892-7"
+         y2="644.4519"
+         x2="697.85229"
+         y1="644.41644"
+         x1="683.87006"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5894-2"
+         y2="640.55389"
+         x2="697.86041"
+         y1="640.51843"
+         x1="683.87817"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5896-8"
+         y2="636.65631"
+         x2="697.86823"
+         y1="636.62091"
+         x1="683.88599"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5898-3"
+         y2="632.82977"
+         x2="697.87604"
+         y1="632.79425"
+         x1="683.8938"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5900-2"
+         y2="628.93219"
+         x2="697.88416"
+         y1="628.89673"
+         x1="683.90192"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5902-8"
+         y2="625.06964"
+         x2="697.89197"
+         y1="625.03424"
+         x1="683.90973"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5904-0"
+         y2="621.17212"
+         x2="697.90015"
+         y1="621.13666"
+         x1="683.91785"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5906-34"
+         y2="617.2746"
+         x2="697.9079"
+         y1="617.23907"
+         x1="683.92566"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5908-1"
+         y2="613.44794"
+         x2="697.91571"
+         y1="613.41248"
+         x1="683.93347"
+         class="fil27 str47" />
+      <path
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         inkscape:connector-curvature="0"
+         id="path5910-5"
+         d="m 683.9416,609.51472 c 0,0 5.77843,0 9.90567,0.0354 0.3437,7.1e-4 0.67677,3.5e-4 0.99603,0 0.30401,0 0.65232,0.0354 1.01763,0.0354 0.36461,0.002 0.74587,0 1.11508,-0.0354 0.36886,0 0.72638,-0.039 1.04386,-0.0744"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5912-6"
+         y2="601.79034"
+         x2="697.93982"
+         y1="601.75482"
+         x1="683.95758"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5914-4"
+         y2="597.96332"
+         x2="697.94763"
+         y1="597.92828"
+         x1="683.96533"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5916-0"
+         y2="594.06573"
+         x2="697.95575"
+         y1="594.03027"
+         x1="683.97351"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5918-5"
+         y2="590.16815"
+         x2="697.96356"
+         y1="590.13275"
+         x1="683.98132"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5920-0"
+         y2="582.44403"
+         x2="697.97949"
+         y1="582.44403"
+         x1="683.99725"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5922-9"
+         y2="578.58148"
+         x2="698.22467"
+         y1="578.54602"
+         x1="684.24243"
+         class="fil27 str47" />
+      <polyline
+         transform="matrix(3.5433069,0,0,3.5433069,575.97669,-3075.3474)"
+         style="fill:none;stroke:#8e2800;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="polyline5924-4"
+         points="34.9268,1039.01 34.4617,1039.96 34.4832,1052.08 35.0148,1053.05 34.5028,1054.11 "
+         class="fil3 str48" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5926-3"
+         y2="691.1524"
+         x2="696.80737"
+         y1="691.11694"
+         x1="682.82513"
+         class="fil27 str47" />
+      <polyline
+         transform="matrix(3.5433069,0,0,3.5433069,575.97669,-3075.3474)"
+         style="color:#000000;fill:none;stroke:#91c9e8;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.81568627;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="polyline5928-1"
+         points="30.376,1037.41 29.8748,1038.77 30.4898,1039.95 30.4185,1052.07 30.0045,1052.57 "
+         class="fil3 str49" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5930-2"
+         y2="698.4873"
+         x2="697.57306"
+         y1="698.45184"
+         x1="683.59082"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5932-4"
+         y2="728.03839"
+         x2="696.56323"
+         y1="728.00293"
+         x1="682.58099"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5934-9"
+         y2="724.06989"
+         x2="696.57135"
+         y1="724.03442"
+         x1="682.58911"
+         class="fil27 str47" />
+      <path
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         inkscape:connector-curvature="0"
+         id="path5936-6"
+         d="m 697.59113,689.73518 c -0.003,1.74544 -0.012,5.83725 -0.0177,8.71052 7.1961,2.87433 7.31764,18.29303 -0.0439,21.32114 -0.0103,5.12822 -0.0223,11.01082 -0.0223,11.01082"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5938-06"
+         y2="720.27832"
+         x2="696.57916"
+         y1="720.24286"
+         x1="682.59692"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5940-5"
+         y2="684.49097"
+         x2="697.77008"
+         y1="684.49097"
+         x1="683.78784"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5942-8"
+         y2="672.55005"
+         x2="698.37207"
+         y1="672.55005"
+         x1="684.38983"
+         class="fil27 str47" />
+      <path
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         inkscape:connector-curvature="0"
+         id="path5944-5"
+         d="m 683.76515,689.98322 c -0.004,1.74543 -0.012,5.83724 -0.0181,8.71051 -7.2078,2.84527 -7.39276,18.26291 -0.0436,21.32114 -0.0106,5.12823 -0.0227,11.01082 -0.0227,11.01082"
+         class="fil27 str47" />
+      <line
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         id="line5946-69"
+         y2="732.14874"
+         x2="696.55505"
+         y1="732.11328"
+         x1="682.57281"
+         class="fil27 str47" />
+      <path
+         style="fill:none;stroke:#1f1a17;stroke-width:1.77165341"
+         inkscape:connector-curvature="0"
+         id="path5948-2"
+         d="m 682.62066,557.60527 c 6.36803,-5.75504 13.26437,-4.18075 17.74098,-1.19657"
+         class="fil27 str47" />
+    </g>
+    <path
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/procesamiento/spanish/mecanismos.png"
+       class="fil3"
+       d="m 568.48949,233.77705 c 2.3297,0.86244 4.5124,1.5626 6.92,1.55799"
+       id="path6372-8"
+       inkscape:connector-curvature="0"
+       style="fill:none" />
+    <path
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/procesamiento/spanish/mecanismos.png"
+       class="fil3 str52"
+       d="m 567.90869,230.80067 c 6.5069,-2.56784 15.2819,-18.94676 10.1502,-39.82499 -1.8287,-7.43917 -6.0577,-9.54602 -8.8533,-14.60445 -0.8866,-1.60405 -0.5209,5.70544 -0.5209,7.53768"
+       id="path6374-7"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#72706f;stroke-width:1.24015737" />
+    <path
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/procesamiento/spanish/mecanismos.png"
+       class="fil3"
+       d="m 568.48949,176.16289 c 2.3297,0.79015 4.5124,1.43185 6.92,1.4276"
+       id="path6376-7"
+       inkscape:connector-curvature="0"
+       style="fill:none" />
+    <path
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/procesamiento/spanish/mecanismos.png"
+       class="fil11 str53"
+       d="m 568.66799,176.48178 c 1.2161,0.41209 2.3964,0.78556 3.6036,1.0513 1.1175,0.24804 2.2475,0.39579 3.432,0.39402 l 0,-0.61406 c -1.1278,0.002 -2.2071,-0.14173 -3.2772,-0.37736 -1.1597,-0.25512 -2.3219,-0.62362 -3.527,-1.03216 l -0.2314,0.57826 z"
+       id="path6378-06"
+       inkscape:connector-curvature="0"
+       style="fill:#1f1a17;fill-rule:nonzero;stroke:#72706f;stroke-width:0.88582671" />
+    <text
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/procesamiento/spanish/mecanismos.png"
+       sodipodi:linespacing="125%"
+       id="text272393-7-8-8"
+       y="248.12115"
+       x="472.94949"
+       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan274595-9-2-5"
+         style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+         y="248.12115"
+         x="472.94949"
+         sodipodi:role="line">tallo inferior</tspan><tspan
+         id="tspan275245-2"
+         style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+         y="260.62115"
+         x="472.94949"
+         sodipodi:role="line">(~15nt)</tspan></text>
+    <text
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/procesamiento/spanish/mecanismos.png"
+       sodipodi:linespacing="125%"
+       id="text5532"
+       y="198.18259"
+       x="472.77371"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle"
+         id="tspan5536"
+         y="198.18259"
+         x="472.77371"
+         sodipodi:role="line">Dúplex</tspan><tspan
+         style="text-align:center;text-anchor:middle"
+         id="tspan3242"
+         y="210.68259"
+         x="472.77371"
+         sodipodi:role="line">miARN/miARN*</tspan></text>
+    <g
+       transform="translate(0.8579557,-6.4285714)"
+       id="g3271">
+      <text
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/procesamiento/seqBTL.png"
+         sodipodi:linespacing="125%"
+         id="text270079-8"
+         y="353.75635"
+         x="509.56082"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:12px"
+           y="353.75635"
+           x="509.56082"
+           id="tspan270081-7"
+           sodipodi:role="line">base a loop</tspan></text>
+      <text
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/procesamiento/BTL.png"
+         sodipodi:linespacing="125%"
+         id="text270079-6-6"
+         y="339.0177"
+         x="528.02368"
+         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:12px"
+           y="339.0177"
+           x="528.02368"
+           id="tspan270081-2-8"
+           sodipodi:role="line">Corto</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#468966;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 522.85714,172.57648 0,53.75"
+       id="path4325-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 2;stroke-dashoffset:0"
+       d="m 522.85714,230.79077 0,37.14286"
+       id="path4331-4"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

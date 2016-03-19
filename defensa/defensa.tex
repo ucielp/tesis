@@ -267,7 +267,10 @@ En animales existe un gran número de genes blanco mediado por miARNs y un ARNm 
 
 
 \begin{frame}{¿Pueden los miARNs en Angiospermas regular genes específicos de Solanaceae?}
-????????
+	%~ Superóxido dismutasa
+	\begin{center}
+		\includegraphics[width=.8\textwidth]{img/miR398_solanaceae.png}
+	\end{center}
 \end{frame}
 
 \begin{frame}{Identificación de genes blancos específicos de \textit{Solanaceae}}
@@ -309,7 +312,7 @@ Desarrollamos ComTAR, que permite realizar la búsqueda de:
         \item<2-> Identificamos nuevos genes blancos en \textit{A. thaliana} y se validaron experimentalmente varios de ellos.
         %~ a pesar de que este sistema ya había sido estudiado en detalles en distintos enfoques genómicos. 
         \uncover<2->{   \begin{center}
-                            \includegraphics[width=.7\textwidth]{img/tabla_targets.png}
+                            \includegraphics[width=.69\textwidth]{img/tabla_targets.png}
                         \end{center}
         }
 	\end{itemize}
@@ -535,25 +538,25 @@ Desarrollamos ComTAR, que permite realizar la búsqueda de:
 
 \begin{frame}{Mismo patrón de conservación en otros precursores que se procesan desde la base}
 	\begin{center}
-		\includegraphics[width=.8\textwidth]{img/miR390a_circos.png}
+		\includegraphics[width=.8\textwidth]{img/miR390a_circos_defensa.png}
 	\end{center}
 \end{frame}
 
 \begin{frame}{Precursores que se procesan desde la base en forma secuencial}
 	\begin{center}
-		\includegraphics[width=1\textwidth]{img/seqBTL_circos.png}
+		\includegraphics[width=1\textwidth]{img/seqBTL_circos_defensa.png}
 	\end{center}
 \end{frame}
 
 \begin{frame}{Precursores que se procesan desde el loop cortos}
 	\begin{center}
-		\includegraphics[width=1\textwidth]{img/srLTB_circos.png}
+		\includegraphics[width=1\textwidth]{img/srLTB_circos_defensa.png}
 	\end{center}
 \end{frame}
 
 \begin{frame}{Precursores que se procesan desde el loop en forma secuencial}
 	\begin{center}
-		\includegraphics[width=1\textwidth]{img/seqLTB_circos.png}
+		\includegraphics[width=1\textwidth]{img/seqLTB_circos_defensa.png}
 	\end{center}
 \end{frame}
 
@@ -607,7 +610,7 @@ Desarrollamos ComTAR, que permite realizar la búsqueda de:
 
 \begin{frame}{Variante del miR396 específica de monocotiledóneas}
 	\begin{center}
-		\includegraphics[width=.6\textwidth]{img/circos_monocots_miR396e.png}
+		\includegraphics[width=.8\textwidth]{img/circos_monocots_miR396e_defensa.png}
 	\end{center}
     \begin{center}
         \uncover<2->{El nucleótido extra, que le da identidad a la variante de monocotiledóneas, está conservado.}
@@ -638,15 +641,22 @@ Desarrollamos ComTAR, que permite realizar la búsqueda de:
     \end{table}
 \end{frame}
 
-\begin{frame}{
-hsa-let-7-a.
-\uncover<2->{El loop terminal está conservado en la mayoría de los precursores de animales estudiados.}
-}
+%~ \begin{frame}{
+%~ hsa-let-7-a.
+%~ \uncover<2->{El loop terminal está conservado en la mayoría de los precursores de animales estudiados.}
+%~ }
     %~ \begin{center}
         %~ La riboproteína HnRNP A1 se une al loop terminal del precursor de let-7-a e inhibe su procesamiento por Drosha.
     %~ \end{center}
+	%~ \begin{center}
+		%~ \uncover<2->{\includegraphics[width=.6\textwidth]{img/hsa-let-7a-1_circos.png}}
+	%~ \end{center}
+%~ \end{frame}
+
+\begin{frame}{
+El loop terminal está conservado en la mayoría de los precursores de animales estudiados.}
 	\begin{center}
-		\uncover<2->{\includegraphics[width=.6\textwidth]{img/hsa-let-7a-1_circos.png}}
+		\includegraphics[width=.8\textwidth]{img/hsa-let-7a-1_circos_defensa.png}
 	\end{center}
 \end{frame}
 
@@ -655,7 +665,7 @@ hsa-let-7-a.
 
 \begin{frame}{Circos animales vs plantas}
 	\begin{center}
-		\includegraphics[width=1\textwidth]{img/animals_vs_plants_circos.png}
+		\includegraphics[width=1\textwidth]{img/animals_vs_plants_circos_defensa.png}
 	\end{center}
         %~ Aca tengo que decir:
             %~ los prec en plantas que se procesan de abajo tienen conservación hacia abajo
@@ -681,12 +691,12 @@ hsa-let-7-a.
 
 \begin{frame}{Conclusiones generales}
 	\begin{itemize}
-        \item<1-> Aplicaciones bioinformáticas para el estudio de interacciones miARN-gen blanco.
-        \item<2-> Desarrollo de la herramienta comTAR
-        \item<3-> Determinantes mecanísticos del procesamiento de miARNs en plantas.
-        \item<4-> Desarrollo de una herramienta para el análisis de bibliotecas de SPARE incluyendo una interfaz gráfica
-        \item<5-> Análisis de las estructuras de los precursores y su evolución. 
-        \item<6-> Visualización de información compleja por adaptación de una herramienta Circos.
+        \item<1-> Desarrollamos aplicaciones bioinformáticas para el estudio de interacciones miARN-gen blanco.
+        %~ \item<2-> Desarrollo de la herramienta comTAR
+        \item<2-> Encontramos determinantes mecanísticos del procesamiento de miARNs en plantas.
+        \item<3-> Desarrollamos una herramienta para el análisis de bibliotecas de SPARE incluyendo una interfaz gráfica.
+        \item<4-> Analizamos las estructuras de los precursores y su evolución.
+        \item<5-> Realizamos una forma de representación Visualización de información compleja por adaptación de una herramienta Circos.
     \end{itemize}
 \end{frame}
 
