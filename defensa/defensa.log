@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.3)  20 MAR 2016 21:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.3)  20 MAR 2016 21:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1033,20 +1033,20 @@ LaTeX Info: Redefining \% on input line 25.
 )
 \openout1 = `defensa.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1112,7 +1112,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box55
-Package hyperref Info: Link coloring OFF on input line 46.
+Package hyperref Info: Link coloring OFF on input line 52.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1122,56 +1122,56 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count204
 )
-LaTeX Info: Redefining \ref on input line 46.
-LaTeX Info: Redefining \pageref on input line 46.
-LaTeX Info: Redefining \nameref on input line 46.
+LaTeX Info: Redefining \ref on input line 52.
+LaTeX Info: Redefining \pageref on input line 52.
+LaTeX Info: Redefining \nameref on input line 52.
 
 (./defensa.out) (./defensa.out)
 \@outlinefile=\write5
 \openout5 = `defensa.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 46.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 52.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 46.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 52.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 46.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 46.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 46.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 46.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 52.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 46.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 46.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 46.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 52.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 46.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 46.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 46.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 52.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 46.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 46.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 52.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 46.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 52.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 46.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 46.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 46.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 46.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 46.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 46.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 52.
 
 (/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-basic-dicti
 onary/translator-basic-dictionary-English.dict
@@ -1197,21 +1197,21 @@ Dictionary: translator-numbers-dictionary, Language: English
 tionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 46.
-LaTeX Info: Redefining \. on input line 46.
-LaTeX Info: Redefining \% on input line 46.
+LaTeX Info: Redefining \includegraphics on input line 52.
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (./defensa.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 48.
+(Font)              size <5> substituted on input line 54.
 
 <img/logoIBR2016_byn.png, id=41, 198.38258pt x 119.49023pt>
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
 <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 48.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 54.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [1
 
@@ -1219,17 +1219,17 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 48.
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 56.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 62.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [2
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 66.
+LaTeX Font Info:    Try loading font information for U+msa on input line 72.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 66.
+LaTeX Font Info:    Try loading font information for U+msb on input line 72.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1237,7 +1237,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
 <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 66.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 72.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [3
 
@@ -1247,11 +1247,11 @@ File: img/familias_miRNAs_conservados.png Graphic file (type png)
 
 <use img/familias_miRNAs_conservados.png>
 Package pdftex.def Info: img/familias_miRNAs_conservados.png used on input line
- 72.
+ 78.
 (pdftex.def)             Requested size: 307.28987pt x 122.19601pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 72.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 78.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
 
 [4
@@ -1261,11 +1261,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 72.
 File: img/procesamiento_animales.png Graphic file (type png)
 
 <use img/procesamiento_animales.png>
-Package pdftex.def Info: img/procesamiento_animales.png used on input line 78.
+Package pdftex.def Info: img/procesamiento_animales.png used on input line 84.
 (pdftex.def)             Requested size: 153.64493pt x 221.88577pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 78.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 84.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [5
 
@@ -1275,11 +1275,11 @@ File: img/biogenesis_accion_defensa02.png Graphic file (type png)
 
 <use img/biogenesis_accion_defensa02.png>
 Package pdftex.def Info: img/biogenesis_accion_defensa02.png used on input line
- 85.
+ 91.
 (pdftex.def)             Requested size: 215.10196pt x 227.80087pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 85.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 91.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
 
 [6
@@ -1290,11 +1290,11 @@ File: img/biogenesis_accion_defensa03.png Graphic file (type png)
 
 <use img/biogenesis_accion_defensa03.png>
 Package pdftex.def Info: img/biogenesis_accion_defensa03.png used on input line
- 91.
+ 97.
 (pdftex.def)             Requested size: 215.10196pt x 227.80087pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 91.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 97.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
 
 [7
@@ -1305,11 +1305,11 @@ File: img/biogenesis_accion_defensa04.png Graphic file (type png)
 
 <use img/biogenesis_accion_defensa04.png>
 Package pdftex.def Info: img/biogenesis_accion_defensa04.png used on input line
- 97.
+ 103.
 (pdftex.def)             Requested size: 215.10196pt x 227.80087pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 97.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 103.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
 
 [8
@@ -1320,11 +1320,11 @@ File: img/biogenesis_accion_defensa05.png Graphic file (type png)
 
 <use img/biogenesis_accion_defensa05.png>
 Package pdftex.def Info: img/biogenesis_accion_defensa05.png used on input line
- 103.
+ 109.
 (pdftex.def)             Requested size: 215.10196pt x 227.80087pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 103.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 109.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
 
 [9
@@ -1335,11 +1335,11 @@ File: img/biogenesis_accion_defensa06.png Graphic file (type png)
 
 <use img/biogenesis_accion_defensa06.png>
 Package pdftex.def Info: img/biogenesis_accion_defensa06.png used on input line
- 109.
+ 115.
 (pdftex.def)             Requested size: 215.10196pt x 227.73227pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 109.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 115.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
 
 [10
@@ -1349,12 +1349,12 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 109.
 File: img/distribucion_precursores.png Graphic file (type png)
 
 <use img/distribucion_precursores.png>
-Package pdftex.def Info: img/distribucion_precursores.png used on input line 11
-5.
+Package pdftex.def Info: img/distribucion_precursores.png used on input line 12
+1.
 (pdftex.def)             Requested size: 153.64493pt x 96.00034pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 115.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 121.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [11
 
@@ -1363,25 +1363,25 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 115.
 File: img/ss_precursores.png Graphic file (type png)
 
 <use img/ss_precursores.png>
-Package pdftex.def Info: img/ss_precursores.png used on input line 121.
+Package pdftex.def Info: img/ss_precursores.png used on input line 127.
 (pdftex.def)             Requested size: 307.28987pt x 154.8849pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 121.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 127.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [12
 
  <./img/ss_precursores.png>]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 138.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 144.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [13
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 138.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 144.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
 
 [14
@@ -1389,7 +1389,7 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 138.
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 138.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 144.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [15
 
@@ -1398,19 +1398,19 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 138.
 File: img/interaccion_miRNA_target.png Graphic file (type png)
 
 <use img/interaccion_miRNA_target.png>
-Package pdftex.def Info: img/interaccion_miRNA_target.png used on input line 14
-4.
+Package pdftex.def Info: img/interaccion_miRNA_target.png used on input line 15
+0.
 (pdftex.def)             Requested size: 307.28987pt x 82.77614pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 144.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 150.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [16
 
  <./img/interaccion_miRNA_target.png>]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 156.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 162.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [17
 
@@ -1418,14 +1418,14 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 156.
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
 <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 156.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 162.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [18
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 166.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 172.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [19
 
@@ -1433,14 +1433,14 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 166.
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
 <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 166.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 172.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [20
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 182.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 188.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [21
 
@@ -1449,11 +1449,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 182.
 File: img/variabilidad_maduro.png Graphic file (type png)
 
 <use img/variabilidad_maduro.png>
-Package pdftex.def Info: img/variabilidad_maduro.png used on input line 188.
+Package pdftex.def Info: img/variabilidad_maduro.png used on input line 194.
 (pdftex.def)             Requested size: 184.3758pt x 209.61694pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 188.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 194.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [22
 
@@ -1462,11 +1462,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 188.
 File: img/NAR_fig01_01.png Graphic file (type png)
 
 <use img/NAR_fig01_01.png>
-Package pdftex.def Info: img/NAR_fig01_01.png used on input line 194.
+Package pdftex.def Info: img/NAR_fig01_01.png used on input line 200.
 (pdftex.def)             Requested size: 215.10196pt x 199.78488pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 194.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 200.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [23
 
@@ -1475,11 +1475,11 @@ pt>
 File: img/NAR_fig01_02.png Graphic file (type png)
 
 <use img/NAR_fig01_02.png>
-Package pdftex.def Info: img/NAR_fig01_02.png used on input line 200.
+Package pdftex.def Info: img/NAR_fig01_02.png used on input line 206.
 (pdftex.def)             Requested size: 215.10196pt x 199.78488pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 200.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 206.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [24
 
@@ -1488,11 +1488,11 @@ pt>
 File: img/NAR_fig01_03.png Graphic file (type png)
 
 <use img/NAR_fig01_03.png>
-Package pdftex.def Info: img/NAR_fig01_03.png used on input line 207.
+Package pdftex.def Info: img/NAR_fig01_03.png used on input line 213.
 (pdftex.def)             Requested size: 215.10196pt x 199.78488pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 207.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 213.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [25
 
@@ -1501,11 +1501,11 @@ pt>
 File: img/NAR_fig01_04.png Graphic file (type png)
 
 <use img/NAR_fig01_04.png>
-Package pdftex.def Info: img/NAR_fig01_04.png used on input line 214.
+Package pdftex.def Info: img/NAR_fig01_04.png used on input line 220.
 (pdftex.def)             Requested size: 215.10196pt x 199.78488pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 214.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 220.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [26
 
@@ -1514,11 +1514,11 @@ t>
 File: img/NAR_fig2_01.png Graphic file (type png)
 
 <use img/NAR_fig2_01.png>
-Package pdftex.def Info: img/NAR_fig2_01.png used on input line 220.
+Package pdftex.def Info: img/NAR_fig2_01.png used on input line 226.
 (pdftex.def)             Requested size: 307.28987pt x 139.14168pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 220.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 226.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [27
 
@@ -1526,11 +1526,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 220.
 File: img/shuffle_01.png Graphic file (type png)
 
 <use img/shuffle_01.png>
-Package pdftex.def Info: img/shuffle_01.png used on input line 227.
+Package pdftex.def Info: img/shuffle_01.png used on input line 233.
 (pdftex.def)             Requested size: 153.64493pt x 99.24101pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 227.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 233.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [28
 
@@ -1538,11 +1538,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 227.
 File: img/shuffle_02.png Graphic file (type png)
 
 <use img/shuffle_02.png>
-Package pdftex.def Info: img/shuffle_02.png used on input line 233.
+Package pdftex.def Info: img/shuffle_02.png used on input line 239.
 (pdftex.def)             Requested size: 153.64493pt x 99.24101pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 233.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 239.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [29
 
@@ -1550,11 +1550,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 233.
 File: img/NAR_fig2_02.png Graphic file (type png)
 
 <use img/NAR_fig2_02.png>
-Package pdftex.def Info: img/NAR_fig2_02.png used on input line 239.
+Package pdftex.def Info: img/NAR_fig2_02.png used on input line 245.
 (pdftex.def)             Requested size: 307.28987pt x 139.14168pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 239.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 245.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [30
 
@@ -1563,11 +1563,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 239.
 File: img/filtros_empiricos_01.png Graphic file (type png)
 
 <use img/filtros_empiricos_01.png>
-Package pdftex.def Info: img/filtros_empiricos_01.png used on input line 246.
+Package pdftex.def Info: img/filtros_empiricos_01.png used on input line 252.
 (pdftex.def)             Requested size: 307.28987pt x 101.08662pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 246.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 252.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [31
 
@@ -1576,11 +1576,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 246.
 File: img/filtros_empiricos_02.png Graphic file (type png)
 
 <use img/filtros_empiricos_02.png>
-Package pdftex.def Info: img/filtros_empiricos_02.png used on input line 252.
+Package pdftex.def Info: img/filtros_empiricos_02.png used on input line 258.
 (pdftex.def)             Requested size: 307.28987pt x 101.08662pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 252.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 258.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [32
 
@@ -1589,11 +1589,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 252.
 File: img/NAR_fig2_03.png Graphic file (type png)
 
 <use img/NAR_fig2_03.png>
-Package pdftex.def Info: img/NAR_fig2_03.png used on input line 259.
+Package pdftex.def Info: img/NAR_fig2_03.png used on input line 265.
 (pdftex.def)             Requested size: 307.28987pt x 139.14168pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 259.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 265.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [33
 
@@ -1602,11 +1602,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 259.
 File: img/NAR_fig2_04.png Graphic file (type png)
 
 <use img/NAR_fig2_04.png>
-Package pdftex.def Info: img/NAR_fig2_04.png used on input line 265.
+Package pdftex.def Info: img/NAR_fig2_04.png used on input line 271.
 (pdftex.def)             Requested size: 307.28987pt x 139.14168pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 265.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 271.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [34
 
@@ -1615,11 +1615,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 265.
 File: img/NAR_fig2_05.png Graphic file (type png)
 
 <use img/NAR_fig2_05.png>
-Package pdftex.def Info: img/NAR_fig2_05.png used on input line 272.
+Package pdftex.def Info: img/NAR_fig2_05.png used on input line 278.
 (pdftex.def)             Requested size: 307.28987pt x 139.14168pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 272.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 278.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [35
 
@@ -1628,11 +1628,11 @@ t>
 File: img/NAR_fig2_bis.png Graphic file (type png)
 
 <use img/NAR_fig2_bis.png>
-Package pdftex.def Info: img/NAR_fig2_bis.png used on input line 278.
+Package pdftex.def Info: img/NAR_fig2_bis.png used on input line 284.
 (pdftex.def)             Requested size: 307.28987pt x 189.1616pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 278.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 284.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [36
 
@@ -1641,11 +1641,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 278.
 File: img/NAR_fig01y03.png Graphic file (type png)
 
 <use img/NAR_fig01y03.png>
-Package pdftex.def Info: img/NAR_fig01y03.png used on input line 284.
+Package pdftex.def Info: img/NAR_fig01y03.png used on input line 290.
 (pdftex.def)             Requested size: 215.10196pt x 214.34088pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 284.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 290.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [37
 
@@ -1655,11 +1655,11 @@ File: img/Figure4_retocada_nueva01.png Graphic file (type png)
 
 <use img/Figure4_retocada_nueva01.png>
 Package pdftex.def Info: img/Figure4_retocada_nueva01.png used on input line 29
-0.
+6.
 (pdftex.def)             Requested size: 307.28987pt x 108.24535pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 290.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 296.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [38
 
@@ -1668,11 +1668,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 290.
 File: img/miR398_solanaceae.png Graphic file (type png)
 
 <use img/miR398_solanaceae.png>
-Package pdftex.def Info: img/miR398_solanaceae.png used on input line 299.
+Package pdftex.def Info: img/miR398_solanaceae.png used on input line 305.
 (pdftex.def)             Requested size: 245.83282pt x 74.5458pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 299.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 305.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [39
 
@@ -1681,18 +1681,18 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 299.
 File: img/Figure6_retocada.png Graphic file (type png)
 
 <use img/Figure6_retocada.png>
-Package pdftex.def Info: img/Figure6_retocada.png used on input line 305.
+Package pdftex.def Info: img/Figure6_retocada.png used on input line 311.
 (pdftex.def)             Requested size: 307.28987pt x 148.56223pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 305.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 311.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [40
 
  <./img/Figure6_retocada.png>]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 320.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 326.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [41
 
@@ -1700,14 +1700,14 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 320.
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
 <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 320.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 326.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [42
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 320.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 326.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [43
 
@@ -1716,11 +1716,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 320.
 File: img/comTAR_find_targets.png Graphic file (type png)
 
 <use img/comTAR_find_targets.png>
-Package pdftex.def Info: img/comTAR_find_targets.png used on input line 326.
+Package pdftex.def Info: img/comTAR_find_targets.png used on input line 332.
 (pdftex.def)             Requested size: 245.83282pt x 164.67847pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 326.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 332.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [44
 
@@ -1729,11 +1729,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 326.
 File: img/comTAR_fig2.png Graphic file (type png)
 
 <use img/comTAR_fig2.png>
-Package pdftex.def Info: img/comTAR_fig2.png used on input line 332.
+Package pdftex.def Info: img/comTAR_fig2.png used on input line 338.
 (pdftex.def)             Requested size: 215.10196pt x 121.48746pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 332.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 338.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [45
 
@@ -1742,22 +1742,22 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 332.
 File: img/tabla_targets.png Graphic file (type png)
 
 <use img/tabla_targets.png>
-Package pdftex.def Info: img/tabla_targets.png used on input line 344.
+Package pdftex.def Info: img/tabla_targets.png used on input line 350.
 (pdftex.def)             Requested size: 212.03075pt x 100.46346pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 344.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 350.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [46
 
  <./img/tabla_targets.png>]
 File: img/tabla_targets.png Graphic file (type png)
  <use img/tabla_targets.png>
-Package pdftex.def Info: img/tabla_targets.png used on input line 344.
+Package pdftex.def Info: img/tabla_targets.png used on input line 350.
 (pdftex.def)             Requested size: 212.03075pt x 100.46346pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 344.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 350.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [47
 
@@ -1765,14 +1765,14 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 344.
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
 <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 355.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 361.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [48
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 355.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 361.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [49
 
@@ -1780,14 +1780,14 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 355.
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
 <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 355.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 361.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [50
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 367.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 373.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [51
 
@@ -1795,7 +1795,7 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 367.
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
 <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 367.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 373.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [52
 
@@ -1804,11 +1804,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 367.
 File: img/hairpin_distribution.png Graphic file (type png)
 
 <use img/hairpin_distribution.png>
-Package pdftex.def Info: img/hairpin_distribution.png used on input line 375.
+Package pdftex.def Info: img/hairpin_distribution.png used on input line 381.
 (pdftex.def)             Requested size: 153.64493pt x 165.42924pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 375.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 381.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [53
 
@@ -1817,34 +1817,34 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 375.
 File: img/GR_fig1C.png Graphic file (type png)
 
 <use img/GR_fig1C.png>
-Package pdftex.def Info: img/GR_fig1C.png used on input line 388.
+Package pdftex.def Info: img/GR_fig1C.png used on input line 394.
 (pdftex.def)             Requested size: 55.3133pt x 95.19046pt.
 
 <img/SPARE_tecnica.png, id=1470, 1168.8468pt x 480.8364pt>
 File: img/SPARE_tecnica.png Graphic file (type png)
 
 <use img/SPARE_tecnica.png>
-Package pdftex.def Info: img/SPARE_tecnica.png used on input line 388.
+Package pdftex.def Info: img/SPARE_tecnica.png used on input line 394.
 (pdftex.def)             Requested size: 215.10196pt x 88.48376pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 388.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 394.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [54
 
  <./img/GR_fig1C.png> <./img/SPARE_tecnica.png>]
 File: img/GR_fig1C.png Graphic file (type png)
  <use img/GR_fig1C.png>
-Package pdftex.def Info: img/GR_fig1C.png used on input line 388.
+Package pdftex.def Info: img/GR_fig1C.png used on input line 394.
 (pdftex.def)             Requested size: 55.3133pt x 95.19046pt.
 File: img/SPARE_tecnica.png Graphic file (type png)
 
 <use img/SPARE_tecnica.png>
-Package pdftex.def Info: img/SPARE_tecnica.png used on input line 388.
+Package pdftex.def Info: img/SPARE_tecnica.png used on input line 394.
 (pdftex.def)             Requested size: 215.10196pt x 88.48376pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 388.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 394.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [55
 
@@ -1852,12 +1852,12 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 388.
 <img/GR_fig2A.png, id=1525, 434.5836pt x 218.7372pt>
 File: img/GR_fig2A.png Graphic file (type png)
  <use img/GR_fig2A.png>
-Package pdftex.def Info: img/GR_fig2A.png used on input line 395.
+Package pdftex.def Info: img/GR_fig2A.png used on input line 401.
 (pdftex.def)             Requested size: 245.83282pt x 123.7336pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
 <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 395.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 401.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [56
 
@@ -1865,23 +1865,23 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 395.
 <img/GR_fig4A.png, id=1552, 408.5664pt x 242.8272pt>
 File: img/GR_fig4A.png Graphic file (type png)
  <use img/GR_fig4A.png>
-Package pdftex.def Info: img/GR_fig4A.png used on input line 401.
+Package pdftex.def Info: img/GR_fig4A.png used on input line 407.
 (pdftex.def)             Requested size: 215.10196pt x 127.84189pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
 <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 401.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 407.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [57
 
  <./img/GR_fig4A.png>]
-Overfull \hbox (4.94366pt too wide) in paragraph at lines 422--422
+Overfull \hbox (4.94366pt too wide) in paragraph at lines 428--428
  [] 
  []
 
 File: img/logoIBR2016_byn.png Graphic file (type png)
 <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 422.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 428.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [58
 
@@ -1890,11 +1890,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 422.
 File: img/miR165a_SPARE.png Graphic file (type png)
 
 <use img/miR165a_SPARE.png>
-Package pdftex.def Info: img/miR165a_SPARE.png used on input line 429.
+Package pdftex.def Info: img/miR165a_SPARE.png used on input line 435.
 (pdftex.def)             Requested size: 307.28987pt x 162.07724pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 429.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 435.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [59
 
@@ -1903,11 +1903,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 429.
 File: img/miR159b_SPARE.png Graphic file (type png)
 
 <use img/miR159b_SPARE.png>
-Package pdftex.def Info: img/miR159b_SPARE.png used on input line 435.
+Package pdftex.def Info: img/miR159b_SPARE.png used on input line 441.
 (pdftex.def)             Requested size: 307.28987pt x 143.92574pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 435.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 441.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [60
 
@@ -1916,25 +1916,25 @@ pt>
 File: img/mecanismos.png Graphic file (type png)
 
 <use img/mecanismos.png>
-Package pdftex.def Info: img/mecanismos.png used on input line 442.
+Package pdftex.def Info: img/mecanismos.png used on input line 448.
 (pdftex.def)             Requested size: 307.28987pt x 154.90897pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 442.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 448.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [61
 
  <./img/mecanismos.png>]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 469.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 475.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [62
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 469.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 475.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [63
 
@@ -1943,18 +1943,18 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 469.
 File: img/treePhytozome.png Graphic file (type png)
 
 <use img/treePhytozome.png>
-Package pdftex.def Info: img/treePhytozome.png used on input line 476.
+Package pdftex.def Info: img/treePhytozome.png used on input line 482.
 (pdftex.def)             Requested size: 184.3758pt x 177.11848pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 476.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 482.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [64
 
  <./img/treePhytozome.png>]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 485.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 491.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [65
 
@@ -1963,11 +1963,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 485.
 File: img/ortologos01.png Graphic file (type png)
 
 <use img/ortologos01.png>
-Package pdftex.def Info: img/ortologos01.png used on input line 491.
+Package pdftex.def Info: img/ortologos01.png used on input line 497.
 (pdftex.def)             Requested size: 307.28987pt x 96.53207pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 491.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 497.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [66
 
@@ -1976,11 +1976,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 491.
 File: img/miR172a_tcoffee_01.png Graphic file (type png)
 
 <use img/miR172a_tcoffee_01.png>
-Package pdftex.def Info: img/miR172a_tcoffee_01.png used on input line 505.
+Package pdftex.def Info: img/miR172a_tcoffee_01.png used on input line 511.
 (pdftex.def)             Requested size: 307.28987pt x 175.76709pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 505.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 511.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [67
 
@@ -1989,11 +1989,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 505.
 File: img/miR172a_tcoffee_02.png Graphic file (type png)
 
 <use img/miR172a_tcoffee_02.png>
-Package pdftex.def Info: img/miR172a_tcoffee_02.png used on input line 511.
+Package pdftex.def Info: img/miR172a_tcoffee_02.png used on input line 517.
 (pdftex.def)             Requested size: 307.28987pt x 175.76709pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 511.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 517.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [68
 
@@ -2002,11 +2002,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 511.
 File: img/miR172a_tcoffee_03.png Graphic file (type png)
 
 <use img/miR172a_tcoffee_03.png>
-Package pdftex.def Info: img/miR172a_tcoffee_03.png used on input line 517.
+Package pdftex.def Info: img/miR172a_tcoffee_03.png used on input line 523.
 (pdftex.def)             Requested size: 307.28987pt x 175.76709pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 517.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 523.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [69
 
@@ -2015,22 +2015,22 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 517.
 File: img/miR172a_rnafold.png Graphic file (type png)
 
 <use img/miR172a_rnafold.png>
-Package pdftex.def Info: img/miR172a_rnafold.png used on input line 526.
+Package pdftex.def Info: img/miR172a_rnafold.png used on input line 532.
 (pdftex.def)             Requested size: 245.83282pt x 175.73679pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 526.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 532.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [70
 
  <./img/miR172a_rnafold.png>]
 File: img/miR172a_rnafold.png Graphic file (type png)
  <use img/miR172a_rnafold.png>
-Package pdftex.def Info: img/miR172a_rnafold.png used on input line 526.
+Package pdftex.def Info: img/miR172a_rnafold.png used on input line 532.
 (pdftex.def)             Requested size: 245.83282pt x 175.73679pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 526.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 532.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
 
 [71
@@ -2039,24 +2039,7 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 526.
 File: img/miR172a_circos01.png Graphic file (type png)
 
 <use img/miR172a_circos01.png>
-Package pdftex.def Info: img/miR172a_circos01.png used on input line 532.
-(pdftex.def)             Requested size: 245.83282pt x 229.85242pt.
-
-Overfull \vbox (0.22626pt too high) detected at line 532
- []
-
-File: img/logoIBR2016_byn.png Graphic file (type png)
-<use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 532.
-(pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
- [72
-
- <./img/miR172a_circos01.png>]
-<img/miR172a_circos02.png, id=1979, 2226.8796pt x 2082.3396pt>
-File: img/miR172a_circos02.png Graphic file (type png)
-
-<use img/miR172a_circos02.png>
-Package pdftex.def Info: img/miR172a_circos02.png used on input line 538.
+Package pdftex.def Info: img/miR172a_circos01.png used on input line 538.
 (pdftex.def)             Requested size: 245.83282pt x 229.85242pt.
 
 Overfull \vbox (0.22626pt too high) detected at line 538
@@ -2066,14 +2049,14 @@ File: img/logoIBR2016_byn.png Graphic file (type png)
 <use img/logoIBR2016_byn.png>
 Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 538.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
- [73
+ [72
 
- <./img/miR172a_circos02.png>]
-<img/miR172a_circos03.png, id=2007, 2226.8796pt x 2082.3396pt>
-File: img/miR172a_circos03.png Graphic file (type png)
+ <./img/miR172a_circos01.png>]
+<img/miR172a_circos02.png, id=1979, 2226.8796pt x 2082.3396pt>
+File: img/miR172a_circos02.png Graphic file (type png)
 
-<use img/miR172a_circos03.png>
-Package pdftex.def Info: img/miR172a_circos03.png used on input line 544.
+<use img/miR172a_circos02.png>
+Package pdftex.def Info: img/miR172a_circos02.png used on input line 544.
 (pdftex.def)             Requested size: 245.83282pt x 229.85242pt.
 
 Overfull \vbox (0.22626pt too high) detected at line 544
@@ -2083,14 +2066,14 @@ File: img/logoIBR2016_byn.png Graphic file (type png)
 <use img/logoIBR2016_byn.png>
 Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 544.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
- [74
+ [73
 
- <./img/miR172a_circos03.png>]
-<img/miR172a_circos04.png, id=2035, 2226.8796pt x 2082.3396pt>
-File: img/miR172a_circos04.png Graphic file (type png)
+ <./img/miR172a_circos02.png>]
+<img/miR172a_circos03.png, id=2007, 2226.8796pt x 2082.3396pt>
+File: img/miR172a_circos03.png Graphic file (type png)
 
-<use img/miR172a_circos04.png>
-Package pdftex.def Info: img/miR172a_circos04.png used on input line 550.
+<use img/miR172a_circos03.png>
+Package pdftex.def Info: img/miR172a_circos03.png used on input line 550.
 (pdftex.def)             Requested size: 245.83282pt x 229.85242pt.
 
 Overfull \vbox (0.22626pt too high) detected at line 550
@@ -2100,14 +2083,14 @@ File: img/logoIBR2016_byn.png Graphic file (type png)
 <use img/logoIBR2016_byn.png>
 Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 550.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
- [75
+ [74
 
- <./img/miR172a_circos04.png>]
-<img/miR172a_circos05.png, id=2062, 2226.8796pt x 2082.3396pt>
-File: img/miR172a_circos05.png Graphic file (type png)
+ <./img/miR172a_circos03.png>]
+<img/miR172a_circos04.png, id=2035, 2226.8796pt x 2082.3396pt>
+File: img/miR172a_circos04.png Graphic file (type png)
 
-<use img/miR172a_circos05.png>
-Package pdftex.def Info: img/miR172a_circos05.png used on input line 556.
+<use img/miR172a_circos04.png>
+Package pdftex.def Info: img/miR172a_circos04.png used on input line 556.
 (pdftex.def)             Requested size: 245.83282pt x 229.85242pt.
 
 Overfull \vbox (0.22626pt too high) detected at line 556
@@ -2117,14 +2100,14 @@ File: img/logoIBR2016_byn.png Graphic file (type png)
 <use img/logoIBR2016_byn.png>
 Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 556.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
- [76
+ [75
 
- <./img/miR172a_circos05.png>]
-<img/miR172a_circos06.png, id=2089, 2226.8796pt x 2082.3396pt>
-File: img/miR172a_circos06.png Graphic file (type png)
+ <./img/miR172a_circos04.png>]
+<img/miR172a_circos05.png, id=2062, 2226.8796pt x 2082.3396pt>
+File: img/miR172a_circos05.png Graphic file (type png)
 
-<use img/miR172a_circos06.png>
-Package pdftex.def Info: img/miR172a_circos06.png used on input line 562.
+<use img/miR172a_circos05.png>
+Package pdftex.def Info: img/miR172a_circos05.png used on input line 562.
 (pdftex.def)             Requested size: 245.83282pt x 229.85242pt.
 
 Overfull \vbox (0.22626pt too high) detected at line 562
@@ -2134,6 +2117,23 @@ File: img/logoIBR2016_byn.png Graphic file (type png)
 <use img/logoIBR2016_byn.png>
 Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 562.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
+ [76
+
+ <./img/miR172a_circos05.png>]
+<img/miR172a_circos06.png, id=2089, 2226.8796pt x 2082.3396pt>
+File: img/miR172a_circos06.png Graphic file (type png)
+
+<use img/miR172a_circos06.png>
+Package pdftex.def Info: img/miR172a_circos06.png used on input line 568.
+(pdftex.def)             Requested size: 245.83282pt x 229.85242pt.
+
+Overfull \vbox (0.22626pt too high) detected at line 568
+ []
+
+File: img/logoIBR2016_byn.png Graphic file (type png)
+<use img/logoIBR2016_byn.png>
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 568.
+(pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [77
 
  <./img/miR172a_circos06.png>]
@@ -2141,12 +2141,12 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 562.
 File: img/miR390a_circos_defensa.png Graphic file (type png)
 
 <use img/miR390a_circos_defensa.png>
-Package pdftex.def Info: img/miR390a_circos_defensa.png used on input line 568.
+Package pdftex.def Info: img/miR390a_circos_defensa.png used on input line 574.
 
 (pdftex.def)             Requested size: 245.83282pt x 194.11267pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 568.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 574.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [78
 
@@ -2155,11 +2155,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 568.
 File: img/seqBTL_circos_defensa.png Graphic file (type png)
 
 <use img/seqBTL_circos_defensa.png>
-Package pdftex.def Info: img/seqBTL_circos_defensa.png used on input line 574.
+Package pdftex.def Info: img/seqBTL_circos_defensa.png used on input line 580.
 (pdftex.def)             Requested size: 307.28987pt x 182.69498pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 574.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 580.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [79
 
@@ -2168,11 +2168,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 574.
 File: img/srLTB_circos_defensa.png Graphic file (type png)
 
 <use img/srLTB_circos_defensa.png>
-Package pdftex.def Info: img/srLTB_circos_defensa.png used on input line 580.
+Package pdftex.def Info: img/srLTB_circos_defensa.png used on input line 586.
 (pdftex.def)             Requested size: 307.28987pt x 195.47728pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 580.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 586.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [80
 
@@ -2181,11 +2181,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 580.
 File: img/seqLTB_circos_defensa.png Graphic file (type png)
 
 <use img/seqLTB_circos_defensa.png>
-Package pdftex.def Info: img/seqLTB_circos_defensa.png used on input line 586.
+Package pdftex.def Info: img/seqLTB_circos_defensa.png used on input line 592.
 (pdftex.def)             Requested size: 307.28987pt x 158.75041pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 586.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 592.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [81
 
@@ -2194,11 +2194,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 586.
 File: img/miR160a_meme.png Graphic file (type png)
 
 <use img/miR160a_meme.png>
-Package pdftex.def Info: img/miR160a_meme.png used on input line 593.
+Package pdftex.def Info: img/miR160a_meme.png used on input line 599.
 (pdftex.def)             Requested size: 245.83282pt x 192.70755pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 593.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 599.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [82
 
@@ -2207,11 +2207,11 @@ pt>
 File: img/miR172_meme.png Graphic file (type png)
 
 <use img/miR172_meme.png>
-Package pdftex.def Info: img/miR172_meme.png used on input line 599.
+Package pdftex.def Info: img/miR172_meme.png used on input line 605.
 (pdftex.def)             Requested size: 307.28987pt x 172.0998pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 599.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 605.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [83
 
@@ -2220,11 +2220,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 599.
 File: img/familia_miR171_circos.png Graphic file (type png)
 
 <use img/familia_miR171_circos.png>
-Package pdftex.def Info: img/familia_miR171_circos.png used on input line 605.
+Package pdftex.def Info: img/familia_miR171_circos.png used on input line 611.
 (pdftex.def)             Requested size: 307.28987pt x 197.48164pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 605.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 611.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [84
 
@@ -2233,11 +2233,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 605.
 File: img/miR164_ss_bp.png Graphic file (type png)
 
 <use img/miR164_ss_bp.png>
-Package pdftex.def Info: img/miR164_ss_bp.png used on input line 611.
+Package pdftex.def Info: img/miR164_ss_bp.png used on input line 617.
 (pdftex.def)             Requested size: 215.10196pt x 132.69788pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 611.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 617.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [85
 
@@ -2246,22 +2246,22 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 611.
 File: img/miR164a_circos.png Graphic file (type png)
 
 <use img/miR164a_circos.png>
-Package pdftex.def Info: img/miR164a_circos.png used on input line 620.
+Package pdftex.def Info: img/miR164a_circos.png used on input line 626.
 (pdftex.def)             Requested size: 245.83282pt x 141.9217pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 620.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 626.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [86
 
  <./img/miR164a_circos.png>]
 File: img/miR164a_circos.png Graphic file (type png)
  <use img/miR164a_circos.png>
-Package pdftex.def Info: img/miR164a_circos.png used on input line 620.
+Package pdftex.def Info: img/miR164a_circos.png used on input line 626.
 (pdftex.def)             Requested size: 245.83282pt x 141.9217pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 620.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 626.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [87
 
@@ -2271,11 +2271,11 @@ File: img/miR394b_circos_aliniamientos.png Graphic file (type png)
 
 <use img/miR394b_circos_aliniamientos.png>
 Package pdftex.def Info: img/miR394b_circos_aliniamientos.png used on input lin
-e 629.
+e 635.
 (pdftex.def)             Requested size: 245.83282pt x 132.53775pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 629.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 635.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
 
 [88
@@ -2285,11 +2285,11 @@ File: img/miR394b_circos_aliniamientos.png Graphic file (type png)
 
 <use img/miR394b_circos_aliniamientos.png>
 Package pdftex.def Info: img/miR394b_circos_aliniamientos.png used on input lin
-e 629.
+e 635.
 (pdftex.def)             Requested size: 245.83282pt x 132.53775pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 629.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 635.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
 
 [89
@@ -2300,11 +2300,11 @@ File: img/circos_monocots_miR396e_defensa.png Graphic file (type png)
 
 <use img/circos_monocots_miR396e_defensa.png>
 Package pdftex.def Info: img/circos_monocots_miR396e_defensa.png used on input 
-line 643.
+line 649.
 (pdftex.def)             Requested size: 245.83282pt x 164.21237pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 643.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 649.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
 
 [90
@@ -2314,11 +2314,11 @@ File: img/circos_monocots_miR396e_defensa.png Graphic file (type png)
 
 <use img/circos_monocots_miR396e_defensa.png>
 Package pdftex.def Info: img/circos_monocots_miR396e_defensa.png used on input 
-line 643.
+line 649.
 (pdftex.def)             Requested size: 245.83282pt x 164.21237pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 643.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 649.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
 
 [91
@@ -2326,7 +2326,7 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 643.
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 667.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 673.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [92
 
@@ -2336,11 +2336,11 @@ File: img/hsa-let-7a-1_circos_defensa.png Graphic file (type png)
 
 <use img/hsa-let-7a-1_circos_defensa.png>
 Package pdftex.def Info: img/hsa-let-7a-1_circos_defensa.png used on input line
- 686.
+ 692.
 (pdftex.def)             Requested size: 245.83282pt x 178.25386pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 686.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 692.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
 
 [93
@@ -2351,11 +2351,11 @@ File: img/animals_vs_plants_circos_defensa.png Graphic file (type png)
 
 <use img/animals_vs_plants_circos_defensa.png>
 Package pdftex.def Info: img/animals_vs_plants_circos_defensa.png used on input
- line 701.
+ line 707.
 (pdftex.def)             Requested size: 307.28987pt x 108.4431pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 701.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 707.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
 
 [94
@@ -2364,14 +2364,14 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 701.
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
 <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 716.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 722.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [95
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 716.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 722.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [96
 
@@ -2379,14 +2379,14 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 716.
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
 <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 716.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 722.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [97
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 716.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 722.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [98
 
@@ -2394,14 +2394,14 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 716.
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
 <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 716.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 722.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [99
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 729.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 735.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [100
 
@@ -2409,14 +2409,14 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 729.
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
 <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 729.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 735.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [101
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 729.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 735.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [102
 
@@ -2424,14 +2424,14 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 729.
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
 <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 729.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 735.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [103
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 729.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 735.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [104
 
@@ -2439,14 +2439,14 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 729.
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
 <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 737.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 743.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [105
 
 ]
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 742.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 748.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [106
 
@@ -2455,11 +2455,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 742.
 File: img/extras/NAR_fig3A.png Graphic file (type png)
 
 <use img/extras/NAR_fig3A.png>
-Package pdftex.def Info: img/extras/NAR_fig3A.png used on input line 748.
+Package pdftex.def Info: img/extras/NAR_fig3A.png used on input line 754.
 (pdftex.def)             Requested size: 153.64493pt x 114.35626pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 748.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 754.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [107
 
@@ -2468,11 +2468,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 748.
 File: img/extras/NAR_fig3B.png Graphic file (type png)
 
 <use img/extras/NAR_fig3B.png>
-Package pdftex.def Info: img/extras/NAR_fig3B.png used on input line 754.
+Package pdftex.def Info: img/extras/NAR_fig3B.png used on input line 760.
 (pdftex.def)             Requested size: 153.64493pt x 116.75684pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 754.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 760.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [108
 
@@ -2481,11 +2481,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 754.
 File: img/Figure4_retocada.png Graphic file (type png)
 
 <use img/Figure4_retocada.png>
-Package pdftex.def Info: img/Figure4_retocada.png used on input line 760.
+Package pdftex.def Info: img/Figure4_retocada.png used on input line 766.
 (pdftex.def)             Requested size: 307.28987pt x 163.38751pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 760.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 766.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [109
 
@@ -2494,11 +2494,11 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 760.
 File: img/Figure5_retocada.png Graphic file (type png)
 
 <use img/Figure5_retocada.png>
-Package pdftex.def Info: img/Figure5_retocada.png used on input line 766.
+Package pdftex.def Info: img/Figure5_retocada.png used on input line 772.
 (pdftex.def)             Requested size: 184.3758pt x 161.81256pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 766.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 772.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [110
 
@@ -2507,23 +2507,23 @@ t>
 File: img/GR_fig2C.png Graphic file (type png)
 
 <use img/GR_fig2C.png>
-Package pdftex.def Info: img/GR_fig2C.png used on input line 772.
+Package pdftex.def Info: img/GR_fig2C.png used on input line 778.
 (pdftex.def)             Requested size: 307.28987pt x 74.43568pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
  <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 772.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 778.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [111
 
  <./img/GR_fig2C.png>] <img/GR_fig4C.png, id=3014, 431.211pt x 109.3686pt>
 File: img/GR_fig4C.png Graphic file (type png)
  <use img/GR_fig4C.png>
-Package pdftex.def Info: img/GR_fig4C.png used on input line 778.
+Package pdftex.def Info: img/GR_fig4C.png used on input line 784.
 (pdftex.def)             Requested size: 307.28987pt x 77.94093pt.
 File: img/logoIBR2016_byn.png Graphic file (type png)
 
 <use img/logoIBR2016_byn.png>
-Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 778.
+Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 784.
 (pdftex.def)             Requested size: 49.59552pt x 29.87248pt.
  [112
 
@@ -2537,14 +2537,14 @@ Package pdftex.def Info: img/logoIBR2016_byn.png used on input line 778.
 \tf@snm=\write8
 \openout8 = `defensa.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 780.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 780.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 786.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 786.
  (./defensa.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 780.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 780.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 786.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 786.
 Package rerunfilecheck Info: File `defensa.out' has not changed.
 (rerunfilecheck)             Checksum: B4E3E1A2AB6C54B1326968BAB4FB1584;382.
 
@@ -2552,12 +2552,12 @@ Package rerunfilecheck Info: File `defensa.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 780.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 786.
  ) 
 Here is how much of TeX's memory you used:
  19360 strings out of 494966
  348260 string characters out of 6179560
- 435962 words of memory out of 5000000
+ 437112 words of memory out of 5000000
  21815 multiletter control sequences out of 15000+600000
  12515 words of font info for 46 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -2570,7 +2570,7 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on defensa.pdf (112 pages, 23802226 bytes).
+Output written on defensa.pdf (112 pages, 23802577 bytes).
 PDF statistics:
  3124 PDF objects out of 3580 (max. 8388607)
  2825 compressed objects within 29 object streams
