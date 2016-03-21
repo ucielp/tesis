@@ -11,7 +11,7 @@
    height="3000px"
    version="1.1"
    id="svg2"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="circos_seqLTB.svg">
   <metadata
      id="metadata8135">
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="750"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
      id="namedview8131"
      showgrid="false"
      inkscape:zoom="0.11125147"
-     inkscape:cx="-2876.3782"
-     inkscape:cy="1581.5193"
+     inkscape:cx="-1688.863"
+     inkscape:cy="349.27559"
      inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <path
@@ -40563,7 +40563,7 @@
      y="2301.1042"
      id="text20903"
      sodipodi:linespacing="125%"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos.png"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
      inkscape:export-xdpi="30"
      inkscape:export-ydpi="30"><tspan
        sodipodi:role="line"
@@ -40572,694 +40572,882 @@
        y="2301.1042"
        style="font-size:72px;font-weight:bold;-inkscape-font-specification:Sans Bold">C</tspan></text>
   <g
-     id="g10201"
+     id="g10191"
      inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
      inkscape:export-xdpi="30"
      inkscape:export-ydpi="30">
-    <g
-       id="g10191">
-      <text
-         inkscape:export-ydpi="30"
-         inkscape:export-xdpi="30"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos.png"
-         sodipodi:linespacing="125%"
-         id="text270079"
-         y="4068.6787"
+    <text
+       xml:space="preserve"
+       style="font-size:58.53519058px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-3398.4224"
+       y="4068.6787"
+       id="text270079"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos.png"
+       inkscape:export-xdpi="30"
+       inkscape:export-ydpi="30"><tspan
+         sodipodi:role="line"
+         id="tspan270081"
          x="-3398.4224"
-         style="font-size:58.53519058px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           style="font-size:78.04692078px"
-           y="4068.6787"
-           x="-3398.4224"
-           id="tspan270081"
-           sodipodi:role="line">loop a base</tspan></text>
-      <line
-         style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
-         id="line6064"
-         y2="3769.1113"
-         x2="-3405.9907"
-         y1="3769.4758"
-         x1="-3264.3555"
-         class="fil27 str47"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos.png"
-         inkscape:export-xdpi="30"
-         inkscape:export-ydpi="30" />
-      <g
-         transform="matrix(18.320485,0,0,18.320485,-6306.2889,-15960.587)"
-         style="fill-rule:evenodd"
-         id="g6424"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos.png"
-         inkscape:export-xdpi="30"
-         inkscape:export-ydpi="30">
-        <path
-           style="fill:none;stroke:#72706f;stroke-width:0.34999999"
-           inkscape:connector-curvature="0"
-           id="path6426"
-           d="m 177.821,1007.73 c 1.8364,0.7147 4.3129,5.2731 2.8646,11.0838 -0.5161,2.0704 -1.7096,2.6568 -2.4986,4.0646 -0.2502,0.4465 -0.147,-1.5879 -0.147,-2.0978"
-           class="fil3 str52" />
-        <path
-           style="fill:none"
-           inkscape:connector-curvature="0"
-           id="path6428"
-           d="m 177.985,1022.95 c 0.6575,-0.2199 1.2735,-0.3984 1.953,-0.3973"
-           class="fil3" />
-        <path
-           style="fill:#1f1a17;fill-rule:nonzero;stroke:#72706f;stroke-width:0.25"
-           inkscape:connector-curvature="0"
-           id="path6430"
-           d="m 178.035,1022.86 c 0.3432,-0.1148 0.6763,-0.2187 1.017,-0.2926 0.3154,-0.069 0.6343,-0.1103 0.9686,-0.1097 l 0,0.1709 c -0.3183,-5e-4 -0.6229,0.039 -0.9249,0.105 -0.3273,0.071 -0.6553,0.1736 -0.9954,0.2872 l -0.0653,-0.1608 z"
-           class="fil11 str53" />
-      </g>
-      <path
-         style="opacity:0.5;fill:none;stroke:#468966;stroke-width:13.00782013;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m -3305.3631,2476.3586 0,352.6773"
-         id="path4329-9-9"
-         inkscape:connector-curvature="0"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos.png"
-         inkscape:export-xdpi="30"
-         inkscape:export-ydpi="30" />
-    </g>
+         y="4068.6787"
+         style="font-size:78.04692078px">loop a base</tspan></text>
+    <line
+       inkscape:export-ydpi="30"
+       inkscape:export-xdpi="30"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos.png"
+       class="fil27 str47"
+       x1="-3264.3555"
+       y1="3769.4758"
+       x2="-3405.9907"
+       y2="3769.1113"
+       id="line6064"
+       style="fill:none;stroke:#1f1a17;stroke-width:9.16024303" />
     <g
-       id="g9829">
-      <text
-         inkscape:export-ydpi="30"
-         inkscape:export-xdpi="30"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos.png"
-         sodipodi:linespacing="125%"
-         id="text270079-6"
-         y="3972.8198"
-         x="-3385.0371"
-         style="font-size:58.53519058px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           style="font-size:78.04692078px"
-           y="3972.8198"
-           x="-3385.0371"
-           id="tspan270081-2"
-           sodipodi:role="line">Secuencial</tspan></text>
-      <g
-         id="g4963"
-         transform="matrix(5.1704484,0,0,5.1704484,-5273.5358,-59.661903)"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos.png"
-         inkscape:export-xdpi="30"
-         inkscape:export-ydpi="30">
-        <line
-           class="fil27 str47"
-           x1="396.52502"
-           y1="556.93195"
-           x2="410.32263"
-           y2="556.93195"
-           id="line5950"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <path
-           class="fil27 str47"
-           d="m 396.23093,550.09346 c 0.62008,-0.1311 1.59378,-0.1311 2.15575,-0.003 0.16122,0 0.32953,0 0.50421,0 4.0089,0 11.13555,0 11.13555,0"
-           id="path5952"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="546.30206"
-           x2="410.02502"
-           y2="546.30206"
-           id="line5954"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="542.4754"
-           x2="410.02502"
-           y2="542.4754"
-           id="line5956"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="538.64862"
-           x2="410.02502"
-           y2="538.64862"
-           id="line5958"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="531.0304"
-           x2="410.02502"
-           y2="531.0304"
-           id="line5960"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="527.20355"
-           x2="410.02502"
-           y2="527.20355"
-           id="line5962"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="523.37695"
-           x2="410.02502"
-           y2="523.37695"
-           id="line5964"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="515.68781"
-           x2="410.02502"
-           y2="515.68781"
-           id="line5966"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="511.8967"
-           x2="410.02502"
-           y2="511.8967"
-           id="line5968"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <path
-           class="fil27 str47"
-           d="m 396.23093,508.06984 c 0,0 5.70118,0 9.77351,0 0.33874,0 0.66755,-7.1e-4 0.98255,0 0.29977,0 0.64382,0.0354 1.00418,0.0354 0.36,7.1e-4 0.73594,0 1.09984,-0.0354 0.36425,0 0.71681,-0.039 1.03004,-0.0744"
-           id="path5970"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="500.4162"
-           x2="410.02502"
-           y2="500.4162"
-           id="line5972"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="496.62506"
-           x2="410.02502"
-           y2="496.62506"
-           id="line5974"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="492.79822"
-           x2="410.02502"
-           y2="492.79822"
-           id="line5976"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="488.93591"
-           x2="410.02502"
-           y2="488.93591"
-           id="line5978"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="481.31793"
-           x2="410.02502"
-           y2="481.31793"
-           id="line5980"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="477.49109"
-           x2="410.02502"
-           y2="477.49109"
-           id="line5982"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="473.66428"
-           x2="410.02502"
-           y2="473.66428"
-           id="line5984"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <path
-           class="fil27 str47"
-           d="m 385.54786,454.52339 c 0,-12.64996 10.0265,-19.14059 17.49118,-19.14059"
-           id="path5986"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <path
-           class="fil27 str47"
-           d="m 385.54786,454.52339 c 0,6.44031 7.0774,15.81236 10.6813,15.81236 0,0 0,4.42736 0,11.45303 -0.0656,0.18779 -0.0875,0.36354 -0.11622,0.54142 -2.1848,2.40767 -0.88654,4.03051 0.11268,6.48779 0.002,0.19843 0.002,0.39579 0.004,0.59492 0,3.30555 0,6.91299 0,10.71425 0,0.19843 0,0.40075 0,0.60201 -1.9761,2.83358 -1.00276,4.45606 0,7.43953 0,0.2126 0,0.42236 0,0.63425 0,13.62366 0,28.56614 0,40.70055 0,0.20551 0,0.40819 0,0.61264 -1.9761,2.4548 -1.9761,4.07728 0,6.72767 0,0.17363 0,0.34725 0,0.52052 0,3.10322 0,-2.35985 0,0 -6.46264,6.06189 -5.58142,17.68641 0,21.91145 0,2.87008 0,5.20476 0,5.20476"
-           id="path5988"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <path
-           class="fil27 str47"
-           d="m 421.33172,454.60134 c 0,-12.64961 -10.82729,-19.21677 -18.29303,-19.21677"
-           id="path5990"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <path
-           class="fil27 str47"
-           d="m 421.33172,454.60134 c 0,6.44031 -7.70386,15.81165 -11.3074,15.81165 0,0 0,4.18784 0,10.87122 0.0368,0.3189 0.0737,0.64205 0.17078,0.97158 2.23264,1.83472 0.28559,4.10669 -0.17078,6.48177 0,0.19488 0,0.38976 0,0.58606 0,3.3548 0,7.02248 0,10.89 0,0.20197 0,0.40748 0.0142,0.61193 0.21756,0.2622 0.39331,0.5198 0.53256,0.77457 0.25051,0.19488 0.44787,0.405 0.60342,0.63637 0.60485,1.97717 0.28028,3.92422 -0.92941,5.35819 -0.17397,0.37169 -0.26007,0.87095 -0.2094,1.42264 -0.0106,0.35079 -0.0106,0.68634 -0.0106,1.01799 0,13.62827 0,28.42087 0,40.25303 0,0.19134 0,0.3841 0,0.57508 2.07885,2.68264 2.07885,3.98091 0.1683,6.43713 -0.0422,0.18425 -0.0737,0.36141 -0.1683,0.56019 0,1.92366 0.10098,-3.4696 0.10098,-0.27283 6.2635,4.57086 6.63094,16.97421 -0.10098,21.86468 0,2.0328 0,3.54827 0,4.15028"
-           id="path5992"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <path
-           class="fil27 str50"
-           d="m 396.23093,583.86117 c -0.0656,0.1878 -0.0875,0.36355 -0.11622,0.54142 -2.1848,2.40768 -0.88653,4.03087 0.11268,6.48815 0.002,0.19843 0.002,0.39543 0.004,0.59457 0,3.30555 0,6.91299 0,10.71425 0,0.19842 0,0.40075 0,0.60201 -1.9761,2.83358 -1.00275,4.45641 0,7.43988 0,0.2126 0,0.42236 0,0.63425 0,13.62331 0,28.56614 0,40.70055 0,0.20551 0,0.40819 0,0.61264 -1.9761,2.45445 -1.9761,4.07693 0,6.72732 0,0.17362 0,0.34724 0,0.52087 0,2.01685 0,4.86496 0,8.12267"
-           id="path5994"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.24015737" />
-        <path
-           class="fil27 str50"
-           d="m 410.02503,583.36511 c 0.0368,0.3189 0.0737,0.64169 0.17078,0.97158 2.23264,1.83472 0.28559,4.10669 -0.17078,6.48141 0,0.19489 0,0.38977 0,0.58642 0,3.3548 0,7.02248 0,10.89 0,0.20197 0,0.40748 0.0142,0.61157 0.21756,0.26221 0.39331,0.52016 0.53256,0.77457 0.25051,0.19488 0.44787,0.40536 0.60342,0.63673 0.60485,1.97681 0.28028,3.92422 -0.92941,5.35784 -0.17397,0.37169 -0.26008,0.87094 -0.20941,1.42264 -0.0106,0.35078 -0.0106,0.68633 -0.0106,1.01834 0,13.62792 0,28.42051 0,40.25303 0,0.19134 0,0.3841 0,0.57473 2.07886,2.68299 2.07886,3.9809 0.16831,6.43748 -0.0422,0.18425 -0.0737,0.36141 -0.16831,0.55984 0,1.7224 0,4.16622 0,7.00122"
-           id="path5996"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.24015737" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="663.69177"
-           x2="410.02502"
-           y2="663.69177"
-           id="line5998"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="659.86517"
-           x2="410.02502"
-           y2="659.86517"
-           id="line6000"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <path
-           class="fil27 str47"
-           d="m 396.23093,652.17613 c 0.62008,-0.1311 1.59378,-0.1311 2.15575,-0.002 0.16122,0 0.32953,0 0.50421,0 4.0089,0 11.13555,0 11.13555,0"
-           id="path6002"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="648.42035"
-           x2="410.02502"
-           y2="648.42035"
-           id="line6004"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="644.55786"
-           x2="410.02502"
-           y2="644.55786"
-           id="line6006"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="640.73126"
-           x2="410.02502"
-           y2="640.73126"
-           id="line6008"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="636.9046"
-           x2="410.02502"
-           y2="636.9046"
-           id="line6010"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="633.11304"
-           x2="410.02502"
-           y2="633.11304"
-           id="line6012"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="629.28644"
-           x2="410.02502"
-           y2="629.28644"
-           id="line6014"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="625.45941"
-           x2="410.02502"
-           y2="625.45941"
-           id="line6016"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="621.59729"
-           x2="410.02502"
-           y2="621.59729"
-           id="line6018"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="617.77069"
-           x2="410.02502"
-           y2="617.77069"
-           id="line6020"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="613.97906"
-           x2="410.02502"
-           y2="613.97906"
-           id="line6022"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <path
-           class="fil27 str47"
-           d="m 396.23093,610.15251 c 0,0 5.70118,0 9.77351,0 0.33874,0 0.66755,-10e-4 0.98255,0 0.29977,0 0.64382,0.0354 1.00418,0.0354 0.36,7.1e-4 0.73594,0 1.09984,-0.0354 0.36425,0 0.71681,-0.039 1.03004,-0.0744"
-           id="path6024"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="602.49884"
-           x2="410.02502"
-           y2="602.49884"
-           id="line6026"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="598.7077"
-           x2="410.02502"
-           y2="598.7077"
-           id="line6028"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="594.88062"
-           x2="410.02502"
-           y2="594.88062"
-           id="line6030"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="591.05402"
-           x2="410.02502"
-           y2="591.05402"
-           id="line6032"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.23096"
-           y1="583.43585"
-           x2="410.02502"
-           y2="583.43585"
-           id="line6034"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.46478"
-           y1="579.57373"
-           x2="410.25891"
-           y2="579.57373"
-           id="line6036"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <polyline
-           class="fil3 str48"
-           points="173.465,1039.19 173.008,1040.13 173.054,1052.09 173.58,1053.05 173.077,1054.09 "
-           id="polyline6038"
-           style="color:#000000;fill:none;stroke:#8e2800;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="matrix(3.5433069,0,0,3.5433069,-202.83596,-3075.3474)" />
-        <polyline
-           class="fil3 str49"
-           points="169.128,1037.82 168.636,1039.16 169.245,1040.33 169.223,1046 169.199,1052.28 168.792,1052.78 "
-           id="polyline6040"
-           style="color:#000000;fill:none;stroke:#91c9e8;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.81568627;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="matrix(3.5433069,0,0,3.5433069,-202.83596,-3075.3474)" />
-        <line
-           class="fil27 str47"
-           x1="395.36987"
-           y1="671.31"
-           x2="409.164"
-           y2="671.34546"
-           id="line6042"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="395.37695"
-           y1="667.69574"
-           x2="409.17108"
-           y2="667.7312"
-           id="line6044"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="395.37695"
-           y1="667.69574"
-           x2="409.17108"
-           y2="667.7312"
-           id="line6046"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.13171"
-           y1="674.92426"
-           x2="409.92578"
-           y2="674.95972"
-           id="line6048"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.43646"
-           y1="698.98297"
-           x2="410.23053"
-           y2="699.01843"
-           id="line6050"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.09979"
-           y1="718.29425"
-           x2="409.89746"
-           y2="718.32971"
-           id="line6052"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="395.95453"
-           y1="691.50665"
-           x2="409.7486"
-           y2="691.50665"
-           id="line6054"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.39746"
-           y1="726.65643"
-           x2="410.19153"
-           y2="726.69189"
-           id="line6056"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <path
-           class="fil27 str47"
-           d="m 409.90101,729.80999 c -0.0142,6.00023 4.83342,10.86555 10.8326,10.87795"
-           id="path6058"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="420.70807"
-           y1="740.68781"
-           x2="448.2077"
-           y2="740.75873"
-           id="line6060"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <path
-           class="fil27 str47"
-           d="m 396.26636,729.84542 c -0.0142,5.94142 -4.82988,10.73976 -10.772,10.72771"
-           id="path6062"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.84039"
-           y1="709.15228"
-           x2="410.638"
-           y2="709.18774"
-           id="line6066"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.54272"
-           y1="705.50299"
-           x2="410.34039"
-           y2="705.53845"
-           id="line6068"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.13879"
-           y1="712.90839"
-           x2="409.93286"
-           y2="712.94385"
-           id="line6070"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.09979"
-           y1="722.58154"
-           x2="409.89746"
-           y2="722.617"
-           id="line6072"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <path
-           class="fil27 str50"
-           d="m 409.89747,698.23912 c -3.6e-4,0.19134 -7.1e-4,0.3841 -10e-4,0.57508 2.07354,2.68689 2.07071,3.98516 0.1552,6.43748 -0.0425,0.18425 -0.0744,0.36106 -0.16937,0.55949 -0.004,1.7224 -0.007,3.31831 -0.0142,6.1533 1.35319,2.76874 1.65898,3.31689 0.0609,6.22418 -10e-4,0.69342 0.0213,11.31059 0.0213,12.00791"
-           id="path6074"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.24015737" />
-        <path
-           class="fil27 str50"
-           d="m 396.19196,698.23912 c 3.5e-4,0.19134 7e-4,0.3841 0.001,0.57473 -2.07319,2.68724 -2.07036,3.98515 -0.15484,6.43783 0.0425,0.18425 0.0744,0.36106 0.16937,0.55949 0.004,1.72205 0.007,3.31831 0.0142,6.1533 -1.35284,2.76874 -1.65898,3.31654 -0.0606,6.22418 10e-4,0.69342 0.0836,11.25815 0.085,11.95547"
-           id="path6076"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.24015737" />
-        <line
-           class="fil27 str47"
-           x1="396.43286"
-           y1="730.62494"
-           x2="410.23053"
-           y2="730.6604"
-           id="line6078"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <path
-           class="fil27 str47"
-           d="m 396.25928,666.31393 c 0.004,1.72204 0.0106,5.75893 0.0177,8.59393 -4.79374,2.8024 -4.90854,13.04823 0.0446,16.07103 0.0106,5.05948 0.0213,8.02665 0.0213,8.02665"
-           id="path6080"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <line
-           class="fil27 str47"
-           x1="396.43646"
-           y1="695.33374"
-           x2="410.23053"
-           y2="695.3692"
-           id="line6082"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-        <path
-           class="fil27 str47"
-           d="m 410.11361,666.31393 c -0.004,1.72204 -0.0106,5.75893 -0.0177,8.59393 4.79374,2.8024 4.90854,13.04823 -0.0446,16.07103 -0.0106,5.05948 -0.0213,8.02665 -0.0213,8.02665"
-           id="path6084"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#1f1a17;stroke-width:1.77165341" />
-      </g>
-      <g
-         transform="matrix(18.320485,0,0,18.320485,-6306.2889,-15960.587)"
-         style="fill-rule:evenodd"
-         id="g6408"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos.png"
-         inkscape:export-xdpi="30"
-         inkscape:export-ydpi="30">
-        <path
-           style="fill:none;stroke:#72706f;stroke-width:0.34999999"
-           inkscape:connector-curvature="0"
-           id="path6410"
-           d="m 177.821,1023.13 c 1.8364,0.7248 4.3129,5.3472 2.8646,11.2395 -0.5161,2.0995 -1.7096,2.6941 -2.4986,4.1217 -0.2502,0.4527 -0.147,-1.6102 -0.147,-2.1273"
-           class="fil3 str52" />
-        <path
-           style="fill:none"
-           inkscape:connector-curvature="0"
-           id="path6412"
-           d="m 177.985,1038.56 c 0.6575,-0.223 1.2735,-0.404 1.953,-0.4029"
-           class="fil3" />
-        <path
-           style="fill:#1f1a17;fill-rule:nonzero;stroke:#72706f;stroke-width:0.25"
-           inkscape:connector-curvature="0"
-           id="path6414"
-           d="m 178.035,1038.46 c 0.3432,-0.1164 0.6763,-0.2217 1.017,-0.2968 0.3154,-0.07 0.6343,-0.1117 0.9686,-0.1112 l 0,0.1733 c -0.3183,-5e-4 -0.6229,0.04 -0.9249,0.1065 -0.3273,0.072 -0.6553,0.176 -0.9954,0.2913 l -0.0653,-0.1631 z"
-           class="fil11 str53" />
-      </g>
-      <g
-         transform="matrix(18.320485,0,0,18.320485,-6306.2889,-15960.587)"
-         style="fill-rule:evenodd"
-         id="g6416"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos.png"
-         inkscape:export-xdpi="30"
-         inkscape:export-ydpi="30">
-        <path
-           style="fill:none;stroke:#72706f;stroke-width:0.34999999"
-           inkscape:connector-curvature="0"
-           id="path6418"
-           d="m 177.821,1038.64 c 1.8364,0.7247 4.3129,5.3472 2.8646,11.2395 -0.5161,2.0995 -1.7096,2.6941 -2.4986,4.1216 -0.2502,0.4528 -0.147,-1.6101 -0.147,-2.1273"
-           class="fil3 str52" />
-        <path
-           style="fill:none"
-           inkscape:connector-curvature="0"
-           id="path6420"
-           d="m 177.985,1054.07 c 0.6575,-0.2229 1.2735,-0.404 1.953,-0.4028"
-           class="fil3" />
-        <path
-           style="fill:#1f1a17;fill-rule:nonzero;stroke:#72706f;stroke-width:0.25"
-           inkscape:connector-curvature="0"
-           id="path6422"
-           d="m 178.035,1053.98 c 0.3432,-0.1163 0.6763,-0.2217 1.017,-0.2967 0.3154,-0.069 0.6343,-0.1118 0.9686,-0.1112 l 0,0.1733 c -0.3183,-5e-4 -0.6229,0.04 -0.9249,0.1064 -0.3273,0.072 -0.6553,0.1761 -0.9954,0.2913 l -0.0653,-0.1631 z"
-           class="fil11 str53" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-size:58.53519058px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="-3640.104"
-         y="3208.3164"
-         id="text272393-7-8-7-8-3"
-         sodipodi:linespacing="125%"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos.png"
-         inkscape:export-xdpi="30"
-         inkscape:export-ydpi="30"><tspan
-           sodipodi:role="line"
-           x="-3628.6431"
-           y="3208.3164"
-           style="font-size:72px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
-           id="tspan275458-3">Dúplex </tspan><tspan
-           sodipodi:role="line"
-           x="-3640.104"
-           y="3298.3164"
-           style="font-size:72px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
-           id="tspan5151-3">miARN/miARN*</tspan></text>
+       inkscape:export-ydpi="30"
+       inkscape:export-xdpi="30"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos.png"
+       id="g6424"
+       style="fill-rule:evenodd"
+       transform="matrix(18.320485,0,0,18.320485,-6306.2889,-15960.587)">
       <path
-         style="fill:none;stroke:#468966;stroke-width:26.01564026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m -3305.3631,3053.0706 0,349.5852"
-         id="path4325-0-0"
+         class="fil3 str52"
+         d="m 177.821,1007.73 c 1.8364,0.7147 4.3129,5.2731 2.8646,11.0838 -0.5161,2.0704 -1.7096,2.6568 -2.4986,4.0646 -0.2502,0.4465 -0.147,-1.5879 -0.147,-2.0978"
+         id="path6426"
          inkscape:connector-curvature="0"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos.png"
-         inkscape:export-xdpi="30"
-         inkscape:export-ydpi="30" />
-      <text
-         xml:space="preserve"
-         style="font-size:58.53519058px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         x="-3798.8494"
-         y="2676.0762"
-         id="text5153-8"
-         sodipodi:linespacing="125%"
-         inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos.png"
-         inkscape:export-xdpi="30"
-         inkscape:export-ydpi="30"><tspan
-           sodipodi:role="line"
-           id="tspan5155-3"
-           x="-3798.8494"
-           y="2676.0762"
-           style="font-size:72px">ARN1/ARN1*</tspan></text>
+         style="fill:none;stroke:#72706f;stroke-width:0.34999999" />
+      <path
+         class="fil3"
+         d="m 177.985,1022.95 c 0.6575,-0.2199 1.2735,-0.3984 1.953,-0.3973"
+         id="path6428"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+      <path
+         class="fil11 str53"
+         d="m 178.035,1022.86 c 0.3432,-0.1148 0.6763,-0.2187 1.017,-0.2926 0.3154,-0.069 0.6343,-0.1103 0.9686,-0.1097 l 0,0.1709 c -0.3183,-5e-4 -0.6229,0.039 -0.9249,0.105 -0.3273,0.071 -0.6553,0.1736 -0.9954,0.2872 l -0.0653,-0.1608 z"
+         id="path6430"
+         inkscape:connector-curvature="0"
+         style="fill:#1f1a17;fill-rule:nonzero;stroke:#72706f;stroke-width:0.25" />
     </g>
+    <path
+       inkscape:export-ydpi="30"
+       inkscape:export-xdpi="30"
+       inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos.png"
+       inkscape:connector-curvature="0"
+       id="path4329-9-9"
+       d="m -3305.3631,2476.3586 0,352.6773"
+       style="opacity:0.5;fill:none;stroke:#468966;stroke-width:13.00782013;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
+  <text
+     inkscape:export-ydpi="30"
+     inkscape:export-xdpi="30"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     sodipodi:linespacing="125%"
+     id="text270079-6"
+     y="3972.8198"
+     x="-3385.0371"
+     style="font-size:58.53519058px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     xml:space="preserve"><tspan
+       style="font-size:78.04692078px"
+       y="3972.8198"
+       x="-3385.0371"
+       id="tspan270081-2"
+       sodipodi:role="line">Secuencial</tspan></text>
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line5950"
+     y2="2819.926"
+     x2="-3151.9839"
+     y1="2819.926"
+     x1="-3223.3237"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <path
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     inkscape:connector-curvature="0"
+     id="path5952"
+     d="m -3224.8442,2784.5679 c 3.2061,-0.6778 8.2405,-0.6778 11.1462,-0.015 0.8336,0 1.7038,0 2.607,0 20.7278,0 57.5758,0 57.5758,0"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line5954"
+     y2="2764.9648"
+     x2="-3153.5225"
+     y1="2764.9648"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line5956"
+     y2="2745.1792"
+     x2="-3153.5225"
+     y1="2745.1792"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line5958"
+     y2="2725.3931"
+     x2="-3153.5225"
+     y1="2725.3931"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line5960"
+     y2="2686.0034"
+     x2="-3153.5225"
+     y1="2686.0034"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line5962"
+     y2="2666.2168"
+     x2="-3153.5225"
+     y1="2666.2168"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line5964"
+     y2="2646.4316"
+     x2="-3153.5225"
+     y1="2646.4316"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line5966"
+     y2="2606.6753"
+     x2="-3153.5225"
+     y1="2606.6753"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line5968"
+     y2="2587.0735"
+     x2="-3153.5225"
+     y1="2587.0735"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <path
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     inkscape:connector-curvature="0"
+     id="path5970"
+     d="m -3224.8442,2567.287 c 0,0 29.4776,0 50.5334,0 1.7514,0 3.4515,0 5.0802,0 1.55,0 3.3289,0.183 5.1921,0.183 1.8614,0 3.8051,0 5.6867,-0.183 1.8833,0 3.7062,-0.2017 5.3257,-0.3847"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line5972"
+     y2="2527.7141"
+     x2="-3153.5225"
+     y1="2527.7141"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line5974"
+     y2="2508.1123"
+     x2="-3153.5225"
+     y1="2508.1123"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line5976"
+     y2="2488.3259"
+     x2="-3153.5225"
+     y1="2488.3259"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line5978"
+     y2="2468.356"
+     x2="-3153.5225"
+     y1="2468.356"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line5980"
+     y2="2428.9675"
+     x2="-3153.5225"
+     y1="2428.9675"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line5982"
+     y2="2409.1812"
+     x2="-3153.5225"
+     y1="2409.1812"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line5984"
+     y2="2389.3948"
+     x2="-3153.5225"
+     y1="2389.3948"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <path
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     inkscape:connector-curvature="0"
+     id="path5986"
+     d="m -3280.0805,2290.4278 c 0,-65.4059 51.8415,-98.9654 90.4373,-98.9654"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <path
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     inkscape:connector-curvature="0"
+     id="path5988"
+     d="m -3280.0805,2290.4278 c 0,33.2993 36.5933,81.757 55.2271,81.757 0,0 0,22.8915 0,59.2173 -0.3392,0.971 -0.4524,1.8797 -0.6009,2.7994 -11.2964,12.4487 -4.5838,20.8396 0.5826,33.5448 0.01,1.026 0.01,2.0464 0.021,3.076 0,17.0912 0,35.7433 0,55.3975 0,1.0259 0,2.072 0,3.1126 -10.2173,14.6509 -5.1847,23.0399 0,38.4657 0,1.0993 0,2.1838 0,3.2794 0,70.4404 0,147.6997 0,210.4401 0,1.0626 0,2.1105 0,3.1676 -10.2173,12.6924 -10.2173,21.0814 0,34.7851 0,0.8977 0,1.7954 0,2.6913 0,16.045 0,-12.2015 0,0 -33.4147,31.3427 -28.8584,91.4467 0,113.292 0,14.8396 0,26.911 0,26.911"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <path
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     inkscape:connector-curvature="0"
+     id="path5990"
+     d="m -3095.0619,2290.8309 c 0,-65.4042 -55.9819,-99.3593 -94.5832,-99.3593"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <path
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     inkscape:connector-curvature="0"
+     id="path5992"
+     d="m -3095.0619,2290.8309 c 0,33.2993 -39.8324,81.7533 -58.4643,81.7533 0,0 0,21.653 0,56.2091 0.1903,1.6488 0.3811,3.3197 0.883,5.0235 11.5437,9.4863 1.4766,21.2334 -0.883,33.5136 0,1.0076 0,2.0153 0,3.0302 0,17.3458 0,36.3094 0,56.3062 0,1.0443 0,2.1069 0.073,3.164 1.1249,1.3557 2.0336,2.6876 2.7536,4.0048 1.2952,1.0077 2.3157,2.0941 3.1199,3.2904 3.1274,10.2228 1.4492,20.2899 -4.8054,27.7042 -0.8995,1.9218 -1.3447,4.5032 -1.0827,7.3557 -0.055,1.8137 -0.055,3.5487 -0.055,5.2634 0,70.4643 0,146.9487 0,208.1263 0,0.9893 0,1.9859 0,2.9734 10.7486,13.8704 10.7486,20.5831 0.8702,33.2828 -0.2182,0.9527 -0.3811,1.8687 -0.8702,2.8965 0,9.9462 0.5221,-17.9394 0.5221,-1.4107 32.3851,23.6334 34.2849,87.7643 -0.5221,113.0502 0,10.5105 0,18.3462 0,21.4588"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <path
+     style="fill:none;stroke:#1f1a17;stroke-width:6.41216946"
+     inkscape:connector-curvature="0"
+     id="path5994"
+     d="m -3224.8442,2959.1621 c -0.3392,0.9711 -0.4524,1.8798 -0.6009,2.7994 -11.2964,12.4488 -4.5838,20.8414 0.5826,33.5467 0.01,1.026 0.01,2.0445 0.021,3.0742 0,17.0911 0,35.7432 0,55.3974 0,1.026 0,2.0721 0,3.1127 -10.2174,14.6509 -5.1847,23.0416 0,38.4675 0,1.0993 0,2.1838 0,3.2794 0,70.4386 0,147.6997 0,210.4401 0,1.0626 0,2.1105 0,3.1676 -10.2174,12.6906 -10.2174,21.0796 0,34.7833 0,0.8977 0,1.7953 0,2.6931 0,10.428 0,25.154 0,41.9978"
+     class="fil27 str50"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <path
+     style="fill:none;stroke:#1f1a17;stroke-width:6.41216946"
+     inkscape:connector-curvature="0"
+     id="path5996"
+     d="m -3153.5225,2956.5973 c 0.1902,1.6489 0.381,3.3178 0.883,5.0235 11.5437,9.4863 1.4766,21.2334 -0.883,33.5118 0,1.0077 0,2.0153 0,3.0321 0,17.3458 0,36.3093 0,56.3061 0,1.0443 0,2.1069 0.073,3.1621 1.1249,1.3558 2.0336,2.6895 2.7536,4.0049 1.2952,1.0076 2.3156,2.0959 3.1199,3.2922 3.1274,10.221 1.4492,20.29 -4.8055,27.7024 -0.8995,1.9218 -1.3447,4.5032 -1.0827,7.3557 -0.055,1.8137 -0.055,3.5486 -0.055,5.2653 0,70.4624 0,146.9468 0,208.1262 0,0.9893 0,1.986 0,2.9716 10.7486,13.8723 10.7486,20.583 0.8702,33.2847 -0.2182,0.9526 -0.381,1.8686 -0.8702,2.8946 0,8.9056 0,21.5412 0,36.1994"
+     class="fil27 str50"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line5998"
+     y2="3371.9221"
+     x2="-3153.5225"
+     y1="3371.9221"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6000"
+     y2="3352.137"
+     x2="-3153.5225"
+     y1="3352.137"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <path
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     inkscape:connector-curvature="0"
+     id="path6002"
+     d="m -3224.8442,3312.3811 c 3.2061,-0.6778 8.2405,-0.6778 11.1462,-0.01 0.8336,0 1.7038,0 2.607,0 20.7278,0 57.5758,0 57.5758,0"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6004"
+     y2="3292.9622"
+     x2="-3153.5225"
+     y1="3292.9622"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6006"
+     y2="3272.9912"
+     x2="-3153.5225"
+     y1="3272.9912"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6008"
+     y2="3253.2061"
+     x2="-3153.5225"
+     y1="3253.2061"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6010"
+     y2="3233.4204"
+     x2="-3153.5225"
+     y1="3233.4204"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6012"
+     y2="3213.8164"
+     x2="-3153.5225"
+     y1="3213.8164"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6014"
+     y2="3194.0312"
+     x2="-3153.5225"
+     y1="3194.0312"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6016"
+     y2="3174.2437"
+     x2="-3153.5225"
+     y1="3174.2437"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6018"
+     y2="3154.2749"
+     x2="-3153.5225"
+     y1="3154.2749"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6020"
+     y2="3134.4895"
+     x2="-3153.5225"
+     y1="3134.4895"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6022"
+     y2="3114.8853"
+     x2="-3153.5225"
+     y1="3114.8853"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <path
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     inkscape:connector-curvature="0"
+     id="path6024"
+     d="m -3224.8442,3095.1002 c 0,0 29.4776,0 50.5334,0 1.7514,0 3.4515,-0.01 5.0802,0 1.55,0 3.3289,0.183 5.1921,0.183 1.8614,0 3.8051,0 5.6867,-0.183 1.8833,0 3.7062,-0.2017 5.3257,-0.3847"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6026"
+     y2="3055.5273"
+     x2="-3153.5225"
+     y1="3055.5273"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6028"
+     y2="3035.9253"
+     x2="-3153.5225"
+     y1="3035.9253"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6030"
+     y2="3016.1377"
+     x2="-3153.5225"
+     y1="3016.1377"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6032"
+     y2="2996.3523"
+     x2="-3153.5225"
+     y1="2996.3523"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6034"
+     y2="2956.9631"
+     x2="-3153.5225"
+     y1="2956.9631"
+     x1="-3224.844"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6036"
+     y2="2936.9941"
+     x2="-3152.3132"
+     y1="2936.9941"
+     x1="-3223.635"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <polyline
+     transform="matrix(18.320485,0,0,18.320485,-6322.2887,-15960.587)"
+     style="color:#000000;fill:none;stroke:#8e2800;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="polyline6038"
+     points="173.465,1039.19 173.008,1040.13 173.054,1052.09 173.58,1053.05 173.077,1054.09 "
+     class="fil3 str48"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <polyline
+     transform="matrix(18.320485,0,0,18.320485,-6322.2887,-15960.587)"
+     style="color:#000000;fill:none;stroke:#468966;stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="polyline6040"
+     points="169.128,1037.82 168.636,1039.16 169.245,1040.33 169.223,1046 169.199,1052.28 168.792,1052.78 "
+     class="fil3 str49"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6042"
+     y2="3411.4951"
+     x2="-3157.9744"
+     y1="3411.3118"
+     x1="-3229.2964"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6044"
+     y2="3392.8079"
+     x2="-3157.9377"
+     y1="3392.6245"
+     x1="-3229.2598"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6046"
+     y2="3392.8079"
+     x2="-3157.9377"
+     y1="3392.6245"
+     x1="-3229.2598"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6048"
+     y2="3430.1824"
+     x2="-3154.0356"
+     y1="3429.999"
+     x1="-3225.3572"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6050"
+     y2="3554.5769"
+     x2="-3152.46"
+     y1="3554.3936"
+     x1="-3223.7815"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6052"
+     y2="3654.4248"
+     x2="-3154.1821"
+     y1="3654.2415"
+     x1="-3225.5222"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6054"
+     y2="3515.7375"
+     x2="-3154.9519"
+     y1="3515.7375"
+     x1="-3226.2734"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6056"
+     y2="3697.6611"
+     x2="-3152.6616"
+     y1="3697.4778"
+     x1="-3223.9832"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <path
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     inkscape:connector-curvature="0"
+     id="path6058"
+     d="m -3154.1638,3713.783 c -0.073,31.0239 24.991,56.1798 56.0094,56.2439"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6060"
+     y2="3770.3928"
+     x2="-2956.1011"
+     y1="3770.0261"
+     x1="-3098.2864"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <path
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     inkscape:connector-curvature="0"
+     id="path6062"
+     d="m -3224.661,3713.9662 c -0.073,30.7198 -24.9727,55.5294 -55.6961,55.4671"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6066"
+     y2="3607.1567"
+     x2="-3150.3533"
+     y1="3606.9734"
+     x1="-3221.6931"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6068"
+     y2="3588.2883"
+     x2="-3151.8921"
+     y1="3588.105"
+     x1="-3223.2322"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6070"
+     y2="3626.5774"
+     x2="-3153.999"
+     y1="3626.394"
+     x1="-3225.3206"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6072"
+     y2="3676.592"
+     x2="-3154.1821"
+     y1="3676.4087"
+     x1="-3225.5222"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <path
+     style="fill:none;stroke:#1f1a17;stroke-width:6.41216946"
+     inkscape:connector-curvature="0"
+     id="path6074"
+     d="m -3154.1821,3550.5474 c 0,0.9894 0,1.986 -0.01,2.9735 10.7212,13.8924 10.7065,20.605 0.8025,33.2846 -0.2197,0.9527 -0.3847,1.8669 -0.8757,2.8928 -0.021,8.9056 -0.036,17.1572 -0.073,31.8154 6.9966,14.3156 8.5776,17.1498 0.3148,32.1818 -0.01,3.5852 0.1102,58.4808 0.1102,62.0862"
+     class="fil27 str50"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <path
+     style="fill:none;stroke:#1f1a17;stroke-width:6.41216946"
+     inkscape:connector-curvature="0"
+     id="path6076"
+     d="m -3225.0457,3550.5474 c 0,0.9894 0,1.986 0.01,2.9716 -10.7194,13.8943 -10.7047,20.6051 -0.8006,33.2865 0.2197,0.9527 0.3846,1.8669 0.8757,2.8928 0.021,8.9038 0.036,17.1572 0.073,31.8154 -6.9948,14.3156 -8.5777,17.148 -0.3133,32.1818 0.01,3.5852 0.4322,58.2096 0.4395,61.8151"
+     class="fil27 str50"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6078"
+     y2="3718.1799"
+     x2="-3152.46"
+     y1="3717.9966"
+     x1="-3223.8"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <path
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     inkscape:connector-curvature="0"
+     id="path6080"
+     d="m -3224.6976,3385.4799 c 0.021,8.9037 0.055,29.7762 0.091,44.4345 -24.7858,14.4896 -25.3794,67.4652 0.2306,83.0944 0.055,26.1598 0.1101,41.5014 0.1101,41.5014"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <line
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     id="line6082"
+     y2="3535.7087"
+     x2="-3152.46"
+     y1="3535.5254"
+     x1="-3223.7815"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <path
+     style="fill:none;stroke:#1f1a17;stroke-width:9.16024303"
+     inkscape:connector-curvature="0"
+     id="path6084"
+     d="m -3153.0645,3385.4799 c -0.021,8.9037 -0.055,29.7762 -0.092,44.4345 24.7858,14.4896 25.3794,67.4652 -0.2306,83.0944 -0.055,26.1598 -0.1101,41.5014 -0.1101,41.5014"
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <g
+     transform="matrix(18.320485,0,0,18.320485,-6306.2889,-15960.587)"
+     style="fill-rule:evenodd"
+     id="g6408"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30">
+    <path
+       style="fill:none;stroke:#72706f;stroke-width:0.34999999"
+       inkscape:connector-curvature="0"
+       id="path6410"
+       d="m 177.821,1023.13 c 1.8364,0.7248 4.3129,5.3472 2.8646,11.2395 -0.5161,2.0995 -1.7096,2.6941 -2.4986,4.1217 -0.2502,0.4527 -0.147,-1.6102 -0.147,-2.1273"
+       class="fil3 str52" />
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       id="path6412"
+       d="m 177.985,1038.56 c 0.6575,-0.223 1.2735,-0.404 1.953,-0.4029"
+       class="fil3" />
+    <path
+       style="fill:#1f1a17;fill-rule:nonzero;stroke:#72706f;stroke-width:0.25"
+       inkscape:connector-curvature="0"
+       id="path6414"
+       d="m 178.035,1038.46 c 0.3432,-0.1164 0.6763,-0.2217 1.017,-0.2968 0.3154,-0.07 0.6343,-0.1117 0.9686,-0.1112 l 0,0.1733 c -0.3183,-5e-4 -0.6229,0.04 -0.9249,0.1065 -0.3273,0.072 -0.6553,0.176 -0.9954,0.2913 l -0.0653,-0.1631 z"
+       class="fil11 str53" />
+  </g>
+  <g
+     transform="matrix(18.320485,0,0,18.320485,-6306.2889,-15960.587)"
+     style="fill-rule:evenodd"
+     id="g6416"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30">
+    <path
+       style="fill:none;stroke:#72706f;stroke-width:0.34999999"
+       inkscape:connector-curvature="0"
+       id="path6418"
+       d="m 177.821,1038.64 c 1.8364,0.7247 4.3129,5.3472 2.8646,11.2395 -0.5161,2.0995 -1.7096,2.6941 -2.4986,4.1216 -0.2502,0.4528 -0.147,-1.6101 -0.147,-2.1273"
+       class="fil3 str52" />
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       id="path6420"
+       d="m 177.985,1054.07 c 0.6575,-0.2229 1.2735,-0.404 1.953,-0.4028"
+       class="fil3" />
+    <path
+       style="fill:#1f1a17;fill-rule:nonzero;stroke:#72706f;stroke-width:0.25"
+       inkscape:connector-curvature="0"
+       id="path6422"
+       d="m 178.035,1053.98 c 0.3432,-0.1163 0.6763,-0.2217 1.017,-0.2967 0.3154,-0.069 0.6343,-0.1118 0.9686,-0.1112 l 0,0.1733 c -0.3183,-5e-4 -0.6229,0.04 -0.9249,0.1064 -0.3273,0.072 -0.6553,0.1761 -0.9954,0.2913 l -0.0653,-0.1631 z"
+       class="fil11 str53" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:58.53519058px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="-3640.104"
+     y="3208.3164"
+     id="text272393-7-8-7-8-3"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30"><tspan
+       sodipodi:role="line"
+       x="-3628.6431"
+       y="3208.3164"
+       style="font-size:72px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+       id="tspan275458-3">Dúplex </tspan><tspan
+       sodipodi:role="line"
+       x="-3640.104"
+       y="3298.3164"
+       style="font-size:72px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+       id="tspan5151-3">miARN/miARN*</tspan></text>
+  <path
+     style="fill:none;stroke:#468966;stroke-width:26.01564026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="m -3305.3631,3053.0706 0,349.5852"
+     id="path4325-0-0"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
+  <text
+     xml:space="preserve"
+     style="font-size:58.53519058px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     x="-3798.8494"
+     y="2676.0762"
+     id="text5153-8"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30"><tspan
+       sodipodi:role="line"
+       id="tspan5155-3"
+       x="-3798.8494"
+       y="2676.0762"
+       style="font-size:72px">ARN1/ARN1*</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:72px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
@@ -41267,7 +41455,7 @@
      y="66.38932"
      id="text20903-3"
      sodipodi:linespacing="125%"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos.png"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
      inkscape:export-xdpi="30"
      inkscape:export-ydpi="30"><tspan
        sodipodi:role="line"
@@ -41282,7 +41470,7 @@
      y="66.38932"
      id="text20903-5"
      sodipodi:linespacing="125%"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos.png"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
      inkscape:export-xdpi="30"
      inkscape:export-ydpi="30"><tspan
        sodipodi:role="line"
@@ -41290,4 +41478,60 @@
        x="-2533.7424"
        y="66.38932"
        style="font-size:72px;font-weight:bold;-inkscape-font-specification:Sans Bold">B</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:100px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="-2960.7566"
+     y="2496.636"
+     id="text10845"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30"><tspan
+       sodipodi:role="line"
+       id="tspan10847"
+       x="-2960.7566"
+       y="2496.636">1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:100px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="-2958.5349"
+     y="2788.7668"
+     id="text10849"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30"><tspan
+       sodipodi:role="line"
+       id="tspan10851"
+       x="-2958.5349"
+       y="2788.7668">2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:100px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="-2959.6824"
+     y="3056.179"
+     id="text10853"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30"><tspan
+       sodipodi:role="line"
+       id="tspan10855"
+       x="-2959.6824"
+       y="3056.179">3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:100px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="-2959.5115"
+     y="3352.8042"
+     id="text10857"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/seqLTB/seqLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30"><tspan
+       sodipodi:role="line"
+       id="tspan10859"
+       x="-2959.5115"
+       y="3352.8042">4</tspan></text>
 </svg>

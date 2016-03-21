@@ -34,9 +34,10 @@
 
 %~ \setbeamercovered{transparent}
 
-\logo{%
-	   \includegraphics[scale=.25]{img/logoIBR2016_byn.png}
-   }
+%~ Saco el logo
+%~ \logo{%
+	   %~ \includegraphics[scale=.25]{img/logoIBR2016_byn.png}
+   %~ }
 \title[]{Estudios sobre la regulación de la expresión génica por microARNs en plantas mediante estrategias bioinformáticas}
 
 \author{Lic. Uciel Chorostecki}
@@ -194,11 +195,30 @@ Universidad Nacional de Rosario
 	\end{itemize}
 \end{frame}
 
-\begin{frame}{Conservación y divergencia de miARNs en distintas especies}
-	\begin{center}
-		\includegraphics[width=0.6\textwidth]{img/variabilidad_maduro.png}
-	\end{center}
+\begin{frame}{Variaciones en los núcleotidos 1,20 y 21 dentro de cada familia de miARNs}
+    \begin{center}
+        {\includegraphics[width=0.9\textwidth]{img/variacion00.png}}
+    \end{center}
 \end{frame}
+
+\begin{frame}{Mismatches en targets validados}
+    \begin{center}
+{\includegraphics[width=0.9\textwidth]{img/variacion01.png}}
+    \end{center}
+\end{frame}
+
+\begin{frame}{Consenso}
+    \begin{center}
+{\includegraphics[width=0.9\textwidth]{img/variacion02.png}}
+    \end{center}
+\end{frame}
+
+%~ 
+%~ \begin{frame}{Conservación y divergencia de miARNs en distintas especies}
+	%~ \begin{center}
+		%~ \includegraphics[width=0.6\textwidth]{img/variabilidad_maduro.png}
+	%~ \end{center}
+%~ \end{frame}
 
 \begin{frame}{Esquema de la estrategia para la identificación de nuevos genes blancos}
 	\begin{center}
@@ -292,7 +312,7 @@ Universidad Nacional de Rosario
 
 \begin{frame}{Potenciales genes blancos utilizando solo conservación evolutiva}
 	\begin{center}
-		\includegraphics[width=.7\textwidth]{img/NAR_fig01y03.png}
+		\includegraphics[width=.9\textwidth]{img/NAR_fig01y03.png}
 	\end{center}
 \end{frame}
 
@@ -334,13 +354,13 @@ Desarrollamos ComTAR, que permite realizar la búsqueda de:
 
 \begin{frame}{Potenciales genes blancos del miR398}
 	\begin{center}
-		\includegraphics[width=.8\textwidth]{img/comTAR_find_targets.png}
+		\includegraphics[width=1\textwidth]{img/comTAR_find_targets.png}
 	\end{center}
 \end{frame}
 
 \begin{frame}{ComTAR permite visualizar el alineamiento, energía de hibridación en cada especie}
 	\begin{center}
-		\includegraphics[width=.7\textwidth]{img/comTAR_fig2.png}
+		\includegraphics[width=1\textwidth]{img/comTAR_fig2.png}
 	\end{center}
 \end{frame}
 
@@ -363,7 +383,7 @@ Desarrollamos ComTAR, que permite realizar la búsqueda de:
         \item<1-> Identificamos nuevos genes blancos en \textit{A. thaliana} y se validaron experimentalmente varios de ellos.
         \item<1-> Esta estrategia puede ser utilizada para identificar genes blancos presentes en un grupo específico de especies.
         \item<2-> Interacciones miARN-gen blanco conservadas probablemente participen en procesos biológicos relevantes.
-        \item<3-> Desarrollamos una herramienta web denominada comTAR.
+        \item<3-> Desarrollamos una herramienta web denominada comTAR para predecir potenciales genes blancos regulados por miARNs en plantas.
 	\end{itemize}
 \end{frame}
 
@@ -450,7 +470,7 @@ Desarrollamos ComTAR, que permite realizar la búsqueda de:
 
 \begin{frame}{Conclusiones II}
 	\begin{center}
-		\includegraphics[width=1\textwidth]{img/mecanismos.png}
+		\includegraphics[width=1\textwidth]{img/mecanismos_conclusionII.png}
 	\end{center}
 \end{frame}
 
@@ -484,7 +504,7 @@ Desarrollamos ComTAR, que permite realizar la búsqueda de:
 
 \begin{frame}{Especies utilizadas de Phytozome (30 dicotiledóneas y 6 monocotiledóneas)}
 	\begin{center}
-		\includegraphics[width=.6\textwidth]{img/treePhytozome.png}
+		\includegraphics[width=.7\textwidth]{img/treePhytozome.png}
 	\end{center}
 \end{frame}
 
@@ -646,14 +666,14 @@ Desarrollamos ComTAR, que permite realizar la búsqueda de:
 %~ Esta información también podría ser utilizada para ayudar en el diseño de miARNs artificiales en distintas especies y aumentar su eficiencia
 
 
-\begin{frame}{Variante del miR396 específica de monocotiledóneas}
-	\begin{center}
-		\includegraphics[width=.8\textwidth]{img/circos_monocots_miR396e_defensa.png}
-	\end{center}
-    \begin{center}
-        \uncover<2->{El nucleótido extra, que le da identidad a la variante de monocotiledóneas, está conservado.}
-    \end{center}
-\end{frame}
+%~ \begin{frame}{Variante del miR396 específica de monocotiledóneas}
+	%~ \begin{center}
+		%~ \includegraphics[width=.8\textwidth]{img/circos_monocots_miR396e_defensa.png}
+	%~ \end{center}
+    %~ \begin{center}
+        %~ \uncover<2->{El nucleótido extra, que le da identidad a la variante de monocotiledóneas, está conservado.}
+    %~ \end{center}
+%~ \end{frame}
 
 
 \begin{frame}{¿Qué sucede con los precursores de miARNs conservados en animales?}
@@ -721,12 +741,17 @@ El loop terminal está conservado en la mayoría de los precursores de animales 
         
         	\begin{itemize}
 			\item<3-> Lo utilizamos para caracterizar la evolución de precursores de miARNs en plantas con distintos mecanismos de procesamiento.
-			\item<4-> Estudiamos precursores con mutaciones que afectan al procesamiento de miARNs en plantas. 
-			Esta información podría ser utilizada para ayudar en el diseño de miARNs artificiales en distintas especies y aumentar su eficiencia.
-			\item<5-> Pudimos utilizar este mismo enfoque para estudiar precursores de miARNs en animales.
+			\item<4-> Pudimos utilizar este mismo enfoque para estudiar precursores de miARNs en animales.
 		\end{itemize}
 	\end{itemize}
 \end{frame}
+
+\begin{frame}{Conclusiones III}
+	\begin{center}
+		\includegraphics[width=1\textwidth]{img/mecanismos_conclusionIII.png}
+	\end{center}
+\end{frame}
+
 
 \section{Conclusiones generales}
 

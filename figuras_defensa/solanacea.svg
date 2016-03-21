@@ -13,7 +13,7 @@
    height="744.09448"
    id="svg8584"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="solanacea.svg">
   <defs
      id="defs8586">
@@ -62,15 +62,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="468.79038"
+     inkscape:cx="228.37408"
      inkscape:cy="205.60228"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="750"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
      inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata8589">
@@ -106,8 +106,8 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="547.29688"
-       y="562.06842"
+       x="663.25433"
+       y="536.336"
        id="text2986"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_defensa/miR398_solanaceae.png"
@@ -115,8 +115,14 @@
        inkscape:export-ydpi="99.913589"><tspan
          sodipodi:role="line"
          id="tspan2988"
-         x="547.29688"
-         y="562.06842">CSD2</tspan></text>
+         x="663.25433"
+         y="536.336"
+         style="font-size:32px;text-align:center;text-anchor:middle">Cobre/zinc</tspan><tspan
+         sodipodi:role="line"
+         x="663.25433"
+         y="576.336"
+         id="tspan3010"
+         style="font-size:32px;text-align:center;text-anchor:middle">superóxido dismutasa</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#468966;fill-opacity:1;stroke:none;font-family:Sans"
@@ -134,7 +140,7 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="590.55859"
+       x="652.00629"
        y="773.75659"
        id="text2994"
        sodipodi:linespacing="125%"
@@ -143,7 +149,7 @@
        inkscape:export-ydpi="99.913589"><tspan
          sodipodi:role="line"
          id="tspan2996"
-         x="590.55859"
+         x="652.00629"
          y="773.75659">?</tspan></text>
     <g
        id="g3925"
@@ -166,7 +172,7 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"
-       x="983.1087"
+       x="1021.4945"
        y="537.90826"
        id="text3839"
        sodipodi:linespacing="125%"
@@ -175,18 +181,18 @@
        inkscape:export-ydpi="99.913589"><tspan
          sodipodi:role="line"
          id="tspan3841"
-         x="988.20245"
+         x="1026.5883"
          y="537.90826"
          style="font-size:32px;text-align:center;text-anchor:middle;fill:#666666">Todas las </tspan><tspan
          sodipodi:role="line"
-         x="983.1087"
+         x="1021.4945"
          y="577.90826"
          id="tspan3843"
          style="font-size:32px;text-align:center;text-anchor:middle;fill:#666666">Angioespermas</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"
-       x="981.72589"
+       x="1018.0914"
        y="751.48315"
        id="text3845"
        sodipodi:linespacing="125%"
@@ -195,11 +201,11 @@
        inkscape:export-ydpi="99.913589"><tspan
          sodipodi:role="line"
          id="tspan3847"
-         x="981.72589"
+         x="1018.0914"
          y="751.48315"
          style="font-size:32px;text-align:center;text-anchor:middle;fill:#666666">Específico de</tspan><tspan
          sodipodi:role="line"
-         x="981.72589"
+         x="1018.0914"
          y="791.48315"
          id="tspan3849"
          style="font-size:32px;text-align:center;text-anchor:middle;fill:#666666">Solanacea</tspan></text>
