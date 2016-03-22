@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.3)  21 MAR 2016 23:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.3)  22 MAR 2016 12:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1212,162 +1212,154 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 73.
+LaTeX Font Info:    Try loading font information for U+msa on input line 72.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 73.
+LaTeX Font Info:    Try loading font information for U+msb on input line 72.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [3
 
 ]
-<img/familias_miRNAs_conservados.png, id=126, 449.5194pt x 178.7478pt>
+<img/familias_miRNAs_conservados.png, id=125, 484.209pt x 221.628pt>
 File: img/familias_miRNAs_conservados.png Graphic file (type png)
 
 <use img/familias_miRNAs_conservados.png>
 Package pdftex.def Info: img/familias_miRNAs_conservados.png used on input line
- 79.
-(pdftex.def)             Requested size: 307.28987pt x 122.19601pt.
+ 78.
+(pdftex.def)             Requested size: 307.28987pt x 140.65443pt.
  [4
 
  <./img/familias_miRNAs_conservados.png>]
-<img/familias_miRNAs_conservados_angiospermas.png, id=155, 449.5194pt x 178.747
-8pt>
+<img/familias_miRNAs_conservados_angiospermas.png, id=154, 484.209pt x 221.628p
+t>
 File: img/familias_miRNAs_conservados_angiospermas.png Graphic file (type png)
  <use img/familias_miRNAs_conservados_angiospermas.png>
 Package pdftex.def Info: img/familias_miRNAs_conservados_angiospermas.png used 
-on input line 86.
-(pdftex.def)             Requested size: 307.28987pt x 122.19601pt.
+on input line 85.
+(pdftex.def)             Requested size: 307.28987pt x 140.65443pt.
  [5
 
  <./img/familias_miRNAs_conservados_angiospermas.png>]
-<img/procesamiento_animales.png, id=182, 318.27708pt x 459.6372pt>
+<img/procesamiento_animales.png, id=181, 318.27708pt x 459.6372pt>
 File: img/procesamiento_animales.png Graphic file (type png)
 
 <use img/procesamiento_animales.png>
-Package pdftex.def Info: img/procesamiento_animales.png used on input line 92.
+Package pdftex.def Info: img/procesamiento_animales.png used on input line 91.
 (pdftex.def)             Requested size: 153.64493pt x 221.88577pt.
  [6
 
  <./img/procesamiento_animales.png>]
-<img/biogenesis_accion_defensa02.png, id=209, 541.11708pt x 573.07568pt>
+<img/biogenesis_accion_defensa01.png, id=208, 532.40111pt x 500.44252pt>
+File: img/biogenesis_accion_defensa01.png Graphic file (type png)
+
+<use img/biogenesis_accion_defensa01.png>
+Package pdftex.def Info: img/biogenesis_accion_defensa01.png used on input line
+ 98.
+(pdftex.def)             Requested size: 215.10196pt x 202.18939pt.
+ [7
+
+ <./img/biogenesis_accion_defensa01.png>]
+<img/biogenesis_accion_defensa02.png, id=236, 532.40111pt x 500.44252pt>
 File: img/biogenesis_accion_defensa02.png Graphic file (type png)
 
 <use img/biogenesis_accion_defensa02.png>
 Package pdftex.def Info: img/biogenesis_accion_defensa02.png used on input line
- 99.
-(pdftex.def)             Requested size: 215.10196pt x 227.80087pt.
- [7
+ 104.
+(pdftex.def)             Requested size: 215.10196pt x 202.18939pt.
+ [8
 
  <./img/biogenesis_accion_defensa02.png>]
-<img/biogenesis_accion_defensa03.png, id=237, 541.11708pt x 573.07568pt>
+<img/biogenesis_accion_defensa03.png, id=264, 532.40111pt x 500.44252pt>
 File: img/biogenesis_accion_defensa03.png Graphic file (type png)
 
 <use img/biogenesis_accion_defensa03.png>
 Package pdftex.def Info: img/biogenesis_accion_defensa03.png used on input line
- 105.
-(pdftex.def)             Requested size: 215.10196pt x 227.80087pt.
- [8
+ 110.
+(pdftex.def)             Requested size: 215.10196pt x 202.18939pt.
+ [9
 
  <./img/biogenesis_accion_defensa03.png>]
-<img/biogenesis_accion_defensa04.png, id=265, 541.11708pt x 573.07568pt>
+<img/biogenesis_accion_defensa04.png, id=291, 532.40111pt x 500.44252pt>
 File: img/biogenesis_accion_defensa04.png Graphic file (type png)
 
 <use img/biogenesis_accion_defensa04.png>
 Package pdftex.def Info: img/biogenesis_accion_defensa04.png used on input line
- 111.
-(pdftex.def)             Requested size: 215.10196pt x 227.80087pt.
- [9
-
- <./img/biogenesis_accion_defensa04.png>]
-<img/biogenesis_accion_defensa05.png, id=292, 541.11708pt x 573.07568pt>
-File: img/biogenesis_accion_defensa05.png Graphic file (type png)
-
-<use img/biogenesis_accion_defensa05.png>
-Package pdftex.def Info: img/biogenesis_accion_defensa05.png used on input line
- 117.
-(pdftex.def)             Requested size: 215.10196pt x 227.80087pt.
+ 116.
+(pdftex.def)             Requested size: 215.10196pt x 202.18939pt.
  [10
 
- <./img/biogenesis_accion_defensa05.png>] <img/biogenesis_accion_defensa06.png,
- id=319, 541.3023pt x 573.1011pt>
-File: img/biogenesis_accion_defensa06.png Graphic file (type png)
-
-<use img/biogenesis_accion_defensa06.png>
-Package pdftex.def Info: img/biogenesis_accion_defensa06.png used on input line
- 123.
-(pdftex.def)             Requested size: 215.10196pt x 227.73227pt.
- [11
-
- <./img/biogenesis_accion_defensa06.png>] <img/distribucion_precursores.png, id
-=346, 341.5962pt x 213.4374pt>
+ <./img/biogenesis_accion_defensa04.png>] <img/distribucion_precursores.png, id
+=318, 341.5962pt x 213.4374pt>
 File: img/distribucion_precursores.png Graphic file (type png)
 
 <use img/distribucion_precursores.png>
 Package pdftex.def Info: img/distribucion_precursores.png used on input line 12
-9.
+2.
 (pdftex.def)             Requested size: 153.64493pt x 96.00034pt.
- [12
+ [11
 
- <./img/distribucion_precursores.png>] <img/ss_precursores.png, id=374, 477.945
+ <./img/distribucion_precursores.png>] <img/ss_precursores.png, id=345, 477.945
 6pt x 240.9pt>
 File: img/ss_precursores.png Graphic file (type png)
 
 <use img/ss_precursores.png>
-Package pdftex.def Info: img/ss_precursores.png used on input line 135.
+Package pdftex.def Info: img/ss_precursores.png used on input line 128.
 (pdftex.def)             Requested size: 307.28987pt x 154.8849pt.
- [13
+ [12
 
  <./img/ss_precursores.png>]
-<img/exp_gen01.png, id=402, 587.3142pt x 438.9198pt>
+<img/exp_gen01.png, id=373, 587.3142pt x 438.9198pt>
 File: img/exp_gen01.png Graphic file (type png)
  <use img/exp_gen01.png>
-Package pdftex.def Info: img/exp_gen01.png used on input line 141.
+Package pdftex.def Info: img/exp_gen01.png used on input line 134.
+(pdftex.def)             Requested size: 307.28987pt x 229.64604pt.
+
+[13
+
+ <./img/exp_gen01.png>]
+<img/exp_gen02.png, id=401, 587.3142pt x 438.9198pt>
+File: img/exp_gen02.png Graphic file (type png)
+ <use img/exp_gen02.png>
+Package pdftex.def Info: img/exp_gen02.png used on input line 140.
 (pdftex.def)             Requested size: 307.28987pt x 229.64604pt.
 
 [14
 
- <./img/exp_gen01.png>]
-<img/exp_gen02.png, id=429, 587.3142pt x 438.9198pt>
-File: img/exp_gen02.png Graphic file (type png)
- <use img/exp_gen02.png>
-Package pdftex.def Info: img/exp_gen02.png used on input line 147.
+ <./img/exp_gen02.png>]
+<img/exp_gen03.png, id=428, 587.3142pt x 438.9198pt>
+File: img/exp_gen03.png Graphic file (type png)
+ <use img/exp_gen03.png>
+Package pdftex.def Info: img/exp_gen03.png used on input line 146.
 (pdftex.def)             Requested size: 307.28987pt x 229.64604pt.
 
 [15
 
- <./img/exp_gen02.png>]
-<img/exp_gen03.png, id=456, 587.3142pt x 438.9198pt>
-File: img/exp_gen03.png Graphic file (type png)
- <use img/exp_gen03.png>
-Package pdftex.def Info: img/exp_gen03.png used on input line 153.
+ <./img/exp_gen03.png>]
+<img/exp_gen04.png, id=455, 587.3142pt x 438.9198pt>
+File: img/exp_gen04.png Graphic file (type png)
+ <use img/exp_gen04.png>
+Package pdftex.def Info: img/exp_gen04.png used on input line 152.
 (pdftex.def)             Requested size: 307.28987pt x 229.64604pt.
 
 [16
 
- <./img/exp_gen03.png>]
-<img/exp_gen04.png, id=484, 587.3142pt x 438.9198pt>
-File: img/exp_gen04.png Graphic file (type png)
- <use img/exp_gen04.png>
-Package pdftex.def Info: img/exp_gen04.png used on input line 159.
-(pdftex.def)             Requested size: 307.28987pt x 229.64604pt.
-
-[17
-
  <./img/exp_gen04.png>]
-<img/interaccion_miRNA_target.png, id=510, 1948.3992pt x 513.117pt>
+<img/interaccion_miRNA_target.png, id=482, 1948.3992pt x 513.117pt>
 File: img/interaccion_miRNA_target.png Graphic file (type png)
 
 <use img/interaccion_miRNA_target.png>
-Package pdftex.def Info: img/interaccion_miRNA_target.png used on input line 16
-5.
+Package pdftex.def Info: img/interaccion_miRNA_target.png used on input line 15
+8.
 (pdftex.def)             Requested size: 307.28987pt x 80.92596pt.
- [18
+ [17
 
- <./img/interaccion_miRNA_target.png>] [19
+ <./img/interaccion_miRNA_target.png>] [18
+
+] [19
 
 ] [20
 
@@ -1375,238 +1367,238 @@ Package pdftex.def Info: img/interaccion_miRNA_target.png used on input line 16
 
 ] [22
 
-] [23
-
 ]
-<img/variacion00.png, id=667, 783.4068pt x 421.0932pt>
+<img/variacion00.png, id=639, 783.4068pt x 421.0932pt>
 File: img/variacion00.png Graphic file (type png)
 
 <use img/variacion00.png>
-Package pdftex.def Info: img/variacion00.png used on input line 209.
+Package pdftex.def Info: img/variacion00.png used on input line 202.
 (pdftex.def)             Requested size: 307.28987pt x 165.17664pt.
- [24
+ [23
 
  <./img/variacion00.png>]
-<img/variacion01.png, id=694, 783.4068pt x 421.0932pt>
+<img/variacion01.png, id=666, 783.4068pt x 421.0932pt>
 File: img/variacion01.png Graphic file (type png)
 
 <use img/variacion01.png>
-Package pdftex.def Info: img/variacion01.png used on input line 215.
+Package pdftex.def Info: img/variacion01.png used on input line 208.
 (pdftex.def)             Requested size: 307.28987pt x 165.17664pt.
- [25
+ [24
 
  <./img/variacion01.png>]
-<img/variacion02.png, id=723, 783.4068pt x 421.0932pt>
+<img/variacion02.png, id=693, 783.4068pt x 421.0932pt>
 File: img/variacion02.png Graphic file (type png)
 
 <use img/variacion02.png>
-Package pdftex.def Info: img/variacion02.png used on input line 221.
+Package pdftex.def Info: img/variacion02.png used on input line 214.
 (pdftex.def)             Requested size: 307.28987pt x 165.17664pt.
- [26
+ [25
 
  <./img/variacion02.png>]
-<img/NAR_fig01_01.png, id=750, 550.6974pt x 465.4188pt>
+<img/NAR_fig01_01.png, id=722, 550.6974pt x 465.4188pt>
 File: img/NAR_fig01_01.png Graphic file (type png)
 
 <use img/NAR_fig01_01.png>
-Package pdftex.def Info: img/NAR_fig01_01.png used on input line 234.
+Package pdftex.def Info: img/NAR_fig01_01.png used on input line 227.
 (pdftex.def)             Requested size: 245.83282pt x 207.76051pt.
- [27
+ [26
 
  <./img/NAR_fig01_01.png>]
-<img/NAR_fig01_02.png, id=777, 550.6974pt x 465.4188pt>
+<img/NAR_fig01_02.png, id=749, 550.6974pt x 465.4188pt>
 File: img/NAR_fig01_02.png Graphic file (type png)
 
 <use img/NAR_fig01_02.png>
-Package pdftex.def Info: img/NAR_fig01_02.png used on input line 240.
+Package pdftex.def Info: img/NAR_fig01_02.png used on input line 233.
 (pdftex.def)             Requested size: 245.83282pt x 207.76051pt.
- [28
+ [27
 
  <./img/NAR_fig01_02.png>]
-<img/NAR_fig01_03.png, id=804, 550.6974pt x 465.4188pt>
+<img/NAR_fig01_03.png, id=776, 550.6974pt x 465.4188pt>
 File: img/NAR_fig01_03.png Graphic file (type png)
 
 <use img/NAR_fig01_03.png>
-Package pdftex.def Info: img/NAR_fig01_03.png used on input line 247.
+Package pdftex.def Info: img/NAR_fig01_03.png used on input line 240.
 (pdftex.def)             Requested size: 245.83282pt x 207.76051pt.
- [29
+ [28
 
  <./img/NAR_fig01_03.png>]
-<img/NAR_fig01_04.png, id=832, 550.6974pt x 465.4188pt>
+<img/NAR_fig01_04.png, id=803, 550.6974pt x 465.4188pt>
 File: img/NAR_fig01_04.png Graphic file (type png)
 
 <use img/NAR_fig01_04.png>
-Package pdftex.def Info: img/NAR_fig01_04.png used on input line 254.
+Package pdftex.def Info: img/NAR_fig01_04.png used on input line 247.
 (pdftex.def)             Requested size: 245.83282pt x 207.76051pt.
- [30
+ [29
 
  <./img/NAR_fig01_04.png>]
-<img/NAR_fig2_01.png, id=859, 544.9158pt x 284.7438pt>
+<img/NAR_fig2_01.png, id=831, 544.9158pt x 284.7438pt>
 File: img/NAR_fig2_01.png Graphic file (type png)
 
 <use img/NAR_fig2_01.png>
-Package pdftex.def Info: img/NAR_fig2_01.png used on input line 260.
+Package pdftex.def Info: img/NAR_fig2_01.png used on input line 253.
 (pdftex.def)             Requested size: 307.28987pt x 160.57205pt.
- [31
+ [30
 
  <./img/NAR_fig2_01.png>]
-<img/shuffle_01.png, id=887, 247.6452pt x 159.9576pt>
+<img/shuffle_01.png, id=858, 247.6452pt x 159.9576pt>
 File: img/shuffle_01.png Graphic file (type png)
  <use img/shuffle_01.png>
-Package pdftex.def Info: img/shuffle_01.png used on input line 267.
+Package pdftex.def Info: img/shuffle_01.png used on input line 260.
+(pdftex.def)             Requested size: 153.64493pt x 99.24101pt.
+
+[31
+
+ <./img/shuffle_01.png>]
+<img/shuffle_02.png, id=886, 247.6452pt x 159.9576pt>
+File: img/shuffle_02.png Graphic file (type png)
+ <use img/shuffle_02.png>
+Package pdftex.def Info: img/shuffle_02.png used on input line 266.
 (pdftex.def)             Requested size: 153.64493pt x 99.24101pt.
 
 [32
 
- <./img/shuffle_01.png>]
-<img/shuffle_02.png, id=914, 247.6452pt x 159.9576pt>
-File: img/shuffle_02.png Graphic file (type png)
- <use img/shuffle_02.png>
-Package pdftex.def Info: img/shuffle_02.png used on input line 273.
-(pdftex.def)             Requested size: 153.64493pt x 99.24101pt.
-
-[33
-
  <./img/shuffle_02.png>]
-<img/NAR_fig2_02.png, id=942, 544.9158pt x 284.7438pt>
+<img/NAR_fig2_02.png, id=913, 544.9158pt x 284.7438pt>
 File: img/NAR_fig2_02.png Graphic file (type png)
 
 <use img/NAR_fig2_02.png>
-Package pdftex.def Info: img/NAR_fig2_02.png used on input line 279.
+Package pdftex.def Info: img/NAR_fig2_02.png used on input line 272.
 (pdftex.def)             Requested size: 307.28987pt x 160.57205pt.
- [34
+ [33
 
  <./img/NAR_fig2_02.png>]
-<img/filtros_empiricos_01.png, id=969, 770.3982pt x 253.4268pt>
+<img/filtros_empiricos_01.png, id=941, 770.3982pt x 253.4268pt>
 File: img/filtros_empiricos_01.png Graphic file (type png)
 
 <use img/filtros_empiricos_01.png>
-Package pdftex.def Info: img/filtros_empiricos_01.png used on input line 286.
+Package pdftex.def Info: img/filtros_empiricos_01.png used on input line 279.
 (pdftex.def)             Requested size: 307.28987pt x 101.08662pt.
- [35
+ [34
 
  <./img/filtros_empiricos_01.png>]
-<img/filtros_empiricos_02.png, id=996, 770.3982pt x 253.4268pt>
+<img/filtros_empiricos_02.png, id=968, 770.3982pt x 253.4268pt>
 File: img/filtros_empiricos_02.png Graphic file (type png)
 
 <use img/filtros_empiricos_02.png>
-Package pdftex.def Info: img/filtros_empiricos_02.png used on input line 292.
+Package pdftex.def Info: img/filtros_empiricos_02.png used on input line 285.
 (pdftex.def)             Requested size: 307.28987pt x 101.08662pt.
- [36
+ [35
 
  <./img/filtros_empiricos_02.png>]
-<img/NAR_fig2_03.png, id=1023, 544.9158pt x 284.7438pt>
+<img/NAR_fig2_03.png, id=995, 544.9158pt x 284.7438pt>
 File: img/NAR_fig2_03.png Graphic file (type png)
 
 <use img/NAR_fig2_03.png>
-Package pdftex.def Info: img/NAR_fig2_03.png used on input line 299.
+Package pdftex.def Info: img/NAR_fig2_03.png used on input line 292.
 (pdftex.def)             Requested size: 307.28987pt x 160.57205pt.
- [37
+ [36
 
  <./img/NAR_fig2_03.png>]
-<img/NAR_fig2_04.png, id=1052, 544.9158pt x 284.7438pt>
+<img/NAR_fig2_04.png, id=1022, 544.9158pt x 284.7438pt>
 File: img/NAR_fig2_04.png Graphic file (type png)
 
 <use img/NAR_fig2_04.png>
-Package pdftex.def Info: img/NAR_fig2_04.png used on input line 305.
+Package pdftex.def Info: img/NAR_fig2_04.png used on input line 298.
 (pdftex.def)             Requested size: 307.28987pt x 160.57205pt.
- [38
+ [37
 
  <./img/NAR_fig2_04.png>]
-<img/NAR_fig2_05.png, id=1079, 544.9158pt x 284.7438pt>
+<img/NAR_fig2_05.png, id=1051, 544.9158pt x 284.7438pt>
 File: img/NAR_fig2_05.png Graphic file (type png)
 
 <use img/NAR_fig2_05.png>
-Package pdftex.def Info: img/NAR_fig2_05.png used on input line 312.
+Package pdftex.def Info: img/NAR_fig2_05.png used on input line 305.
 (pdftex.def)             Requested size: 307.28987pt x 160.57205pt.
- [39
+ [38
 
  <./img/NAR_fig2_05.png>]
-<img/NAR_fig2_bis.png, id=1106, 690.9012pt x 392.1852pt>
+<img/NAR_fig2_bis.png, id=1078, 690.9012pt x 392.1852pt>
 File: img/NAR_fig2_bis.png Graphic file (type png)
 
 <use img/NAR_fig2_bis.png>
-Package pdftex.def Info: img/NAR_fig2_bis.png used on input line 318.
+Package pdftex.def Info: img/NAR_fig2_bis.png used on input line 311.
 (pdftex.def)             Requested size: 307.28987pt x 174.43509pt.
- [40
+ [39
 
  <./img/NAR_fig2_bis.png>]
-<img/NAR_fig01y03.png, id=1133, 740.0448pt x 476.982pt>
+<img/NAR_fig01y03.png, id=1105, 740.0448pt x 476.982pt>
 File: img/NAR_fig01y03.png Graphic file (type png)
 
 <use img/NAR_fig01y03.png>
-Package pdftex.def Info: img/NAR_fig01y03.png used on input line 324.
+Package pdftex.def Info: img/NAR_fig01y03.png used on input line 317.
 (pdftex.def)             Requested size: 307.28987pt x 198.06029pt.
- [41
+ [40
 
  <./img/NAR_fig01y03.png>]
-<img/Figure4_retocada_nueva01.png, id=1161, 458.1918pt x 161.403pt>
+<img/Figure4_retocada_nueva01.png, id=1132, 458.1918pt x 161.403pt>
 File: img/Figure4_retocada_nueva01.png Graphic file (type png)
 
 <use img/Figure4_retocada_nueva01.png>
-Package pdftex.def Info: img/Figure4_retocada_nueva01.png used on input line 33
-0.
+Package pdftex.def Info: img/Figure4_retocada_nueva01.png used on input line 32
+3.
 (pdftex.def)             Requested size: 307.28987pt x 108.24535pt.
- [42
+ [41
 
- <./img/Figure4_retocada_nueva01.png>] <img/miR398_solanaceae.png, id=1188, 766
+ <./img/Figure4_retocada_nueva01.png>] <img/miR398_solanaceae.png, id=1161, 766
 .7847pt x 224.7597pt>
 File: img/miR398_solanaceae.png Graphic file (type png)
 
 <use img/miR398_solanaceae.png>
-Package pdftex.def Info: img/miR398_solanaceae.png used on input line 339.
+Package pdftex.def Info: img/miR398_solanaceae.png used on input line 332.
 (pdftex.def)             Requested size: 245.83282pt x 72.05832pt.
- [43
+ [42
 
  <./img/miR398_solanaceae.png>]
-<img/Figure6_retocada.png, id=1216, 611.886pt x 295.8252pt>
+<img/Figure6_retocada.png, id=1188, 611.886pt x 295.8252pt>
 File: img/Figure6_retocada.png Graphic file (type png)
 
 <use img/Figure6_retocada.png>
-Package pdftex.def Info: img/Figure6_retocada.png used on input line 345.
+Package pdftex.def Info: img/Figure6_retocada.png used on input line 338.
 (pdftex.def)             Requested size: 307.28987pt x 148.56223pt.
- [44
+ [43
 
- <./img/Figure6_retocada.png>] [45
+ <./img/Figure6_retocada.png>] [44
 
-] [46
+] [45
 
 ]
-[47
+[46
 
-] <img/comTAR_find_targets.png, id=1322, 1146.2825pt x 767.86874pt>
+] <img/comTAR_find_targets.png, id=1295, 1146.2825pt x 767.86874pt>
 File: img/comTAR_find_targets.png Graphic file (type png)
 
 <use img/comTAR_find_targets.png>
-Package pdftex.def Info: img/comTAR_find_targets.png used on input line 366.
+Package pdftex.def Info: img/comTAR_find_targets.png used on input line 359.
 (pdftex.def)             Requested size: 307.28987pt x 205.85101pt.
- [48
+ [47
 
  <./img/comTAR_find_targets.png>]
-<img/comTAR_fig2.png, id=1348, 1619.04875pt x 914.41624pt>
+<img/comTAR_fig2.png, id=1321, 1619.04875pt x 914.41624pt>
 File: img/comTAR_fig2.png Graphic file (type png)
 
 <use img/comTAR_fig2.png>
-Package pdftex.def Info: img/comTAR_fig2.png used on input line 372.
+Package pdftex.def Info: img/comTAR_fig2.png used on input line 365.
 (pdftex.def)             Requested size: 307.28987pt x 173.54555pt.
- [49
+ [48
 
  <./img/comTAR_fig2.png>]
-<img/tabla_targets.png, id=1375, 570.4512pt x 270.2898pt>
+<img/tabla_targets.png, id=1347, 570.4512pt x 270.2898pt>
 File: img/tabla_targets.png Graphic file (type png)
 
 <use img/tabla_targets.png>
-Package pdftex.def Info: img/tabla_targets.png used on input line 384.
+Package pdftex.def Info: img/tabla_targets.png used on input line 377.
 (pdftex.def)             Requested size: 212.03075pt x 100.46346pt.
- [50
+ [49
 
  <./img/tabla_targets.png>]
 File: img/tabla_targets.png Graphic file (type png)
 
 <use img/tabla_targets.png>
-Package pdftex.def Info: img/tabla_targets.png used on input line 384.
+Package pdftex.def Info: img/tabla_targets.png used on input line 377.
 (pdftex.def)             Requested size: 212.03075pt x 100.46346pt.
- [51
+ [50
+
+] [51
 
 ] [52
 
@@ -1616,323 +1608,333 @@ Package pdftex.def Info: img/tabla_targets.png used on input line 384.
 
 ] [55
 
-] [56
-
 ]
-<img/hairpin_distribution.png, id=1555, 332.9238pt x 358.4592pt>
+<img/hairpin_distribution.png, id=1528, 332.9238pt x 358.4592pt>
 File: img/hairpin_distribution.png Graphic file (type png)
 
 <use img/hairpin_distribution.png>
-Package pdftex.def Info: img/hairpin_distribution.png used on input line 415.
+Package pdftex.def Info: img/hairpin_distribution.png used on input line 408.
 (pdftex.def)             Requested size: 153.64493pt x 165.42924pt.
- [57
+ [56
 
  <./img/hairpin_distribution.png>]
-<img/GR_fig1C.png, id=1582, 103.587pt x 178.266pt>
+<img/GR_fig1C.png, id=1555, 103.587pt x 178.266pt>
 File: img/GR_fig1C.png Graphic file (type png)
  <use img/GR_fig1C.png>
-Package pdftex.def Info: img/GR_fig1C.png used on input line 428.
+Package pdftex.def Info: img/GR_fig1C.png used on input line 421.
 (pdftex.def)             Requested size: 55.3133pt x 95.19046pt.
 
-<img/SPARE_tecnica.png, id=1583, 1168.8468pt x 480.8364pt>
+<img/SPARE_tecnica.png, id=1556, 1168.8468pt x 480.8364pt>
 File: img/SPARE_tecnica.png Graphic file (type png)
 
 <use img/SPARE_tecnica.png>
-Package pdftex.def Info: img/SPARE_tecnica.png used on input line 428.
+Package pdftex.def Info: img/SPARE_tecnica.png used on input line 421.
 (pdftex.def)             Requested size: 215.10196pt x 88.48376pt.
- [58
+ [57
 
  <./img/GR_fig1C.png> <./img/SPARE_tecnica.png>]
 File: img/GR_fig1C.png Graphic file (type png)
 <use img/GR_fig1C.png>
-Package pdftex.def Info: img/GR_fig1C.png used on input line 428.
+Package pdftex.def Info: img/GR_fig1C.png used on input line 421.
 (pdftex.def)             Requested size: 55.3133pt x 95.19046pt.
 File: img/SPARE_tecnica.png Graphic file (type png)
  <use img/SPARE_tecnica.png>
-Package pdftex.def Info: img/SPARE_tecnica.png used on input line 428.
+Package pdftex.def Info: img/SPARE_tecnica.png used on input line 421.
 (pdftex.def)             Requested size: 215.10196pt x 88.48376pt.
- [59
+ [58
 
 ]
-<img/GR_fig2A.png, id=1637, 434.5836pt x 218.7372pt>
+<img/GR_fig2A.png, id=1610, 434.5836pt x 218.7372pt>
 File: img/GR_fig2A.png Graphic file (type png)
  <use img/GR_fig2A.png>
-Package pdftex.def Info: img/GR_fig2A.png used on input line 435.
+Package pdftex.def Info: img/GR_fig2A.png used on input line 428.
 (pdftex.def)             Requested size: 307.28987pt x 154.67366pt.
 
-[60
+[59
 
- <./img/GR_fig2A.png>] <img/GR_fig4A.png, id=1664, 408.5664pt x 242.8272pt>
+ <./img/GR_fig2A.png>] <img/GR_fig4A.png, id=1637, 408.5664pt x 242.8272pt>
 File: img/GR_fig4A.png Graphic file (type png)
 
 <use img/GR_fig4A.png>
-Package pdftex.def Info: img/GR_fig4A.png used on input line 441.
+Package pdftex.def Info: img/GR_fig4A.png used on input line 434.
 (pdftex.def)             Requested size: 276.559pt x 164.36813pt.
- [61
+ [60
 
  <./img/GR_fig4A.png>]
-Overfull \hbox (4.94366pt too wide) in paragraph at lines 462--462
+Overfull \hbox (4.94366pt too wide) in paragraph at lines 455--455
+ [] 
+ []
+
+[61
+
+] <img/miR165a_SPARE.png, id=1691, 780.80653pt x 411.83005pt>
+File: img/miR165a_SPARE.png Graphic file (type png)
+
+<use img/miR165a_SPARE.png>
+Package pdftex.def Info: img/miR165a_SPARE.png used on input line 462.
+(pdftex.def)             Requested size: 338.02072pt x 178.29pt.
+
+Overfull \hbox (30.73085pt too wide) in paragraph at lines 462--462
  [] 
  []
 
 [62
 
-] <img/miR165a_SPARE.png, id=1719, 780.80653pt x 411.83005pt>
-File: img/miR165a_SPARE.png Graphic file (type png)
-
-<use img/miR165a_SPARE.png>
-Package pdftex.def Info: img/miR165a_SPARE.png used on input line 469.
-(pdftex.def)             Requested size: 307.28987pt x 162.07724pt.
- [63
-
  <./img/miR165a_SPARE.png>]
-<img/miR159b_SPARE.png, id=1746, 780.80653pt x 365.708pt>
+<img/miR159b_SPARE.png, id=1719, 780.80653pt x 365.708pt>
 File: img/miR159b_SPARE.png Graphic file (type png)
 
 <use img/miR159b_SPARE.png>
-Package pdftex.def Info: img/miR159b_SPARE.png used on input line 475.
-(pdftex.def)             Requested size: 307.28987pt x 143.92574pt.
- [64
+Package pdftex.def Info: img/miR159b_SPARE.png used on input line 468.
+(pdftex.def)             Requested size: 338.02072pt x 158.32277pt.
+
+Overfull \hbox (30.73085pt too wide) in paragraph at lines 468--468
+ [] 
+ []
+
+[63
 
  <./img/miR159b_SPARE.png>]
-<img/mecanismos_conclusionII.png, id=1772, 603.81586pt x 309.67696pt>
+<img/mecanismos_conclusionII.png, id=1745, 603.81586pt x 309.67696pt>
 File: img/mecanismos_conclusionII.png Graphic file (type png)
 
 <use img/mecanismos_conclusionII.png>
-Package pdftex.def Info: img/mecanismos_conclusionII.png used on input line 482
+Package pdftex.def Info: img/mecanismos_conclusionII.png used on input line 475
 .
 (pdftex.def)             Requested size: 307.28987pt x 157.59766pt.
- [65
+ [64
 
  <./img/mecanismos_conclusionII.png>]
-[66
+[65
 
-] [67
+] [66
 
-] <img/treePhytozome.png, id=1850, 551.05875pt x 529.37775pt>
+] <img/treePhytozome.png, id=1822, 551.05875pt x 529.37775pt>
 File: img/treePhytozome.png Graphic file (type png)
 
 <use img/treePhytozome.png>
-Package pdftex.def Info: img/treePhytozome.png used on input line 516.
+Package pdftex.def Info: img/treePhytozome.png used on input line 509.
 (pdftex.def)             Requested size: 215.10196pt x 206.64227pt.
- [68
+ [67
 
- <./img/treePhytozome.png>] [69
+ <./img/treePhytozome.png>] [68
+
+] [69
 
 ]
-<img/ortologos01.png, id=1902, 828.2142pt x 260.172pt>
-File: img/ortologos01.png Graphic file (type png)
+<img/ortologos_defensa.png, id=1900, 774.2526pt x 264.0264pt>
+File: img/ortologos_defensa.png Graphic file (type png)
 
-<use img/ortologos01.png>
-Package pdftex.def Info: img/ortologos01.png used on input line 531.
-(pdftex.def)             Requested size: 307.28987pt x 96.53207pt.
+<use img/ortologos_defensa.png>
+Package pdftex.def Info: img/ortologos_defensa.png used on input line 529.
+(pdftex.def)             Requested size: 307.28987pt x 104.78682pt.
  [70
 
- <./img/ortologos01.png>]
-<img/miR172a_tcoffee_01.png, id=1930, 732.8178pt x 419.166pt>
+ <./img/ortologos_defensa.png>] [71
+
+]
+<img/miR172a_tcoffee_01.png, id=1953, 732.8178pt x 419.166pt>
 File: img/miR172a_tcoffee_01.png Graphic file (type png)
 
 <use img/miR172a_tcoffee_01.png>
-Package pdftex.def Info: img/miR172a_tcoffee_01.png used on input line 545.
-(pdftex.def)             Requested size: 307.28987pt x 175.76709pt.
- [71
-
- <./img/miR172a_tcoffee_01.png>]
-<img/miR172a_tcoffee_02.png, id=1957, 732.8178pt x 419.166pt>
-File: img/miR172a_tcoffee_02.png Graphic file (type png)
-
-<use img/miR172a_tcoffee_02.png>
-Package pdftex.def Info: img/miR172a_tcoffee_02.png used on input line 551.
+Package pdftex.def Info: img/miR172a_tcoffee_01.png used on input line 550.
 (pdftex.def)             Requested size: 307.28987pt x 175.76709pt.
  [72
 
- <./img/miR172a_tcoffee_02.png>]
-<img/miR172a_tcoffee_03.png, id=1984, 732.8178pt x 419.166pt>
-File: img/miR172a_tcoffee_03.png Graphic file (type png)
+ <./img/miR172a_tcoffee_01.png>]
+<img/miR172a_tcoffee_02.png, id=1980, 732.8178pt x 419.166pt>
+File: img/miR172a_tcoffee_02.png Graphic file (type png)
 
-<use img/miR172a_tcoffee_03.png>
-Package pdftex.def Info: img/miR172a_tcoffee_03.png used on input line 557.
+<use img/miR172a_tcoffee_02.png>
+Package pdftex.def Info: img/miR172a_tcoffee_02.png used on input line 556.
 (pdftex.def)             Requested size: 307.28987pt x 175.76709pt.
  [73
 
+ <./img/miR172a_tcoffee_02.png>]
+<img/miR172a_tcoffee_03.png, id=2008, 732.8178pt x 419.166pt>
+File: img/miR172a_tcoffee_03.png Graphic file (type png)
+
+<use img/miR172a_tcoffee_03.png>
+Package pdftex.def Info: img/miR172a_tcoffee_03.png used on input line 562.
+(pdftex.def)             Requested size: 307.28987pt x 175.76709pt.
+ [74
+
  <./img/miR172a_tcoffee_03.png>]
-<img/miR172a_rnafold.png, id=2012, 814.84425pt x 582.4962pt>
+<img/miR172a_rnafold.png, id=2036, 814.84425pt x 582.4962pt>
 File: img/miR172a_rnafold.png Graphic file (type png)
 
 <use img/miR172a_rnafold.png>
-Package pdftex.def Info: img/miR172a_rnafold.png used on input line 566.
+Package pdftex.def Info: img/miR172a_rnafold.png used on input line 571.
 (pdftex.def)             Requested size: 245.83282pt x 175.73679pt.
- [74
+ [75
 
  <./img/miR172a_rnafold.png>]
 File: img/miR172a_rnafold.png Graphic file (type png)
 
 <use img/miR172a_rnafold.png>
-Package pdftex.def Info: img/miR172a_rnafold.png used on input line 566.
+Package pdftex.def Info: img/miR172a_rnafold.png used on input line 571.
 (pdftex.def)             Requested size: 245.83282pt x 175.73679pt.
- [75
+ [76
 
 ]
-<img/miR172a_circos01.png, id=2065, 2313.1218pt x 2082.3396pt>
+<img/miR172a_circos01.png, id=2088, 2313.1218pt x 2082.3396pt>
 File: img/miR172a_circos01.png Graphic file (type png)
 
 <use img/miR172a_circos01.png>
-Package pdftex.def Info: img/miR172a_circos01.png used on input line 572.
-(pdftex.def)             Requested size: 245.83282pt x 221.30524pt.
- [76
-
- <./img/miR172a_circos01.png>]
-<img/miR172a_circos02.png, id=2092, 2313.1218pt x 2082.3396pt>
-File: img/miR172a_circos02.png Graphic file (type png)
-
-<use img/miR172a_circos02.png>
-Package pdftex.def Info: img/miR172a_circos02.png used on input line 578.
+Package pdftex.def Info: img/miR172a_circos01.png used on input line 577.
 (pdftex.def)             Requested size: 245.83282pt x 221.30524pt.
  [77
 
- <./img/miR172a_circos02.png>]
-<img/miR172a_circos03.png, id=2119, 2313.1218pt x 2082.3396pt>
-File: img/miR172a_circos03.png Graphic file (type png)
+ <./img/miR172a_circos01.png>]
+<img/miR172a_circos02.png, id=2115, 2313.1218pt x 2082.3396pt>
+File: img/miR172a_circos02.png Graphic file (type png)
 
-<use img/miR172a_circos03.png>
-Package pdftex.def Info: img/miR172a_circos03.png used on input line 584.
+<use img/miR172a_circos02.png>
+Package pdftex.def Info: img/miR172a_circos02.png used on input line 583.
 (pdftex.def)             Requested size: 245.83282pt x 221.30524pt.
  [78
 
- <./img/miR172a_circos03.png>]
-<img/miR172a_circos04.png, id=2146, 2313.1218pt x 2082.3396pt>
-File: img/miR172a_circos04.png Graphic file (type png)
+ <./img/miR172a_circos02.png>]
+<img/miR172a_circos03.png, id=2142, 2313.1218pt x 2082.3396pt>
+File: img/miR172a_circos03.png Graphic file (type png)
 
-<use img/miR172a_circos04.png>
-Package pdftex.def Info: img/miR172a_circos04.png used on input line 590.
+<use img/miR172a_circos03.png>
+Package pdftex.def Info: img/miR172a_circos03.png used on input line 589.
 (pdftex.def)             Requested size: 245.83282pt x 221.30524pt.
  [79
 
- <./img/miR172a_circos04.png>]
-<img/miR172a_circos05.png, id=2175, 2313.1218pt x 2082.3396pt>
-File: img/miR172a_circos05.png Graphic file (type png)
+ <./img/miR172a_circos03.png>]
+<img/miR172a_circos04.png, id=2171, 2313.1218pt x 2082.3396pt>
+File: img/miR172a_circos04.png Graphic file (type png)
 
-<use img/miR172a_circos05.png>
-Package pdftex.def Info: img/miR172a_circos05.png used on input line 596.
+<use img/miR172a_circos04.png>
+Package pdftex.def Info: img/miR172a_circos04.png used on input line 595.
 (pdftex.def)             Requested size: 245.83282pt x 221.30524pt.
  [80
 
- <./img/miR172a_circos05.png>]
-<img/miR172a_circos06.png, id=2202, 2313.1218pt x 2082.3396pt>
-File: img/miR172a_circos06.png Graphic file (type png)
+ <./img/miR172a_circos04.png>]
+<img/miR172a_circos05.png, id=2198, 2313.1218pt x 2082.3396pt>
+File: img/miR172a_circos05.png Graphic file (type png)
 
-<use img/miR172a_circos06.png>
-Package pdftex.def Info: img/miR172a_circos06.png used on input line 602.
+<use img/miR172a_circos05.png>
+Package pdftex.def Info: img/miR172a_circos05.png used on input line 601.
 (pdftex.def)             Requested size: 245.83282pt x 221.30524pt.
  [81
 
+ <./img/miR172a_circos05.png>]
+<img/miR172a_circos06.png, id=2225, 2313.1218pt x 2082.3396pt>
+File: img/miR172a_circos06.png Graphic file (type png)
+
+<use img/miR172a_circos06.png>
+Package pdftex.def Info: img/miR172a_circos06.png used on input line 607.
+(pdftex.def)             Requested size: 245.83282pt x 221.30524pt.
+ [82
+
  <./img/miR172a_circos06.png>]
-<img/miR390a_circos_defensa.png, id=2229, 2708.6796pt x 2045.241pt>
+<img/miR390a_circos_defensa.png, id=2252, 2708.6796pt x 2045.241pt>
 File: img/miR390a_circos_defensa.png Graphic file (type png)
 
 <use img/miR390a_circos_defensa.png>
-Package pdftex.def Info: img/miR390a_circos_defensa.png used on input line 608.
+Package pdftex.def Info: img/miR390a_circos_defensa.png used on input line 613.
 
 (pdftex.def)             Requested size: 245.83282pt x 185.59293pt.
- [82
+ [83
 
  <./img/miR390a_circos_defensa.png>]
-<img/seqBTL_circos_defensa.png, id=2256, 4598.781pt x 3382.236pt>
+<img/seqBTL_circos_defensa.png, id=2280, 4598.781pt x 3382.236pt>
 File: img/seqBTL_circos_defensa.png Graphic file (type png)
 
 <use img/seqBTL_circos_defensa.png>
-Package pdftex.def Info: img/seqBTL_circos_defensa.png used on input line 614.
+Package pdftex.def Info: img/seqBTL_circos_defensa.png used on input line 619.
 (pdftex.def)             Requested size: 307.28987pt x 225.99449pt.
- [83
+ [84
 
  <./img/seqBTL_circos_defensa.png>]
-<img/srLTB_circos_defensa.png, id=2284, 4422.924pt x 2830.575pt>
+<img/srLTB_circos_defensa.png, id=2307, 4422.924pt x 2830.575pt>
 File: img/srLTB_circos_defensa.png Graphic file (type png)
 
 <use img/srLTB_circos_defensa.png>
-Package pdftex.def Info: img/srLTB_circos_defensa.png used on input line 620.
+Package pdftex.def Info: img/srLTB_circos_defensa.png used on input line 625.
 (pdftex.def)             Requested size: 307.28987pt x 196.6488pt.
- [84
+ [85
 
  <./img/srLTB_circos_defensa.png>]
-<img/seqLTB_circos_defensa.png, id=2311, 4709.595pt x 3269.013pt>
+<img/seqLTB_circos_defensa.png, id=2335, 4709.595pt x 3269.013pt>
 File: img/seqLTB_circos_defensa.png Graphic file (type png)
 
 <use img/seqLTB_circos_defensa.png>
-Package pdftex.def Info: img/seqLTB_circos_defensa.png used on input line 626.
+Package pdftex.def Info: img/seqLTB_circos_defensa.png used on input line 631.
 (pdftex.def)             Requested size: 307.28987pt x 213.2914pt.
- [85
+ [86
 
  <./img/seqLTB_circos_defensa.png>]
-<img/miR160a_meme.png, id=2339, 707.66785pt x 554.74452pt>
+<img/miR160a_meme.png, id=2362, 707.66785pt x 554.74452pt>
 File: img/miR160a_meme.png Graphic file (type png)
 
 <use img/miR160a_meme.png>
-Package pdftex.def Info: img/miR160a_meme.png used on input line 633.
+Package pdftex.def Info: img/miR160a_meme.png used on input line 638.
 (pdftex.def)             Requested size: 245.83282pt x 192.70755pt.
- [86
+ [87
 
  <./img/miR160a_meme.png>]
-<img/miR172_meme.png, id=2366, 1131.2664pt x 633.567pt>
+<img/miR172_meme.png, id=2390, 1131.2664pt x 633.567pt>
 File: img/miR172_meme.png Graphic file (type png)
 
 <use img/miR172_meme.png>
-Package pdftex.def Info: img/miR172_meme.png used on input line 639.
+Package pdftex.def Info: img/miR172_meme.png used on input line 644.
 (pdftex.def)             Requested size: 307.28987pt x 172.0998pt.
- [87
+ [88
 
  <./img/miR172_meme.png>]
-<img/familia_miR171_circos.png, id=2394, 4483.149pt x 2881.164pt>
+<img/familia_miR171_circos.png, id=2417, 4483.149pt x 2881.164pt>
 File: img/familia_miR171_circos.png Graphic file (type png)
 
 <use img/familia_miR171_circos.png>
-Package pdftex.def Info: img/familia_miR171_circos.png used on input line 645.
+Package pdftex.def Info: img/familia_miR171_circos.png used on input line 650.
 (pdftex.def)             Requested size: 307.28987pt x 197.48164pt.
- [88
+ [89
 
  <./img/familia_miR171_circos.png>]
-[89
+[90
 
-] <img/hsa-let-7a-1_circos_defensa.png, id=2446, 2876.346pt x 2085.7122pt>
+] <img/hsa-let-7a-1_circos_defensa.png, id=2469, 2876.346pt x 2085.7122pt>
 File: img/hsa-let-7a-1_circos_defensa.png Graphic file (type png)
 
 <use img/hsa-let-7a-1_circos_defensa.png>
 Package pdftex.def Info: img/hsa-let-7a-1_circos_defensa.png used on input line
- 691.
+ 696.
 (pdftex.def)             Requested size: 245.83282pt x 178.25386pt.
- [90
+ [91
 
  <./img/hsa-let-7a-1_circos_defensa.png>]
-<img/animals_vs_plants_circos_defensa.png, id=2473, 6593.433pt x 2327.094pt>
+<img/animals_vs_plants_circos_defensa.png, id=2498, 6593.433pt x 2327.094pt>
 File: img/animals_vs_plants_circos_defensa.png Graphic file (type png)
 
 <use img/animals_vs_plants_circos_defensa.png>
 Package pdftex.def Info: img/animals_vs_plants_circos_defensa.png used on input
- line 706.
+ line 711.
 (pdftex.def)             Requested size: 307.28987pt x 108.4431pt.
- [91
+ [92
 
- <./img/animals_vs_plants_circos_defensa.png>] [92
-
-] [93
+ <./img/animals_vs_plants_circos_defensa.png>] [93
 
 ] [94
 
 ] [95
 
+] [96
+
 ]
-<img/mecanismos_conclusionIII.png, id=2603, 608.87476pt x 309.67696pt>
+<img/mecanismos_conclusionIII.png, id=2626, 608.87476pt x 309.67696pt>
 File: img/mecanismos_conclusionIII.png Graphic file (type png)
 
 <use img/mecanismos_conclusionIII.png>
-Package pdftex.def Info: img/mecanismos_conclusionIII.png used on input line 72
-5.
+Package pdftex.def Info: img/mecanismos_conclusionIII.png used on input line 73
+0.
 (pdftex.def)             Requested size: 307.28987pt x 156.29347pt.
- [96
+ [97
 
- <./img/mecanismos_conclusionIII.png>] [97
-
-] [98
+ <./img/mecanismos_conclusionIII.png>] [98
 
 ] [99
 
@@ -1942,131 +1944,140 @@ Package pdftex.def Info: img/mecanismos_conclusionIII.png used on input line 72
 
 ] [102
 
-] [103
+]
+<img/agradecimientos01.png, id=2779, 875.1897pt x 566.5968pt>
+File: img/agradecimientos01.png Graphic file (type png)
+
+<use img/agradecimientos01.png>
+Package pdftex.def Info: img/agradecimientos01.png used on input line 751.
+(pdftex.def)             Requested size: 307.28987pt x 198.93433pt.
+ [103
+
+ <./img/agradecimientos01.png>] [104
 
 ]
-<img/extras/NAR_fig3A.png, id=2808, 252.4632pt x 187.902pt>
+<img/extras/NAR_fig3A.png, id=2833, 252.4632pt x 187.902pt>
 File: img/extras/NAR_fig3A.png Graphic file (type png)
 
 <use img/extras/NAR_fig3A.png>
-Package pdftex.def Info: img/extras/NAR_fig3A.png used on input line 758.
+Package pdftex.def Info: img/extras/NAR_fig3A.png used on input line 775.
 (pdftex.def)             Requested size: 153.64493pt x 114.35626pt.
- [104
+ [105
 
  <./img/extras/NAR_fig3A.png>]
-<img/extras/NAR_fig3B.png, id=2836, 230.7822pt x 175.3752pt>
+<img/extras/NAR_fig3B.png, id=2860, 230.7822pt x 175.3752pt>
 File: img/extras/NAR_fig3B.png Graphic file (type png)
 
 <use img/extras/NAR_fig3B.png>
-Package pdftex.def Info: img/extras/NAR_fig3B.png used on input line 764.
+Package pdftex.def Info: img/extras/NAR_fig3B.png used on input line 781.
 (pdftex.def)             Requested size: 153.64493pt x 116.75684pt.
- [105
+ [106
 
  <./img/extras/NAR_fig3B.png>]
-<img/Figure4_retocada.png, id=2863, 888.921pt x 472.6458pt>
+<img/Figure4_retocada.png, id=2887, 888.921pt x 472.6458pt>
 File: img/Figure4_retocada.png Graphic file (type png)
 
 <use img/Figure4_retocada.png>
-Package pdftex.def Info: img/Figure4_retocada.png used on input line 770.
+Package pdftex.def Info: img/Figure4_retocada.png used on input line 787.
 (pdftex.def)             Requested size: 307.28987pt x 163.38751pt.
- [106
+ [107
 
  <./img/Figure4_retocada.png>]
-<img/Figure5_retocada.png, id=2890, 460.6008pt x 404.2302pt>
+<img/Figure5_retocada.png, id=2914, 460.6008pt x 404.2302pt>
 File: img/Figure5_retocada.png Graphic file (type png)
 
 <use img/Figure5_retocada.png>
-Package pdftex.def Info: img/Figure5_retocada.png used on input line 776.
+Package pdftex.def Info: img/Figure5_retocada.png used on input line 793.
 (pdftex.def)             Requested size: 184.3758pt x 161.81256pt.
- [107
+ [108
 
  <./img/Figure5_retocada.png>]
-<img/GR_fig2C.png, id=2917, 433.62pt x 105.0324pt>
+<img/GR_fig2C.png, id=2942, 433.62pt x 105.0324pt>
 File: img/GR_fig2C.png Graphic file (type png)
  <use img/GR_fig2C.png>
-Package pdftex.def Info: img/GR_fig2C.png used on input line 782.
+Package pdftex.def Info: img/GR_fig2C.png used on input line 799.
 (pdftex.def)             Requested size: 307.28987pt x 74.43568pt.
 
-[108
+[109
 
- <./img/GR_fig2C.png>] <img/GR_fig4C.png, id=2945, 431.211pt x 109.3686pt>
+ <./img/GR_fig2C.png>] <img/GR_fig4C.png, id=2970, 431.211pt x 109.3686pt>
 File: img/GR_fig4C.png Graphic file (type png)
 
 <use img/GR_fig4C.png>
-Package pdftex.def Info: img/GR_fig4C.png used on input line 788.
+Package pdftex.def Info: img/GR_fig4C.png used on input line 805.
 (pdftex.def)             Requested size: 307.28987pt x 77.94093pt.
- [109
+ [110
 
  <./img/GR_fig4C.png>]
-<img/variabilidad_maduro.png, id=2973, 450.483pt x 512.1534pt>
+<img/variabilidad_maduro.png, id=2997, 450.483pt x 512.1534pt>
 File: img/variabilidad_maduro.png Graphic file (type png)
 
 <use img/variabilidad_maduro.png>
-Package pdftex.def Info: img/variabilidad_maduro.png used on input line 794.
+Package pdftex.def Info: img/variabilidad_maduro.png used on input line 811.
 (pdftex.def)             Requested size: 184.3758pt x 209.61694pt.
- [110
+ [111
 
  <./img/variabilidad_maduro.png>]
-<img/circos_monocots_miR396e_defensa.png, id=3000, 3013.659pt x 2013.4422pt>
+<img/circos_monocots_miR396e_defensa.png, id=3024, 3013.659pt x 2013.4422pt>
 File: img/circos_monocots_miR396e_defensa.png Graphic file (type png)
 
 <use img/circos_monocots_miR396e_defensa.png>
 Package pdftex.def Info: img/circos_monocots_miR396e_defensa.png used on input 
-line 804.
+line 821.
 (pdftex.def)             Requested size: 245.83282pt x 164.21237pt.
- [111
+ [112
 
  <./img/circos_monocots_miR396e_defensa.png>]
 File: img/circos_monocots_miR396e_defensa.png Graphic file (type png)
  <use img/circos_monocots_miR396e_defensa.png>
 Package pdftex.def Info: img/circos_monocots_miR396e_defensa.png used on input 
-line 804.
+line 821.
 (pdftex.def)             Requested size: 245.83282pt x 164.21237pt.
- [112
+ [113
 
 ]
-<img/miR164_ss_bp.png, id=3053, 1897.8102pt x 1170.774pt>
+<img/miR164_ss_bp.png, id=3077, 1897.8102pt x 1170.774pt>
 File: img/miR164_ss_bp.png Graphic file (type png)
 
 <use img/miR164_ss_bp.png>
-Package pdftex.def Info: img/miR164_ss_bp.png used on input line 811.
+Package pdftex.def Info: img/miR164_ss_bp.png used on input line 828.
 (pdftex.def)             Requested size: 215.10196pt x 132.69788pt.
- [113
+ [114
 
  <./img/miR164_ss_bp.png>]
-<img/miR164a_circos.png, id=3080, 3517.14pt x 2030.787pt>
+<img/miR164a_circos.png, id=3104, 3517.14pt x 2030.787pt>
 File: img/miR164a_circos.png Graphic file (type png)
 
 <use img/miR164a_circos.png>
-Package pdftex.def Info: img/miR164a_circos.png used on input line 820.
+Package pdftex.def Info: img/miR164a_circos.png used on input line 837.
 (pdftex.def)             Requested size: 245.83282pt x 141.9217pt.
- [114
+ [115
 
  <./img/miR164a_circos.png>]
 File: img/miR164a_circos.png Graphic file (type png)
 
 <use img/miR164a_circos.png>
-Package pdftex.def Info: img/miR164a_circos.png used on input line 820.
+Package pdftex.def Info: img/miR164a_circos.png used on input line 837.
 (pdftex.def)             Requested size: 245.83282pt x 141.9217pt.
- [115
+ [116
 
 ]
-<img/miR394b_circos_aliniamientos.png, id=3133, 3779.721pt x 2038.014pt>
+<img/miR394b_circos_aliniamientos.png, id=3158, 3779.721pt x 2038.014pt>
 File: img/miR394b_circos_aliniamientos.png Graphic file (type png)
 
 <use img/miR394b_circos_aliniamientos.png>
 Package pdftex.def Info: img/miR394b_circos_aliniamientos.png used on input lin
-e 829.
+e 846.
 (pdftex.def)             Requested size: 245.83282pt x 132.53775pt.
- [116
+ [117
 
  <./img/miR394b_circos_aliniamientos.png>]
 File: img/miR394b_circos_aliniamientos.png Graphic file (type png)
  <use img/miR394b_circos_aliniamientos.png>
 Package pdftex.def Info: img/miR394b_circos_aliniamientos.png used on input lin
-e 829.
+e 846.
 (pdftex.def)             Requested size: 245.83282pt x 132.53775pt.
- [117
+ [118
 
 ]
 \tf@nav=\write6
@@ -2078,43 +2089,42 @@ e 829.
 \tf@snm=\write8
 \openout8 = `defensa.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 832.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 832.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 849.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 849.
  (./defensa.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 832.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 832.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 849.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 849.
 Package rerunfilecheck Info: File `defensa.out' has not changed.
-(rerunfilecheck)             Checksum: B3CB90144030E99777AD1C7364D58114;382.
+(rerunfilecheck)             Checksum: A98B2BF2ABF4C4FB87B7996FB756D646;382.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 832.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 849.
  ) 
 Here is how much of TeX's memory you used:
  19425 strings out of 494966
- 349585 string characters out of 6179560
+ 349562 string characters out of 6179560
  436072 words of memory out of 5000000
- 21862 multiletter control sequences out of 15000+600000
- 12515 words of font info for 46 fonts, out of 8000000 for 9000
+ 21861 multiletter control sequences out of 15000+600000
+ 12209 words of font info for 45 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  49i,14n,62p,1040b,579s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on defensa.pdf (117 pages, 24742102 bytes).
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
+Output written on defensa.pdf (118 pages, 26577225 bytes).
 PDF statistics:
- 3269 PDF objects out of 3580 (max. 8388607)
- 2948 compressed objects within 30 object streams
- 242 named destinations out of 1000 (max. 500000)
+ 3290 PDF objects out of 3580 (max. 8388607)
+ 2969 compressed objects within 30 object streams
+ 244 named destinations out of 1000 (max. 500000)
  499 words of extra memory for PDF output out of 10000 (max. 10000000)
 

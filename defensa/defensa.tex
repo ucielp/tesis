@@ -65,9 +65,8 @@ Universidad Nacional de Rosario
 
 \begin{frame}{MiARNs en plantas}
     \begin{itemize}
-        \item Controlan una gran variedad de procesos biológicos, como el desarrollo, la diferenciación y proliferación celular, y respuesta a estrés
-        %~ \item En \textit{A. thaliana} se han identificado más de 300 miARNs.
-        \item En \textit{A. thaliana} están codificados por familias de genes de 1 a 32 miembros que dan lugar a miARNs maduros idénticos o muy similares.
+        \item Controlan una gran variedad de procesos biológicos, como el desarrollo, la diferenciación y proliferación celular, y respuesta a estrés.
+        \item Están codificados por familias de genes de 1 a 32 miembros que dan lugar a miARNs maduros idénticos o muy similares.
         \item Muchos de ellas han aparecido recientemente en la evolución y por lo tanto aparecen en un número pequeño de especies.
     \end{itemize}
 \end{frame}
@@ -79,7 +78,7 @@ Universidad Nacional de Rosario
 \end{frame}
 
 
-\begin{frame}{22 familias de miARNs que están altamente conservadas en las plantas}
+\begin{frame}{22 familias de miARNs que están altamente conservadas en Angiospermas}
 	\begin{center}
 		\includegraphics[width=1\textwidth]{img/familias_miRNAs_conservados_angiospermas.png}
 	\end{center}
@@ -91,6 +90,12 @@ Universidad Nacional de Rosario
 	\end{center}
 \end{frame}
 
+
+\begin{frame}{Biogénesis y actividad de miARNs en plantas}
+	\begin{center}
+		\includegraphics[width=0.7\textwidth]{img/biogenesis_accion_defensa01.png}
+	\end{center}
+\end{frame}
 
 \begin{frame}{Biogénesis y actividad de miARNs en plantas}
 	\begin{center}
@@ -107,18 +112,6 @@ Universidad Nacional de Rosario
 \begin{frame}{Biogénesis y actividad de miARNs en plantas}
 	\begin{center}
 		\includegraphics[width=0.7\textwidth]{img/biogenesis_accion_defensa04.png}
-	\end{center}
-\end{frame}
-
-\begin{frame}{Biogénesis y actividad de miARNs en plantas}
-	\begin{center}
-		\includegraphics[width=0.7\textwidth]{img/biogenesis_accion_defensa05.png}
-	\end{center}
-\end{frame}
-
-\begin{frame}{Biogénesis y actividad de miARNs en plantas}
-	\begin{center}
-		\includegraphics[width=0.7\textwidth]{img/biogenesis_accion_defensa06.png}
 	\end{center}
 \end{frame}
 
@@ -197,7 +190,7 @@ Universidad Nacional de Rosario
 
 \begin{frame}{Problemáticas y dificultades a la hora de identificar genes regulados por miARNs}
 	\begin{itemize}
-		\item Estrategias computacionales donde tienen en cuenta la complementariedad con sus mensajeros blanco.
+		\item Estrategias computacionales tienen en cuenta la complementariedad con sus mensajeros blanco.
         \item Uno de los mayores desafíos es predecir los genes regulados por estos ARN pequeños con una baja frecuencia de predicciones falsas.
 	\end{itemize}
 \end{frame}
@@ -351,8 +344,8 @@ Desarrollamos ComTAR, que permite realizar la búsqueda de:
 \begin{itemize}
     \item<2-> potenciales genes blancos a partir de un miARN.
     \item<2-> familias de potenciales genes blancos de un miARN.
-    \item<2-> un gen de interés para ver si es potencial gen blanco de algún miARN conservado
-    \item<2-> nuevos ARNs pequeños
+    \item<2-> un gen de interés para ver si es potencial gen blanco de algún miARN conservado.
+    \item<2-> nuevos ARNs pequeños.
 \end{itemize}
     \begin{center}
         \uncover<3->{\href{http://rnabiology.ibr-conicet.gov.ar/comtar}{\beamergotobutton{http://rnabiology.ibr-conicet.gov.ar/comtar}}}
@@ -517,17 +510,27 @@ Desarrollamos ComTAR, que permite realizar la búsqueda de:
 
 
 \begin{frame}{Dificultades para estudiar precursores de miARNs en distintas especies}
-    Anotación arbitraria en miRBASE (Base de datos de secuencias y anotación de miARNs).
-    \begin{itemize}
-        \item Longitud de precursores.
-        \item Definición de ortólogos
-    \end{itemize}
+Precursores con distintos mecanísmos de procesamiento deberían tener elementos estructurales distintos. 
+	\uncover<2->{
+		Anotación arbitraria en miRBASE.
+		\begin{itemize}
+			\item Longitud de precursores.
+			\item Definición de ortólogos
+		\end{itemize}
+	}
 \end{frame}
 
 \begin{frame}{¿Cuál es el ortólogo en otras especies?}
 	\begin{center}
-		\includegraphics[width=1\textwidth]{img/ortologos01.png}
+		\includegraphics[width=1\textwidth]{img/ortologos_defensa.png}
 	\end{center}
+\end{frame}
+
+\begin{frame}{Estrategia para caracterizar la evolución de los precursores de miARNs}
+    \begin{itemize}
+		\item Definición de ortólogos para cada miembro de cada familia conservada partiendo de los precursores de \textit{A. thaliana}.
+        \item Definición arbitraria de los precursores incluyendo 150nt fuera del par miARN/miARN*.
+    \end{itemize}
 \end{frame}
 
     %~ Comenzamos nuestro análisis con una definición arbitraria de los precursores de plantas incluyendo 150 nt fuera del par miARN/miARN*.
@@ -730,10 +733,9 @@ El loop terminal está conservado en la mayoría de los precursores de animales 
 \begin{frame}{Conclusiones generales}
 	\begin{itemize}
         \item<1-> Desarrollamos aplicaciones bioinformáticas para el estudio de interacciones miARN-gen blanco.
-        %~ \item<2-> Desarrollo de la herramienta comTAR
-        \item<2-> Encontramos determinantes mecanísticos del procesamiento de miARNs en plantas.
-        \item<3-> Desarrollamos una herramienta para el análisis de bibliotecas de SPARE incluyendo una interfaz gráfica.
-        \item<4-> Analizamos las estructuras de los precursores y su evolución.
+        \item<2-> Desarrollamos una herramienta para el análisis de bibliotecas de SPARE incluyendo una interfaz gráfica.
+        \item<3-> Analizamos las estructuras de los precursores y su evolución.
+		\item<4-> Encontramos determinantes mecanísticos del procesamiento de miARNs en plantas.
         \item<5-> Realizamos una forma de representación Visualización de información compleja por adaptación de una herramienta Circos.
     \end{itemize}
 \end{frame}
@@ -742,9 +744,22 @@ El loop terminal está conservado en la mayoría de los precursores de animales 
 
 \begin{frame}{}
 	\begin{center}
-		\Huge Muchas gracias.
+		\includegraphics[width=1\textwidth]{img/agradecimientos01.png}
 	\end{center}
 \end{frame}
+
+%~ \begin{frame}{}
+	%~ \begin{center}
+		%~ \includegraphics[width=1\textwidth]{img/agradecimientos02.png}
+	%~ \end{center}
+%~ \end{frame}
+
+
+%~ \begin{frame}{}
+	%~ \begin{center}
+		%~ \Huge Muchas gracias.
+	%~ \end{center}
+%~ \end{frame}
 
 \begin{frame}{}
 	\begin{center}
