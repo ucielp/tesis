@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,7 +42,7 @@
      showgrid="false"
      inkscape:zoom="0.15733334"
      inkscape:cx="3430.7555"
-     inkscape:cy="-72.475061"
+     inkscape:cy="435.9995"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -23076,7 +23076,10 @@
      x2="4498.9507"
      y1="3322.4653"
      x1="4428.2495"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5862"
@@ -23084,7 +23087,10 @@
      x2="4498.8018"
      y1="3394.6707"
      x1="4428.1006"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5864"
@@ -23092,7 +23098,10 @@
      x2="4498.8413"
      y1="3374.9624"
      x1="4428.1401"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5866"
@@ -23100,7 +23109,10 @@
      x2="4493.8535"
      y1="3466.6965"
      x1="4423.1519"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5868"
@@ -23108,43 +23120,64 @@
      x2="4493.8931"
      y1="3448.2417"
      x1="4423.1914"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path5870"
      d="m 4429.3924,2765.0746 c -33.1855,30.9996 -28.7905,90.5837 -0.2311,112.2953 -0.03,14.7079 -0.054,26.6746 -0.054,26.6746"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path5872"
      d="m 4506.7088,2762.2079 c 31.1035,22.7239 27.7047,91.1804 -6.8478,116.1725 -0.02,10.4187 -0.035,18.1838 -0.041,21.2709"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path5874"
      d="m 4429.1129,2901.0631 c -0.3368,0.9675 -0.4516,1.8615 -0.6002,2.7735 -11.2231,12.316 -4.5867,20.6473 0.5088,33.2518 0.01,1.0213 0.01,2.0264 0.01,3.0477 -0.035,16.9403 -0.072,35.4286 -0.1112,54.9096 0,1.0213 -0.01,2.0551 -0.01,3.0853 -10.157,14.5018 -5.1851,22.8277 -0.079,38.1287 0,1.075 0,2.1644 -0.01,3.2501 -0.1431,69.82 -0.3009,146.4 -0.4283,208.5874 0,1.0571 -0.01,2.0927 -0.01,3.1408 -10.1534,12.5579 -10.1695,20.8749 -0.07,34.4774 0,0.8958 0,1.7916 -0.01,2.6695 -0.02,10.3363 -0.035,17.3686 -0.07,34.0653 -10.1247,9.9402 -7.7472,21.6972 0.3044,34.8213 -0.015,7.9819 -0.4783,49.4468 -0.4945,57.4018 -9.6123,17.4796 -9.6123,17.8541 -0.065,31.4297 -0.056,27.5919 -0.091,44.6863 -0.091,44.6863"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path5876"
      d="m 4499.8198,2898.5548 c 0.1866,1.6304 0.3711,3.2912 0.8653,4.9808 11.4238,9.426 1.4191,21.0505 -0.9442,33.216 0,1.0033 0,1.9977 -0.01,3.0046 -0.035,17.193 -0.073,35.9895 -0.1148,55.8109 0,1.0391 0,2.0891 0.063,3.1354 1.1108,1.3438 2.0102,2.6696 2.7215,3.9758 1.2811,1.0033 2.2916,2.0801 3.0853,3.268 3.0799,10.1391 1.3957,20.1152 -4.8196,27.4485 -0.8941,1.9046 -1.342,4.4613 -1.0876,7.2903 -0.051,1.8025 -0.063,3.5171 -0.066,5.2174 -0.1416,69.8433 -0.2973,145.6547 -0.4227,206.2941 0,0.9854 0,1.9691 -0.01,2.9473 10.6247,13.7709 10.6121,20.4234 0.7937,32.992 -0.2169,0.9317 -0.3797,1.8508 -0.8671,2.8685 -0.02,8.8258 -0.035,17.0066 -0.065,31.5354 6.9337,14.1901 8.5014,16.9976 0.3114,31.899 -0.01,3.5529 -0.4282,24.8327 -0.4353,28.4089 -0.01,3.5726 0.5464,24.9975 0.5393,28.5576 10.7232,24.0981 7.1362,22.1398 -0.6701,34.6905 -0.052,25.931 -0.09,44.2778 -0.09,44.2778"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path5878"
      d="m 4497.4583,3648.0146 c -0.065,30.7524 24.7718,55.6854 55.517,55.7499"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path5880"
      d="m 4427.581,3648.1938 c -0.063,30.4496 -24.7521,55.0404 -55.2053,54.9795"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5882"
@@ -23152,7 +23185,10 @@
      x2="4498.8413"
      y1="3374.9624"
      x1="4428.1401"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5884"
@@ -23160,7 +23196,10 @@
      x2="4498.9902"
      y1="3303.4746"
      x1="4428.2871"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5886"
@@ -23168,13 +23207,19 @@
      x2="4499.0278"
      y1="3284.8403"
      x1="4428.3267"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path5888"
      d="m 4428.3944,3251.1574 c 3.1802,-0.6629 8.1701,-0.6629 11.0475,0.01 0.8278,0 1.6896,0 2.5854,0.01 20.5452,0 57.0686,0.179 57.0686,0.179"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5890"
@@ -23182,7 +23227,10 @@
      x2="4499.1372"
      y1="3231.6282"
      x1="4428.4355"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5892"
@@ -23190,7 +23238,10 @@
      x2="4499.1768"
      y1="3212.0996"
      x1="4428.4751"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5894"
@@ -23198,7 +23249,10 @@
      x2="4499.2178"
      y1="3192.3892"
      x1="4428.5161"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5896"
@@ -23206,7 +23260,10 @@
      x2="4499.2573"
      y1="3172.6814"
      x1="4428.5557"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5898"
@@ -23214,7 +23271,10 @@
      x2="4499.2969"
      y1="3153.3318"
      x1="4428.5952"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5900"
@@ -23222,7 +23282,10 @@
      x2="4499.3379"
      y1="3133.6238"
      x1="4428.6362"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5902"
@@ -23230,7 +23293,10 @@
      x2="4499.3774"
      y1="3114.093"
      x1="4428.6758"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5904"
@@ -23238,7 +23304,10 @@
      x2="4499.4185"
      y1="3094.3848"
      x1="4428.7168"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5906"
@@ -23246,7 +23315,10 @@
      x2="4499.458"
      y1="3074.6768"
      x1="4428.7563"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5908"
@@ -23254,13 +23326,19 @@
      x2="4499.4976"
      y1="3055.3274"
      x1="4428.7959"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path5910"
      d="m 4428.8369,3035.6183 c 0,0 29.2188,0 50.0883,0.179 1.7379,0 3.4221,0 5.0364,0 1.5372,0 3.2985,0.179 5.1457,0.179 1.8436,0.01 3.7715,0 5.6384,-0.179 1.8652,0 3.673,-0.1972 5.2783,-0.3762"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5912"
@@ -23268,7 +23346,10 @@
      x2="4499.6191"
      y1="2996.3801"
      x1="4428.918"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5914"
@@ -23276,7 +23357,10 @@
      x2="4499.6587"
      y1="2977.0312"
      x1="4428.957"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5916"
@@ -23284,7 +23368,10 @@
      x2="4499.6997"
      y1="2957.3208"
      x1="4428.9985"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5918"
@@ -23292,7 +23379,10 @@
      x2="4499.7393"
      y1="2937.613"
      x1="4429.0376"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5920"
@@ -23300,7 +23390,10 @@
      x2="4499.8198"
      y1="2898.7349"
      x1="4429.1182"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5922"
@@ -23308,13 +23401,19 @@
      x2="4501.0596"
      y1="2879.0244"
      x1="4430.3579"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <polyline
      transform="matrix(17.916803,0,0,17.916803,3882.9102,-15596.961)"
      style="fill:none;stroke:#8e2800;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      id="polyline5924"
      points="34.9268,1039.01 34.4617,1039.96 34.4832,1052.08 35.0148,1053.05 34.5028,1054.11 "
-     class="fil3 str48" />
+     class="fil3 str48"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5926"
@@ -23322,13 +23421,19 @@
      x2="4493.8931"
      y1="3448.2417"
      x1="4423.1914"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <polyline
      transform="matrix(17.916803,0,0,17.916803,3882.9102,-15596.961)"
      style="color:#000000;fill:none;stroke:#468966;stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="polyline5928"
      points="30.376,1037.41 29.8748,1038.77 30.4898,1039.95 30.4185,1052.07 30.0045,1052.57 "
-     class="fil3 str49" />
+     class="fil3 str49"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5930"
@@ -23336,7 +23441,10 @@
      x2="4497.7646"
      y1="3485.3306"
      x1="4427.063"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5932"
@@ -23344,7 +23452,10 @@
      x2="4492.6587"
      y1="3634.7563"
      x1="4421.957"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5934"
@@ -23352,13 +23463,19 @@
      x2="4492.6997"
      y1="3614.6895"
      x1="4421.998"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path5936"
      d="m 4497.8561,3441.2547 c -0.015,8.8258 -0.061,29.5161 -0.09,44.0449 36.3872,14.5341 37.0018,92.4991 -0.222,107.8108 -0.052,25.9309 -0.1128,55.6764 -0.1128,55.6764"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5938"
@@ -23366,7 +23483,10 @@
      x2="4492.7393"
      y1="3595.5173"
      x1="4422.0376"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5940"
@@ -23374,7 +23494,10 @@
      x2="4498.7607"
      y1="3414.7373"
      x1="4428.0596"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5942"
@@ -23382,13 +23505,19 @@
      x2="4501.8047"
      y1="3354.3577"
      x1="4431.1035"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path5944"
      d="m 4427.9447,3442.5089 c -0.02,8.8258 -0.061,29.5161 -0.092,44.0449 -36.4464,14.3871 -37.3816,92.3467 -0.2205,107.8107 -0.054,25.931 -0.1147,55.6765 -0.1147,55.6765"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line5946"
@@ -23396,49 +23525,55 @@
      x2="4492.6172"
      y1="3655.5403"
      x1="4421.9155"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path5948"
      d="m 4422.1576,2773.1371 c 32.2001,-29.1005 67.0715,-21.14 89.7076,-6.0505"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none"
      inkscape:connector-curvature="0"
      id="path6372"
      d="m 4580.1726,3297.2035 c 11.7803,4.361 22.8171,7.9014 34.9916,7.8781"
      class="fil3"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/procesamiento/spanish/mecanismos.png"
-     inkscape:export-xdpi="250"
-     inkscape:export-ydpi="250" />
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#72706f;stroke-width:6.2708807"
      inkscape:connector-curvature="0"
      id="path6374"
      d="m 4577.2359,3282.1535 c 32.9025,-12.9843 77.2735,-95.8049 51.3246,-201.3759 -9.2468,-37.6163 -30.6306,-48.2696 -44.7669,-73.8479 -4.4829,-8.1108 -2.6338,28.8499 -2.6338,38.1146"
      class="fil3 str52"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/procesamiento/spanish/mecanismos.png"
-     inkscape:export-xdpi="250"
-     inkscape:export-ydpi="250" />
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none"
      inkscape:connector-curvature="0"
      id="path6376"
      d="m 4580.1726,3005.8763 c 11.7803,3.9955 22.8171,7.2401 34.9916,7.2187"
      class="fil3"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/procesamiento/spanish/mecanismos.png"
-     inkscape:export-xdpi="250"
-     inkscape:export-ydpi="250" />
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:#1f1a17;fill-rule:nonzero;stroke:#72706f;stroke-width:4.47920036"
      inkscape:connector-curvature="0"
      id="path6378"
      d="m 4581.0756,3007.4888 c 6.149,2.0838 12.1171,3.9721 18.2213,5.316 5.6511,1.2542 11.3648,2.0013 17.3544,1.9922 l 0,-3.1048 c -5.7031,0.019 -11.1604,-0.7167 -16.5714,-1.9083 -5.8641,-1.2898 -11.7408,-3.1533 -17.8343,-5.219 l -1.17,2.9239 z"
      class="fil11 str53"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/procesamiento/spanish/mecanismos.png"
-     inkscape:export-xdpi="250"
-     inkscape:export-ydpi="250" />
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <text
      xml:space="preserve"
      style="font-size:44.3745575px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -23446,9 +23581,9 @@
      y="3342.4336"
      id="text272393-7-8-7-5"
      sodipodi:linespacing="125%"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/procesamiento/spanish/mecanismos.png"
-     inkscape:export-xdpi="250"
-     inkscape:export-ydpi="250"><tspan
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30"><tspan
        sodipodi:role="line"
        x="4153.2866"
        y="3342.4336"
@@ -23466,9 +23601,9 @@
      y="3118.3879"
      id="text272393-7-8-7-8-3"
      sodipodi:linespacing="125%"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/procesamiento/spanish/mecanismos.png"
-     inkscape:export-xdpi="250"
-     inkscape:export-ydpi="250"><tspan
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30"><tspan
        sodipodi:role="line"
        x="4157.4673"
        y="3118.3879"
@@ -23483,36 +23618,54 @@
      style="fill:none;stroke:#468966;stroke-width:19.72202492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      d="m 4365.2034,2999.2661 0,265.0147"
      id="path4325-6-8"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#000000;stroke-width:4.93050623;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.9305061, 9.86101222;stroke-dashoffset:0"
      d="m 4365.2034,3266.2021 0,183.133"
      id="path4331-9-7"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none"
      inkscape:connector-curvature="0"
      id="path6218"
      d="m 1507.1879,2782.9933 c -0.1423,15.4658 -0.3869,38.7773 -0.3996,44.5339 -9.6123,17.4797 -9.6142,17.8542 -0.072,31.4315 -0.053,27.59 -0.089,44.6844 -0.089,44.6844"
-     class="fil27" />
+     class="fil27"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:#1f1a17;fill-rule:nonzero"
      inkscape:connector-curvature="0"
      id="path6220"
      d="m 1511.9716,2782.9933 -0.1423,15.8831 c -0.1252,12.3591 -0.2402,24.7253 -0.2453,28.6508 l -0.5805,2.3095 c -4.42,8.0357 -6.6346,12.128 -6.6382,14.8692 0,2.4797 2.0945,5.5273 6.2907,11.49 l 0.8654,1.2363 0,1.5229 -0.089,44.6844 -9.5782,0 0.089,-43.1489 c -4.775,-6.8192 -7.1598,-10.6211 -7.1506,-15.7883 0.019,-5.0061 2.415,-9.6786 7.2185,-18.4347 0.021,-4.9521 0.1423,-16.2147 0.2474,-27.4718 l 0.1422,-15.8062 9.5784,0 z"
-     class="fil11" />
+     class="fil11"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none"
      inkscape:connector-curvature="0"
      id="path6222"
      d="m 1577.762,2782.9933 c -0.1081,5.7028 -0.1935,11.1208 -0.1971,12.7692 -0.019,3.5709 0.5446,24.9975 0.5374,28.5576 10.7252,24.0963 7.1381,22.138 -0.6681,34.6906 -0.053,25.9292 -0.089,44.276 -0.089,44.276"
-     class="fil27" />
+     class="fil27"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:#1f1a17;fill-rule:nonzero"
      inkscape:connector-curvature="0"
      id="path6224"
      d="m 1582.5459,2782.9933 c -0.1081,5.735 -0.1952,11.2015 -0.1988,12.7692 -0,1.7021 0.1442,7.9462 0.2705,14.1883 0.1081,5.368 0.2276,10.7394 0.258,13.3302 9.7359,22.0234 8.2255,24.218 1.7432,33.5707 -0.7112,1.0212 -1.5085,2.1804 -2.4043,3.5691 l -0.089,42.8659 -9.5784,0 0.089,-44.276 0,-1.3975 0.7114,-1.1468 c 1.1896,-1.9152 2.3578,-3.5958 3.3772,-5.0705 4.0672,-5.8713 4.9774,-7.1863 -3.0081,-25.1319 l -0.4141,-1.9528 c 0,-1.6841 -0.1252,-7.939 -0.2686,-14.1811 -0.1423,-6.2496 -0.2739,-12.5095 -0.269,-14.3766 0,-1.72 0.1081,-7.1022 0.1973,-12.7692 l 9.5782,0 z"
-     class="fil11" />
+     class="fil11"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6226"
@@ -23520,7 +23673,10 @@
      x2="1575.9348"
      y1="3322.4668"
      x1="1505.2172"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6228"
@@ -23528,7 +23684,10 @@
      x2="1575.7732"
      y1="3394.6719"
      x1="1505.0736"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6230"
@@ -23536,7 +23695,10 @@
      x2="1575.8269"
      y1="3375.1433"
      x1="1505.1097"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6232"
@@ -23544,7 +23706,10 @@
      x2="1570.8282"
      y1="3466.698"
      x1="1500.1287"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6234"
@@ -23552,31 +23717,46 @@
      x2="1570.8639"
      y1="3448.2432"
      x1="1500.1644"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path6236"
      d="m 1506.0948,2901.0649 c -0.3367,0.9675 -0.4515,1.8634 -0.6002,2.7753 -11.223,12.316 -4.5866,20.6457 0.5089,33.25 0,1.0214 0,2.0283 0.019,3.0478 -0.036,16.942 -0.072,35.4304 -0.1081,54.9114 0,1.0212 0,2.0531 0,3.0853 -10.1589,14.5 -5.187,22.8259 -0.072,38.1268 0,1.0751 0,2.1662 0,3.2519 -0.1423,69.8182 -0.2994,146.4 -0.4282,208.5874 0,1.0572 0,2.0928 0,3.139 -10.1534,12.5598 -10.1714,20.875 -0.072,34.4792 0,0.8958 0,1.7738 0,2.6678 -0.021,10.3361 -0.036,17.3702 -0.072,34.067 -10.1229,9.9402 -7.7454,21.6973 0.3065,34.8196 -0.019,7.9819 -0.4784,49.4467 -0.4945,57.4018 -9.6124,17.4795 -9.6143,17.8542 -0.072,31.4313 -0.053,27.5902 -0.089,44.6846 -0.089,44.6846"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path6238"
      d="m 1576.7945,2898.5567 c 0.1859,1.6303 0.3713,3.2894 0.8637,4.9808 11.4237,9.4261 1.4207,21.0487 -0.9424,33.216 0,1.0033 0,1.9977 0,3.0045 -0.036,17.1913 -0.072,35.9896 -0.1081,55.8091 0,1.0392 0,2.0892 0.072,3.1354 1.1108,1.3438 2.0102,2.6696 2.7197,3.9757 1.2828,1.0034 2.2916,2.082 3.087,3.2682 3.0781,10.139 1.394,20.115 -4.8195,27.4502 -0.896,1.9027 -1.342,4.4613 -1.0876,7.2886 -0.053,1.8025 -0.072,3.517 -0.072,5.2192 -0.1423,69.8433 -0.2993,145.6528 -0.4226,206.294 0,0.9855 0,1.9674 0,2.9457 10.6265,13.7708 10.6123,20.425 0.7956,32.9936 -0.2186,0.9317 -0.3819,1.8508 -0.8691,2.8668 -0.021,8.8257 -0.036,17.0066 -0.072,31.5353 6.9337,14.19 8.5031,16.9976 0.3118,31.8991 0,3.5529 -0.4281,24.8344 -0.4353,28.4089 0,3.5727 0.5482,24.9974 0.541,28.5575 10.7233,24.0982 7.1345,22.1399 -0.67,34.6923 -0.053,25.9292 -0.089,44.276 -0.089,44.276"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path6240"
      d="m 1574.4295,3648.0165 c -0.072,30.7506 24.7718,55.6854 55.5189,55.748"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path6242"
      d="m 1504.554,3648.1955 c -0.072,30.4515 -24.7521,55.0424 -55.2052,54.9796"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6244"
@@ -23584,7 +23764,10 @@
      x2="1575.8269"
      y1="3375.1433"
      x1="1505.1097"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6246"
@@ -23592,7 +23775,10 @@
      x2="1575.9705"
      y1="3303.4763"
      x1="1505.2705"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6248"
@@ -23600,13 +23786,19 @@
      x2="1576.0066"
      y1="3284.8423"
      x1="1505.3066"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path6250"
      d="m 1505.3783,3251.1594 c 3.1801,-0.663 8.1701,-0.663 11.0475,0 0.8259,0 1.6894,0 2.5852,0 20.5436,0 57.0687,0.1783 57.0687,0.1783"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6252"
@@ -23614,7 +23806,10 @@
      x2="1576.1136"
      y1="3231.6299"
      x1="1505.4141"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6254"
@@ -23622,7 +23817,10 @@
      x2="1576.1497"
      y1="3212.1008"
      x1="1505.4502"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6256"
@@ -23630,7 +23828,10 @@
      x2="1576.1854"
      y1="3192.3933"
      x1="1505.4858"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6258"
@@ -23638,7 +23839,10 @@
      x2="1576.2391"
      y1="3172.6826"
      x1="1505.5396"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6260"
@@ -23646,7 +23850,10 @@
      x2="1576.2753"
      y1="3153.3335"
      x1="1505.5752"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6262"
@@ -23654,7 +23861,10 @@
      x2="1576.3109"
      y1="3133.625"
      x1="1505.6108"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6264"
@@ -23662,7 +23872,10 @@
      x2="1576.347"
      y1="3114.0945"
      x1="1505.647"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6266"
@@ -23670,7 +23883,10 @@
      x2="1576.4003"
      y1="3094.3867"
      x1="1505.7007"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6268"
@@ -23678,7 +23894,10 @@
      x2="1576.4364"
      y1="3074.6782"
      x1="1505.7368"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6270"
@@ -23686,13 +23905,19 @@
      x2="1576.472"
      y1="3055.3291"
      x1="1505.7725"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path6272"
      d="m 1505.8082,3035.7994 c 0,0 29.2188,0 50.0882,0.1783 1.7362,0 3.4203,0 5.0347,0 1.5372,0 3.3002,0.1783 5.1457,0.1783 1.8454,0 3.7733,0 5.6383,-0.1783 1.867,0 3.6749,-0.1971 5.2801,-0.3762"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6274"
@@ -23700,7 +23925,10 @@
      x2="1576.5975"
      y1="2996.3818"
      x1="1505.8981"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6276"
@@ -23708,7 +23936,10 @@
      x2="1576.6332"
      y1="2977.0327"
      x1="1505.9337"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6278"
@@ -23716,7 +23947,10 @@
      x2="1576.6693"
      y1="2957.3225"
      x1="1505.9694"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6280"
@@ -23724,7 +23958,10 @@
      x2="1576.7231"
      y1="2937.7937"
      x1="1506.0231"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6282"
@@ -23732,7 +23969,10 @@
      x2="1576.7949"
      y1="2902.8564"
      x1="1506.0948"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6284"
@@ -23740,13 +23980,19 @@
      x2="1578.0305"
      y1="2883.1489"
      x1="1507.3309"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <polyline
      transform="matrix(17.916802,0,0,17.916802,-748.05375,-15594.45)"
      style="color:#000000;fill:none;stroke:#8e2800;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="polyline6286"
      points="130.253,1038.87 129.788,1039.82 129.809,1051.94 130.341,1052.91 129.829,1053.97 "
-     class="fil3 str48" />
+     class="fil3 str48"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6288"
@@ -23754,13 +24000,19 @@
      x2="1570.8639"
      y1="3448.2432"
      x1="1500.1644"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <polyline
      transform="matrix(17.916802,0,0,17.916802,-748.05375,-15594.45)"
      style="color:#000000;fill:none;stroke:#468966;stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="polyline6290"
      points="125.702,1037.27 125.201,1038.63 125.816,1039.81 125.745,1051.93 125.331,1052.43 "
-     class="fil3 str49" />
+     class="fil3 str49"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6292"
@@ -23768,7 +24020,10 @@
      x2="1574.7344"
      y1="3485.3323"
      x1="1504.0343"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6294"
@@ -23776,7 +24031,10 @@
      x2="1569.6283"
      y1="3634.7576"
      x1="1498.9282"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6296"
@@ -23784,13 +24042,19 @@
      x2="1569.6815"
      y1="3614.6907"
      x1="1498.9819"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path6298"
      d="m 1574.8417,3441.2566 c -0.021,8.8257 -0.053,29.5161 -0.089,44.0447 36.3872,14.5359 37.0036,92.4992 -0.2205,107.8109 -0.053,25.9309 -0.1081,55.6765 -0.1081,55.6765"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6300"
@@ -23798,7 +24062,10 @@
      x2="1569.7177"
      y1="3595.521"
      x1="1499.0177"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6302"
@@ -23806,7 +24073,10 @@
      x2="1575.7375"
      y1="3414.7388"
      x1="1505.0375"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6304"
@@ -23814,13 +24084,19 @@
      x2="1578.7836"
      y1="3354.3594"
      x1="1508.0836"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path6306"
      d="m 1504.9124,3442.5107 c -0.021,8.8259 -0.053,29.5144 -0.089,44.0431 -36.4464,14.3871 -37.3816,92.3486 -0.2219,107.8125 -0.053,25.9309 -0.1082,55.6765 -0.1082,55.6765"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6308"
@@ -23828,25 +24104,37 @@
      x2="1569.5922"
      y1="3655.542"
      x1="1498.8921"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path6310"
      d="m 1507.4208,2710.9677 c -28.4036,19.0635 -24.6411,55.7051 -0.1988,69.0584 -0.021,9.0444 -0.053,16.403 -0.053,16.403"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path6312"
      d="m 1582.5637,2710.0719 c 22.8763,13.9752 20.3768,56.0741 -5.0364,71.4432 -0.019,6.407 -0.021,11.1837 -0.036,13.0811"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      inkscape:connector-curvature="0"
      id="path6314"
      d="m 1501.9382,2714.7302 c 30.5536,-24.8524 67.2275,-14.337 87.9535,0.5555"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6316"
@@ -23854,7 +24142,10 @@
      x2="1576.5975"
      y1="2862.7231"
      x1="1505.8981"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6318"
@@ -23862,7 +24153,10 @@
      x2="1576.6332"
      y1="2783.1716"
      x1="1505.9337"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6320"
@@ -23870,7 +24164,10 @@
      x2="1576.6693"
      y1="2823.6638"
      x1="1505.9694"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <line
      style="fill:none;stroke:#1f1a17;stroke-width:8.95840073"
      id="line6322"
@@ -23878,25 +24175,37 @@
      x2="1576.7231"
      y1="2803.9558"
      x1="1506.0231"
-     class="fil27 str47" />
+     class="fil27 str47"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      class="fil3 str52"
      d="m 1655.9332,3015.9104 c 32.9024,12.6744 77.2733,93.5078 51.3226,196.5491 -9.245,36.7133 -30.6287,47.1122 -44.7651,72.0757 -4.4846,7.9175 -2.6338,-28.158 -2.6338,-37.2006"
      id="path6402"
      inkscape:connector-curvature="0"
-     style="fill:none;stroke:#72706f;stroke-width:6.2708807" />
+     style="fill:none;stroke:#72706f;stroke-width:6.2708807"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      class="fil3"
      d="m 1658.8715,3285.7374 c 11.7803,-3.8987 22.8153,-7.0646 34.9915,-7.0448"
      id="path6404"
      inkscape:connector-curvature="0"
-     style="fill:none" />
+     style="fill:none"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <path
      class="fil11 str53"
      d="m 1659.7853,3284.1249 c 6.149,-2.0335 12.1171,-3.8772 18.2214,-5.1887 5.6509,-1.2183 11.3646,-1.9529 17.3542,-1.9439 l 0,3.0297 c -5.7047,-0.01 -11.1622,0.6987 -16.5713,1.8615 -5.8641,1.2542 -11.7426,3.0799 -17.8344,5.0938 l -1.1699,-2.8524 z"
      id="path6406"
      inkscape:connector-curvature="0"
-     style="fill:#1f1a17;fill-rule:nonzero;stroke:#72706f;stroke-width:4.47920036" />
+     style="fill:#1f1a17;fill-rule:nonzero;stroke:#72706f;stroke-width:4.47920036"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <text
      xml:space="preserve"
      style="font-size:44.3745575px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -23904,9 +24213,9 @@
      y="3115.1936"
      id="text272393-7-8-7-8-3-5"
      sodipodi:linespacing="125%"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/procesamiento/spanish/mecanismos.png"
-     inkscape:export-xdpi="250"
-     inkscape:export-ydpi="250"><tspan
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30"><tspan
        sodipodi:role="line"
        x="1243.0792"
        y="3115.1936"
@@ -23921,7 +24230,10 @@
      style="fill:none;stroke:#468966;stroke-width:19.72202492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      d="m 1450.8155,2996.0715 0,265.0146"
      id="path4325-6-8-7"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <text
      xml:space="preserve"
      style="font-size:44.3745575px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -23929,9 +24241,9 @@
      y="2865.6987"
      id="text272393-7-8-7-5-2"
      sodipodi:linespacing="125%"
-     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/procesamiento/spanish/mecanismos.png"
-     inkscape:export-xdpi="250"
-     inkscape:export-ydpi="250"><tspan
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30"><tspan
        sodipodi:role="line"
        x="1232.207"
        y="2865.6987"
@@ -23946,14 +24258,20 @@
      style="fill:none;stroke:#000000;stroke-width:4.93050623;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.93050603, 9.86101207;stroke-dashoffset:0"
      d="m 1444.1242,2786.567 0,183.1331"
      id="path4331-9-7-3"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30" />
   <text
      xml:space="preserve"
      style="font-size:100px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
      x="4660.4868"
      y="3324.1526"
      id="text7872"
-     sodipodi:linespacing="125%"><tspan
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30"><tspan
        sodipodi:role="line"
        id="tspan7874"
        x="4660.4868"
@@ -23964,7 +24282,10 @@
      x="4662.7085"
      y="3049.2583"
      id="text7876"
-     sodipodi:linespacing="125%"><tspan
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30"><tspan
        sodipodi:role="line"
        id="tspan7878"
        x="4662.7085"
@@ -23975,7 +24296,10 @@
      x="1769.4944"
      y="3036.5464"
      id="text7880"
-     sodipodi:linespacing="125%"><tspan
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30"><tspan
        sodipodi:role="line"
        id="tspan7882"
        x="1769.4944"
@@ -23986,7 +24310,10 @@
      x="1771.7161"
      y="3309.8516"
      id="text7884"
-     sodipodi:linespacing="125%"><tspan
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/mixtos/familia_miR171_circos.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30"><tspan
        sodipodi:role="line"
        id="tspan7886"
        x="1771.7161"
