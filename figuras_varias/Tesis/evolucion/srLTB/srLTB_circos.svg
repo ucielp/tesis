@@ -11,7 +11,7 @@
    height="3000px"
    version="1.1"
    id="svg2"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="srLTB_circos.svg">
   <metadata
      id="metadata4681">
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
+     inkscape:window-width="1366"
+     inkscape:window-height="750"
      id="namedview4677"
      showgrid="false"
-     inkscape:zoom="0.19433334"
-     inkscape:cx="2628.621"
-     inkscape:cy="906.01152"
+     inkscape:zoom="0.13741442"
+     inkscape:cx="2739.7573"
+     inkscape:cy="1110.8393"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="18"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <path
@@ -23787,4 +23787,68 @@
        x="3375.6433"
        y="2868.7822"
        style="font-size:100px">2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="233.16241"
+     y="677.78168"
+     id="text6889"
+     sodipodi:linespacing="125%"
+     transform="matrix(0.75663624,-0.65383607,0.65383607,0.75663624,0,0)"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/srLTB/srLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30"><tspan
+       sodipodi:role="line"
+       id="tspan6891"
+       x="233.16241"
+       y="677.78168"
+       style="font-size:64px">15 nt</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="1871.6492"
+     y="-780.46985"
+     id="text6893"
+     sodipodi:linespacing="125%"
+     transform="matrix(0.88929543,0.45733318,-0.45733318,0.88929543,0,0)"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/srLTB/srLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30"><tspan
+       sodipodi:role="line"
+       id="tspan6895"
+       x="1871.6492"
+       y="-780.46985"
+       style="font-size:64px">18nt</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="3111.5823"
+     y="2029.158"
+     id="text6897"
+     sodipodi:linespacing="125%"
+     transform="matrix(0.87172985,-0.4899868,0.4899868,0.87172985,0,0)"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/srLTB/srLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30"><tspan
+       sodipodi:role="line"
+       id="tspan6899"
+       x="3111.5823"
+       y="2029.158"
+       style="font-size:64px">17nt</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="4569.4946"
+     y="-1345.2035"
+     id="text6901"
+     sodipodi:linespacing="125%"
+     transform="matrix(0.95148032,0.30770962,-0.30770962,0.95148032,0,0)"
+     inkscape:export-filename="/home/uciel/lab/Doctorado/Tesis/figuras_varias/Tesis/evolucion/srLTB/srLTB_circos_defensa.png"
+     inkscape:export-xdpi="30"
+     inkscape:export-ydpi="30"><tspan
+       sodipodi:role="line"
+       id="tspan6903"
+       x="4569.4946"
+       y="-1345.2035"
+       style="font-size:64px">18nt</tspan></text>
 </svg>
